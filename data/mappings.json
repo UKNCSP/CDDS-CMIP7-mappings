@@ -2453,7 +2453,7 @@
       "CMIP6 Differences": "Not present",
       "Cell measures": "area: areacella",
       "Cell methods": "area: time: mean",
-      "Comment": "max 2m daily NOAA heat index",
+      "Comment": "max 2m daily NOAA heat index The perceived air temperature when relative humidity is taken into consideration (which makes it feel hotter than the actual air temperature). The heat index is only defined when the ambient air temperature is at or above 299.817 K. NOAA heat index = -42.379 + 2.04901523(T) + 10.14333127(R) - 0.22475541(T)(R) - 6.83783e-3 sqr(T)\u00a0- 5.481717e-2 sqr(R)\u00a0+ 1.22874e-3 sqr(T) (R) + 8.5282e-4 (T) sqr(R)\u00a0- 1.99e-6 sqr(T) sqr(R) where T is 2 m temperature (degrees F), R is relative humidity (%)",
       "Dimensions": "longitude latitude time height2m",
       "Frequency": "day",
       "Long name": "max 2m daily NOAA heat index",
