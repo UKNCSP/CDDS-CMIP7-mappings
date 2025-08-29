@@ -9,6 +9,8 @@ import sys
 import os
 from collections import defaultdict
 
+REMOVED_LABELS = ['removed v1.2.2']
+
 
 def tables_to_dict(text):
     """
@@ -81,7 +83,9 @@ if __name__ == '__main__':
         result['title'] = entry['title']
         result['issue_number'] = entry['number']
         result['labels'] = [i['name'] for i in entry['labels']]
-        results.append(result)
+        # only append to results if not marked as removed
+        if not any([i in result['labels'] for i in REMOVED_LABELS]):
+            results.append(result)
 
     with open(os.path.join(output_dir, 'mappings.json'), 'w') as fh:
         json.dump(results, fh, indent=2, sort_keys=True)
