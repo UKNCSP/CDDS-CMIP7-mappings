@@ -1,0 +1,24 @@
+gh label create subhr -d "Sub-hourly frequency"
+gh label create 1hr -d "Hourly frequency"
+gh label create 3hr -d "3 hourly frequency"
+gh label create 6hr -d "6 hourly frequency"
+gh label create day -d "Daily frequency"
+gh label create mon -d "Monthly frequency"
+gh label create yr -d "Anuual frequency"
+gh label create dec -d "Decadal frequency"
+gh label create fx -d "Fixed frequency"
+
+gh label create aerosol -d "Aerosol realm"
+gh label create atmos -d "Atmos realm"
+gh label create atmosChem -d "Atmos Chemistry realm"
+gh label create land -d "Land realm"
+gh label create landIce -d "Land-ice realm"
+gh label create ocean -d "Ocean realm"
+gh label create ocnBgchem -d "Ocean biogeochemistry realm"
+gh label create seaIce -d "Sea-ice realm"
+
+gh label create CMIP6 -d "CMIP6 variable"
+
+gh label create UKESM1 -d "UKESM1 model"
+gh label create HadGEM3-GC31 -d "HadGEM3-GC31 model"
+
