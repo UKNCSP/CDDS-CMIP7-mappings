@@ -17878,7 +17878,7 @@
       "day",
       "ocnBgchem"
     ],
-    "title": "Variable ocnBgchem.day.phydiaz_tavg-u-hxy-sea (Oday.phydiazos)"
+    "title": "Variable ocnBgchem.day.phydiaz_tavg-d0m-hxy-sea (Oday.phydiazos)"
   },
   {
     "Data Request information": {
@@ -50770,34 +50770,6 @@
       "HadGEM3-GC31"
     ],
     "title": "Variable atmos.mon.clwc_tavg-l-hxy-u (CFmon.clwc)"
-  },
-  {
-    "Data Request information": {
-      "Branded variable name": "cltmodis_tavg-u-hxy-u",
-      "CF standard name": "modis_cloud_area_fraction",
-      "CMIP6 Differences": "Not present",
-      "Cell measures": "area: areacella",
-      "Cell methods": "area: time: mean",
-      "Comment": "Percentage of total cloud cover as seen by the MODIS instrument simulator.",
-      "Dimensions": "longitude latitude time",
-      "Frequency": "mon",
-      "Long name": "MODIS Total Cloud Area Fraction",
-      "Modeling realm": "atmos",
-      "Positive": "",
-      "Processing notes": "Latitude x longitude x time. NOTE: Both of the entries in _Coordinates_ and _Extra Dimensions_ should be ignored as they were only included for form submission.",
-      "Units": "%",
-      "Variable status": "New"
-    },
-    "Mapping information": {
-      "Model units": ""
-    },
-    "STASH entries": [],
-    "issue_number": 530,
-    "labels": [
-      "mon",
-      "atmos"
-    ],
-    "title": "Variable atmos.mon.cltmodis_tavg-u-hxy-u (CFmon.cltmodis)"
   },
   {
     "Data Request information": {
