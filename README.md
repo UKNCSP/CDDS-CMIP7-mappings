@@ -125,3 +125,19 @@ capability to produce the data correctly.
 Please note that the HadGEM3-GC5 configuration uses both a new configuration of NEMO (conservative 
 potential temperature and absolute salinity as prognostics) and the SI3 model rather than CICE for the sea-ice component.
 Mappings will need to take this into account when adding information for HadGEM3-GC5 in particular.
+
+### Bulk review of diagnostics
+
+When reviewing many diagnostics there the github interface may become tiresome to work with.  The following process allows 
+the same work to be done within a bash session. It relies on the github command line client `gh`.
+
+1. clone this repository: `git clone git@github.com:UKNCSP/CDDS-CMIP7-mappings.git`
+2. cd into the checked out directory and authenticate with your github account: `gh auth login`
+3. dump the issues to a directory (one file per issue): `python scripts/dump_issues.py issue_review`
+4. either
+   a. Edit the text files using the editor of your choice or
+   b. Use the simple_update script to copy the expression and STASH information from UKESM1 to UKESM1-3 and HadGEM3-GC31 to HadGEM3-GC5: `python scripts/simple_update.py <issue file>`
+5. Construct the list of github commands to push changes back to github; `python scripts/update_issue.py <issue file> <issue file> ...`
+6. If that list of commands looks correct (no python errors from the last command) run each gh command or pipe the output into bash; `python scripts/update_issue.py <issue file> <issue file> ... | bash`
+
+Test the above process out with a single issue to get familiar with the process before attempting many commands.
