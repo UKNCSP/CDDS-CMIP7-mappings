@@ -135,8 +135,8 @@ the same work to be done within a bash session. It relies on the github command 
 2. cd into the checked out directory and authenticate with your github account: `gh auth login`
 3. dump the issues to a directory (one file per issue): `python scripts/dump_issues.py issue_review`
 4. either
-   a. Edit the text files using the editor of your choice or
-   b. Use the simple_update script to copy the expression and STASH information from UKESM1 to UKESM1-3 and HadGEM3-GC31 to HadGEM3-GC5: `python scripts/simple_update.py <issue file>`
+    - Edit the text files using the editor of your choice or
+    - Use the simple_update script to copy the expression and STASH information from UKESM1 to UKESM1-3 and HadGEM3-GC31 to HadGEM3-GC5: `python scripts/simple_update.py <issue file>`
 5. Construct the list of github commands to push changes back to github; `python scripts/update_issue.py <issue file> <issue file> ...`
 6. If that list of commands looks correct (no python errors from the last command) run each gh command or pipe the output into bash; `python scripts/update_issue.py <issue file> <issue file> ... | bash`
 
