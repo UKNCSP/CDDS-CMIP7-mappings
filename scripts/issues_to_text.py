@@ -147,6 +147,7 @@ if __name__ == '__main__':
         'time_profile',
         'domain_profile',
         'usage_profile',
+        'approved'
     ]
     stash_csv = [stash_headings]
     for entry in results:
@@ -164,7 +165,8 @@ if __name__ == '__main__':
                 line += i['stash_number'].split(',')
             else:
                 line += [0, i['stash_number']]
-            line += [i[j] for j in stash_headings[-3:]]
+            line += [i[j] for j in stash_headings[-3:-1]]
+            line += ['approved' in entry['labels']]
             stash_csv.append(line)
      
     with open(os.path.join(output_dir, 'stash.csv'), 'w') as fh:
