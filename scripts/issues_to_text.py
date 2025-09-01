@@ -165,7 +165,7 @@ if __name__ == '__main__':
                 line += i['stash_number'].split(',')
             else:
                 line += [0, i['stash_number']]
-            line += [i[j] for j in stash_headings[-3:-1]]
+            line += [i[j] for j in stash_headings[-4:-1]]
             line += ['approved' in entry['labels']]
             stash_csv.append(line)
      
