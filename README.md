@@ -1,5 +1,7 @@
 # UKNCSP CDDS-CMIP7-mappings 
 
+**IMPORTANT: All issues were updated for version 1.2.2 of the Data Request at the end of August. All CSV files will have changed as part of this update**
+
 This repository is being used for collection and review of model configuration for the UKESM1-3 and HadGEM3-GC5 based models being prepared for CMIP7 submission in 2026.
 
 ## Mapping and STASH information 
