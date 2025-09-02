@@ -135,7 +135,7 @@ the same work to be done within a bash session. It relies on the github command 
 
 1. clone this repository: `git clone git@github.com:UKNCSP/CDDS-CMIP7-mappings.git`
 2. cd into the checked out directory and authenticate with your github account: `gh auth login`
-3. dump the issues to a directory (one file per issue): `python scripts/dump_issues.py issue_review`
+3. dump the issues to a directory (one file per issue): `python scripts/dump_issues.py issue_review labels.json` (issue_review must not exist, labels.json contains information on labels attached to issues)
 4. either
     - Edit the text files using the editor of your choice or
     - Use the simple_update script to copy the expression and STASH information from UKESM1 to UKESM1-3 and HadGEM3-GC31 to HadGEM3-GC5: `python scripts/simple_update.py <issue file>`
