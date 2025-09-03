@@ -49,11 +49,11 @@ Once your review is complete please add the "approved" label to the issue and ad
 
 If you have questions please add the "question" label to the issue. We will attempt to answer questions and remove that label when we think we've answered them.
 
-Note that comments are ignored by the automated process so can be used for queries or discussions
+Note that comments are ignored by the automated process so can be used for queries or discussions.
 
 ### Mappings update
 
-To update the mapping add an extra row to the mappings table for the corresponding model (`UKESM1-3` or `HadGEM3-GC5`. For example to extend the mapping for Amon.tas ([#67](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/67))
+To update the mapping add an extra row to the mappings table for the corresponding model (`UKESM1-3` or `HadGEM3-GC5`. For example, to extend the mapping for Amon.tas ([#67](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/67))
 change the mappings table from 
 
 | Field | Value | Notes |
@@ -83,7 +83,7 @@ Additional information on processors should be added as a comment to the issue.
 
 ### STASH entries update
 
-To support configuration of the UM atmoshpere output each issue also tabulates the corresponding entries
+To support configuration of the UM atmosphere output each issue also tabulates the corresponding entries
 to be included in the STASH setup. If possible this table should be extended in a similar fashion to the
 one for the mappings, but with a row for each STASH code required.
 
@@ -137,7 +137,7 @@ the same work to be done within a bash session. It relies on the github command 
 2. cd into the checked out directory and authenticate with your github account: `gh auth login`
 3. dump the issues to a directory (one file per issue): `python scripts/dump_issues.py issue_review labels.json` (issue_review must not exist, labels.json contains information on labels attached to issues)
 4. either
-    - Edit the text files using the editor of your choice or
+    - Edit the text files using the editor of your choice, or
     - Use the simple_update script to copy the expression and STASH information from UKESM1 to UKESM1-3 and HadGEM3-GC31 to HadGEM3-GC5: `python scripts/simple_update.py <issue file>`
 5. Construct the list of github commands to push changes back to github; `python scripts/update_issue.py <issue file> <issue file> ...`
 6. If that list of commands looks correct (no python errors from the last command) run each gh command or pipe the output into bash; `python scripts/update_issue.py <issue file> <issue file> ... | bash`
