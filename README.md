@@ -135,11 +135,15 @@ the same work to be done within a bash session. It relies on the github command 
 
 1. clone this repository: `git clone git@github.com:UKNCSP/CDDS-CMIP7-mappings.git`
 2. cd into the checked out directory and authenticate with your github account: `gh auth login`
-3. dump the issues to a directory (one file per issue): `python scripts/dump_issues.py issue_review labels.json` (issue_review must not exist, labels.json contains information on labels attached to issues)
+3. dump the issues to a directory (one file per issue) using one of the following commands (in each case the "issue_review" directory must not exist)
+    - `python scripts/dump_all_issues.py issue_review labels.json`  (retrieves all issues and writes a json file with information about issues that cannot go in the issue files)
+    - `python scripts/dump_all_issues.py issue_review labels.txt`  (retrieves all issues and writes a text file with a table showing the same information as the json file)
+    - `python scripts/dump_issue_subset.py issue_review atmosChem,-approved` (retrieves all issues that include the label `atmosChem`, but do not have the `approved` labels)
 4. either
     - Edit the text files using the editor of your choice, or
     - Use the simple_update script to copy the expression and STASH information from UKESM1 to UKESM1-3 and HadGEM3-GC31 to HadGEM3-GC5: `python scripts/simple_update.py <issue file>`
 5. Construct the list of github commands to push changes back to github; `python scripts/update_issue.py <issue file> <issue file> ...`
 6. If that list of commands looks correct (no python errors from the last command) run each gh command or pipe the output into bash; `python scripts/update_issue.py <issue file> <issue file> ... | bash`
+7. If you are ready to approve an issue run `python scripts/approve_issue.py <issue file> <issue file> ...` and then pipe the output to bash as above if you this command succeeds.
 
-Test the above process out with a single issue to get familiar with the process before attempting many commands.
+Please test the above process out with a single issue to get familiar with the process before attempting many commands.  If you are not comfortable with this approach please contact Matt Mizielinski and Jeremy Walton to discuss using the csv files under the data directory.
