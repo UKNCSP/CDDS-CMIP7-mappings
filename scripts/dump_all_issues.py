@@ -12,8 +12,9 @@ import re
 if __name__ == '__main__':
 
     if len(sys.argv) != 3:
-        print('Usage:\t{} [directory that does noy exist] [labels json file]'.format(sys.argv[0]))
+        print('Usage:\t{} [directory that does not exist] [labels file]'.format(sys.argv[0]))
         print('Purpose:\tExtract content of all issues and write to file')
+        print('Note: if labels_file ends in json a JSON file will be written otherwise a text file will be output')
 
     output_dir = sys.argv[1]
     labels_file = sys.argv[2]
@@ -35,12 +36,24 @@ if __name__ == '__main__':
             continue
         filename = match.groups()[0]
         labels[filename] =  {
+            'title': i['title'],
             'labels': [j['name'] for j in i['labels']],
             'number': i['number'],
             'state': i['state']
         }
         with open(os.path.join(output_dir, filename), 'w') as fh:
+            # fh.write('# Title: "{}"\n'.format(i['title']))
+            # fh.write('# Labels:{}\n'.format(", ".join([j['name'] for j in i['labels']])))
+            # fh.write('# Issue Number: {}\n'.format(i['number']))
+            # fh.write('# Issue State: {}\n'.format(i['state']))
+            # fh.write('\n')
             fh.write(i['body'])
     
     with open(labels_file, 'w') as fh:
-        json.dump(labels, fh, indent=2)
+        if labels_file.endswith('json'):
+            json.dump(labels, fh, indent=2)
+        else:
+            for filename, entry in labels.items():
+                line = [filename] + [str(entry[i]) for i in ['title', 'number', 'state']] + [','.join(entry['labels'])]
+                fh.write("\t".join(line) + "\n")
+        
