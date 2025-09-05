@@ -64417,7 +64417,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.zg.tavg-p39-hy-air.mon.GLB (AERmonZ.zg)"
   },
@@ -64593,22 +64594,6 @@
         "usage_profile": "UP4"
       },
       {
-        "STASH": "m01s30i202",
-        "domain_profile": "PLEV39Z",
-        "model": "UKESM1",
-        "stash_number": "30,202",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP4"
-      },
-      {
-        "STASH": "m01s30i202",
-        "domain_profile": "PLEV39Z",
-        "model": "UKESM1-3",
-        "stash_number": "30,202",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP4"
-      },
-      {
         "STASH": "m01s30i201",
         "domain_profile": "PLEV39Z",
         "model": "HadGEM3-GC31",
@@ -64637,22 +64622,6 @@
         "domain_profile": "PLEV39Z",
         "model": "HadGEM3-GC5",
         "stash_number": "30,301",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP4"
-      },
-      {
-        "STASH": "m01s30i202",
-        "domain_profile": "PLEV39Z",
-        "model": "HadGEM3-GC31",
-        "stash_number": "30,202",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP4"
-      },
-      {
-        "STASH": "m01s30i202",
-        "domain_profile": "PLEV39Z",
-        "model": "HadGEM3-GC5",
-        "stash_number": "30,202",
         "time_profile": "TMONMN",
         "usage_profile": "UP4"
       }
@@ -64663,7 +64632,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.ua.tavg-p39-hy-air.mon.GLB (AERmonZ.ua)"
   },
@@ -64764,7 +64734,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.ta.tavg-p39-hy-air.mon.GLB (AERmonZ.ta)"
   },
@@ -80376,7 +80347,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.zg.tavg-500hPa-hxy-air.day.GLB (AERday.zg500)"
   },
@@ -80477,7 +80449,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.zg.tavg-1000hPa-hxy-air.day.GLB (AERday.zg1000)"
   },
@@ -88029,7 +88002,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.tas.tmin-h2m-hxy-u.mon.GLB (Amon.tasmin)"
   },
@@ -88098,7 +88072,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.tas.tmax-h2m-hxy-u.mon.GLB (Amon.tasmax)"
   },
@@ -91605,7 +91580,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.co2mass.tavg-u-hm-u.mon.GLB (Amon.co2mass)"
   },
