@@ -25,7 +25,7 @@ if __name__ == '__main__':
 
     os.mkdir(output_dir)
 
-    results = subprocess.check_output('gh issue list -L 3000 --json title,body,state,number,labels'.split())
+    results = subprocess.check_output('gh issue list -L 3000 --json title,body,state,number,labels,assignees'.split())
 
     data = json.loads(results)
     labels = {}
@@ -39,7 +39,8 @@ if __name__ == '__main__':
             'title': i['title'],
             'labels': [j['name'] for j in i['labels']],
             'number': i['number'],
-            'state': i['state']
+            'state': i['state'],
+            'assignees': [j['login'] for j in i['assignees']],
         }
         with open(os.path.join(output_dir, filename), 'w') as fh:
             # fh.write('# Title: "{}"\n'.format(i['title']))
@@ -48,12 +49,12 @@ if __name__ == '__main__':
             # fh.write('# Issue State: {}\n'.format(i['state']))
             # fh.write('\n')
             fh.write(i['body'])
-    
+    #breakpoint()
     with open(labels_file, 'w') as fh:
         if labels_file.endswith('json'):
             json.dump(labels, fh, indent=2)
         else:
             for filename, entry in labels.items():
-                line = [filename] + [str(entry[i]) for i in ['title', 'number', 'state']] + [','.join(entry['labels'])]
+                line = [filename] + [str(entry[i]) for i in ['title', 'number', 'state']] + [','.join(entry['labels'])]+ [','.join(entry['assignees'])]
                 fh.write("\t".join(line) + "\n")
         

@@ -40,7 +40,7 @@ if __name__ == '__main__':
         filename = match.groups()[0]
         issue_labels = set([j['name'] for j in i['labels']])
 
-        if issue_labels.intersection(include_labels):
+        if issue_labels.intersection(include_labels) == include_labels:
             if issue_labels.intersection(exclude_labels):
                 continue
         
