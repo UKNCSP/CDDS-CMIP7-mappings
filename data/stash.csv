@@ -774,11 +774,13 @@ HadGEM3-GC31,reffclws_tavg-al-hxy-scl,mon,m01s02i312,2,312,TMONMN,DALLTH,UP5,Fal
 HadGEM3-GC31,reffclws_tavg-al-hxy-scl,mon,m01s02i397,2,397,TMONMN,DALLTH,UP5,False
 HadGEM3-GC31,reffclws_tavg-al-hxy-scl,mon,m01s00i033,0,33,TMONMN,DIAG,UP5,False
 UKESM1,reffclwc_tavg-al-hxy-ccl,mon,m01s02i312,2,312,TMONMN,DALLTH,UP5,False
+UKESM1-3,reffclwc_tavg-al-hxy-ccl,mon,m01s02i312,2,312,TMONMN,DALLTH,UP5,False
 UKESM1,reffclwc_tavg-al-hxy-ccl,mon,m01s02i397,2,397,TMONMN,DALLTH,UP5,False
-UKESM1,reffclwc_tavg-al-hxy-ccl,mon,m01s00i033,0,33,TMONMN,DIAG,UP5,False
+UKESM1-3,reffclwc_tavg-al-hxy-ccl,mon,m01s02i397,2,397,TMONMN,DALLTH,UP5,False
 HadGEM3-GC31,reffclwc_tavg-al-hxy-ccl,mon,m01s02i312,2,312,TMONMN,DALLTH,UP5,False
+HadGEM3-GC5,reffclwc_tavg-al-hxy-ccl,mon,m01s02i312,2,312,TMONMN,DALLTH,UP5,False
 HadGEM3-GC31,reffclwc_tavg-al-hxy-ccl,mon,m01s02i397,2,397,TMONMN,DALLTH,UP5,False
-HadGEM3-GC31,reffclwc_tavg-al-hxy-ccl,mon,m01s00i033,0,33,TMONMN,DIAG,UP5,False
+HadGEM3-GC5,reffclwc_tavg-al-hxy-ccl,mon,m01s02i397,2,397,TMONMN,DALLTH,UP5,False
 UKESM1,reffclis_tavg-al-hxy-scl,mon,m01s02i313,2,313,TMONMN,DALLTH,UP5,False
 UKESM1-3,reffclis_tavg-al-hxy-scl,mon,m01s02i313,2,313,TMONMN,DALLTH,UP5,False
 UKESM1,reffclis_tavg-al-hxy-scl,mon,m01s02i398,2,398,TMONMN,DALLTH,UP5,False
