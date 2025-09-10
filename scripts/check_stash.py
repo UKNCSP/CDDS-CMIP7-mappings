@@ -20,7 +20,8 @@ if __name__ == '__main__':
         with open(filename, 'r') as fh:
             lines = fh.readlines()
         
-        allFound = True
+        foundSTASH = True
+        foundExpression = True
         # The models to check.
         model = ["UKESM1", "HadGEM3-GC31"]
         for m in model:
@@ -41,7 +42,7 @@ if __name__ == '__main__':
             # Check that we found some STASH codes.
             if len(stashCodes) == 0:
                 print(f"*** Warning: No STASH codes found in Expression lines for {m} in {filename}")
-                allFound = False
+                foundExpression = False
                 continue
             else:
                 print(stashCodes)
@@ -63,7 +64,7 @@ if __name__ == '__main__':
                 # Warning if not found.
                 if not foundCode:
                     print(f"*** Warning: {code} NOT FOUND in STASH entries for {m} in {filename}")
-                    allFound = False
+                    foundSTASH = False
             
             # Now check that all STASH codes in the STASH entries are in the Expression lines.        
             for line in lines:      
@@ -80,10 +81,20 @@ if __name__ == '__main__':
                         # Warning if this code is not in the Expression lines.
                         if code not in stashCodes:
                             print(f"### Warning: {code} NOT FOUND in Expression lines for {m} in {filename}")
-                            allFound = False
+                            foundExpression = False
                         continue
 
-        if allFound:
-            print(f"+++ All STASH codes match for {filename} +++")
+        if foundSTASH:
+            print(f"Codes in Expression all found in STASH list ", end='')
+            if foundExpression:
+                print(f"and codes in STASH list all found in Expression for {filename} +++")
+            else:
+                print(f"but codes in STASH list NOT all found in Expression for {filename} ---")
+        else:
+            print(f"Codes in Expression NOT all found in STASH list ", end='')
+            if foundExpression:
+                print(f"but codes in STASH list all found in Expression for {filename} ***")
+            else:
+                print(f"and STASH codes NOT all found in Expression for {filename} ===")
         print("\n")
 
