@@ -20,6 +20,11 @@ if __name__ == '__main__':
         with open(filename, 'r') as fh:
             lines = fh.readlines()
         
+        # Does this variable use alev levels?
+        for line in lines:
+            if "Dimensions" in line:
+                usesAlev = "alev" in line
+
         foundSTASH = True
         foundExpression = True
         # The models to check.
@@ -28,7 +33,7 @@ if __name__ == '__main__':
             print(f"Processing {m} in {filename}")
             
             # First, get the STASH codes from the Expression lines. 
-            stashCodes = []
+            expressionStashCodes = []
             for line in lines:
                 
                 # Check that it's an Expression line for this model.
@@ -37,18 +42,18 @@ if __name__ == '__main__':
                     # The Expression line may contain multiple STASH codes.  Get them all.
                     for match in re.finditer('m0', line):
                         istart = match.start()
-                        stashCodes.append(line[istart:istart+length])
+                        expressionStashCodes.append(line[istart:istart+length])
 
             # Check that we found some STASH codes.
-            if len(stashCodes) == 0:
+            if len(expressionStashCodes) == 0:
                 print(f"*** Warning: No STASH codes found in Expression lines for {m} in {filename}")
                 foundExpression = False
                 continue
             else:
-                print(stashCodes)
+                print(expressionStashCodes)
             
-            # For each STASH code, check if it is in the STASH entries.
-            for code in stashCodes:
+            # For each STASH code in the Expression lines, check if it is in the STASH entries.
+            for code in expressionStashCodes:
                 foundCode = False
                 for line in lines:
                     
@@ -78,10 +83,16 @@ if __name__ == '__main__':
                         istart = match.start()
                         code = line[istart:istart+length]
                         
-                        # Warning if this code is not in the Expression lines.
-                        if code not in stashCodes:
-                            print(f"### Warning: {code} NOT FOUND in Expression lines for {m} in {filename}")
-                            foundExpression = False
+                        if code == 'm01s00i033' and usesAlev:
+                            # This is a special case.  This STASH code is used for both
+                            # 3D and 2D versions of the variable, so may not appear in
+                            # the Expression lines if the variable uses alev levels.
+                            print(f"{code} special case for alev variable {m} in {filename}")
+                        else:
+                            if code not in expressionStashCodes:
+                                # Warning if this code is not in the Expression lines.
+                                print(f"### Warning: {code} NOT FOUND in Expression lines for {m} in {filename}")
+                                foundExpression = False
                         continue
 
         if foundSTASH:
@@ -93,8 +104,8 @@ if __name__ == '__main__':
         else:
             print(f"Codes in Expression NOT all found in STASH list ", end='')
             if foundExpression:
-                print(f"but codes in STASH list all found in Expression for {filename} ***")
+                print(f"but codes in STASH list all found in Expression for {filename} ===")
             else:
-                print(f"and STASH codes NOT all found in Expression for {filename} ===")
+                print(f"and STASH codes NOT all found in Expression for {filename} XXX")
         print("\n")
 
