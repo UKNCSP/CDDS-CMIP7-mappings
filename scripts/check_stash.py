@@ -20,6 +20,7 @@ if __name__ == '__main__':
         with open(filename, 'r') as fh:
             lines = fh.readlines()
         
+        allFound = True
         # The models to check.
         model = ["UKESM1", "HadGEM3-GC31"]
         for m in model:
@@ -36,8 +37,14 @@ if __name__ == '__main__':
                     for match in re.finditer('m0', line):
                         istart = match.start()
                         stashCodes.append(line[istart:istart+length])
-                        
-            print(stashCodes)
+
+            # Check that we found some STASH codes.
+            if len(stashCodes) == 0:
+                print(f"*** Warning: No STASH codes found in Expression lines for {m} in {filename}")
+                allFound = False
+                continue
+            else:
+                print(stashCodes)
             
             # For each STASH code, check if it is in the STASH entries.
             for code in stashCodes:
@@ -49,13 +56,14 @@ if __name__ == '__main__':
                         
                         # Each entry line only contains one STASH code.
                         if code in line:
-                            print("{} found in STASH entries".format(code))
+                            print(f"{code} found in STASH entries for {m}")
                             foundCode = True
                             break
                         
                 # Warning if not found.
                 if not foundCode:
-                    print("*** Warning: {} NOT FOUND in STASH entries for {} in {}".format(code, m, filename))          
+                    print(f"*** Warning: {code} NOT FOUND in STASH entries for {m} in {filename}")
+                    allFound = False
             
             # Now check that all STASH codes in the STASH entries are in the Expression lines.        
             for line in lines:      
@@ -71,6 +79,11 @@ if __name__ == '__main__':
                         
                         # Warning if this code is not in the Expression lines.
                         if code not in stashCodes:
-                            print("### Warning: {} NOT FOUND in Expression lines for {} in {}".format(code, m, filename))
+                            print(f"### Warning: {code} NOT FOUND in Expression lines for {m} in {filename}")
+                            allFound = False
                         continue
+
+        if allFound:
+            print(f"+++ All STASH codes match for {filename} +++")
+        print("\n")
 
