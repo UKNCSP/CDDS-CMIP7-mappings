@@ -42023,7 +42023,9 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "zonal_apply_heaviside(m01s30i314[blev=PLEV39, lbproc=192], m01s30i301[blev=PLEV39, lbproc=192])",
+      "Expression HadGEM3-GC5": "zonal_apply_heaviside(m01s30i314[blev=PLEV39, lbproc=192], m01s30i301[blev=PLEV39, lbproc=192])",
       "Expression UKESM1": "zonal_apply_heaviside(m01s30i314[blev=PLEV39, lbproc=192], m01s30i301[blev=PLEV39, lbproc=192])",
+      "Expression UKESM1-3": "zonal_apply_heaviside(m01s30i314[blev=PLEV39, lbproc=192], m01s30i301[blev=PLEV39, lbproc=192])",
       "Model units": "m s-2"
     },
     "STASH entries": [
@@ -42031,6 +42033,14 @@
         "STASH": "m01s30i301",
         "domain_profile": "PLEV39Z",
         "model": "UKESM1",
+        "stash_number": "30,301",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s30i301",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
         "stash_number": "30,301",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
@@ -42044,6 +42054,14 @@
         "usage_profile": "UP6"
       },
       {
+        "STASH": "m01s30i314",
+        "domain_profile": "PLEV39",
+        "model": "UKESM1-3",
+        "stash_number": "30,314",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
         "STASH": "m01s30i301",
         "domain_profile": "PLEV39Z",
         "model": "HadGEM3-GC31",
@@ -42052,9 +42070,25 @@
         "usage_profile": "UP6"
       },
       {
+        "STASH": "m01s30i301",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "30,301",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
         "STASH": "m01s30i314",
         "domain_profile": "PLEV39",
         "model": "HadGEM3-GC31",
+        "stash_number": "30,314",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s30i314",
+        "domain_profile": "PLEV39",
+        "model": "HadGEM3-GC5",
         "stash_number": "30,314",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
