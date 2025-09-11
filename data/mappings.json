@@ -8940,7 +8940,7 @@
     },
     "Mapping information": {
       "Expression UKESM1-3": "iage * SECONDS_IN_DAY * DAYS_IN_YEAR",
-      "Model units": ""
+      "Model units": "s"
     },
     "STASH entries": [],
     "issue_number": 1653,
