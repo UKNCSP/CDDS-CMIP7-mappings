@@ -8939,6 +8939,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "iage * SECONDS_IN_DAY * DAYS_IN_YEAR",
       "Model units": ""
     },
     "STASH entries": [],
