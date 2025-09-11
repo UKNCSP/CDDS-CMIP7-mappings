@@ -87618,14 +87618,6 @@
         "usage_profile": "UP5"
       },
       {
-        "STASH": "m01s30i201",
-        "domain_profile": "PLEV19",
-        "model": "UKESM1",
-        "stash_number": "30,201",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP5"
-      },
-      {
         "STASH": "m01s30i202",
         "domain_profile": "PLEV19",
         "model": "UKESM1-3",
@@ -87638,14 +87630,6 @@
         "domain_profile": "PLEV19",
         "model": "UKESM1-3",
         "stash_number": "30,301",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP5"
-      },
-      {
-        "STASH": "m01s30i201",
-        "domain_profile": "PLEV19",
-        "model": "UKESM1-3",
-        "stash_number": "30,201",
         "time_profile": "TMONMN",
         "usage_profile": "UP5"
       },
@@ -87666,14 +87650,6 @@
         "usage_profile": "UP5"
       },
       {
-        "STASH": "m01s30i201",
-        "domain_profile": "PLEV19",
-        "model": "HadGEM3-GC31",
-        "stash_number": "30,201",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP5"
-      },
-      {
         "STASH": "m01s30i202",
         "domain_profile": "PLEV19",
         "model": "HadGEM3-GC5",
@@ -87686,14 +87662,6 @@
         "domain_profile": "PLEV19",
         "model": "HadGEM3-GC5",
         "stash_number": "30,301",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP5"
-      },
-      {
-        "STASH": "m01s30i201",
-        "domain_profile": "PLEV19",
-        "model": "HadGEM3-GC5",
-        "stash_number": "30,201",
         "time_profile": "TMONMN",
         "usage_profile": "UP5"
       }
@@ -87822,14 +87790,6 @@
         "usage_profile": "UP5"
       },
       {
-        "STASH": "m01s30i202",
-        "domain_profile": "PLEV19",
-        "model": "UKESM1",
-        "stash_number": "30,202",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP5"
-      },
-      {
         "STASH": "m01s30i201",
         "domain_profile": "PLEV19",
         "model": "UKESM1-3",
@@ -87842,14 +87802,6 @@
         "domain_profile": "PLEV19",
         "model": "UKESM1-3",
         "stash_number": "30,301",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP5"
-      },
-      {
-        "STASH": "m01s30i202",
-        "domain_profile": "PLEV19",
-        "model": "UKESM1-3",
-        "stash_number": "30,202",
         "time_profile": "TMONMN",
         "usage_profile": "UP5"
       },
@@ -87870,14 +87822,6 @@
         "usage_profile": "UP5"
       },
       {
-        "STASH": "m01s30i202",
-        "domain_profile": "PLEV19",
-        "model": "HadGEM3-GC31",
-        "stash_number": "30,202",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP5"
-      },
-      {
         "STASH": "m01s30i201",
         "domain_profile": "PLEV19",
         "model": "HadGEM3-GC5",
@@ -87890,14 +87834,6 @@
         "domain_profile": "PLEV19",
         "model": "HadGEM3-GC5",
         "stash_number": "30,301",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP5"
-      },
-      {
-        "STASH": "m01s30i202",
-        "domain_profile": "PLEV19",
-        "model": "HadGEM3-GC5",
-        "stash_number": "30,202",
         "time_profile": "TMONMN",
         "usage_profile": "UP5"
       }
@@ -90699,14 +90635,6 @@
     },
     "STASH entries": [
       {
-        "STASH": "m01s00i407",
-        "domain_profile": "DALLRHP1",
-        "model": "UKESM1",
-        "stash_number": "407",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP5"
-      },
-      {
         "STASH": "m01s05i250",
         "domain_profile": "DALLTH",
         "model": "UKESM1",
@@ -90727,14 +90655,6 @@
         "domain_profile": "DIAG",
         "model": "UKESM1",
         "stash_number": "33",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP5"
-      },
-      {
-        "STASH": "m01s00i407",
-        "domain_profile": "DALLRHP1",
-        "model": "UKESM1-3",
-        "stash_number": "407",
         "time_profile": "TMONMN",
         "usage_profile": "UP5"
       },
@@ -90763,14 +90683,6 @@
         "usage_profile": "UP5"
       },
       {
-        "STASH": "m01s00i407",
-        "domain_profile": "DALLRHP1",
-        "model": "HadGEM3-GC31",
-        "stash_number": "407",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP5"
-      },
-      {
         "STASH": "m01s05i250",
         "domain_profile": "DALLTH",
         "model": "HadGEM3-GC31",
@@ -90791,14 +90703,6 @@
         "domain_profile": "DIAG",
         "model": "HadGEM3-GC31",
         "stash_number": "33",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP5"
-      },
-      {
-        "STASH": "m01s00i407",
-        "domain_profile": "DALLRHP1",
-        "model": "HadGEM3-GC5",
-        "stash_number": "407",
         "time_profile": "TMONMN",
         "usage_profile": "UP5"
       },
