@@ -42116,7 +42116,9 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "m01s30i201[blev=PLEV39, lbproc=192] / m01s30i301[blev=PLEV39, lbproc=192]",
+      "Expression HadGEM3-GC5": "m01s30i201[blev=PLEV39, lbproc=192] / m01s30i301[blev=PLEV39, lbproc=192]",
       "Expression UKESM1": "m01s30i201[blev=PLEV39, lbproc=192] / m01s30i301[blev=PLEV39, lbproc=192]",
+      "Expression UKESM1-3": "m01s30i201[blev=PLEV39, lbproc=192] / m01s30i301[blev=PLEV39, lbproc=192]",
       "Model units": "m s-1"
     },
     "STASH entries": [
@@ -42129,6 +42131,14 @@
         "usage_profile": "UP6"
       },
       {
+        "STASH": "m01s30i201",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "30,201",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
         "STASH": "m01s30i301",
         "domain_profile": "PLEV39Z",
         "model": "UKESM1",
@@ -42137,10 +42147,10 @@
         "usage_profile": "UP6"
       },
       {
-        "STASH": "m01s30i202",
+        "STASH": "m01s30i301",
         "domain_profile": "PLEV39Z",
-        "model": "UKESM1",
-        "stash_number": "30,202",
+        "model": "UKESM1-3",
+        "stash_number": "30,301",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       },
@@ -42148,6 +42158,14 @@
         "STASH": "m01s30i201",
         "domain_profile": "PLEV39Z",
         "model": "HadGEM3-GC31",
+        "stash_number": "30,201",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s30i201",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
         "stash_number": "30,201",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
@@ -42161,10 +42179,10 @@
         "usage_profile": "UP6"
       },
       {
-        "STASH": "m01s30i202",
+        "STASH": "m01s30i301",
         "domain_profile": "PLEV39Z",
-        "model": "HadGEM3-GC31",
-        "stash_number": "30,202",
+        "model": "HadGEM3-GC5",
+        "stash_number": "30,301",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       }
@@ -48155,7 +48173,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.hus.tpt-al-hxy-u.3hr.GLB (E3hrPt.hus)"
   },
@@ -48285,7 +48304,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.cltcalipso.tpt-u-hxy-u.3hr.GLB (E3hrPt.cltcalipso)"
   },
@@ -48674,7 +48694,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.rsutcs.tclmdc-u-hxy-u.1hr.GLB (E1hrClimMon.rsutcs)"
   },
@@ -48743,7 +48764,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.rsut.tclmdc-u-hxy-u.1hr.GLB (E1hrClimMon.rsut)"
   },
@@ -48812,7 +48834,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.rsdt.tclmdc-u-hxy-u.1hr.GLB (E1hrClimMon.rsdt)"
   },
@@ -48945,7 +48968,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.rlutcs.tclmdc-u-hxy-u.1hr.GLB (E1hrClimMon.rlutcs)"
   },
@@ -49014,7 +49038,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.rlut.tclmdc-u-hxy-u.1hr.GLB (E1hrClimMon.rlut)"
   },
@@ -59229,7 +59254,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.clcalipso.tavg-560hPa-hxy-air.mon.GLB (CFmon.clmcalipso)"
   },
@@ -59330,7 +59356,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.clcalipso.tavg-840hPa-hxy-air.mon.GLB (CFmon.cllcalipso)"
   },
@@ -59460,7 +59487,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.clisccp.tavg-p7c-hxy-air.mon.GLB (CFmon.clisccp)"
   },
@@ -59797,7 +59825,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.clcalipso.tavg-220hPa-hxy-air.mon.GLB (CFmon.clhcalipso)"
   },
@@ -59898,7 +59927,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.clcalipso.tavg-h40-hxy-air.mon.GLB (CFmon.clcalipso)"
   },
@@ -60305,7 +60335,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.wap.tavg-500hPa-hxy-air.day.GLB (CFday.wap500)"
   },
@@ -60712,7 +60743,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.ta.tavg-700hPa-hxy-air.day.GLB (CFday.ta700)"
   },
@@ -62621,7 +62653,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.clcalipso.tavg-560hPa-hxy-air.day.GLB (CFday.clmcalipso)"
   },
@@ -62722,7 +62755,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.clcalipso.tavg-840hPa-hxy-air.day.GLB (CFday.cllcalipso)"
   },
@@ -62893,7 +62927,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.clisccp.tavg-p7c-hxy-air.day.GLB (CFday.clisccp)"
   },
@@ -63096,7 +63131,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.clcalipso.tavg-220hPa-hxy-air.day.GLB (CFday.clhcalipso)"
   },
@@ -63197,7 +63233,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.clcalipso.tavg-h40-hxy-air.day.GLB (CFday.clcalipso)"
   },
@@ -63530,7 +63567,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.ts.tpt-u-hxy-u.3hr.GLB (CF3hr.ts)"
   },
@@ -63695,7 +63733,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.ta.tpt-al-hxy-u.3hr.GLB (CF3hr.ta)"
   },
@@ -63764,7 +63803,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.rsutcs.tpt-u-hxy-u.3hr.GLB (CF3hr.rsutcs)"
   },
@@ -63833,7 +63873,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.rsut.tpt-u-hxy-u.3hr.GLB (CF3hr.rsut)"
   },
@@ -63902,7 +63943,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.rsdscs.tpt-u-hxy-u.3hr.GLB (CF3hr.rsdscs)"
   },
@@ -63971,7 +64013,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.rsds.tpt-u-hxy-u.3hr.GLB (CF3hr.rsds)"
   },
@@ -64104,7 +64147,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.rlutcs.tpt-u-hxy-u.3hr.GLB (CF3hr.rlutcs)"
   },
@@ -64173,7 +64217,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.rlut.tpt-u-hxy-u.3hr.GLB (CF3hr.rlut)"
   },
@@ -64242,7 +64287,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.rldscs.tpt-u-hxy-u.3hr.GLB (CF3hr.rldscs)"
   },
@@ -64311,7 +64357,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.rlds.tpt-u-hxy-u.3hr.GLB (CF3hr.rlds)"
   },
@@ -64444,7 +64491,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.reffclws.tpt-al-hxy-scl.3hr.GLB (CF3hr.reffclws)"
   },
@@ -64577,7 +64625,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.reffclwc.tpt-al-hxy-ccl.3hr.GLB (CF3hr.reffclwc)"
   },
@@ -64710,7 +64759,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.reffclis.tpt-al-hxy-scl.3hr.GLB (CF3hr.reffclis)"
   },
@@ -64843,7 +64893,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.reffclic.tpt-al-hxy-ccl.3hr.GLB (CF3hr.reffclic)"
   },
@@ -64912,7 +64963,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.prw.tpt-u-hxy-u.3hr.GLB (CF3hr.prw)"
   },
@@ -64981,7 +65033,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.pr.tpt-u-hxy-u.3hr.GLB (CF3hr.pr)"
   },
@@ -65146,7 +65199,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.pfull.tpt-al-hxy-u.3hr.GLB (CF3hr.pfull)"
   },
@@ -65215,7 +65269,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.hurs.tpt-h2m-hxy-u.3hr.GLB (CF3hr.hurs)"
   },
@@ -65376,7 +65431,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.clwvi.tpt-u-hxy-u.3hr.GLB (CF3hr.clwvi)"
   },
@@ -65509,7 +65565,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.clws.tpt-al-hxy-u.3hr.GLB (CF3hr.clws)"
   },
@@ -65610,7 +65667,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.clwc.tpt-al-hxy-u.3hr.GLB (CF3hr.clwc)"
   },
@@ -65679,7 +65737,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.clt.tpt-u-hxy-u.3hr.GLB (CF3hr.clt)"
   },
@@ -65748,7 +65807,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.clivi.tpt-u-hxy-u.3hr.GLB (CF3hr.clivi)"
   },
@@ -65881,7 +65941,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.clis.tpt-al-hxy-u.3hr.GLB (CF3hr.clis)"
   },
@@ -65982,7 +66043,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.clic.tpt-al-hxy-u.3hr.GLB (CF3hr.clic)"
   },
@@ -83556,7 +83618,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.zg.tpt-p7h-hxy-air.6hr.GLB (6hrPlevPt.zg7h)"
   },
@@ -83755,7 +83818,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.vas.tpt-h10m-hxy-u.6hr.GLB (6hrPlevPt.vas)"
   },
@@ -84068,7 +84132,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.uas.tpt-h10m-hxy-u.6hr.GLB (6hrPlevPt.uas)"
   },
@@ -84472,7 +84537,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.ta.tpt-p7h-hxy-air.6hr.GLB (6hrPlevPt.ta7h)"
   },
@@ -84644,7 +84710,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.rv850.tpt-850hPa-hxy-air.6hr.GLB (6hrPlevPt.rv850)"
   },
@@ -84713,7 +84780,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.psl.tpt-u-hxy-u.6hr.GLB (6hrPlevPt.psl)"
   },
@@ -84930,7 +84998,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.hus.tpt-p7h-hxy-air.6hr.GLB (6hrPlevPt.hus7h)"
   },
@@ -85118,7 +85187,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.zg.tavg-1000hPa-hxy-air.6hr.GLB (6hrPlev.zg1000)"
   },
@@ -85460,7 +85530,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.rv850.tavg-850hPa-hxy-air.6hr.GLB (6hrPlev.rv850)"
   },
@@ -86005,7 +86076,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.va.tpt-al-hxy-u.6hr.GLB (6hrLev.va)"
   },
@@ -86106,7 +86178,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.ua.tpt-al-hxy-u.6hr.GLB (6hrLev.ua)"
   },
@@ -86207,7 +86280,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.ta.tpt-al-hxy-u.6hr.GLB (6hrLev.ta)"
   },
@@ -86276,7 +86350,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.ps.tpt-u-hxy-u.6hr.GLB (6hrLev.ps)"
   },
@@ -86377,7 +86452,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.hus.tpt-al-hxy-u.6hr.GLB (6hrLev.hus)"
   },
@@ -88217,7 +88293,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.ps.tpt-u-hxy-u.3hr.GLB (3hr.ps)"
   },
