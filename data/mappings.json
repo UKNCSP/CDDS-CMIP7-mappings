@@ -280,7 +280,9 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "mask_vtem(m01s30i310[blev=PLEV39, lbproc=192], m01s30i301[blev=PLEV39, lbproc=192])",
+      "Expression HadGEM3-GC5": "mask_vtem(m01s30i310[blev=PLEV39, lbproc=192], m01s30i301[blev=PLEV39, lbproc=192])",
       "Expression UKESM1": "mask_vtem(m01s30i310[blev=PLEV39, lbproc=192], m01s30i301[blev=PLEV39, lbproc=192])",
+      "Expression UKESM1-3": "mask_vtem(m01s30i310[blev=PLEV39, lbproc=192], m01s30i301[blev=PLEV39, lbproc=192])",
       "Model units": "m s-1"
     },
     "STASH entries": [
@@ -293,6 +295,14 @@
         "usage_profile": "UP6"
       },
       {
+        "STASH": "m01s30i301",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "30,301",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
         "STASH": "m01s30i310",
         "domain_profile": "PLEV39",
         "model": "UKESM1",
@@ -301,18 +311,10 @@
         "usage_profile": "UP6"
       },
       {
-        "STASH": "m01s30i201",
-        "domain_profile": "PLEV39Z",
-        "model": "UKESM1",
-        "stash_number": "30,201",
-        "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
-      },
-      {
-        "STASH": "m01s30i202",
-        "domain_profile": "PLEV39Z",
-        "model": "UKESM1",
-        "stash_number": "30,202",
+        "STASH": "m01s30i310",
+        "domain_profile": "PLEV39",
+        "model": "UKESM1-3",
+        "stash_number": "30,310",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       },
@@ -320,6 +322,14 @@
         "STASH": "m01s30i301",
         "domain_profile": "PLEV39Z",
         "model": "HadGEM3-GC31",
+        "stash_number": "30,301",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s30i301",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
         "stash_number": "30,301",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
@@ -333,18 +343,10 @@
         "usage_profile": "UP6"
       },
       {
-        "STASH": "m01s30i201",
-        "domain_profile": "PLEV39Z",
-        "model": "HadGEM3-GC31",
-        "stash_number": "30,201",
-        "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
-      },
-      {
-        "STASH": "m01s30i202",
-        "domain_profile": "PLEV39Z",
-        "model": "HadGEM3-GC31",
-        "stash_number": "30,202",
+        "STASH": "m01s30i310",
+        "domain_profile": "PLEV39",
+        "model": "HadGEM3-GC5",
+        "stash_number": "30,310",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       }
@@ -41718,7 +41720,9 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "mask_polar_column_zonal_means( m01s30i311[blev=PLEV39, lbproc=192], m01s30i301[blev=PLEV39, lbproc=192])",
+      "Expression HadGEM3-GC5": "mask_polar_column_zonal_means( m01s30i311[blev=PLEV39, lbproc=192], m01s30i301[blev=PLEV39, lbproc=192])",
       "Expression UKESM1": "mask_polar_column_zonal_means( m01s30i311[blev=PLEV39, lbproc=192], m01s30i301[blev=PLEV39, lbproc=192])",
+      "Expression UKESM1-3": "mask_polar_column_zonal_means( m01s30i311[blev=PLEV39, lbproc=192], m01s30i301[blev=PLEV39, lbproc=192])",
       "Model units": "m s-1"
     },
     "STASH entries": [
@@ -41731,6 +41735,14 @@
         "usage_profile": "UP6"
       },
       {
+        "STASH": "m01s30i301",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "30,301",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
         "STASH": "m01s30i311",
         "domain_profile": "PLEV39",
         "model": "UKESM1",
@@ -41739,18 +41751,10 @@
         "usage_profile": "UP6"
       },
       {
-        "STASH": "m01s30i201",
-        "domain_profile": "PLEV39Z",
-        "model": "UKESM1",
-        "stash_number": "30,201",
-        "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
-      },
-      {
-        "STASH": "m01s30i202",
-        "domain_profile": "PLEV39Z",
-        "model": "UKESM1",
-        "stash_number": "30,202",
+        "STASH": "m01s30i311",
+        "domain_profile": "PLEV39",
+        "model": "UKESM1-3",
+        "stash_number": "30,311",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       },
@@ -41758,6 +41762,14 @@
         "STASH": "m01s30i301",
         "domain_profile": "PLEV39Z",
         "model": "HadGEM3-GC31",
+        "stash_number": "30,301",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s30i301",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
         "stash_number": "30,301",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
@@ -41771,18 +41783,10 @@
         "usage_profile": "UP6"
       },
       {
-        "STASH": "m01s30i201",
-        "domain_profile": "PLEV39Z",
-        "model": "HadGEM3-GC31",
-        "stash_number": "30,201",
-        "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
-      },
-      {
-        "STASH": "m01s30i202",
-        "domain_profile": "PLEV39Z",
-        "model": "HadGEM3-GC31",
-        "stash_number": "30,202",
+        "STASH": "m01s30i311",
+        "domain_profile": "PLEV39",
+        "model": "HadGEM3-GC5",
+        "stash_number": "30,311",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       }
@@ -42659,7 +42663,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.epfz.tavg-p39-hy-air.day.GLB (EdayZ.epfz)"
   },
@@ -42760,7 +42765,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.epfy.tavg-p39-hy-air.day.GLB (EdayZ.epfy)"
   },
