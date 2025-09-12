@@ -36554,7 +36554,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.jpdftaureliqmodis.tavg-u-hxy-u.mon.GLB (Emon.jpdftaureliqmodis)"
   },
@@ -36655,7 +36656,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.jpdftaureicemodis.tavg-u-hxy-u.mon.GLB (Emon.jpdftaureicemodis)"
   },
@@ -46838,7 +46840,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.jpdftaureliqmodis.tavg-u-hxy-u.day.GLB (Eday.jpdftaureliqmodis)"
   },
@@ -46939,7 +46942,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.jpdftaureicemodis.tavg-u-hxy-u.day.GLB (Eday.jpdftaureicemodis)"
   },
@@ -84231,7 +84235,40 @@
       "Expression UKESM1": "m01s30i297[blev=P500, lbproc=0] / m01s30i304[blev=P500, lbproc=0]",
       "Model units": "m"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s30i297",
+        "domain_profile": "DP500",
+        "model": "UKESM1",
+        "stash_number": "30,297",
+        "time_profile": "T6HR",
+        "usage_profile": "UP7"
+      },
+      {
+        "STASH": "m01s30i304",
+        "domain_profile": "DP500",
+        "model": "UKESM1",
+        "stash_number": "30,304",
+        "time_profile": "T6HR",
+        "usage_profile": "UP7"
+      },
+      {
+        "STASH": "m01s30i297",
+        "domain_profile": "DP500",
+        "model": "HadGEM3-GC31",
+        "stash_number": "30,297",
+        "time_profile": "T6HR",
+        "usage_profile": "UP7"
+      },
+      {
+        "STASH": "m01s30i304",
+        "domain_profile": "DP500",
+        "model": "HadGEM3-GC31",
+        "stash_number": "30,304",
+        "time_profile": "T6HR",
+        "usage_profile": "UP7"
+      }
+    ],
     "issue_number": 194,
     "labels": [
       "6hr",
