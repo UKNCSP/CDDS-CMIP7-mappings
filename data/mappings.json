@@ -8949,7 +8949,8 @@
     "issue_number": 1653,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siage.tavg-u-hxy-si.day.GLB (SIday.siage)"
   },
@@ -42100,7 +42101,8 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.utendepfd.tavg-p39-hy-air.day.GLB (EdayZ.utendepfd)"
   },
@@ -44120,30 +44122,24 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "mask_using_cube(m01s01i298[lbproc=128] / m01s01i299[lbproc=128], m01s02i391[lbproc=128] + m01s02i392[lbproc=128] - (m01s02i395[lbproc=128] + m01s02i396[lbproc=128]))",
+      "Expression HadGEM3-GC5": "mask_using_cube(m01s01i298[lbproc=128] / m01s01i299[lbproc=128], m01s02i391[lbproc=128] + m01s02i392[lbproc=128] - (m01s02i395[lbproc=128] + m01s02i396[lbproc=128]))",
       "Expression UKESM1": "mask_using_cube(m01s01i298[lbproc=128] / m01s01i299[lbproc=128], m01s02i391[lbproc=128] + m01s02i392[lbproc=128] - (m01s02i395[lbproc=128] + m01s02i396[lbproc=128]))",
+      "Expression UKESM1-3": "mask_using_cube(m01s01i298[lbproc=128] / m01s01i299[lbproc=128], m01s02i391[lbproc=128] + m01s02i392[lbproc=128] - (m01s02i395[lbproc=128] + m01s02i396[lbproc=128]))",
       "Model units": "cm-3"
     },
     "STASH entries": [
       {
-        "STASH": "m01s00i407",
-        "domain_profile": "DALLRHP1",
-        "model": "UKESM1",
-        "stash_number": "407",
-        "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
-      },
-      {
-        "STASH": "m01s00i409",
+        "STASH": "m01s01i298",
         "domain_profile": "DIAG",
         "model": "UKESM1",
-        "stash_number": "409",
+        "stash_number": "1,298",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       },
       {
         "STASH": "m01s01i298",
         "domain_profile": "DIAG",
-        "model": "UKESM1",
+        "model": "UKESM1-3",
         "stash_number": "1,298",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
@@ -44157,50 +44153,74 @@
         "usage_profile": "UP6"
       },
       {
-        "STASH": "m01s02i308",
-        "domain_profile": "DALLTH",
-        "model": "UKESM1",
-        "stash_number": "2,308",
-        "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
-      },
-      {
-        "STASH": "m01s02i309",
-        "domain_profile": "DALLTH",
-        "model": "UKESM1",
-        "stash_number": "2,309",
-        "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
-      },
-      {
-        "STASH": "m01s02i318",
-        "domain_profile": "DALLTH",
-        "model": "UKESM1",
-        "stash_number": "2,318",
-        "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
-      },
-      {
-        "STASH": "m01s02i319",
-        "domain_profile": "DALLTH",
-        "model": "UKESM1",
-        "stash_number": "2,319",
-        "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
-      },
-      {
-        "STASH": "m01s00i407",
-        "domain_profile": "DALLRHP1",
-        "model": "HadGEM3-GC31",
-        "stash_number": "407",
-        "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
-      },
-      {
-        "STASH": "m01s00i409",
+        "STASH": "m01s01i299",
         "domain_profile": "DIAG",
-        "model": "HadGEM3-GC31",
-        "stash_number": "409",
+        "model": "UKESM1-3",
+        "stash_number": "1,299",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i391",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "2,391",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i391",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "2,391",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i392",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "2,392",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i392",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "2,392",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "2,395",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "2,395",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "2,396",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "2,396",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       },
@@ -44208,6 +44228,14 @@
         "STASH": "m01s01i298",
         "domain_profile": "DIAG",
         "model": "HadGEM3-GC31",
+        "stash_number": "1,298",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s01i298",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
         "stash_number": "1,298",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
@@ -44221,34 +44249,74 @@
         "usage_profile": "UP6"
       },
       {
-        "STASH": "m01s02i308",
-        "domain_profile": "DALLTH",
-        "model": "HadGEM3-GC31",
-        "stash_number": "2,308",
+        "STASH": "m01s01i299",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "1,299",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       },
       {
-        "STASH": "m01s02i309",
-        "domain_profile": "DALLTH",
+        "STASH": "m01s02i391",
+        "domain_profile": "DIAG",
         "model": "HadGEM3-GC31",
-        "stash_number": "2,309",
+        "stash_number": "2,391",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       },
       {
-        "STASH": "m01s02i318",
-        "domain_profile": "DALLTH",
-        "model": "HadGEM3-GC31",
-        "stash_number": "2,318",
+        "STASH": "m01s02i391",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,391",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       },
       {
-        "STASH": "m01s02i319",
-        "domain_profile": "DALLTH",
+        "STASH": "m01s02i392",
+        "domain_profile": "DIAG",
         "model": "HadGEM3-GC31",
-        "stash_number": "2,319",
+        "stash_number": "2,392",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i392",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,392",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2,395",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,395",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2,396",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,396",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       }
@@ -44636,30 +44704,24 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "mask_using_cube(m01s01i245[lbproc=128] / m01s01i246[lbproc=128], m01s02i391[lbproc=128] + m01s02i392[lbproc=128] - (m01s02i395[lbproc=128] + m01s02i396[lbproc=128]))",
+      "Expression HadGEM3-GC5": "mask_using_cube(m01s01i245[lbproc=128] / m01s01i246[lbproc=128], m01s02i391[lbproc=128] + m01s02i392[lbproc=128] - (m01s02i395[lbproc=128] + m01s02i396[lbproc=128]))",
       "Expression UKESM1": "mask_using_cube(m01s01i245[lbproc=128] / m01s01i246[lbproc=128], m01s02i391[lbproc=128] + m01s02i392[lbproc=128] - (m01s02i395[lbproc=128] + m01s02i396[lbproc=128]))",
+      "Expression UKESM1-3": "mask_using_cube(m01s01i245[lbproc=128] / m01s01i246[lbproc=128], m01s02i391[lbproc=128] + m01s02i392[lbproc=128] - (m01s02i395[lbproc=128] + m01s02i396[lbproc=128]))",
       "Model units": "um"
     },
     "STASH entries": [
       {
-        "STASH": "m01s00i407",
-        "domain_profile": "DALLRHP1",
-        "model": "UKESM1",
-        "stash_number": "407",
-        "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
-      },
-      {
-        "STASH": "m01s00i409",
+        "STASH": "m01s01i245",
         "domain_profile": "DIAG",
         "model": "UKESM1",
-        "stash_number": "409",
+        "stash_number": "1,245",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       },
       {
         "STASH": "m01s01i245",
         "domain_profile": "DIAG",
-        "model": "UKESM1",
+        "model": "UKESM1-3",
         "stash_number": "1,245",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
@@ -44673,50 +44735,74 @@
         "usage_profile": "UP6"
       },
       {
-        "STASH": "m01s02i308",
-        "domain_profile": "DALLTH",
-        "model": "UKESM1",
-        "stash_number": "2,308",
-        "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
-      },
-      {
-        "STASH": "m01s02i309",
-        "domain_profile": "DALLTH",
-        "model": "UKESM1",
-        "stash_number": "2,309",
-        "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
-      },
-      {
-        "STASH": "m01s02i318",
-        "domain_profile": "DALLTH",
-        "model": "UKESM1",
-        "stash_number": "2,318",
-        "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
-      },
-      {
-        "STASH": "m01s02i319",
-        "domain_profile": "DALLTH",
-        "model": "UKESM1",
-        "stash_number": "2,319",
-        "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
-      },
-      {
-        "STASH": "m01s00i407",
-        "domain_profile": "DALLRHP1",
-        "model": "HadGEM3-GC31",
-        "stash_number": "407",
-        "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
-      },
-      {
-        "STASH": "m01s00i409",
+        "STASH": "m01s01i246",
         "domain_profile": "DIAG",
-        "model": "HadGEM3-GC31",
-        "stash_number": "409",
+        "model": "UKESM1-3",
+        "stash_number": "1,246",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i391",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "2,391",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i391",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "2,391",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i392",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "2,392",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i392",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "2,392",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "2,395",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "2,395",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "2,396",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "2,396",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       },
@@ -44724,6 +44810,14 @@
         "STASH": "m01s01i245",
         "domain_profile": "DIAG",
         "model": "HadGEM3-GC31",
+        "stash_number": "1,245",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s01i245",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
         "stash_number": "1,245",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
@@ -44737,34 +44831,74 @@
         "usage_profile": "UP6"
       },
       {
-        "STASH": "m01s02i308",
-        "domain_profile": "DALLTH",
-        "model": "HadGEM3-GC31",
-        "stash_number": "2,308",
+        "STASH": "m01s01i246",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "1,246",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       },
       {
-        "STASH": "m01s02i309",
-        "domain_profile": "DALLTH",
+        "STASH": "m01s02i391",
+        "domain_profile": "DIAG",
         "model": "HadGEM3-GC31",
-        "stash_number": "2,309",
+        "stash_number": "2,391",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       },
       {
-        "STASH": "m01s02i318",
-        "domain_profile": "DALLTH",
-        "model": "HadGEM3-GC31",
-        "stash_number": "2,318",
+        "STASH": "m01s02i391",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,391",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       },
       {
-        "STASH": "m01s02i319",
-        "domain_profile": "DALLTH",
+        "STASH": "m01s02i392",
+        "domain_profile": "DIAG",
         "model": "HadGEM3-GC31",
-        "stash_number": "2,319",
+        "stash_number": "2,392",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i392",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,392",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2,395",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,395",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2,396",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,396",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       }
@@ -44799,30 +44933,24 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "mask_using_cube(m01s01i245[lbproc=128] / m01s01i246[lbproc=128], m01s02i395[lbproc=128] + m01s02i396[lbproc=128])",
+      "Expression HadGEM3-GC5": "mask_using_cube(m01s01i245[lbproc=128] / m01s01i246[lbproc=128], m01s02i395[lbproc=128] + m01s02i396[lbproc=128])",
       "Expression UKESM1": "mask_using_cube(m01s01i245[lbproc=128] / m01s01i246[lbproc=128], m01s02i395[lbproc=128] + m01s02i396[lbproc=128])",
+      "Expression UKESM1-3": "mask_using_cube(m01s01i245[lbproc=128] / m01s01i246[lbproc=128], m01s02i395[lbproc=128] + m01s02i396[lbproc=128])",
       "Model units": "um"
     },
     "STASH entries": [
       {
-        "STASH": "m01s00i407",
-        "domain_profile": "DALLRHP1",
-        "model": "UKESM1",
-        "stash_number": "407",
-        "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
-      },
-      {
-        "STASH": "m01s00i409",
+        "STASH": "m01s01i245",
         "domain_profile": "DIAG",
         "model": "UKESM1",
-        "stash_number": "409",
+        "stash_number": "1,245",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       },
       {
         "STASH": "m01s01i245",
         "domain_profile": "DIAG",
-        "model": "UKESM1",
+        "model": "UKESM1-3",
         "stash_number": "1,245",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
@@ -44836,34 +44964,42 @@
         "usage_profile": "UP6"
       },
       {
-        "STASH": "m01s02i318",
-        "domain_profile": "DALLTH",
-        "model": "UKESM1",
-        "stash_number": "2,318",
-        "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
-      },
-      {
-        "STASH": "m01s02i319",
-        "domain_profile": "DALLTH",
-        "model": "UKESM1",
-        "stash_number": "2,319",
-        "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
-      },
-      {
-        "STASH": "m01s00i407",
-        "domain_profile": "DALLRHP1",
-        "model": "HadGEM3-GC31",
-        "stash_number": "407",
-        "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
-      },
-      {
-        "STASH": "m01s00i409",
+        "STASH": "m01s01i246",
         "domain_profile": "DIAG",
-        "model": "HadGEM3-GC31",
-        "stash_number": "409",
+        "model": "UKESM1-3",
+        "stash_number": "1,246",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "2,395",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "2,395",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "2,396",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "2,396",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       },
@@ -44871,6 +45007,14 @@
         "STASH": "m01s01i245",
         "domain_profile": "DIAG",
         "model": "HadGEM3-GC31",
+        "stash_number": "1,245",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s01i245",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
         "stash_number": "1,245",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
@@ -44884,18 +45028,42 @@
         "usage_profile": "UP6"
       },
       {
-        "STASH": "m01s02i318",
-        "domain_profile": "DALLTH",
-        "model": "HadGEM3-GC31",
-        "stash_number": "2,318",
+        "STASH": "m01s01i246",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "1,246",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       },
       {
-        "STASH": "m01s02i319",
-        "domain_profile": "DALLTH",
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
         "model": "HadGEM3-GC31",
-        "stash_number": "2,319",
+        "stash_number": "2,395",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,395",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2,396",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,396",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       }
@@ -47574,30 +47742,24 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "mask_using_cube(m01s01i298[lbproc=128] / m01s01i299[lbproc=128], m01s02i395[lbproc=128] + m01s02i396[lbproc=128])",
+      "Expression HadGEM3-GC5": "mask_using_cube(m01s01i298[lbproc=128] / m01s01i299[lbproc=128], m01s02i395[lbproc=128] + m01s02i396[lbproc=128])",
       "Expression UKESM1": "mask_using_cube(m01s01i298[lbproc=128] / m01s01i299[lbproc=128], m01s02i395[lbproc=128] + m01s02i396[lbproc=128])",
+      "Expression UKESM1-3": "mask_using_cube(m01s01i298[lbproc=128] / m01s01i299[lbproc=128], m01s02i395[lbproc=128] + m01s02i396[lbproc=128])",
       "Model units": "cm-3"
     },
     "STASH entries": [
       {
-        "STASH": "m01s00i407",
-        "domain_profile": "DALLRHP1",
-        "model": "UKESM1",
-        "stash_number": "407",
-        "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
-      },
-      {
-        "STASH": "m01s00i409",
+        "STASH": "m01s01i298",
         "domain_profile": "DIAG",
         "model": "UKESM1",
-        "stash_number": "409",
+        "stash_number": "1,298",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       },
       {
         "STASH": "m01s01i298",
         "domain_profile": "DIAG",
-        "model": "UKESM1",
+        "model": "UKESM1-3",
         "stash_number": "1,298",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
@@ -47611,34 +47773,42 @@
         "usage_profile": "UP6"
       },
       {
-        "STASH": "m01s02i318",
-        "domain_profile": "DALLTH",
-        "model": "UKESM1",
-        "stash_number": "2,318",
-        "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
-      },
-      {
-        "STASH": "m01s02i319",
-        "domain_profile": "DALLTH",
-        "model": "UKESM1",
-        "stash_number": "2,319",
-        "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
-      },
-      {
-        "STASH": "m01s00i407",
-        "domain_profile": "DALLRHP1",
-        "model": "HadGEM3-GC31",
-        "stash_number": "407",
-        "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
-      },
-      {
-        "STASH": "m01s00i409",
+        "STASH": "m01s01i299",
         "domain_profile": "DIAG",
-        "model": "HadGEM3-GC31",
-        "stash_number": "409",
+        "model": "UKESM1-3",
+        "stash_number": "1,299",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "2,395",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "2,395",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "2,396",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "2,396",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       },
@@ -47646,6 +47816,14 @@
         "STASH": "m01s01i298",
         "domain_profile": "DIAG",
         "model": "HadGEM3-GC31",
+        "stash_number": "1,298",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s01i298",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
         "stash_number": "1,298",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
@@ -47659,18 +47837,42 @@
         "usage_profile": "UP6"
       },
       {
-        "STASH": "m01s02i318",
-        "domain_profile": "DALLTH",
-        "model": "HadGEM3-GC31",
-        "stash_number": "2,318",
+        "STASH": "m01s01i299",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "1,299",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       },
       {
-        "STASH": "m01s02i319",
-        "domain_profile": "DALLTH",
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
         "model": "HadGEM3-GC31",
-        "stash_number": "2,319",
+        "stash_number": "2,395",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,395",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2,396",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,396",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       }
