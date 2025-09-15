@@ -45,9 +45,12 @@ Information is extracted from the "body" of each issue and updates should be mad
 
 This will trigger actions to update the information in the data files linked to above.
 
-Once your review is complete please add the "approved" label to the issue and add a comment confirming that you are happy with the mapping and STASH entries.
+Once your review is complete please add the "approved" label to the issue and add a comment confirming that you are happy with the mapping and STASH entries. 
+Note: if you are happy that the mapping is correct for UKESM1-3, but is not suitable for other models please apply the `approved_UKESM` label.
 
 If you have questions please add the "question" label to the issue. We will attempt to answer questions and remove that label when we think we've answered them.
+
+If you believe that it is not possible to produce a variable using any of our models (e.g. because we do not have a wave model) then please mark the variable with `do-not-produce`.
 
 Note that comments are ignored by the automated process so can be used for queries or discussions.
 
