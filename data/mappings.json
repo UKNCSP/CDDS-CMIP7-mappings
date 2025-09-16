@@ -18482,13 +18482,18 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "e1u",
+      "Expression HadGEM3-GC5": "e1u",
+      "Expression UKESM1": "e1u",
+      "Expression UKESM1-3": "e1u",
+      "Model units": "m"
     },
     "STASH entries": [],
     "issue_number": 1365,
     "labels": [
       "fx",
-      "ocean"
+      "ocean",
+      "approved"
     ],
     "title": "Variable ocean.dxuo.ti-u-hxy-u.fx.GLB (Ofx.dxuo)"
   },
@@ -96984,7 +96989,8 @@
     "labels": [
       "mon",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.ccb.tavg-u-hxy-ccl.mon.GLB (Amon.ccb)"
   },
