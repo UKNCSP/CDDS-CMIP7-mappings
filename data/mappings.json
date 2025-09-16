@@ -12288,13 +12288,18 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "1.026 * combine_cubes_to_basin_coord(sltbasin_global, sltbasin_atlantic, sltbasin_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
+      "Expression HadGEM3-GC5": "combine_cubes_to_basin_coord(sltbasin_global[basin=1], sltbasin_global[basin=2], sltbasin_global[basin=5], mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
+      "Expression UKESM1": "1.026 * combine_cubes_to_basin_coord(sltbasin_global, sltbasin_atlantic, sltbasin_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
+      "Expression UKESM1-3": "1.026 * combine_cubes_to_basin_coord(sltbasin_global, sltbasin_atlantic, sltbasin_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
+      "Model units": "Tg s-1"
     },
     "STASH entries": [],
     "issue_number": 1560,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "approved"
     ],
     "title": "Variable ocean.sltbasin.tavg-u-hys-sea.mon.GLB (Omon.sltbasin)"
   },
@@ -73766,7 +73771,8 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable aerosol.od443aer.tavg-u-hxy-u.mon.GLB (AERmon.od443aer)"
   },
