@@ -12417,7 +12417,8 @@
     "issue_number": 1556,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "approved_HadGEM"
     ],
     "title": "Variable ocean.sfy.tavg-ol-hxy-sea.mon.GLB (Omon.sfy)"
   },
@@ -12469,13 +12470,15 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC5": "1.026 * dyuo * thkcelluo * uso",
+      "Model units": "kg s-1"
     },
     "STASH entries": [],
     "issue_number": 1554,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "approved_HadGEM"
     ],
     "title": "Variable ocean.sfx.tavg-ol-hxy-sea.mon.GLB (Omon.sfx)"
   },
