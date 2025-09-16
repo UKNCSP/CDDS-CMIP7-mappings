@@ -6379,7 +6379,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable seaIce.siflsenstop.tavg-u-hxy-si.mon.GLB (SImon.siflsenstop)"
   },
@@ -12409,7 +12410,8 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC5": "1.026 * dxvo * thkcellvo * vso",
+      "Model units": "kg s-1"
     },
     "STASH entries": [],
     "issue_number": 1556,
