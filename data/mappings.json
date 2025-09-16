@@ -18448,13 +18448,18 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "e1v",
+      "Expression HadGEM3-GC5": "e1v",
+      "Expression UKESM1": "e1v",
+      "Expression UKESM1-3": "e1v",
+      "Model units": "m"
     },
     "STASH entries": [],
     "issue_number": 1366,
     "labels": [
       "fx",
-      "ocean"
+      "ocean",
+      "approved"
     ],
     "title": "Variable ocean.dxvo.ti-u-hxy-u.fx.GLB (Ofx.dxvo)"
   },
@@ -68474,7 +68479,8 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable aerosol.hcl.tavg-p39-hy-air.mon.GLB (AERmonZ.hcl)"
   },
