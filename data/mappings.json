@@ -48360,10 +48360,45 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "m01s03i223[lbproc=128]",
+      "Expression HadGEM3-GC5": "m01s03i223[lbproc=128]",
       "Expression UKESM1": "m01s03i223[lbproc=128]",
+      "Expression UKESM1-3": "m01s03i223[lbproc=128]",
       "Model units": "kg m-2 s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s03i223",
+        "domain_profile": "DTILE",
+        "model": "UKESM1",
+        "stash_number": "3,223",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s03i223",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
+        "stash_number": "3,223",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s03i223",
+        "domain_profile": "DTILE",
+        "model": "HadGEM3-GC31",
+        "stash_number": "3,223",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s03i223",
+        "domain_profile": "DTILE",
+        "model": "HadGEM3-GC5",
+        "stash_number": "3,223",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      }
+    ],
     "issue_number": 720,
     "labels": [
       "day",
@@ -67521,7 +67556,8 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable aerosol.oh.tavg-p39-hy-air.mon.GLB (AERmonZ.oh)"
   },
