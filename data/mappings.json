@@ -67108,7 +67108,9 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "m01s30i202[blev=PLEV39, lbproc=192] / m01s30i301[blev=PLEV39, lbproc=192]",
+      "Expression HadGEM3-GC5": "m01s30i202[blev=PLEV39, lbproc=192] / m01s30i301[blev=PLEV39, lbproc=192]",
       "Expression UKESM1": "m01s30i202[blev=PLEV39, lbproc=192] / m01s30i301[blev=PLEV39, lbproc=192]",
+      "Expression UKESM1-3": "m01s30i202[blev=PLEV39, lbproc=192] / m01s30i301[blev=PLEV39, lbproc=192]",
       "Model units": "m s-1"
     },
     "STASH entries": [
@@ -67121,6 +67123,14 @@
         "usage_profile": "UP4"
       },
       {
+        "STASH": "m01s30i202",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "30,202",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
         "STASH": "m01s30i301",
         "domain_profile": "PLEV39Z",
         "model": "UKESM1",
@@ -67129,10 +67139,10 @@
         "usage_profile": "UP4"
       },
       {
-        "STASH": "m01s30i201",
+        "STASH": "m01s30i301",
         "domain_profile": "PLEV39Z",
-        "model": "UKESM1",
-        "stash_number": "30,201",
+        "model": "UKESM1-3",
+        "stash_number": "30,301",
         "time_profile": "TMONMN",
         "usage_profile": "UP4"
       },
@@ -67140,6 +67150,14 @@
         "STASH": "m01s30i202",
         "domain_profile": "PLEV39Z",
         "model": "HadGEM3-GC31",
+        "stash_number": "30,202",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s30i202",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
         "stash_number": "30,202",
         "time_profile": "TMONMN",
         "usage_profile": "UP4"
@@ -67153,10 +67171,10 @@
         "usage_profile": "UP4"
       },
       {
-        "STASH": "m01s30i201",
+        "STASH": "m01s30i301",
         "domain_profile": "PLEV39Z",
-        "model": "HadGEM3-GC31",
-        "stash_number": "30,201",
+        "model": "HadGEM3-GC5",
+        "stash_number": "30,301",
         "time_profile": "TMONMN",
         "usage_profile": "UP4"
       }
@@ -67167,7 +67185,8 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.va.tavg-p39-hy-air.mon.GLB (AERmonZ.va)"
   },
@@ -68776,7 +68795,8 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable aerosol.cly.tavg-p39-hy-air.mon.GLB (AERmonZ.cly)"
   },
