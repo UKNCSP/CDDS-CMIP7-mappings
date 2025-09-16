@@ -12499,7 +12499,8 @@
     "issue_number": 1551,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.sfacrossline.tavg-u-ht-sea.mon.GLB (Omon.sfacrossline)"
   },
@@ -16338,15 +16339,25 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "calc_fgdms(m01s00i505, m01s50i214[lbproc=128] / MOLECULAR_MASS_OF_DMS )",
+      "Expression HadGEM3-GC5": "calc_fgdms(m01s00i505, m01s50i214[lbproc=128] / MOLECULAR_MASS_OF_DMS )",
       "Expression UKESM1": "calc_fgdms(m01s00i505, m01s50i214[lbproc=128] / MOLECULAR_MASS_OF_DMS )",
+      "Expression UKESM1-3": "calc_fgdms(m01s00i505, m01s50i214[lbproc=128] / MOLECULAR_MASS_OF_DMS )",
       "Model units": "kmol m-2 s-1"
     },
     "STASH entries": [
       {
-        "STASH": "m01s00i030",
+        "STASH": "m01s00i505",
         "domain_profile": "DIAG",
         "model": "UKESM1",
-        "stash_number": "30",
+        "stash_number": "505",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s00i505",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "505",
         "time_profile": "TMONMN",
         "usage_profile": "UP5"
       },
@@ -16359,10 +16370,26 @@
         "usage_profile": "UP5"
       },
       {
-        "STASH": "m01s00i030",
+        "STASH": "m01s50i214",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "50,214",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s00i505",
         "domain_profile": "DIAG",
         "model": "HadGEM3-GC31",
-        "stash_number": "30",
+        "stash_number": "505",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s00i505",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "505",
         "time_profile": "TMONMN",
         "usage_profile": "UP5"
       },
@@ -16370,6 +16397,14 @@
         "STASH": "m01s50i214",
         "domain_profile": "DIAG",
         "model": "HadGEM3-GC31",
+        "stash_number": "50,214",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s50i214",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
         "stash_number": "50,214",
         "time_profile": "TMONMN",
         "usage_profile": "UP5"
