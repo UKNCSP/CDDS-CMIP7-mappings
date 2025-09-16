@@ -11594,13 +11594,18 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "thkcello{grid_V}",
+      "Expression HadGEM3-GC5": "thkcello{grid_V}",
+      "Expression UKESM1": "thkcello{grid_V}",
+      "Expression UKESM1-3": "thkcello{grid_V}",
+      "Model units": "m"
     },
     "STASH entries": [],
     "issue_number": 1581,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "approved"
     ],
     "title": "Variable ocean.thkcellvo.tavg-ol-hxy-sea.mon.GLB (Omon.thkcellvo)"
   },
