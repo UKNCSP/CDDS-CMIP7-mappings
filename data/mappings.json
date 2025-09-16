@@ -18516,13 +18516,18 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "e1t",
+      "Expression HadGEM3-GC5": "e1t",
+      "Expression UKESM1": "e1t",
+      "Expression UKESM1-3": "e1t",
+      "Model units": "m"
     },
     "STASH entries": [],
     "issue_number": 1364,
     "labels": [
       "fx",
-      "ocean"
+      "ocean",
+      "approved"
     ],
     "title": "Variable ocean.dxto.ti-u-hxy-u.fx.GLB (Ofx.dxto)"
   },
