@@ -18361,13 +18361,18 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "e2v",
+      "Expression HadGEM3-GC5": "e2v",
+      "Expression UKESM1": "e2v",
+      "Expression UKESM1-3": "e2v",
+      "Model units": "m"
     },
     "STASH entries": [],
     "issue_number": 1369,
     "labels": [
       "fx",
-      "ocean"
+      "ocean",
+      "approved"
     ],
     "title": "Variable ocean.dyvo.ti-u-hxy-u.fx.GLB (Ofx.dyvo)"
   },
