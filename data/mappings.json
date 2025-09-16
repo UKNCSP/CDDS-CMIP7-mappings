@@ -6302,10 +6302,77 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "-1. * m01s03i533[lbproc=128] / m01s00i031[lbproc=128]",
+      "Expression HadGEM3-GC5": "-1. * m01s03i533[lbproc=128] / m01s00i031[lbproc=128]",
       "Expression UKESM1": "-1. * m01s03i533[lbproc=128] / m01s00i031[lbproc=128]",
+      "Expression UKESM1-3": "-1. * m01s03i533[lbproc=128] / m01s00i031[lbproc=128]",
       "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s03i533",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "3,533",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s03i533",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "3,533",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s00i031",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "31",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s00i031",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "31",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s03i533",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "3,533",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s03i533",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "3,533",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s00i031",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "31",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s00i031",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "31",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 1735,
     "labels": [
       "mon",
@@ -16416,7 +16483,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable ocnBgchem.fgdms.tavg-u-hxy-sea.mon.GLB (Omon.fgdms)"
   },
