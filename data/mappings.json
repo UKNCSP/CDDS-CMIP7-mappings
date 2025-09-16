@@ -1867,7 +1867,8 @@
       "landIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable landIce.snw.tavg-u-hxy-lnd.day.GLB (day.snw)"
   },
@@ -4476,7 +4477,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "BCV"
+      "BCV",
+      "approved"
     ],
     "title": "Variable seaIce.sitemptop.tavg-u-hxy-si.mon.GLB (SImon.sitemptop)"
   },
@@ -6143,7 +6145,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable seaIce.rsus.tavg-u-hxy-si.mon.GLB (SImon.siflswutop)"
   },
@@ -6244,7 +6247,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable seaIce.rsds.tavg-u-hxy-si.mon.GLB (SImon.siflswdtop)"
   },
@@ -6474,7 +6478,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable seaIce.rlus.tavg-u-hxy-si.mon.GLB (SImon.sifllwutop)"
   },
@@ -6575,7 +6580,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable seaIce.rlds.tavg-u-hxy-si.mon.GLB (SImon.sifllwdtop)"
   },
@@ -6940,7 +6946,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable seaIce.sidragtop.tavg-u-hxy-si.mon.GLB (SImon.sidragtop)"
   },
@@ -8059,7 +8066,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable seaIce.sitemptop.tavg-u-hxy-si.day.GLB (SIday.sitemptop)"
   },
@@ -20200,7 +20208,8 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable land.treeFrac.tavg-u-hxy-u.mon.GLB (Lmon.treeFrac)"
   },
@@ -20371,7 +20380,8 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable land.shrubFrac.tavg-u-hxy-u.mon.GLB (Lmon.shrubFrac)"
   },
@@ -20523,7 +20533,8 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable land.residualFrac.tavg-u-hxy-u.mon.GLB (Lmon.residualFrac)"
   },
@@ -21612,7 +21623,8 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable land.grassFrac.tavg-u-hxy-u.mon.GLB (Lmon.grassFrac)"
   },
@@ -22420,7 +22432,8 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable land.c4PftFrac.tavg-u-hxy-u.mon.GLB (Lmon.c4PftFrac)"
   },
@@ -22521,7 +22534,8 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable land.c3PftFrac.tavg-u-hxy-u.mon.GLB (Lmon.c3PftFrac)"
   },
@@ -22652,7 +22666,8 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable land.baresoilFrac.tavg-u-hxy-u.mon.GLB (Lmon.baresoilFrac)"
   },
@@ -23248,7 +23263,8 @@
       "landIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable landIce.snm.tavg-u-hxy-lnd.mon.GLB (LImon.snm)"
   },
@@ -23553,7 +23569,8 @@
       "landIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable landIce.snd.tavg-u-hxy-lnd.mon.GLB (LImon.snd)"
   },
@@ -24870,7 +24887,8 @@
       "landIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable landIce.hfdsn.tavg-u-hxy-lnd.mon.GLB (LImon.hfdsn)"
   },
@@ -30770,7 +30788,8 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable land.wetlandFrac.tavg-u-hxy-u.mon.GLB (Emon.wetlandFrac)"
   },
@@ -31257,7 +31276,8 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable land.vegFrac.tavg-u-hxy-u.mon.GLB (Emon.vegFrac)"
   },
@@ -31565,7 +31585,8 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable land.treeFracNdlEvg.tavg-u-hxy-u.mon.GLB (Emon.treeFracNdlEvg)"
   },
@@ -31764,7 +31785,8 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable land.treeFracBdlDcd.tavg-u-hxy-u.mon.GLB (Emon.treeFracBdlDcd)"
   },
@@ -67368,7 +67390,8 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmosChem.o3.tavg-p39-hy-air.mon.GLB (AERmonZ.o3)"
   },
@@ -67789,7 +67812,8 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable aerosol.noy.tavg-p39-hy-air.mon.GLB (AERmonZ.noy)"
   },
@@ -67890,7 +67914,8 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmosChem.n2o.tavg-p39-hy-air.mon.GLB (AERmonZ.n2o)"
   },
@@ -67991,7 +68016,8 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmosChem.meanage.tavg-p39-hy-air.mon.GLB (AERmonZ.meanage)"
   },
@@ -68092,7 +68118,8 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable aerosol.ho2.tavg-p39-hy-air.mon.GLB (AERmonZ.ho2)"
   },
@@ -68193,7 +68220,8 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable aerosol.hno3.tavg-p39-hy-air.mon.GLB (AERmonZ.hno3)"
   },
@@ -68602,7 +68630,8 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmosChem.ch4.tavg-p39-hy-air.mon.GLB (AERmonZ.ch4)"
   },
@@ -83430,7 +83459,8 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable aerosol.zg.tavg-10hPa-hxy-air.day.GLB (AERday.zg10)"
   },
@@ -84934,7 +84964,8 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.zg.tpt-500hPa-hxy-air.6hr.GLB (6hrPlevPt.zg500)"
   },
@@ -87947,7 +87978,8 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable aerosol.ec550aer.tpt-u-hxy-u.6hr.GLB (6hrLev.ec550aer)"
   },
@@ -89915,7 +89947,8 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable land.mrsol.tpt-d10cm-hxy-lnd.3hr.GLB (3hr.mrsos)"
   },
@@ -93764,7 +93797,8 @@
       "atmosChem",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmosChem.o3.tavg-p19-hxy-air.mon.GLB (Amon.o3)"
   },
@@ -93895,7 +93929,8 @@
       "atmosChem",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmosChem.n2o.tavg-u-hm-u.mon.GLB (Amon.n2oglobal)"
   },
@@ -94026,7 +94061,8 @@
       "atmosChem",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmosChem.n2o.tavg-p19-hxy-air.mon.GLB (Amon.n2o)"
   },
@@ -95918,7 +95954,8 @@
       "atmosChem",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmosChem.ch4.tavg-u-hm-u.mon.GLB (Amon.ch4global)"
   },
@@ -96049,7 +96086,8 @@
       "atmosChem",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmosChem.ch4.tavg-p19-hxy-air.mon.GLB (Amon.ch4)"
   },
@@ -96150,7 +96188,8 @@
       "atmosChem",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmosChem.cfc12.tavg-u-hm-u.mon.GLB (Amon.cfc12global)"
   },
@@ -96251,7 +96290,8 @@
       "atmosChem",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmosChem.cfc11.tavg-u-hm-u.mon.GLB (Amon.cfc11global)"
   },
