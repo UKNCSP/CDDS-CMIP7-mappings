@@ -12396,13 +12396,18 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "somesatr",
+      "Expression HadGEM3-GC5": "somesatr",
+      "Expression UKESM1": "somesatr",
+      "Expression UKESM1-3": "somesatr",
+      "Model units": "g s-1"
     },
     "STASH entries": [],
     "issue_number": 1557,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "approved"
     ],
     "title": "Variable ocean.sfy.tavg-u-hxy-sea.mon.GLB (Omon.sfyint)"
   },
@@ -68901,7 +68906,8 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable aerosol.bry.tavg-p39-hy-air.mon.GLB (AERmonZ.bry)"
   },
