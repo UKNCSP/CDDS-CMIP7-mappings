@@ -83679,7 +83679,9 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "m01s30i201[blev=P10, lbproc=128] / m01s30i301[blev=P10, lbproc=128]",
+      "Expression HadGEM3-GC5": "m01s30i201[blev=P10, lbproc=128] / m01s30i301[blev=P10, lbproc=128]",
       "Expression UKESM1": "m01s30i201[blev=P10, lbproc=128] / m01s30i301[blev=P10, lbproc=128]",
+      "Expression UKESM1-3": "m01s30i201[blev=P10, lbproc=128] / m01s30i301[blev=P10, lbproc=128]",
       "Model units": "m s-1"
     },
     "STASH entries": [
@@ -83692,6 +83694,14 @@
         "usage_profile": "UP6"
       },
       {
+        "STASH": "m01s30i201",
+        "domain_profile": "DP10",
+        "model": "UKESM1-3",
+        "stash_number": "30,201",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
         "STASH": "m01s30i301",
         "domain_profile": "DP10",
         "model": "UKESM1",
@@ -83700,10 +83710,10 @@
         "usage_profile": "UP6"
       },
       {
-        "STASH": "m01s30i202",
+        "STASH": "m01s30i301",
         "domain_profile": "DP10",
-        "model": "UKESM1",
-        "stash_number": "30,202",
+        "model": "UKESM1-3",
+        "stash_number": "30,301",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       },
@@ -83711,6 +83721,14 @@
         "STASH": "m01s30i201",
         "domain_profile": "DP10",
         "model": "HadGEM3-GC31",
+        "stash_number": "30,201",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s30i201",
+        "domain_profile": "DP10",
+        "model": "HadGEM3-GC5",
         "stash_number": "30,201",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
@@ -83724,10 +83742,10 @@
         "usage_profile": "UP6"
       },
       {
-        "STASH": "m01s30i202",
+        "STASH": "m01s30i301",
         "domain_profile": "DP10",
-        "model": "HadGEM3-GC31",
-        "stash_number": "30,202",
+        "model": "HadGEM3-GC5",
+        "stash_number": "30,301",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
       }

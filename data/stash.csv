@@ -3800,11 +3800,13 @@ HadGEM3-GC5,zg_tavg-10hPa-hxy-air,day,m01s30i297,30,297,TDAYMN,DP10,UP6,True
 HadGEM3-GC31,zg_tavg-10hPa-hxy-air,day,m01s30i304,30,304,TDAYMN,DP10,UP6,True
 HadGEM3-GC5,zg_tavg-10hPa-hxy-air,day,m01s30i304,30,304,TDAYMN,DP10,UP6,True
 UKESM1,ua_tavg-10hPa-hxy-air,day,m01s30i201,30,201,TDAYMN,DP10,UP6,False
+UKESM1-3,ua_tavg-10hPa-hxy-air,day,m01s30i201,30,201,TDAYMN,DP10,UP6,False
 UKESM1,ua_tavg-10hPa-hxy-air,day,m01s30i301,30,301,TDAYMN,DP10,UP6,False
-UKESM1,ua_tavg-10hPa-hxy-air,day,m01s30i202,30,202,TDAYMN,DP10,UP6,False
+UKESM1-3,ua_tavg-10hPa-hxy-air,day,m01s30i301,30,301,TDAYMN,DP10,UP6,False
 HadGEM3-GC31,ua_tavg-10hPa-hxy-air,day,m01s30i201,30,201,TDAYMN,DP10,UP6,False
+HadGEM3-GC5,ua_tavg-10hPa-hxy-air,day,m01s30i201,30,201,TDAYMN,DP10,UP6,False
 HadGEM3-GC31,ua_tavg-10hPa-hxy-air,day,m01s30i301,30,301,TDAYMN,DP10,UP6,False
-HadGEM3-GC31,ua_tavg-10hPa-hxy-air,day,m01s30i202,30,202,TDAYMN,DP10,UP6,False
+HadGEM3-GC5,ua_tavg-10hPa-hxy-air,day,m01s30i301,30,301,TDAYMN,DP10,UP6,False
 UKESM1,toz_tavg-u-hxy-u,day,m01s50i219,50,219,TDAYMN,DALLTH,UP6,True
 UKESM1-3,toz_tavg-u-hxy-u,day,m01s50i219,50,219,TDAYMN,DALLTH,UP6,True
 HadGEM3-GC31,toz_tavg-u-hxy-u,day,m01s50i219,50,219,TDAYMN,DALLTH,UP6,True
