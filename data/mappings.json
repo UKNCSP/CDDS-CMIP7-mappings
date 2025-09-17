@@ -19200,13 +19200,18 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "somecrty",
+      "Expression HadGEM3-GC5": "somecrty",
+      "Expression UKESM1": "somecrty",
+      "Expression UKESM1-3": "somecrty",
+      "Model units": "m s-1"
     },
     "STASH entries": [],
     "issue_number": 1343,
     "labels": [
       "day",
-      "ocean"
+      "ocean",
+      "approved"
     ],
     "title": "Variable ocean.vos.tavg-u-hxy-sea.day.GLB (Oday.vos)"
   },
