@@ -2147,6 +2147,14 @@ HadGEM3-GC31,clcalipso_tavg-840hPa-hxy-air,mon,m01s02i321,2,321,TMONMN,DIAG,UP5,
 HadGEM3-GC5,clcalipso_tavg-840hPa-hxy-air,mon,m01s02i321,2,321,TMONMN,DIAG,UP5,True
 HadGEM3-GC31,clcalipso_tavg-840hPa-hxy-air,mon,m01s02i344,2,344,TMONMN,DIAG,UP5,True
 HadGEM3-GC5,clcalipso_tavg-840hPa-hxy-air,mon,m01s02i344,2,344,TMONMN,DIAG,UP5,True
+UKESM1,clivimodis_tavg-u-hxy-u,mon,m01s02i330,2,330,TMONMN,DIAG,UP5,False
+UKESM1,clivimodis_tavg-u-hxy-u,mon,m01s02i467,2,467,TMONMN,DIAG,UP5,False
+UKESM1-3,clivimodis_tavg-u-hxy-u,mon,m01s02i330,2,330,TMONMN,DIAG,UP5,False
+UKESM1-3,clivimodis_tavg-u-hxy-u,mon,m01s02i467,2,467,TMONMN,DIAG,UP5,False
+HadGEM3-GC31,clivimodis_tavg-u-hxy-u,mon,m01s02i330,2,330,TMONMN,DIAG,UP5,False
+HadGEM3-GC31,clivimodis_tavg-u-hxy-u,mon,m01s02i467,2,467,TMONMN,DIAG,UP5,False
+HadGEM3-GC5,clivimodis_tavg-u-hxy-u,mon,m01s02i330,2,330,TMONMN,DIAG,UP5,False
+HadGEM3-GC5,clivimodis_tavg-u-hxy-u,mon,m01s02i467,2,467,TMONMN,DIAG,UP5,False
 UKESM1,clisccp_tavg-p7c-hxy-air,mon,m01s02i330,2,330,TMONMN,DIAG,UP5,True
 UKESM1-3,clisccp_tavg-p7c-hxy-air,mon,m01s02i330,2,330,TMONMN,DIAG,UP5,True
 UKESM1,clisccp_tavg-p7c-hxy-air,mon,m01s02i337,2,337,TMONMN,DCOSP7x7,UP5,True
