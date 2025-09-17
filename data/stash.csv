@@ -2079,6 +2079,14 @@ HadGEM3-GC31,hur_tavg-al-hxy-u,mon,m01s30i113,30,113,TMONMN,DALLTH,UP5,True
 HadGEM3-GC31,hur_tavg-al-hxy-u,mon,m01s00i033,0,33,TMONMN,DIAG,UP5,True
 HadGEM3-GC5,hur_tavg-al-hxy-u,mon,m01s30i113,30,113,TMONMN,DALLTH,UP5,True
 HadGEM3-GC5,hur_tavg-al-hxy-u,mon,m01s00i033,0,33,TMONMN,DIAG,UP5,True
+UKESM1,clwvimodis_tavg-u-hxy-u,mon,m01s02i330,2,330,TMONMN,DIAG,UP5,False
+UKESM1,clwvimodis_tavg-u-hxy-u,mon,m01s02i466,2,466,TMONMN,DIAG,UP5,False
+UKESM1-3,clwvimodis_tavg-u-hxy-u,mon,m01s02i330,2,330,TMONMN,DIAG,UP5,False
+UKESM1-3,clwvimodis_tavg-u-hxy-u,mon,m01s02i466,2,466,TMONMN,DIAG,UP5,False
+HadGEM3-GC31,clwvimodis_tavg-u-hxy-u,mon,m01s02i330,2,330,TMONMN,DIAG,UP5,False
+HadGEM3-GC31,clwvimodis_tavg-u-hxy-u,mon,m01s02i466,2,466,TMONMN,DIAG,UP5,False
+HadGEM3-GC5,clwvimodis_tavg-u-hxy-u,mon,m01s02i330,2,330,TMONMN,DIAG,UP5,False
+HadGEM3-GC5,clwvimodis_tavg-u-hxy-u,mon,m01s02i466,2,466,TMONMN,DIAG,UP5,False
 UKESM1,clws_tavg-al-hxy-u,mon,m01s02i308,2,308,TMONMN,DALLTH,UP5,True
 UKESM1,clws_tavg-al-hxy-u,mon,m01s02i318,2,318,TMONMN,DALLTH,UP5,True
 UKESM1,clws_tavg-al-hxy-u,mon,m01s00i033,0,33,TMONMN,DIAG,UP5,True
