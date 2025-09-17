@@ -16067,7 +16067,8 @@
     "issue_number": 1441,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.hfacrossline.tavg-u-ht-sea.mon.GLB (Omon.hfacrossline)"
   },
@@ -19165,13 +19166,18 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "mask_copy(wo, mask_3D_T)",
+      "Expression HadGEM3-GC5": "mask_copy(wo, mask_3D_T)",
+      "Expression UKESM1": "mask_copy(wo, mask_3D_T)",
+      "Expression UKESM1-3": "mask_copy(wo, mask_3D_T)",
+      "Model units": "m s-1"
     },
     "STASH entries": [],
     "issue_number": 1344,
     "labels": [
       "day",
-      "ocean"
+      "ocean",
+      "approved"
     ],
     "title": "Variable ocean.wo.tavg-ol-hxy-sea.day.GLB (Oday.wo)"
   },
