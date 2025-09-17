@@ -13276,7 +13276,8 @@
     "issue_number": 1529,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.phcint.tavg-op4-hxy-sea.mon.GLB (Omon.phcint)"
   },
@@ -13337,7 +13338,8 @@
     "issue_number": 1527,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.pfscint.tavg-op4-hxy-sea.mon.GLB (Omon.pfscint)"
   },
@@ -17899,7 +17901,8 @@
     "issue_number": 1384,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.chcint.tavg-op4-hxy-sea.mon.GLB (Omon.chcint)"
   },
@@ -18173,7 +18176,8 @@
     "issue_number": 1375,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.absscint.tavg-op4-hxy-sea.mon.GLB (Omon.absscint)"
   },
@@ -18892,13 +18896,17 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "opottemptend",
+      "Expression UKESM1": "opottemptend",
+      "Expression UKESM1-3": "opottemptend",
+      "Model units": "W m-2"
     },
     "STASH entries": [],
     "issue_number": 1353,
     "labels": [
       "dec",
-      "ocean"
+      "ocean",
+      "approved"
     ],
     "title": "Variable ocean.opottemptend.tavg-ol-hxy-sea.dec.GLB (Odec.opottemptend)"
   },
@@ -63090,7 +63098,9 @@
     "issue_number": 491,
     "labels": [
       "day",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31"
     ],
     "title": "Variable atmos.hur.tavg-700hPa-hxy-air.day.GLB (CFday.hur700)"
   },
