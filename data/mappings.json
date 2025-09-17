@@ -19338,13 +19338,18 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "thetao[olevel=30]",
+      "Expression HadGEM3-GC5": "eos_pt_from_ct(thetao[olevel=30])",
+      "Expression UKESM1": "thetao[olevel=30]",
+      "Expression UKESM1-3": "thetao[olevel=30]",
+      "Model units": "degC"
     },
     "STASH entries": [],
     "issue_number": 1339,
     "labels": [
       "day",
-      "ocean"
+      "ocean",
+      "approved"
     ],
     "title": "Variable ocean.thetao.tavg-op20bar-hxy-sea.day.GLB (Oday.thetao200)"
   },
@@ -60116,7 +60121,8 @@
     "issue_number": 526,
     "labels": [
       "mon",
-      "atmos"
+      "atmos",
+      "do-not-produce"
     ],
     "title": "Variable atmos.clmodisliquidReff.tavg-u-hxy-u.mon.GLB (CFmon.clmodisliquidReff)"
   },
@@ -60145,7 +60151,8 @@
     "issue_number": 525,
     "labels": [
       "mon",
-      "atmos"
+      "atmos",
+      "do-not-produce"
     ],
     "title": "Variable atmos.clmodisliquid.tavg-p7c-hxy-air.mon.GLB (CFmon.clmodisliquid)"
   },
@@ -60174,7 +60181,8 @@
     "issue_number": 524,
     "labels": [
       "mon",
-      "atmos"
+      "atmos",
+      "do-not-produce"
     ],
     "title": "Variable atmos.clmodisiceReff.tavg-u-hxy-u.mon.GLB (CFmon.clmodisiceReff)"
   },
@@ -60203,7 +60211,8 @@
     "issue_number": 523,
     "labels": [
       "mon",
-      "atmos"
+      "atmos",
+      "do-not-produce"
     ],
     "title": "Variable atmos.clmodisice.tavg-p7c-hxy-air.mon.GLB (CFmon.clmodisice)"
   },
