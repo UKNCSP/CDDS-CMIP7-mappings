@@ -53490,7 +53490,8 @@
     "labels": [
       "subhr",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.evu.tpt-al-hxys-u.subhr.GLB (CFsubhr.evu)"
   },
@@ -53554,7 +53555,8 @@
     "labels": [
       "subhr",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.edt.tpt-al-hxys-u.subhr.GLB (CFsubhr.edt)"
   },
@@ -56010,7 +56012,8 @@
     "labels": [
       "mon",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.tnhusd.tavg-al-hxy-u.mon.GLB (CFmon.tnhusd)"
   },
@@ -59316,7 +59319,8 @@
     "labels": [
       "mon",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.evu.tavg-al-hxy-u.mon.GLB (CFmon.evu)"
   },
@@ -59346,7 +59350,8 @@
     "labels": [
       "mon",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.edt.tavg-al-hxy-u.mon.GLB (CFmon.edt)"
   },
@@ -59474,7 +59479,9 @@
     "issue_number": 533,
     "labels": [
       "mon",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31"
     ],
     "title": "Variable atmos.clwvimodis.tavg-u-hxy-u.mon.GLB (CFmon.clwvimodis)"
   },
@@ -60219,13 +60226,84 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "divide_by_mask(m01s02i450[blev=PLEV7C, lbproc=128], m01s02i330[lbproc=128])",
+      "Expression HadGEM3-GC5": "divide_by_mask(m01s02i450[blev=PLEV7C, lbproc=128], m01s02i330[lbproc=128])",
+      "Expression UKESM1": "divide_by_mask(m01s02i450[blev=PLEV7C, lbproc=128], m01s02i330[lbproc=128])",
+      "Expression UKESM1-3": "divide_by_mask(m01s02i450[blev=PLEV7C, lbproc=128], m01s02i330[lbproc=128])",
+      "Model units": "1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s02i330",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "2,330",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i330",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "2,330",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i450",
+        "domain_profile": "DCOSP7x7",
+        "model": "UKESM1",
+        "stash_number": "2,450",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i450",
+        "domain_profile": "DCOSP7x7",
+        "model": "UKESM1-3",
+        "stash_number": "2,450",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i330",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2,330",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i330",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,330",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i450",
+        "domain_profile": "DCOSP7x7",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2,450",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i450",
+        "domain_profile": "DCOSP7x7",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,450",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 522,
     "labels": [
       "mon",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31"
     ],
     "title": "Variable atmos.clmodis.tavg-p7c-hxy-air.mon.GLB (CFmon.clmodis)"
   },
