@@ -19234,13 +19234,18 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "sozocrtx",
+      "Expression HadGEM3-GC5": "sozocrtx",
+      "Expression UKESM1": "sozocrtx",
+      "Expression UKESM1-3": "sozocrtx",
+      "Model units": "m s-1"
     },
     "STASH entries": [],
     "issue_number": 1342,
     "labels": [
       "day",
-      "ocean"
+      "ocean",
+      "approved"
     ],
     "title": "Variable ocean.uos.tavg-u-hxy-sea.day.GLB (Oday.uos)"
   },
