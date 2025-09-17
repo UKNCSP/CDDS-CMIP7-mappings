@@ -12658,7 +12658,8 @@
     "issue_number": 1549,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.sdvo.tavg-u-hxy-sea.mon.GLB (Omon.sdvo)"
   },
@@ -12687,7 +12688,8 @@
     "issue_number": 1548,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.sduo.tavg-u-hxy-sea.mon.GLB (Omon.sduo)"
   },
@@ -12716,7 +12718,8 @@
     "issue_number": 1547,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.scint.tavg-op4-hxy-sea.mon.GLB (Omon.scint)"
   },
@@ -48405,7 +48408,8 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.evspsbl.tavg-u-hxy-lnd.day.GLB (Eday.evspsbl)"
   },
@@ -53824,7 +53828,8 @@
     "labels": [
       "subhr",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.cct.tpt-u-hxys-u.subhr.GLB (CFsubhr.cct)"
   },
@@ -53854,7 +53859,8 @@
     "labels": [
       "subhr",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.ccb.tpt-u-hxys-u.subhr.GLB (CFsubhr.ccb)"
   },
@@ -63009,9 +63015,78 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "m01s30i296[blev=P700, lbproc=128] / m01s30i304[blev=P700, lbproc=128]",
+      "Expression HadGEM3-GC5": "m01s30i296[blev=P700, lbproc=128] / m01s30i304[blev=P700, lbproc=128]",
+      "Expression UKESM1": "m01s30i296[blev=P700, lbproc=128] / m01s30i304[blev=P700, lbproc=128]",
+      "Expression UKESM1-3": "m01s30i296[blev=P700, lbproc=128] / m01s30i304[blev=P700, lbproc=128]",
+      "Model units": "%"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s30i296",
+        "domain_profile": "DP700",
+        "model": "UKESM1",
+        "stash_number": "30,296",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s30i304",
+        "domain_profile": "DP700",
+        "model": "UKESM1",
+        "stash_number": "30,304",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s30i296",
+        "domain_profile": "DP700",
+        "model": "UKESM1-3",
+        "stash_number": "30,296",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s30i304",
+        "domain_profile": "DP700",
+        "model": "UKESM1-3",
+        "stash_number": "30,304",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s30i296",
+        "domain_profile": "DP700",
+        "model": "HadGEM3-GC31",
+        "stash_number": "30,296",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s30i304",
+        "domain_profile": "DP700",
+        "model": "HadGEM3-GC31",
+        "stash_number": "30,304",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s30i296",
+        "domain_profile": "DP700",
+        "model": "HadGEM3-GC5",
+        "stash_number": "30,296",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s30i304",
+        "domain_profile": "DP700",
+        "model": "HadGEM3-GC5",
+        "stash_number": "30,304",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      }
+    ],
     "issue_number": 491,
     "labels": [
       "day",
@@ -64339,7 +64414,8 @@
     "labels": [
       "day",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.cct.tavg-u-hxy-ccl.day.GLB (CFday.cct)"
   },
@@ -64369,7 +64445,8 @@
     "labels": [
       "day",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.ccb.tavg-u-hxy-ccl.day.GLB (CFday.ccb)"
   },
@@ -66273,7 +66350,8 @@
     "labels": [
       "3hr",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.dtaus.tpt-al-hxy-scl.3hr.GLB (CF3hr.dtaus)"
   },
@@ -66303,7 +66381,8 @@
     "labels": [
       "3hr",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.dtauc.tpt-al-hxy-ccl.3hr.GLB (CF3hr.dtauc)"
   },
@@ -97065,7 +97144,8 @@
     "labels": [
       "mon",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.cct.tavg-u-hxy-ccl.mon.GLB (Amon.cct)"
   },
