@@ -5,7 +5,18 @@ that all STASH codes in the Expression lines are in the STASH entries, and vice 
 """
 import sys
 import re
-UKESM_only_variables = ['fco2antt', 'fco2fos', 'fco2nat']
+UKESM_only_variables = [
+    'Amon.fco2antt',
+    'Amon.fco2fos',
+    'Amon.fco2nat',
+    'Eday.loadbc',
+    'Eday.loadoa',
+    'Eday.loadss',
+    'Eday.loadso4',
+    'Emon.co23D',
+    'Emon.co2s',
+    'Emon.loadso4',
+    ]
 
 if __name__ == '__main__':
 
@@ -26,8 +37,9 @@ if __name__ == '__main__':
             if "Dimensions" in line:
                 usesAlev = "alev" in line
 
-        foundSTASH = True
-        foundExpression = True
+        # For this variable, did we find codes in Expression lines and STASH entries?
+        foundSTASHinExpression = True
+        foundSTASHentries = True
 
         # The models to check.
         if any(var in filename for var in UKESM_only_variables):
@@ -37,6 +49,10 @@ if __name__ == '__main__':
         for m in model:
             print(f"Processing {m} in {filename}")
             
+            # For this model, did we find codes in Expression lines and STASH entries?
+            foundExpression = True
+            foundSTASH = True
+
             # First, get the STASH codes from the Expression lines. 
             expressionStashCodes = []
             for line in lines:
@@ -48,11 +64,12 @@ if __name__ == '__main__':
                     for match in re.finditer('m0', line):
                         istart = match.start()
                         expressionStashCodes.append(line[istart:istart+length])
+                        foundExpression = True
 
             # Check that we found some STASH codes.
             if len(expressionStashCodes) == 0:
                 print(f"*** Warning: No STASH codes found in Expression lines for {m} in {filename}")
-                foundExpression = False
+                foundSTASHinExpression = False
                 continue
             else:
                 print(expressionStashCodes)
@@ -60,7 +77,7 @@ if __name__ == '__main__':
             # For each STASH code in the Expression lines, check if it is in the STASH entries.
             # Record which codes are found; we'll warn if none are found.
             # Note that this doesn't check for duplicates in the STASH entries, because we're working
-            # with from the list of codes in the Expression lines.
+            # from the list of codes in the Expression lines.
             stashEntriesCodes = []
             for code in expressionStashCodes:
                 foundCode = False
@@ -111,9 +128,18 @@ if __name__ == '__main__':
                 # There aren't any STASH entries, so there aren't any matches with
                 # the Expression lines.
                 print(f"*** Warning: No STASH entries found for {m} in {filename}")
-                foundExpression = False
+                foundSTASHentries = False
 
-        # Summary of results for this variable.
+        # Summary of results for this variable.  Check whether there were any codes
+        # in the Expression lines and STASH entries first.
+        if not foundSTASHinExpression:
+            print(f"No STASH codes found in Expression lines for {filename} %%%")
+            continue
+        if not foundSTASHentries:
+            print(f"No STASH entries found for {filename} ~~~")
+            continue
+        # Otherwise, report whether all codes in the Expression lines were found in the
+        # STASH entries, and vice versa.
         if foundSTASH:
             print(f"Codes in Expression all found in STASH list ", end='')
             if foundExpression:
