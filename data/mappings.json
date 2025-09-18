@@ -52632,7 +52632,16 @@
       "Expression UKESM1": "m01s01i209[lbproc=0]",
       "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s01i209",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM3-GC31-LL",
+        "stash_number": "1,209",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      }
+    ],
     "issue_number": 626,
     "labels": [
       "subhr",
@@ -52666,7 +52675,16 @@
       "Expression UKESM1": "m01s01i208[lbproc=0]",
       "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s01i208",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM3-GC31-LL",
+        "stash_number": "1,208",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      }
+    ],
     "issue_number": 625,
     "labels": [
       "subhr",
@@ -52700,7 +52718,16 @@
       "Expression UKESM1": "m01s01i211[lbproc=0]",
       "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s01i211",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM3-GC31-LL",
+        "stash_number": "1,211",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      }
+    ],
     "issue_number": 624,
     "labels": [
       "subhr",
@@ -52734,7 +52761,24 @@
       "Expression UKESM1": "m01s01i235[lbproc=0] - m01s01i201[lbproc=0]",
       "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s01i201",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM3-GC31-LL",
+        "stash_number": "1,201",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s01i235",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM3-GC31-LL",
+        "stash_number": "1,235",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      }
+    ],
     "issue_number": 623,
     "labels": [
       "subhr",
@@ -52768,7 +52812,16 @@
       "Expression UKESM1": "correct_multilevel_metadata(m01s01i219[lbproc=0])",
       "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s01i219",
+        "domain_profile": "DTSL86P126",
+        "model": "HadGEM3-GC31-LL",
+        "stash_number": "1,219",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      }
+    ],
     "issue_number": 622,
     "labels": [
       "subhr",
@@ -52802,7 +52855,16 @@
       "Expression UKESM1": "correct_multilevel_metadata(m01s01i217[lbproc=0])",
       "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s01i217",
+        "domain_profile": "DTSL86P126",
+        "model": "HadGEM3-GC31-LL",
+        "stash_number": "1,217",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      }
+    ],
     "issue_number": 621,
     "labels": [
       "subhr",
@@ -52836,7 +52898,16 @@
       "Expression UKESM1": "m01s01i207[lbproc=0]",
       "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s01i207",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM3-GC31-LL",
+        "stash_number": "1,207",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      }
+    ],
     "issue_number": 620,
     "labels": [
       "subhr",
@@ -52870,7 +52941,16 @@
       "Expression UKESM1": "m01s01i210[lbproc=0]",
       "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s01i210",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM3-GC31-LL",
+        "stash_number": "1,210",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      }
+    ],
     "issue_number": 619,
     "labels": [
       "subhr",
@@ -52904,7 +52984,16 @@
       "Expression UKESM1": "m01s01i235[lbproc=0]",
       "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s01i235",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM3-GC31-LL",
+        "stash_number": "1,235",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      }
+    ],
     "issue_number": 618,
     "labels": [
       "subhr",
@@ -52938,7 +53027,16 @@
       "Expression UKESM1": "correct_multilevel_metadata(m01s01i220[lbproc=0])",
       "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s01i220",
+        "domain_profile": "DTSL86P126",
+        "model": "HadGEM3-GC31-LL",
+        "stash_number": "1,220",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      }
+    ],
     "issue_number": 617,
     "labels": [
       "subhr",
@@ -52972,7 +53070,16 @@
       "Expression UKESM1": "correct_multilevel_metadata(m01s01i218[lbproc=0])",
       "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s01i218",
+        "domain_profile": "DTSL86P126",
+        "model": "HadGEM3-GC31-LL",
+        "stash_number": "1,218",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      }
+    ],
     "issue_number": 616,
     "labels": [
       "subhr",
@@ -53006,7 +53113,16 @@
       "Expression UKESM1": "m01s02i206[lbproc=0]",
       "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s02i206",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM3-GC31-LL",
+        "stash_number": "2,206",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      }
+    ],
     "issue_number": 615,
     "labels": [
       "subhr",
@@ -53040,7 +53156,16 @@
       "Expression UKESM1": "m01s02i205[lbproc=0]",
       "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s02i205",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM3-GC31-LL",
+        "stash_number": "2,205",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      }
+    ],
     "issue_number": 614,
     "labels": [
       "subhr",
@@ -53074,7 +53199,24 @@
       "Expression UKESM1": "m01s02i207[lbproc=0] - m01s02i201[lbproc=0]",
       "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s02i201",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM3-GC31-LL",
+        "stash_number": "2,201",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s02i207",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM3-GC31-LL",
+        "stash_number": "2,207",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      }
+    ],
     "issue_number": 613,
     "labels": [
       "subhr",
@@ -53108,7 +53250,16 @@
       "Expression UKESM1": "correct_multilevel_metadata(m01s02i219[lbproc=0])",
       "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s02i219",
+        "domain_profile": "DTSL86P126",
+        "model": "HadGEM3-GC31-LL",
+        "stash_number": "2,219",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      }
+    ],
     "issue_number": 612,
     "labels": [
       "subhr",
@@ -53142,7 +53293,16 @@
       "Expression UKESM1": "correct_multilevel_metadata(m01s02i217[lbproc=0])",
       "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s02i217",
+        "domain_profile": "DTSL86P126",
+        "model": "HadGEM3-GC31-LL",
+        "stash_number": "2,217",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      }
+    ],
     "issue_number": 611,
     "labels": [
       "subhr",
@@ -53176,7 +53336,16 @@
       "Expression UKESM1": "m01s02i208[lbproc=0]",
       "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s02i208",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM3-GC31-LL",
+        "stash_number": "2,208",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      }
+    ],
     "issue_number": 610,
     "labels": [
       "subhr",
