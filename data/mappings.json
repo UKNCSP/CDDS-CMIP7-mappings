@@ -20227,7 +20227,7 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "eos_ct_from_pt(thetao[olevel=30])",
-      "Expression HadGEM3-GC5": "thetao[olevel=30]",
+      "Expression HadGEM3-GC5": "bigthetao[olevel=30]",
       "Expression UKESM1": "eos_ct_from_pt(thetao[olevel=30])",
       "Expression UKESM1-3": "eos_ct_from_pt(thetao[olevel=30])",
       "Model units": "degC"
