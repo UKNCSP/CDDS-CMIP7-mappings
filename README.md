@@ -46,7 +46,8 @@ Information is extracted from the "body" of each issue and updates should be mad
 This will trigger actions to update the information in the data files linked to above.
 
 Once your review is complete please add the "approved" label to the issue and add a comment confirming that you are happy with the mapping and STASH entries. 
-Note: if you are happy that the mapping is correct for UKESM1-3, but is not suitable for other models please apply the `approved_UKESM` label.
+Note: if you are happy that the mapping is correct for UKESM1-3, but is not suitable for other models please apply the `approved_UKESM` label. 
+Similarly you can use `approved_HadGEM` if you can only approve an issue for HadGEM3-GC5 models
 
 If you have questions please add the "question" label to the issue. We will attempt to answer questions and remove that label when we think we've answered them.
 
