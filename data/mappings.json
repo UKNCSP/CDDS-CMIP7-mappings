@@ -35761,6 +35761,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "land_class_area(m01s19i013[lbtim_ia=240,lbproc=128],m01s03i395[lbproc=128], land_class='c3Pasture')",
+      "Expression UKESM1-3": "land_class_area(m01s19i013[lbtim_ia=240,lbproc=128],m01s03i395[lbproc=128], land_class='c3Pasture')",
       "Model units": "%"
     },
     "STASH entries": [
@@ -35773,9 +35774,25 @@
         "usage_profile": "UP5"
       },
       {
+        "STASH": "m01s03i395",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "3,395",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
         "STASH": "m01s19i013",
         "domain_profile": "DTILE",
         "model": "UKESM1",
+        "stash_number": "19,013",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i013",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
         "stash_number": "19,013",
         "time_profile": "TMONMN",
         "usage_profile": "UP5"
@@ -35910,6 +35927,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "land_class_mean( m01s19i101[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR), m01s19i013[lbtim_ia=240,lbproc=128], land_class='tree')",
+      "Expression UKESM1-3": "land_class_mean( m01s19i101[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR), m01s19i013[lbtim_ia=240,lbproc=128], land_class='tree')",
       "Model units": "kg m-2 s-1"
     },
     "STASH entries": [
@@ -35922,9 +35940,25 @@
         "usage_profile": "UP5"
       },
       {
+        "STASH": "m01s19i013",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
+        "stash_number": "19,013",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
         "STASH": "m01s19i101",
         "domain_profile": "DPFTS",
         "model": "UKESM1",
+        "stash_number": "19,101",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i101",
+        "domain_profile": "DPFTS",
+        "model": "UKESM1-3",
         "stash_number": "19,101",
         "time_profile": "TMONMN",
         "usage_profile": "UP5"
@@ -35989,6 +36023,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "land_class_mean( m01s19i101[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR), m01s19i013[lbtim_ia=240,lbproc=128], land_class='shrub')",
+      "Expression UKESM1-3": "land_class_mean( m01s19i101[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR), m01s19i013[lbtim_ia=240,lbproc=128], land_class='shrub')",
       "Model units": "kg m-2 s-1"
     },
     "STASH entries": [
@@ -36001,9 +36036,25 @@
         "usage_profile": "UP5"
       },
       {
+        "STASH": "m01s19i013",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
+        "stash_number": "19,013",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
         "STASH": "m01s19i101",
         "domain_profile": "DPFTS",
         "model": "UKESM1",
+        "stash_number": "19,101",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i101",
+        "domain_profile": "DPFTS",
+        "model": "UKESM1-3",
         "stash_number": "19,101",
         "time_profile": "TMONMN",
         "usage_profile": "UP5"
@@ -36135,6 +36186,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "land_class_mean( m01s19i101[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR), m01s19i013[lbtim_ia=240,lbproc=128], land_class='grass')",
+      "Expression UKESM1-3": "land_class_mean( m01s19i101[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR), m01s19i013[lbtim_ia=240,lbproc=128], land_class='grass')",
       "Model units": "kg m-2 s-1"
     },
     "STASH entries": [
@@ -36147,9 +36199,25 @@
         "usage_profile": "UP5"
       },
       {
+        "STASH": "m01s19i013",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
+        "stash_number": "19,013",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
         "STASH": "m01s19i101",
         "domain_profile": "DPFTS",
         "model": "UKESM1",
+        "stash_number": "19,101",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i101",
+        "domain_profile": "DPFTS",
+        "model": "UKESM1-3",
         "stash_number": "19,101",
         "time_profile": "TMONMN",
         "usage_profile": "UP5"
@@ -38115,6 +38183,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "land_class_area(m01s19i013[lbtim_ia=240,lbproc=128], m01s03i395[lbproc=128], land_class='c4Grass')",
+      "Expression UKESM1-3": "land_class_area(m01s19i013[lbtim_ia=240,lbproc=128], m01s03i395[lbproc=128], land_class='c4Grass')",
       "Model units": "%"
     },
     "STASH entries": [
@@ -38127,9 +38196,25 @@
         "usage_profile": "UP5"
       },
       {
+        "STASH": "m01s03i395",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "3,395",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
         "STASH": "m01s19i013",
         "domain_profile": "DTILE",
         "model": "UKESM1",
+        "stash_number": "19,013",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i013",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
         "stash_number": "19,013",
         "time_profile": "TMONMN",
         "usage_profile": "UP5"
@@ -38164,6 +38249,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "land_class_area(m01s19i013[lbtim_ia=240,lbproc=128], m01s03i395[lbproc=128], land_class='c3Grass')",
+      "Expression UKESM1-3": "land_class_area(m01s19i013[lbtim_ia=240,lbproc=128], m01s03i395[lbproc=128], land_class='c3Grass')",
       "Model units": "%"
     },
     "STASH entries": [
@@ -38176,9 +38262,25 @@
         "usage_profile": "UP5"
       },
       {
+        "STASH": "m01s03i395",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "3,395",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
         "STASH": "m01s19i013",
         "domain_profile": "DTILE",
         "model": "UKESM1",
+        "stash_number": "19,013",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i013",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
         "stash_number": "19,013",
         "time_profile": "TMONMN",
         "usage_profile": "UP5"
@@ -38404,6 +38506,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "land_class_mean( m01s19i182[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR), m01s19i013[lbtim_ia=240,lbproc=128], land_class='grass')",
+      "Expression UKESM1-3": "land_class_mean( m01s19i182[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR), m01s19i013[lbtim_ia=240,lbproc=128], land_class='grass')",
       "Model units": "kg m-2 s-1"
     },
     "STASH entries": [
@@ -38416,9 +38519,25 @@
         "usage_profile": "UP5"
       },
       {
+        "STASH": "m01s19i013",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
+        "stash_number": "19,013",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
         "STASH": "m01s19i182",
         "domain_profile": "DPFTS",
         "model": "UKESM1",
+        "stash_number": "19,182",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i182",
+        "domain_profile": "DPFTS",
+        "model": "UKESM1-3",
         "stash_number": "19,182",
         "time_profile": "TMONMN",
         "usage_profile": "UP5"
@@ -38453,6 +38572,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "land_use_tile_area(m01s19i013[lbtim_ia=240,lbproc=128],m01s03i395[lbproc=128])",
+      "Expression UKESM1-3": "land_use_tile_area(m01s19i013[lbtim_ia=240,lbproc=128],m01s03i395[lbproc=128])",
       "Model units": "%"
     },
     "STASH entries": [
@@ -38465,9 +38585,25 @@
         "usage_profile": "UP5"
       },
       {
+        "STASH": "m01s03i395",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "3,395",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
         "STASH": "m01s19i013",
         "domain_profile": "DTILE",
         "model": "UKESM1",
+        "stash_number": "19,013",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i013",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
         "stash_number": "19,013",
         "time_profile": "TMONMN",
         "usage_profile": "UP5"
@@ -40432,6 +40568,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "land_class_area(m01s19i013[lbtim_ia=240,lbproc=128],m01s03i395[lbproc=128], land_class='c4Crop')",
+      "Expression UKESM1-3": "land_class_area(m01s19i013[lbtim_ia=240,lbproc=128],m01s03i395[lbproc=128], land_class='c4Crop')",
       "Model units": "%"
     },
     "STASH entries": [
@@ -40444,9 +40581,25 @@
         "usage_profile": "UP5"
       },
       {
+        "STASH": "m01s03i395",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "3,395",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
         "STASH": "m01s19i013",
         "domain_profile": "DTILE",
         "model": "UKESM1",
+        "stash_number": "19,013",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i013",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
         "stash_number": "19,013",
         "time_profile": "TMONMN",
         "usage_profile": "UP5"
@@ -40481,6 +40634,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "land_class_area(m01s19i013[lbtim_ia=240,lbproc=128],m01s03i395[lbproc=128], land_class='c3Crop')",
+      "Expression UKESM1-3": "land_class_area(m01s19i013[lbtim_ia=240,lbproc=128],m01s03i395[lbproc=128], land_class='c3Crop')",
       "Model units": "%"
     },
     "STASH entries": [
@@ -40493,9 +40647,25 @@
         "usage_profile": "UP5"
       },
       {
+        "STASH": "m01s03i395",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "3,395",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
         "STASH": "m01s19i013",
         "domain_profile": "DTILE",
         "model": "UKESM1",
+        "stash_number": "19,013",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i013",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
         "stash_number": "19,013",
         "time_profile": "TMONMN",
         "usage_profile": "UP5"
@@ -41722,6 +41892,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "land_class_mean(m01s19i001[lbtim_ia=240,lbproc=128], m01s19i013[lbtim_ia=240,lbproc=128], land_class='tree')",
+      "Expression UKESM1-3": "land_class_mean(m01s19i001[lbtim_ia=240,lbproc=128], m01s19i013[lbtim_ia=240,lbproc=128], land_class='tree')",
       "Model units": "kg m-2"
     },
     "STASH entries": [
@@ -41734,9 +41905,25 @@
         "usage_profile": "UP5"
       },
       {
+        "STASH": "m01s19i001",
+        "domain_profile": "DPFTS",
+        "model": "UKESM1-3",
+        "stash_number": "19,001",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
         "STASH": "m01s19i013",
         "domain_profile": "DTILE",
         "model": "UKESM1",
+        "stash_number": "19,013",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i013",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
         "stash_number": "19,013",
         "time_profile": "TMONMN",
         "usage_profile": "UP5"
@@ -41771,6 +41958,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "land_class_mean(m01s19i001[lbtim_ia=240,lbproc=128], m01s19i013[lbtim_ia=240,lbproc=128], land_class='shrub')",
+      "Expression UKESM1-3": "land_class_mean(m01s19i001[lbtim_ia=240,lbproc=128], m01s19i013[lbtim_ia=240,lbproc=128], land_class='shrub')",
       "Model units": "kg m-2"
     },
     "STASH entries": [
@@ -41783,9 +41971,25 @@
         "usage_profile": "UP5"
       },
       {
+        "STASH": "m01s19i001",
+        "domain_profile": "DPFTS",
+        "model": "UKESM1-3",
+        "stash_number": "19,001",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
         "STASH": "m01s19i013",
         "domain_profile": "DTILE",
         "model": "UKESM1",
+        "stash_number": "19,013",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i013",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
         "stash_number": "19,013",
         "time_profile": "TMONMN",
         "usage_profile": "UP5"
@@ -41820,6 +42024,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "land_class_mean(m01s19i001[lbtim_ia=240,lbproc=128],m01s19i013[lbtim_ia=240,lbproc=128], land_class='grass')",
+      "Expression UKESM1-3": "land_class_mean(m01s19i001[lbtim_ia=240,lbproc=128],m01s19i013[lbtim_ia=240,lbproc=128], land_class='grass')",
       "Model units": "kg m-2"
     },
     "STASH entries": [
@@ -41832,9 +42037,25 @@
         "usage_profile": "UP5"
       },
       {
+        "STASH": "m01s19i001",
+        "domain_profile": "DPFTS",
+        "model": "UKESM1-3",
+        "stash_number": "19,001",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
         "STASH": "m01s19i013",
         "domain_profile": "DTILE",
         "model": "UKESM1",
+        "stash_number": "19,013",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i013",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
         "stash_number": "19,013",
         "time_profile": "TMONMN",
         "usage_profile": "UP5"
