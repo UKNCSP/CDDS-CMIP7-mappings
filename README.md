@@ -143,11 +143,12 @@ the same work to be done within a bash session. It relies on the github command 
     - `python scripts/dump_all_issues.py issue_review labels.json`  (retrieves all issues and writes a json file with information about issues that cannot go in the issue files)
     - `python scripts/dump_all_issues.py issue_review labels.txt`  (retrieves all issues and writes a text file with a table showing the same information as the json file)
     - `python scripts/dump_issue_subset.py issue_review atmosChem,-approved` (retrieves all issues that include the label `atmosChem`, but do not have the `approved` labels)
-4. either
+4. For variables which use STASH codes in their mapping expression, the STASH entries list must be consistent with the mapping expression - that is, each of the STASH codes in the mapping expression must appear in the STASH entries, and that there must be no codes in the entries which don't appear in the mapping expression.  The check_stash script checks for this: `python scripts/check_stash.py <issue file>`  
+5. either
     - Edit the text files using the editor of your choice, or
     - Use the simple_update script to copy the expression and STASH information from UKESM1 to UKESM1-3 and HadGEM3-GC31 to HadGEM3-GC5: `python scripts/simple_update.py <issue file>`
-5. Construct the list of github commands to push changes back to github; `python scripts/update_issue.py <issue file> <issue file> ...`
-6. If that list of commands looks correct (no python errors from the last command) run each gh command or pipe the output into bash; `python scripts/update_issue.py <issue file> <issue file> ... | bash`
-7. If you are ready to approve an issue run `python scripts/approve_issue.py <issue file> <issue file> ...` and then pipe the output to bash as above if this command succeeds.
+6. Construct the list of github commands to push changes back to github; `python scripts/update_issue.py <issue file> <issue file> ...`
+7. If that list of commands looks correct (no python errors from the last command) run each gh command or pipe the output into bash; `python scripts/update_issue.py <issue file> <issue file> ... | bash`
+8. If you are ready to approve an issue run `python scripts/approve_issue.py <issue file> <issue file> ...` and then pipe the output to bash as above if this command succeeds.
 
 Please test the above process out with a single issue to get familiar with the process before attempting many commands.  If you are not comfortable with this approach please contact Matt Mizielinski and Jeremy Walton to discuss using the csv files under the data directory.
