@@ -20845,6 +20845,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "land_class_area(m01s19i013[lbtim_ia=240,lbproc=128],m01s03i395[lbproc=128], land_class='pasture')",
+      "Expression UKESM1-3": "land_class_area(m01s19i013[lbtim_ia=240,lbproc=128],m01s03i395[lbproc=128], land_class='pasture')",
       "Model units": "%"
     },
     "STASH entries": [
@@ -20857,9 +20858,25 @@
         "usage_profile": "UP5"
       },
       {
+        "STASH": "m01s03i395",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "3,395",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
         "STASH": "m01s19i013",
         "domain_profile": "DTILE",
         "model": "UKESM1",
+        "stash_number": "19,013",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i013",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
         "stash_number": "19,013",
         "time_profile": "TMONMN",
         "usage_profile": "UP5"
@@ -22218,6 +22235,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "land_class_area(m01s19i013[lbtim_ia=240,lbproc=128],m01s03i395[lbproc=128], land_class='crop')",
+      "Expression UKESM1-3": "land_class_area(m01s19i013[lbtim_ia=240,lbproc=128],m01s03i395[lbproc=128], land_class='crop')",
       "Model units": "%"
     },
     "STASH entries": [
@@ -22230,9 +22248,25 @@
         "usage_profile": "UP5"
       },
       {
+        "STASH": "m01s03i395",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "3,395",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
         "STASH": "m01s19i013",
         "domain_profile": "DTILE",
         "model": "UKESM1",
+        "stash_number": "19,013",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i013",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
         "stash_number": "19,013",
         "time_profile": "TMONMN",
         "usage_profile": "UP5"
@@ -31082,7 +31116,8 @@
     "labels": [
       "mon",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "approved"
     ],
     "title": "Variable atmos.tntscp.tavg-p39-hy-air.mon.GLB (EmonZ.tntscp)"
   },
@@ -31157,7 +31192,8 @@
     "labels": [
       "mon",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "approved"
     ],
     "title": "Variable atmos.tntrscs.tavg-p39-hy-air.mon.GLB (EmonZ.tntrscs)"
   },
@@ -31224,7 +31260,8 @@
     "labels": [
       "mon",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "approved"
     ],
     "title": "Variable atmos.tntrs.tavg-p39-hy-air.mon.GLB (EmonZ.tntrs)"
   },
@@ -31299,7 +31336,8 @@
     "labels": [
       "mon",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "approved"
     ],
     "title": "Variable atmos.tntrlcs.tavg-p39-hy-air.mon.GLB (EmonZ.tntrlcs)"
   },
@@ -31374,7 +31412,8 @@
     "labels": [
       "mon",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "approved"
     ],
     "title": "Variable atmos.tntrl.tavg-p39-hy-air.mon.GLB (EmonZ.tntrl)"
   },
@@ -31821,7 +31860,8 @@
     "labels": [
       "mon",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "approved"
     ],
     "title": "Variable atmos.tntmp.tavg-p39-hy-air.mon.GLB (EmonZ.tntmp)"
   },
@@ -31888,7 +31928,8 @@
     "labels": [
       "mon",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "approved"
     ],
     "title": "Variable atmos.tntc.tavg-p39-hy-air.mon.GLB (EmonZ.tntc)"
   },
