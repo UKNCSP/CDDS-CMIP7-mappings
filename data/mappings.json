@@ -20887,7 +20887,8 @@
       "mon",
       "land",
       "CMIP6",
-      "UKESM1"
+      "UKESM1",
+      "approved"
     ],
     "title": "Variable land.pastureFrac.tavg-u-hxy-u.mon.GLB (Lmon.pastureFrac)"
   },
@@ -22277,7 +22278,8 @@
       "mon",
       "land",
       "CMIP6",
-      "UKESM1"
+      "UKESM1",
+      "approved"
     ],
     "title": "Variable land.cropFrac.tavg-u-hxy-u.mon.GLB (Lmon.cropFrac)"
   },
@@ -31147,14 +31149,6 @@
       "Model units": "K s-1"
     },
     "STASH entries": [
-      {
-        "STASH": "Model",
-        "domain_profile": "Time Profile",
-        "model": "",
-        "stash_number": "STASH",
-        "time_profile": "Section, item number",
-        "usage_profile": "Domain Profile"
-      },
       {
         "STASH": "m01s01i233",
         "domain_profile": "PLEV39Z",

@@ -335,10 +335,10 @@ HadGEM3-GC31,residualFrac_tavg-u-hxy-u,mon,m01s19i013,19,013,TMONMN,DTILE,UP5,Tr
 HadGEM3-GC5,residualFrac_tavg-u-hxy-u,mon,m01s19i013,19,013,TMONMN,DTILE,UP5,True
 UKESM1,ra_tavg-u-hxy-lnd,mon,m01s19i185,19,185,TMONMN,DIAG,UP5,True
 UKESM1-3,ra_tavg-u-hxy-lnd,mon,m01s19i185,19,185,TMONMN,DIAG,UP5,True
-UKESM1,pastureFrac_tavg-u-hxy-u,mon,m01s03i395,3,395,TMONMN,DIAG,UP5,False
-UKESM1-3,pastureFrac_tavg-u-hxy-u,mon,m01s03i395,3,395,TMONMN,DIAG,UP5,False
-UKESM1,pastureFrac_tavg-u-hxy-u,mon,m01s19i013,19,013,TMONMN,DTILE,UP5,False
-UKESM1-3,pastureFrac_tavg-u-hxy-u,mon,m01s19i013,19,013,TMONMN,DTILE,UP5,False
+UKESM1,pastureFrac_tavg-u-hxy-u,mon,m01s03i395,3,395,TMONMN,DIAG,UP5,True
+UKESM1-3,pastureFrac_tavg-u-hxy-u,mon,m01s03i395,3,395,TMONMN,DIAG,UP5,True
+UKESM1,pastureFrac_tavg-u-hxy-u,mon,m01s19i013,19,013,TMONMN,DTILE,UP5,True
+UKESM1-3,pastureFrac_tavg-u-hxy-u,mon,m01s19i013,19,013,TMONMN,DTILE,UP5,True
 UKESM1,npp_tavg-u-hxy-lnd,mon,m01s19i102,19,102,TMONMN,DIAG,UP5,True
 UKESM1-3,npp_tavg-u-hxy-lnd,mon,m01s19i102,19,102,TMONMN,DIAG,UP5,True
 UKESM1,nbp_tavg-u-hxy-lnd,mon,m01s19i042,19,042,TMONMN,DIAG,UP5,True
@@ -417,10 +417,10 @@ UKESM1,evspsblsoi_tavg-u-hxy-lnd,mon,m01s03i296,3,296,TMONMN,DIAG,UP5,True
 UKESM1-3,evspsblsoi_tavg-u-hxy-lnd,mon,m01s03i296,3,296,TMONMN,DIAG,UP5,True
 HadGEM3-GC31,evspsblsoi_tavg-u-hxy-lnd,mon,m01s03i296,3,296,TMONMN,DIAG,UP5,True
 HadGEM3-GC5,evspsblsoi_tavg-u-hxy-lnd,mon,m01s03i296,3,296,TMONMN,DIAG,UP5,True
-UKESM1,cropFrac_tavg-u-hxy-u,mon,m01s03i395,3,395,TMONMN,DIAG,UP5,False
-UKESM1-3,cropFrac_tavg-u-hxy-u,mon,m01s03i395,3,395,TMONMN,DIAG,UP5,False
-UKESM1,cropFrac_tavg-u-hxy-u,mon,m01s19i013,19,013,TMONMN,DTILE,UP5,False
-UKESM1-3,cropFrac_tavg-u-hxy-u,mon,m01s19i013,19,013,TMONMN,DTILE,UP5,False
+UKESM1,cropFrac_tavg-u-hxy-u,mon,m01s03i395,3,395,TMONMN,DIAG,UP5,True
+UKESM1-3,cropFrac_tavg-u-hxy-u,mon,m01s03i395,3,395,TMONMN,DIAG,UP5,True
+UKESM1,cropFrac_tavg-u-hxy-u,mon,m01s19i013,19,013,TMONMN,DTILE,UP5,True
+UKESM1-3,cropFrac_tavg-u-hxy-u,mon,m01s19i013,19,013,TMONMN,DTILE,UP5,True
 UKESM1,cVeg_tavg-u-hxy-lnd,mon,m01s19i002,19,002,TMONMN,DIAG,UP5,True
 UKESM1-3,cVeg_tavg-u-hxy-lnd,mon,m01s19i002,19,002,TMONMN,DIAG,UP5,True
 UKESM1,cRoot_tavg-u-hxy-lnd,mon,m01s19i030,19,030,TMONMN,DIAG,UP5,True
@@ -713,7 +713,6 @@ HadGEM3-GC31,tntscp_tavg-p39-hy-air,mon,m01s05i181,5, 181,TMONMN,PLEV39Z,UP5,Tru
 HadGEM3-GC5,tntscp_tavg-p39-hy-air,mon,m01s05i181,5, 181,TMONMN,PLEV39Z,UP5,True
 HadGEM3-GC31,tntscp_tavg-p39-hy-air,mon,m01s05i161,5, 161,TMONMN,PLEV39Z,UP5,True
 HadGEM3-GC5,tntscp_tavg-p39-hy-air,mon,m01s05i161,5, 161,TMONMN,PLEV39Z,UP5,True
-,tntrscs_tavg-p39-hy-air,mon,Model,0,STASH,"Section, item number",Time Profile,Domain Profile,True
 UKESM1,tntrscs_tavg-p39-hy-air,mon,m01s01i233,1, 233,TMONMN,PLEV39Z,UP5,True
 UKESM1-3,tntrscs_tavg-p39-hy-air,mon,m01s01i233,1, 233,TMONMN,PLEV39Z,UP5,True
 HadGEM3-GC31,tntrscs_tavg-p39-hy-air,mon,m01s01i233,1, 233,TMONMN,PLEV39Z,UP5,True
