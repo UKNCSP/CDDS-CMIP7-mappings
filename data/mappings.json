@@ -218,9 +218,43 @@
     },
     "Mapping information": {
       "Expression UKESM1": "land_use_tile_mean( m01s19i184[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR), m01s19i013[lbtim_ia=240,lbproc=128])",
+      "Expression UKESM1-3": "land_use_tile_mean( m01s19i184[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR), m01s19i013[lbtim_ia=240,lbproc=128])",
       "Model units": "kg m-2 s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s19i184",
+        "domain_profile": "DPFTS",
+        "model": "UKESM1",
+        "stash_number": "19,184",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i184",
+        "domain_profile": "DPFTS",
+        "model": "UKESM1-3",
+        "stash_number": "19,184",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i013",
+        "domain_profile": "DTILE",
+        "model": "UKESM1",
+        "stash_number": "19,013",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i013",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
+        "stash_number": "19,013",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 1860,
     "labels": [
       "mon",
@@ -37734,9 +37768,75 @@
     },
     "Mapping information": {
       "Expression UKESM1": "(m01s19i102[lbtim_ia=240,lbproc=128] - m01s19i053[lbtim_ia=240,lbproc=128] - m01s19i042[lbtim_ia=240,lbproc=128] - m01s19i044[lbtim_ia=240,lbproc=128]) / (SECONDS_IN_DAY * DAYS_IN_YEAR)",
+      "Expression UKESM1-3": "(m01s19i102[lbtim_ia=240,lbproc=128] - m01s19i053[lbtim_ia=240,lbproc=128] - m01s19i042[lbtim_ia=240,lbproc=128] - m01s19i044[lbtim_ia=240,lbproc=128]) / (SECONDS_IN_DAY * DAYS_IN_YEAR)",
       "Model units": "kg m-2 s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s19i102",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "19,102",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i102",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "19,102",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i053",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "19,053",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i053",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "19,053",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i042",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "19,042",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i042",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "19,042",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i044",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "19,044",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i044",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "19,044",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 961,
     "labels": [
       "mon",
@@ -39859,9 +39959,43 @@
     },
     "Mapping information": {
       "Expression UKESM1": "land_class_mean( m01s19i182[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR), m01s19i013[lbtim_ia=240,lbproc=128], land_class='tree')",
+      "Expression UKESM1-3": "land_class_mean( m01s19i182[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR), m01s19i013[lbtim_ia=240,lbproc=128], land_class='tree')",
       "Model units": "kg m-2 s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s19i182",
+        "domain_profile": "DPFTS",
+        "model": "UKESM1",
+        "stash_number": "19,182",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i182",
+        "domain_profile": "DPFTS",
+        "model": "UKESM1-3",
+        "stash_number": "19,182",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i013",
+        "domain_profile": "DTILE",
+        "model": "UKESM1",
+        "stash_number": "19,013",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i013",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
+        "stash_number": "19,013",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 922,
     "labels": [
       "mon",
@@ -39891,9 +40025,43 @@
     },
     "Mapping information": {
       "Expression UKESM1": "land_class_mean( m01s19i182[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR), m01s19i013[lbtim_ia=240,lbproc=128], land_class='shrub')",
+      "Expression UKESM1-3": "land_class_mean( m01s19i182[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR), m01s19i013[lbtim_ia=240,lbproc=128], land_class='shrub')",
       "Model units": "kg m-2 s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s19i182",
+        "domain_profile": "DPFTS",
+        "model": "UKESM1",
+        "stash_number": "19,182",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i182",
+        "domain_profile": "DPFTS",
+        "model": "UKESM1-3",
+        "stash_number": "19,182",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i013",
+        "domain_profile": "DTILE",
+        "model": "UKESM1",
+        "stash_number": "19,013",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i013",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
+        "stash_number": "19,013",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 921,
     "labels": [
       "mon",
@@ -40989,9 +41157,27 @@
     },
     "Mapping information": {
       "Expression UKESM1": "m01s19i122[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR)",
+      "Expression UKESM1-3": "m01s19i122[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR)",
       "Model units": "kg m-2 s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s19i122",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "19,122",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i122",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "19,122",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 897,
     "labels": [
       "mon",
@@ -41686,9 +41872,27 @@
     },
     "Mapping information": {
       "Expression UKESM1": "(m01s19i044[lbtim_ia=240,lbproc=128])/ (SECONDS_IN_DAY * DAYS_IN_YEAR)",
+      "Expression UKESM1-3": "(m01s19i044[lbtim_ia=240,lbproc=128])/ (SECONDS_IN_DAY * DAYS_IN_YEAR)",
       "Model units": "kg m-2 s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s19i044",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "19,044",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i044",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "19,044",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 880,
     "labels": [
       "mon",
