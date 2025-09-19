@@ -30686,9 +30686,398 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "(m01s03i181[lbproc=0] - m01s03i189[lbproc=0] + m01s04i141[lbproc=0] + m01s04i181[lbproc=0] + m01s16i161[lbproc=0] + m01s16i181[lbproc=0] + m01s01i181[lbproc=0] - m01s01i161[lbproc=0] + m01s02i181[lbproc=0] - m01s02i161[lbproc=0] + m01s05i181[lbproc=0] - m01s05i161[lbproc=0]) / ATMOS_TIMESTEP",
+      "Expression HadGEM3-GC5": "(m01s03i181[lbproc=0] - m01s03i189[lbproc=0] + m01s04i141[lbproc=0] + m01s04i181[lbproc=0] + m01s16i161[lbproc=0] + m01s16i181[lbproc=0] + m01s01i181[lbproc=0] - m01s01i161[lbproc=0] + m01s02i181[lbproc=0] - m01s02i161[lbproc=0] + m01s05i181[lbproc=0] - m01s05i161[lbproc=0]) / ATMOS_TIMESTEP",
+      "Expression UKESM1": "(m01s03i181[lbproc=0] - m01s03i189[lbproc=0] + m01s04i141[lbproc=0] + m01s04i181[lbproc=0] + m01s16i161[lbproc=0] + m01s16i181[lbproc=0] + m01s01i181[lbproc=0] - m01s01i161[lbproc=0] + m01s02i181[lbproc=0] - m01s02i161[lbproc=0] + m01s05i181[lbproc=0] - m01s05i161[lbproc=0]) / ATMOS_TIMESTEP",
+      "Expression UKESM1-3": "(m01s03i181[lbproc=0] - m01s03i189[lbproc=0] + m01s04i141[lbproc=0] + m01s04i181[lbproc=0] + m01s16i161[lbproc=0] + m01s16i181[lbproc=0] + m01s01i181[lbproc=0] - m01s01i161[lbproc=0] + m01s02i181[lbproc=0] - m01s02i161[lbproc=0] + m01s05i181[lbproc=0] - m01s05i161[lbproc=0]) / ATMOS_TIMESTEP",
+      "Model units": "K s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s03i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "3, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s03i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "3, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s03i189",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "3, 189",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s03i189",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "3, 189",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s04i141",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "4, 141",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s04i141",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "4, 141",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s04i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "4, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s04i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "4, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s16i161",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "16, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s16i161",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "16, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s16i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "16, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s16i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "16, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "1, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "1, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i161",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "1, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i161",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "1, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "2, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "2, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i161",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "2, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i161",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "2, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s05i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "5, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s05i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "5, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s05i161",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "5, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s05i161",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "5, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s03i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "3, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s03i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "3, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s03i189",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "3, 189",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s03i189",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "3, 189",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s04i141",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "4, 141",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s04i141",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "4, 141",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s04i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "4, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s04i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "4, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s16i161",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "16, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s16i161",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "16, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s16i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "16, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s16i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "16, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "1, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "1, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i161",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "1, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i161",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "1, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i161",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i161",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s05i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "5, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s05i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "5, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s05i161",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "5, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s05i161",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "5, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 1071,
     "labels": [
       "mon",
@@ -30716,9 +31105,54 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "m01s01i233[lbproc=0]",
+      "Expression HadGEM3-GC5": "m01s01i233[lbproc=0]",
+      "Expression UKESM1": "m01s01i233[lbproc=0]",
+      "Expression UKESM1-3": "m01s01i233[lbproc=0]",
+      "Model units": "K s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "Model",
+        "domain_profile": "Time Profile",
+        "model": "",
+        "stash_number": "STASH",
+        "time_profile": "Section, item number",
+        "usage_profile": "Domain Profile"
+      },
+      {
+        "STASH": "m01s01i233",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "1, 233",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i233",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "1, 233",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i233",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "1, 233",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i233",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "1, 233",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 1070,
     "labels": [
       "mon",
@@ -30746,9 +31180,46 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "m01s01i161[lbproc=0] / ATMOS_TIMESTEP",
+      "Expression HadGEM3-GC5": "m01s01i161[lbproc=0] / ATMOS_TIMESTEP",
+      "Expression UKESM1": "m01s01i161[lbproc=0] / ATMOS_TIMESTEP",
+      "Expression UKESM1-3": "m01s01i161[lbproc=0] / ATMOS_TIMESTEP",
+      "Model units": "K s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s01i161",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "1, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i161",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "1, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i161",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "1, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i161",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "1, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 1069,
     "labels": [
       "mon",
@@ -30776,9 +31247,54 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "m01s02i233[lbproc=0]",
+      "Expression HadGEM3-GC5": "m01s02i233[lbproc=0]",
+      "Expression UKESM1": "m01s02i233[lbproc=0]",
+      "Expression UKESM1-3": "m01s02i233[lbproc=0]",
+      "Model units": "K s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "Model",
+        "domain_profile": "Time Profile",
+        "model": "",
+        "stash_number": "STASH",
+        "time_profile": "Section, item number",
+        "usage_profile": "Domain Profile"
+      },
+      {
+        "STASH": "m01s02i233",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "2, 233",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i233",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "2, 233",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i233",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2, 233",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i233",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2, 233",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 1068,
     "labels": [
       "mon",
@@ -30806,9 +31322,54 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "m01s02i161[lbproc=0] / ATMOS_TIMESTEP",
+      "Expression HadGEM3-GC5": "m01s02i161[lbproc=0] / ATMOS_TIMESTEP",
+      "Expression UKESM1": "m01s02i161[lbproc=0] / ATMOS_TIMESTEP",
+      "Expression UKESM1-3": "m01s02i161[lbproc=0] / ATMOS_TIMESTEP",
+      "Model units": "K s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "Model",
+        "domain_profile": "Time Profile",
+        "model": "",
+        "stash_number": "STASH",
+        "time_profile": "Section, item number",
+        "usage_profile": "Domain Profile"
+      },
+      {
+        "STASH": "m01s02i161",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "2, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i161",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "2, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i161",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i161",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 1067,
     "labels": [
       "mon",
@@ -30896,9 +31457,366 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "(m01s14i181[lbproc=0]+ m01s01i181[lbproc=0] + m01s02i181[lbproc=0] + m01s03i181[lbproc=0] + m01s04i141[lbproc=0] + m01s04i181[lbproc=0] + m01s05i181[lbproc=0] + m01s06i181[lbproc=0] + m01s16i161[lbproc=0] + m01s16i181[lbproc=0] + m01s35i029[lbproc=0]) / ATMOS_TIMESTEP",
+      "Expression HadGEM3-GC5": "(m01s14i181[lbproc=0]+ m01s01i181[lbproc=0] + m01s02i181[lbproc=0] + m01s03i181[lbproc=0] + m01s04i141[lbproc=0] + m01s04i181[lbproc=0] + m01s05i181[lbproc=0] + m01s06i181[lbproc=0] + m01s16i161[lbproc=0] + m01s16i181[lbproc=0] + m01s35i029[lbproc=0]) / ATMOS_TIMESTEP",
+      "Expression UKESM1": "(m01s14i181[lbproc=0]+ m01s01i181[lbproc=0] + m01s02i181[lbproc=0] + m01s03i181[lbproc=0] + m01s04i141[lbproc=0] + m01s04i181[lbproc=0] + m01s05i181[lbproc=0] + m01s06i181[lbproc=0] + m01s16i161[lbproc=0] + m01s16i181[lbproc=0] + m01s35i029[lbproc=0]) / ATMOS_TIMESTEP",
+      "Expression UKESM1-3": "(m01s14i181[lbproc=0]+ m01s01i181[lbproc=0] + m01s02i181[lbproc=0] + m01s03i181[lbproc=0] + m01s04i141[lbproc=0] + m01s04i181[lbproc=0] + m01s05i181[lbproc=0] + m01s06i181[lbproc=0] + m01s16i161[lbproc=0] + m01s16i181[lbproc=0] + m01s35i029[lbproc=0]) / ATMOS_TIMESTEP",
+      "Model units": "K s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s14i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "14, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s14i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "14, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "1, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "1, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "2, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "2, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s03i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "3, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s03i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "3, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s04i141",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "4, 141",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s04i141",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "4, 141",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s04i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "4, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s04i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "4, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s05i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "5, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s05i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "5, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s06i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "6, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s06i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "6, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s16i161",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "16, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s16i161",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "16, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s16i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "16, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s16i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "16, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s35i029",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "35, 029",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s35i029",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "35, 029",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s14i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "14, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s14i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "14, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "1, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "1, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s03i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "3, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s03i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "3, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s04i141",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "4, 141",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s04i141",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "4, 141",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s04i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "4, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s04i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "4, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s05i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "5, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s05i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "5, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s06i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "6, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s06i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "6, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s16i161",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "16, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s16i161",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "16, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s16i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "16, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s16i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "16, 181",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s35i029",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "35, 029",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s35i029",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "35, 029",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 1064,
     "labels": [
       "mon",
@@ -30926,9 +31844,46 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "m01s05i161[lbproc=0] / ATMOS_TIMESTEP",
+      "Expression HadGEM3-GC5": "m01s05i161[lbproc=0] / ATMOS_TIMESTEP",
+      "Expression UKESM1": "m01s05i161[lbproc=0] / ATMOS_TIMESTEP",
+      "Expression UKESM1-3": "m01s05i161[lbproc=0] / ATMOS_TIMESTEP",
+      "Model units": "K s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s05i161",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "5, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s05i161",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "5, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s05i161",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "5, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s05i161",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "5, 161",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 1063,
     "labels": [
       "mon",
