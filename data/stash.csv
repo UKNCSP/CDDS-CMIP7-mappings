@@ -4360,6 +4360,14 @@ UKESM1,tas_tpt-h2m-hxy-u,3hr,m01s03i236,3,236,T3HR,DIAG,UP8,True
 UKESM1-3,tas_tpt-h2m-hxy-u,3hr,m01s03i236,3,236,T3HR,DIAG,UP8,True
 HadGEM3-GC31,tas_tpt-h2m-hxy-u,3hr,m01s03i236,3,236,T3HR,DIAG,UP8,True
 HadGEM3-GC5,tas_tpt-h2m-hxy-u,3hr,m01s03i236,3,236,T3HR,DIAG,UP8,True
+UKESM1,srfrad_tavg-u-hxy-u,3hr,m01s02i201,2,201,TMONMN,DIAG,,False
+UKESM1,srfrad_tavg-u-hxy-u,3hr,m01s01i201,1,201,TMONMN,DIAG,,False
+UKESM1-3,srfrad_tavg-u-hxy-u,3hr,m01s02i201,2,201,TMONMN,DIAG,,False
+UKESM1-3,srfrad_tavg-u-hxy-u,3hr,m01s01i201,1,201,TMONMN,DIAG,,False
+HadGEM3-GC31,srfrad_tavg-u-hxy-u,3hr,m01s02i201,2,201,TMONMN,DIAG,,False
+HadGEM3-GC31,srfrad_tavg-u-hxy-u,3hr,m01s01i201,1,201,TMONMN,DIAG,,False
+HadGEM3-GC5,srfrad_tavg-u-hxy-u,3hr,m01s02i201,2,201,TMONMN,DIAG,,False
+HadgEM3-GC5,srfrad_tavg-u-hxy-u,3hr,m01s01i201,1,201,TMONMN,DIAG,,False
 UKESM1,rsus_tavg-u-hxy-u,3hr,m01s01i201,1,201,T3HRMN,DIAG,UP8,True
 UKESM1,rsus_tavg-u-hxy-u,3hr,m01s01i235,1,235,T3HRMN,DIAG,UP8,True
 UKESM1-3,rsus_tavg-u-hxy-u,3hr,m01s01i201,1,201,T3HRMN,DIAG,UP8,True

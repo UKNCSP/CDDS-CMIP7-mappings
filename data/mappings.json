@@ -712,7 +712,8 @@
     "issue_number": 1847,
     "labels": [
       "fx",
-      "land"
+      "land",
+      "do-not-produce"
     ],
     "title": "Variable land.depthsl.ti-u-hxy-u.fx.GLB (fx.depthsl)"
   },
@@ -741,7 +742,8 @@
     "issue_number": 1846,
     "labels": [
       "fx",
-      "land"
+      "land",
+      "do-not-produce"
     ],
     "title": "Variable land.depthl.ti-u-hxy-u.fx.GLB (fx.depthl)"
   },
@@ -3351,7 +3353,8 @@
     "issue_number": 1807,
     "labels": [
       "day",
-      "land"
+      "land",
+      "do-not-produce"
     ],
     "title": "Variable land.irrSurf.tavg-u-hxy-u.day.GLB (day.irrSurf)"
   },
@@ -3380,7 +3383,8 @@
     "issue_number": 1806,
     "labels": [
       "day",
-      "land"
+      "land",
+      "do-not-produce"
     ],
     "title": "Variable land.irrLut.tavg-u-hxy-u.day.GLB (day.irrLut)"
   },
@@ -3409,7 +3413,8 @@
     "issue_number": 1805,
     "labels": [
       "day",
-      "land"
+      "land",
+      "do-not-produce"
     ],
     "title": "Variable land.irrGw.tavg-u-hxy-u.day.GLB (day.irrGw)"
   },
@@ -3438,7 +3443,8 @@
     "issue_number": 1804,
     "labels": [
       "day",
-      "land"
+      "land",
+      "do-not-produce"
     ],
     "title": "Variable land.irrDem.tavg-u-hxy-u.day.GLB (day.irrDem)"
   },
@@ -22015,7 +22021,8 @@
     "issue_number": 1282,
     "labels": [
       "mon",
-      "land"
+      "land",
+      "do-not-produce"
     ],
     "title": "Variable land.fHarvestToGeologicStorage.tavg-u-hxy-lnd.mon.GLB (Lmon.fHarvestToGeologicStorage)"
   },
@@ -22531,7 +22538,8 @@
     "issue_number": 1272,
     "labels": [
       "mon",
-      "land"
+      "land",
+      "do-not-produce"
     ],
     "title": "Variable land.cGeologicStorage.tavg-u-hxy-u.mon.GLB (Lmon.cGeologicStorage)"
   },
@@ -46489,7 +46497,8 @@
     "issue_number": 772,
     "labels": [
       "day",
-      "land"
+      "land",
+      "do-not-produce"
     ],
     "title": "Variable land.rhVgt.tavg-u-hxy-multi.day.GLB (Eday.rhVgt)"
   },
@@ -92185,9 +92194,78 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "m01s02i201[lbproc=128] - m01s01i201[lbproc=128]",
+      "Expression HadGEM3-GC5": "m01s02i201[lbproc=128] - m01s01i201[lbproc=128]",
+      "Expression UKESM1": "m01s02i201[lbproc=128] - m01s01i201[lbproc=128]",
+      "Expression UKESM1-3": "m01s02i201[lbproc=128] - m01s01i201[lbproc=128]",
+      "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s02i201",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "2,201",
+        "time_profile": "TMONMN",
+        "usage_profile": ""
+      },
+      {
+        "STASH": "m01s01i201",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "1,201",
+        "time_profile": "TMONMN",
+        "usage_profile": ""
+      },
+      {
+        "STASH": "m01s02i201",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "2,201",
+        "time_profile": "TMONMN",
+        "usage_profile": ""
+      },
+      {
+        "STASH": "m01s01i201",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "1,201",
+        "time_profile": "TMONMN",
+        "usage_profile": ""
+      },
+      {
+        "STASH": "m01s02i201",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2,201",
+        "time_profile": "TMONMN",
+        "usage_profile": ""
+      },
+      {
+        "STASH": "m01s01i201",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "1,201",
+        "time_profile": "TMONMN",
+        "usage_profile": ""
+      },
+      {
+        "STASH": "m01s02i201",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,201",
+        "time_profile": "TMONMN",
+        "usage_profile": ""
+      },
+      {
+        "STASH": "m01s01i201",
+        "domain_profile": "DIAG",
+        "model": "HadgEM3-GC5",
+        "stash_number": "1,201",
+        "time_profile": "TMONMN",
+        "usage_profile": ""
+      }
+    ],
     "issue_number": 106,
     "labels": [
       "3hr",
