@@ -56415,7 +56415,9 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "m01s03i217[lbproc=0]",
+      "Expression HadGEM3-GC5": "m01s03i217[lbproc=0]",
       "Expression UKESM1": "m01s03i217[lbproc=0]",
+      "Expression UKESM1-3": "m01s03i217[lbproc=0]",
       "Model units": "W m-2"
     },
     "STASH entries": [
@@ -56423,6 +56425,30 @@
         "STASH": "m01s03i217",
         "domain_profile": "DTSL1P126",
         "model": "HadGEM3-GC31",
+        "stash_number": "3,217",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s03i217",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM3-GC5",
+        "stash_number": "3,217",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s03i217",
+        "domain_profile": "DTSL1P126",
+        "model": "UKESM1",
+        "stash_number": "3,217",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s03i217",
+        "domain_profile": "DTSL1P126",
+        "model": "UKESM1-3",
         "stash_number": "3,217",
         "time_profile": "EVERYTS",
         "usage_profile": "UPT"
@@ -56458,7 +56484,9 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "m01s03i234[lbproc=0]",
+      "Expression HadGEM3-GC5": "m01s03i234[lbproc=0]",
       "Expression UKESM1": "m01s03i234[lbproc=0]",
+      "Expression UKESM1-3": "m01s03i234[lbproc=0]",
       "Model units": "W m-2"
     },
     "STASH entries": [
@@ -56466,6 +56494,30 @@
         "STASH": "m01s03i234",
         "domain_profile": "DTSL1P126",
         "model": "HadGEM3-GC31",
+        "stash_number": "3,234",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s03i234",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM3-GC5",
+        "stash_number": "3,234",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s03i234",
+        "domain_profile": "DTSL1P126",
+        "model": "UKESM1",
+        "stash_number": "3,234",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s03i234",
+        "domain_profile": "DTSL1P126",
+        "model": "UKESM1-3",
         "stash_number": "3,234",
         "time_profile": "EVERYTS",
         "usage_profile": "UPT"
@@ -56634,7 +56686,9 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "m01s03i223[lbproc=0]",
+      "Expression HadGEM3-GC5": "m01s03i223[lbproc=0]",
       "Expression UKESM1": "m01s03i223[lbproc=0]",
+      "Expression UKESM1-3": "m01s03i223[lbproc=0]",
       "Model units": "kg m-2 s-1"
     },
     "STASH entries": [
@@ -56642,6 +56696,30 @@
         "STASH": "m01s03i223",
         "domain_profile": "DTSL1P126",
         "model": "HadGEM3-GC31",
+        "stash_number": "3,223",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s03i223",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM3-GC5",
+        "stash_number": "3,223",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s03i223",
+        "domain_profile": "DTSL1P126",
+        "model": "UKESM1",
+        "stash_number": "3,223",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s03i223",
+        "domain_profile": "DTSL1P126",
+        "model": "UKESM1-3",
         "stash_number": "3,223",
         "time_profile": "EVERYTS",
         "usage_profile": "UPT"
@@ -56717,7 +56795,9 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "m01s02i391[lbproc=0] + m01s02i392[lbproc=0]",
+      "Expression HadGEM3-GC5": "m01s02i391[lbproc=0] + m01s02i392[lbproc=0]",
       "Expression UKESM1": "m01s02i391[lbproc=0] + m01s02i392[lbproc=0]",
+      "Expression UKESM1-3": "m01s02i391[lbproc=0] + m01s02i392[lbproc=0]",
       "Model units": "kg m-2"
     },
     "STASH entries": [
@@ -56730,9 +56810,57 @@
         "usage_profile": "UPT"
       },
       {
+        "STASH": "m01s02i391",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,391",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s02i391",
+        "domain_profile": "DTSL1P126",
+        "model": "UKESM1",
+        "stash_number": "2,391",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s02i391",
+        "domain_profile": "DTSL1P126",
+        "model": "UKESM1-3",
+        "stash_number": "2,391",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
         "STASH": "m01s02i392",
         "domain_profile": "DTSL1P126",
         "model": "HadGEM3-GC31",
+        "stash_number": "2,392",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s02i392",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,392",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s02i392",
+        "domain_profile": "DTSL1P126",
+        "model": "UKESM1",
+        "stash_number": "2,392",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s02i392",
+        "domain_profile": "DTSL1P126",
+        "model": "UKESM1-3",
         "stash_number": "2,392",
         "time_profile": "EVERYTS",
         "usage_profile": "UPT"
@@ -56768,7 +56896,9 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "m01s02i308[lbproc=0]",
+      "Expression HadGEM3-GC5": "m01s02i308[lbproc=0]",
       "Expression UKESM1": "m01s02i308[lbproc=0]",
+      "Expression UKESM1-3": "m01s02i308[lbproc=0]",
       "Model units": "kg kg-1"
     },
     "STASH entries": [
@@ -56776,6 +56906,30 @@
         "STASH": "m01s02i308",
         "domain_profile": "DTSL85P126",
         "model": "HadGEM3-GC31",
+        "stash_number": "2,308",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s02i308",
+        "domain_profile": "DTSL85P126",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,308",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s02i308",
+        "domain_profile": "DTSL85P126",
+        "model": "UKESM1",
+        "stash_number": "2,308",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s02i308",
+        "domain_profile": "DTSL85P126",
+        "model": "UKESM1-3",
         "stash_number": "2,308",
         "time_profile": "EVERYTS",
         "usage_profile": "UPT"
@@ -56811,7 +56965,9 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "m01s02i204[lbproc=0]",
+      "Expression HadGEM3-GC5": "m01s02i204[lbproc=0]",
       "Expression UKESM1": "m01s02i204[lbproc=0]",
+      "Expression UKESM1-3": "m01s02i204[lbproc=0]",
       "Model units": "1"
     },
     "STASH entries": [
@@ -56819,6 +56975,30 @@
         "STASH": "m01s02i204",
         "domain_profile": "DTSL1P126",
         "model": "HadGEM3-GC31",
+        "stash_number": "2,204",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s02i204",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,204",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s02i204",
+        "domain_profile": "DTSL1P126",
+        "model": "UKESM1",
+        "stash_number": "2,204",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s02i204",
+        "domain_profile": "DTSL1P126",
+        "model": "UKESM1-3",
         "stash_number": "2,204",
         "time_profile": "EVERYTS",
         "usage_profile": "UPT"
@@ -56854,7 +57034,9 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "m01s02i392[lbproc=0]",
+      "Expression HadGEM3-GC5": "m01s02i392[lbproc=0]",
       "Expression UKESM1": "m01s02i392[lbproc=0]",
+      "Expression UKESM1-3": "m01s02i392[lbproc=0]",
       "Model units": "kg m-2"
     },
     "STASH entries": [
@@ -56862,6 +57044,30 @@
         "STASH": "m01s02i392",
         "domain_profile": "DTSL1P126",
         "model": "HadGEM3-GC31",
+        "stash_number": "2,392",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s02i392",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,392",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s02i392",
+        "domain_profile": "DTSL1P126",
+        "model": "UKESM1",
+        "stash_number": "2,392",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s02i392",
+        "domain_profile": "DTSL1P126",
+        "model": "UKESM1-3",
         "stash_number": "2,392",
         "time_profile": "EVERYTS",
         "usage_profile": "UPT"
@@ -56897,7 +57103,9 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "m01s02i309[lbproc=0]",
+      "Expression HadGEM3-GC5": "m01s02i309[lbproc=0]",
       "Expression UKESM1": "m01s02i309[lbproc=0]",
+      "Expression UKESM1-3": "m01s02i309[lbproc=0]",
       "Model units": "kg kg-1"
     },
     "STASH entries": [
@@ -56905,6 +57113,30 @@
         "STASH": "m01s02i309",
         "domain_profile": "DTSL85P126",
         "model": "HadGEM3-GC31",
+        "stash_number": "2,309",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s02i309",
+        "domain_profile": "DTSL85P126",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,309",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s02i309",
+        "domain_profile": "DTSL85P126",
+        "model": "UKESM1",
+        "stash_number": "2,309",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s02i309",
+        "domain_profile": "DTSL85P126",
+        "model": "UKESM1-3",
         "stash_number": "2,309",
         "time_profile": "EVERYTS",
         "usage_profile": "UPT"
@@ -56940,7 +57172,9 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "m01s02i261[lbproc=0]",
+      "Expression HadGEM3-GC5": "m01s02i261[lbproc=0]",
       "Expression UKESM1": "m01s02i261[lbproc=0]",
+      "Expression UKESM1-3": "m01s02i261[lbproc=0]",
       "Model units": "1"
     },
     "STASH entries": [
@@ -56948,6 +57182,30 @@
         "STASH": "m01s02i261",
         "domain_profile": "DTSL85P126",
         "model": "HadGEM3-GC31",
+        "stash_number": "2,261",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s02i261",
+        "domain_profile": "DTSL85P126",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,261",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s02i261",
+        "domain_profile": "DTSL85P126",
+        "model": "UKESM1",
+        "stash_number": "2,261",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s02i261",
+        "domain_profile": "DTSL85P126",
+        "model": "UKESM1-3",
         "stash_number": "2,261",
         "time_profile": "EVERYTS",
         "usage_profile": "UPT"
