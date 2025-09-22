@@ -4,6 +4,10 @@
 
 This repository is being used for collection and review of model configuration for the UKESM1-3 and HadGEM3-GC5 based models being prepared for CMIP7 submission in 2026.
 
+## New users
+
+You'll need to be given access to this repository in order to interact with the issues. This can either be done by clicking on "issues", "New Issue" and selecting the "New Reviewer Request" or clicking [here](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/new?template=new_reviewer.yml).
+
 ## Mapping and STASH information 
 
 Information is being held for each mapping in the body of github issues, e.g. [#67](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/67) contains the information for 
