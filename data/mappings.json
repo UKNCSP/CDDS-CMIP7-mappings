@@ -20082,7 +20082,11 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "mask_copy(hfx, mask_2D_U)",
+      "Expression HadGEM3-GC5": "mask_copy(hfx, mask_2D_U)",
+      "Expression UKESM1": "mask_copy(hfx, mask_2D_U)",
+      "Expression UKESM1-3": "mask_copy(hfx, mask_2D_U)",
+      "Model units": "W"
     },
     "STASH entries": [],
     "issue_number": 1318,
