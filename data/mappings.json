@@ -2038,7 +2038,8 @@
       "landIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable landIce.snc.tavg-u-hxy-lnd.day.GLB (day.snc)"
   },
@@ -5326,7 +5327,8 @@
     "issue_number": 1764,
     "labels": [
       "mon",
-      "ocnBgchem"
+      "ocnBgchem",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.sisi.tavg-u-hxy-si.mon.GLB (SImon.sisi)"
   },
@@ -5551,7 +5553,8 @@
     "issue_number": 1757,
     "labels": [
       "mon",
-      "ocnBgchem"
+      "ocnBgchem",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.sino3.tavg-u-hxy-si.mon.GLB (SImon.sino3)"
   },
@@ -5642,6 +5645,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "apeff_ai / aice",
       "Model units": ""
     },
     "STASH entries": [],
@@ -5947,7 +5951,8 @@
     "issue_number": 1745,
     "labels": [
       "mon",
-      "ocnBgchem"
+      "ocnBgchem",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.sigpp.tavg-u-hxy-si.mon.GLB (SImon.sigpp)"
   },
@@ -7793,7 +7798,8 @@
     "issue_number": 1703,
     "labels": [
       "mon",
-      "ocnBgchem"
+      "ocnBgchem",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.sichl.tavg-u-hxy-si.mon.GLB (SImon.sichl)"
   },
@@ -7912,7 +7918,8 @@
     "issue_number": 1699,
     "labels": [
       "mon",
-      "ocnBgchem"
+      "ocnBgchem",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.sialgc.tavg-u-hxy-si.mon.GLB (SImon.sialgc)"
   },
