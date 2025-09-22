@@ -15683,8 +15683,10 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Expression HadGEM3-GC31": "mask_copy(hfx, mask_2D_U)",
-      "Expression UKESM1": "mask_copy(hfx, mask_2D_U)",
+      "Expression HadGEM3-GC31": "1026. * 3991.86795711963 * dyuo * thkcelluo * uto",
+      "Expression HadGEM3-GC5": "1026. * 3991.86795711963 * dyuo * thkcelluo * uto",
+      "Expression UKESM1": "1026. * 3991.86795711963 * dyuo * thkcelluo * uto",
+      "Expression UKESM1-3": "1026. * 3991.86795711963 * dyuo * thkcelluo * uto",
       "Model units": "W"
     },
     "STASH entries": [],
