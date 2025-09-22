@@ -15616,8 +15616,10 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Expression HadGEM3-GC31": "mask_copy(hfy, mask_2D_V)",
-      "Expression UKESM1": "mask_copy(hfy, mask_2D_V)",
+      "Expression HadGEM3-GC31": "1026. * 3991.86795711963 * dxvo * thkcellvo * vto",
+      "Expression HadGEM3-GC5": "1026. * 3991.86795711963 * dxvo * thkcellvo * vto",
+      "Expression UKESM1": "1026. * 3991.86795711963 * dxvo * thkcellvo * vto",
+      "Expression UKESM1-3": "1026. * 3991.86795711963 * dxvo * thkcellvo * vto",
       "Model units": "W"
     },
     "STASH entries": [],
