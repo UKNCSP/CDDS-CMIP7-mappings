@@ -37,7 +37,9 @@ Automatic processes (github actions) regenerate these files as issues are added 
 ### Processors
 
 Processors are python functions used to do more complex manipulation than simple arithmetic operations. The current set of processors can be found [here](https://github.com/MetOffice/CDDS/blob/main/mip_convert/mip_convert/plugins/base/data/processors.py)
-and new ones will be added as required. The responsibility for developing these processors will be considered at a later date, once the amount of resource required is clearer.
+and new ones will be added as required. If a mapping needs a processor that does not exist please construct a suitable name and we will identify processors that don't exist later.
+
+The responsibility for developing these processors will be considered at a later date, once the amount of resource required is clearer.
 
 ## Prerequisites for the Review process
 
