@@ -20049,7 +20049,11 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "mask_copy(hfy, mask_2D_V)",
+      "Expression HadGEM3-GC5": "mask_copy(hfy, mask_2D_V)",
+      "Expression UKESM1": "mask_copy(hfy, mask_2D_V)",
+      "Expression UKESM1-3": "mask_copy(hfy, mask_2D_V)",
+      "Model units": "W"
     },
     "STASH entries": [],
     "issue_number": 1319,
