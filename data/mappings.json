@@ -8333,6 +8333,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "sispeed",
       "Expression UKESM1": "sispeed",
+      "Expression UKESM1-3": "sispeed",
       "Model units": "m s-1"
     },
     "STASH entries": [],
@@ -8367,6 +8368,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "sisnthick",
       "Expression UKESM1": "sisnthick",
+      "Expression UKESM1-3": "sisnthick",
       "Model units": "m"
     },
     "STASH entries": [],
@@ -8457,6 +8459,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "sisnhc",
       "Model units": ""
     },
     "STASH entries": [],
@@ -8486,6 +8489,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "sisaltmass",
       "Model units": ""
     },
     "STASH entries": [],
@@ -8544,6 +8548,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "vrdg / ardg",
       "Model units": ""
     },
     "STASH entries": [],
@@ -8573,6 +8578,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "ardg",
       "Model units": ""
     },
     "STASH entries": [],
@@ -8602,6 +8608,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "hpond_ai / aice",
       "Model units": ""
     },
     "STASH entries": [],
@@ -8631,6 +8638,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "ipond_ai / apond_ai",
       "Model units": ""
     },
     "STASH entries": [],
@@ -8660,6 +8668,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "apeff_ai / aice",
       "Model units": ""
     },
     "STASH entries": [],
@@ -8689,6 +8698,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "apond_ai / aice",
       "Model units": ""
     },
     "STASH entries": [],
@@ -8718,6 +8728,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "vicen / aicen",
       "Model units": ""
     },
     "STASH entries": [],
@@ -8747,6 +8758,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "vsnon / aicen",
       "Model units": ""
     },
     "STASH entries": [],
@@ -8776,6 +8788,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "snowfracn",
       "Model units": ""
     },
     "STASH entries": [],
@@ -8805,6 +8818,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "aicen",
       "Model units": ""
     },
     "STASH entries": [],
