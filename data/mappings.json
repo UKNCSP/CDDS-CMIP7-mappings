@@ -8037,6 +8037,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "siv",
       "Expression UKESM1": "siv",
+      "Expression UKESM1-3": "siv",
       "Model units": "m s-1"
     },
     "STASH entries": [],
@@ -8071,6 +8072,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "siu",
       "Expression UKESM1": "siu",
+      "Expression UKESM1-3": "siu",
       "Model units": "m s-1"
     },
     "STASH entries": [],
@@ -8105,6 +8107,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "ice_present",
       "Expression UKESM1": "ice_present",
+      "Expression UKESM1-3": "ice_present",
       "Model units": "1"
     },
     "STASH entries": [],
@@ -8139,6 +8142,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "sithick",
       "Expression UKESM1": "sithick",
+      "Expression UKESM1-3": "sithick",
       "Model units": "m"
     },
     "STASH entries": [],
@@ -8302,6 +8306,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "sitempbot",
       "Model units": ""
     },
     "STASH entries": [],
