@@ -30,6 +30,11 @@ Note that there are separate files for variables which were present in CMIP6 and
 
 Automatic processes (github actions) regenerate these files as issues are added or updated (see [here](https://github.com/UKNCSP/CDDS-CMIP7-mappings/actions/workflows/update_data_csv_json.yml)).
 
+### Processors
+
+Processors are python functions used to do more complex manipulation than simple arithmetic operations. The current set of processors can be found [here](https://github.com/MetOffice/CDDS/blob/main/mip_convert/mip_convert/plugins/base/data/processors.py)
+and new ones will be added as required. The responsibility for developing these processors will be considered at a later date, once the amount of resource required is clearer.
+
 ## Prerequisites for the Review process
 
 Anyone with a github account can comment on issues, but to edit the body of the github issues and contribute 
