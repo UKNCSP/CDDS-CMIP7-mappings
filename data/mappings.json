@@ -5652,7 +5652,8 @@
     "issue_number": 1754,
     "labels": [
       "mon",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.simpeffconc.tavg-u-hxy-si.mon.GLB (SImon.simpeffconc)"
   },
@@ -8833,6 +8834,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "sihc",
       "Model units": ""
     },
     "STASH entries": [],
@@ -8862,6 +8864,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "m01s01i503[lbproc=128] / m01s00i031[lbproc=128]",
       "Model units": ""
     },
     "STASH entries": [],
@@ -8891,6 +8894,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "m01s01i501[lbproc=128] / m01s00i031[lbproc=128]",
       "Model units": ""
     },
     "STASH entries": [],
@@ -8949,6 +8953,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "-1. * m01s03i533[lbproc=128] / m01s00i031[lbproc=128]",
       "Model units": ""
     },
     "STASH entries": [],
@@ -8978,6 +8983,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "siflsensupbot",
       "Model units": ""
     },
     "STASH entries": [],
@@ -9007,6 +9013,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "m01s03i531[lbproc=128] / m01s00i031[lbproc=128]",
       "Model units": ""
     },
     "STASH entries": [],
@@ -9036,6 +9043,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "m01s02i501[lbproc=128] / m01s00i031[lbproc=128]",
       "Model units": ""
     },
     "STASH entries": [],
@@ -9065,6 +9073,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "-1. * flat_ai / aice",
       "Model units": ""
     },
     "STASH entries": [],
@@ -9094,6 +9103,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "siflcondtop",
       "Model units": ""
     },
     "STASH entries": [],
@@ -9123,6 +9133,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "siflcondbot",
       "Model units": ""
     },
     "STASH entries": [],
@@ -9152,6 +9163,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "sifb",
       "Model units": ""
     },
     "STASH entries": [],
