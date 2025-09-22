@@ -9,13 +9,47 @@ UKESM_only_variables = [
     'Amon.fco2antt',
     'Amon.fco2fos',
     'Amon.fco2nat',
+
     'Eday.loadbc',
     'Eday.loadoa',
     'Eday.loadss',
     'Eday.loadso4',
+
     'Emon.co23D',
     'Emon.co2s',
     'Emon.loadso4',
+    'Emon.cropFracC3',
+    'Emon.cropFracC4',
+    'Emon.cVegGrass',
+    'Emon.cVegShrub',
+    'Emon.cVegTree',
+    'Emon.fAnthDisturb',
+    'Emon.fNProduct',
+    'Emon.fracLut',
+    'Emon.gppGrass',
+    'Emon.gppShrub',
+    'Emon.gppTree',
+    'Emon.grassFracC3',
+    'Emon.grassFracC4',
+    'Emon.netAtmosLandCO2Flux',
+    'Emon.nppGrass',
+    'Emon.nppShrub',
+    'Emon.nppTree',
+    'Emon.pastureFracC3',
+    'Emon.pastureFracC4',
+    'Emon.raGrass',
+    'Emon.raLut',
+    'Emon.raShrub',
+    'Emon.raTree',
+    'Emon.treeFracBdlEvg',
+    'Emon.treeFracNdlDcd',
+    'Emon.vegHeight',
+    'Emon.vegHeightGrass',
+    'Emon.vegHeightShrub',
+    'Emon.vegHeightTree',
+
+    'Lmon.pastureFrac',
+    'Lmon.cropFrac',
     ]
 
 if __name__ == '__main__':
@@ -133,10 +167,16 @@ if __name__ == '__main__':
         # Summary of results for this variable.  Check whether there were any codes
         # in the Expression lines and STASH entries first.
         if not foundSTASHinExpression:
-            print(f"No STASH codes found in Expression lines for {filename} %%%")
+            if filename in UKESM_only_variables:
+                print(f"No STASH codes found in Expression lines for {filename} (UKESM_only) %%%\n")
+            else:
+                print(f"No STASH codes found in Expression lines for {filename} %%%\n")
             continue
         if not foundSTASHentries:
-            print(f"No STASH entries found for {filename} ~~~")
+            if filename in UKESM_only_variables:
+                print(f"No STASH entries found for {filename} (UKESM_only) ~~~\n")
+            else:
+                print(f"No STASH entries found for {filename} ~~~\n")
             continue
         # Otherwise, report whether all codes in the Expression lines were found in the
         # STASH entries, and vice versa.
