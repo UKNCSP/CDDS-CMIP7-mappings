@@ -19452,7 +19452,6 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "thetao[olevel=30]",
-      "Expression HadGEM3-GC5": "eos_pt_from_ct(bigthetao[olevel=30])",
       "Expression UKESM1": "thetao[olevel=30]",
       "Expression UKESM1-3": "thetao[olevel=30]",
       "Model units": "degC"
@@ -36974,7 +36973,8 @@
     "labels": [
       "mon",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.raOther.tavg-u-hxy-lnd.mon.GLB (Emon.raOther)"
   },
@@ -37679,7 +37679,8 @@
     "labels": [
       "mon",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.nppOther.tavg-u-hxy-lnd.mon.GLB (Emon.nppOther)"
   },
@@ -38362,7 +38363,8 @@
     "labels": [
       "mon",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.nOther.tavg-u-hxy-lnd.mon.GLB (Emon.nOther)"
   },
@@ -44175,7 +44177,8 @@
     "labels": [
       "mon",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.cOther.tavg-u-hxy-lnd.mon.GLB (Emon.cOther)"
   },
