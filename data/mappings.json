@@ -19520,13 +19520,18 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "so",
+      "Expression HadGEM3-GC5": "so_abs",
+      "Expression UKESM1": "so",
+      "Expression UKESM1-3": "so",
+      "Model units": "1E-03"
     },
     "STASH entries": [],
     "issue_number": 1337,
     "labels": [
       "day",
-      "ocean"
+      "ocean",
+      "approved_HadGEM"
     ],
     "title": "Variable ocean.so.tavg-ol-hxy-sea.day.GLB (Oday.so)"
   },
@@ -44716,7 +44721,8 @@
     "issue_number": 833,
     "labels": [
       "mon",
-      "land"
+      "land",
+      "do-not-produce"
     ],
     "title": "Variable land.albc.tavg-u-hxy-veg.mon.GLB (Emon.albc)"
   },
