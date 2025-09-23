@@ -720,7 +720,7 @@
     "issue_number": 1849,
     "labels": [
       "fx",
-      "land"
+      "landIce"
     ],
     "title": "Variable landIce.lithk.ti-u-hxy-u.fx.GLB (fx.lithk)"
   },
@@ -19554,7 +19554,11 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "rsdo",
+      "Expression HadGEM3-GC5": "rsdo",
+      "Expression UKESM1": "rsdo",
+      "Expression UKESM1-3": "rsdo",
+      "Model units": "W m-2"
     },
     "STASH entries": [],
     "issue_number": 1336,
