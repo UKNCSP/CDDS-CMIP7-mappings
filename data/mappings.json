@@ -39446,7 +39446,8 @@
     "labels": [
       "mon",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.irrLut.tavg-u-hxy-multi.mon.GLB (Emon.irrLut)"
   },
@@ -48315,7 +48316,8 @@
     "labels": [
       "day",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.qgwr.tavg-u-hxy-lnd.day.GLB (Eday.qgwr)"
   },
@@ -50708,7 +50710,8 @@
     "labels": [
       "day",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.dgw.tavg-u-hxy-lnd.day.GLB (Eday.dgw)"
   },
@@ -56992,7 +56995,9 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "m01s03i298[lbproc=0]",
+      "Expression HadGEM3-GC5": "m01s03i298[lbproc=0]",
       "Expression UKESM1": "m01s03i298[lbproc=0]",
+      "Expression UKESM1-3": "m01s03i298[lbproc=0]",
       "Model units": "kg m-2 s-1"
     },
     "STASH entries": [
@@ -57000,6 +57005,38 @@
         "STASH": "m01s03i298",
         "domain_profile": "DTSL1P126",
         "model": "HadGEM3-GC31",
+        "stash_number": "3,298",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s03i298",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM3-GC5",
+        "stash_number": "3,298",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s03i298",
+        "domain_profile": "DTSL1P126",
+        "model": "UKESM1",
+        "stash_number": "3,298",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s03i298",
+        "domain_profile": "DTSL1P126",
+        "model": "UKESM1-3",
+        "stash_number": "3,298",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s03i298",
+        "domain_profile": "DTSL1P126",
+        "model": "UKESM1-3",
         "stash_number": "3,298",
         "time_profile": "EVERYTS",
         "usage_profile": "UPT"

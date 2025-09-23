@@ -2160,6 +2160,10 @@ HadGEM3-GC5,sci_tavg-u-hxys-u,subhr,m01s05i270,5,270,EVERYTS,DTSL1P126,UPT,False
 UKESM1,sci_tavg-u-hxys-u,subhr,m01s05i270,5,270,EVERYTS,DTSL1P126,UPT,False
 UKESM1-3,sci_tavg-u-hxys-u,subhr,m01s05i270,5,270,EVERYTS,DTSL1P126,UPT,False
 HadGEM3-GC31,sbl_tpt-u-hxys-u,subhr,m01s03i298,3,298,EVERYTS,DTSL1P126,UPT,False
+HadGEM3-GC5,sbl_tpt-u-hxys-u,subhr,m01s03i298,3,298,EVERYTS,DTSL1P126,UPT,False
+UKESM1,sbl_tpt-u-hxys-u,subhr,m01s03i298,3,298,EVERYTS,DTSL1P126,UPT,False
+UKESM1-3,sbl_tpt-u-hxys-u,subhr,m01s03i298,3,298,EVERYTS,DTSL1P126,UPT,False
+UKESM1-3,sbl_tpt-u-hxys-u,subhr,m01s03i298,3,298,EVERYTS,DTSL1P126,UPT,False
 HadGEM3-GC31,rtmt_tpt-u-hxys-u,subhr,m01s01i207,1,207,EVERYTS,DTSL1P126,UPT,False
 HadGEM3-GC5,rtmt_tpt-u-hxys-u,subhr,m01s01i207,1,207,EVERYTS,DTSL1P126,UPT,False
 UKESM1,rtmt_tpt-u-hxys-u,subhr,m01s01i207,1,207,EVERYTS,DTSL1P126,UPT,False
