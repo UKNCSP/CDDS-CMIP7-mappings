@@ -20346,10 +20346,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Expression HadGEM3-GC31": "eos_ct_from_pt(thetao[olevel=30])",
       "Expression HadGEM3-GC5": "bigthetao[olevel=30]",
-      "Expression UKESM1": "eos_ct_from_pt(thetao[olevel=30])",
-      "Expression UKESM1-3": "eos_ct_from_pt(thetao[olevel=30])",
       "Model units": "degC"
     },
     "STASH entries": [],
@@ -20357,7 +20354,7 @@
     "labels": [
       "day",
       "ocean",
-      "approved"
+      "approved_HadGEM"
     ],
     "title": "Variable ocean.bigthetao.tavg-op20bar-hxy-sea.day.GLB (Oday.bigthetao200)"
   },
