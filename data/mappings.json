@@ -96990,13 +96990,18 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "-1 * (sowaflup + sowflisf)",
+      "Expression HadGEM3-GC5": "-1 * (sowaflup + sowflisf)",
+      "Expression UKESM1": "-1 * (sowaflup + sowflisf)",
+      "Expression UKESM1-3": "-1 * (sowaflup + sowflisf)",
+      "Model units": "kg m-2 s-1"
     },
     "STASH entries": [],
     "issue_number": 116,
     "labels": [
       "3hr",
-      "ocean"
+      "ocean",
+      "approved"
     ],
     "title": "Variable ocean.wfo.tavg-u-hxy-sea.3hr.GLB (3hr.wfo)"
   },
