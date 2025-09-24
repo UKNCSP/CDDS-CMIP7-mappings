@@ -32260,11 +32260,22 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression HadGEM3-GC5": "m01s03i463[lbproc=128]",
       "Model units": ""
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s03i463",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "0,024",
+        "time_profile": "",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 1060,
     "labels": [
+      "question",
       "mon",
       "atmos"
     ],
@@ -32557,7 +32568,8 @@
     "labels": [
       "mon",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.vtendogw.tavg-p19-hxy-air.mon.GLB (Emon.vtendogw)"
   },
@@ -32587,7 +32599,8 @@
     "labels": [
       "mon",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.vtendnogw.tavg-p19-hxy-air.mon.GLB (Emon.vtendnogw)"
   },
@@ -34988,6 +35001,7 @@
     "STASH entries": [],
     "issue_number": 1027,
     "labels": [
+      "question",
       "mon",
       "atmos"
     ],
@@ -35017,6 +35031,7 @@
     "STASH entries": [],
     "issue_number": 1026,
     "labels": [
+      "question",
       "mon",
       "atmos"
     ],
@@ -35046,6 +35061,7 @@
     "STASH entries": [],
     "issue_number": 1025,
     "labels": [
+      "question",
       "mon",
       "atmos"
     ],
@@ -35075,6 +35091,7 @@
     "STASH entries": [],
     "issue_number": 1024,
     "labels": [
+      "question",
       "mon",
       "atmos"
     ],
@@ -35104,6 +35121,7 @@
     "STASH entries": [],
     "issue_number": 1023,
     "labels": [
+      "question",
       "mon",
       "atmos"
     ],
@@ -37171,6 +37189,7 @@
     "STASH entries": [],
     "issue_number": 975,
     "labels": [
+      "question",
       "mon",
       "atmos",
       "CMIP6"
@@ -43364,7 +43383,8 @@
     "labels": [
       "mon",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.cldnci.tavg-u-hxy-cl.mon.GLB (Emon.cldnci)"
   },
@@ -44742,7 +44762,10 @@
     "issue_number": 835,
     "labels": [
       "mon",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.albsrfc.tavg-u-hxy-u.mon.GLB (Emon.albsrfc)"
   },
