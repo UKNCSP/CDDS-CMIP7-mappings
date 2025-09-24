@@ -801,7 +801,7 @@ UKESM1,epfy_tavg-p39-hy-air,mon,m01s30i301,30,301,TMONMN,PLEV39Z,UP5,True
 UKESM1,epfy_tavg-p39-hy-air,mon,m01s30i312,30,312,TMONMN,PLEV39,UP5,True
 UKESM1-3,epfy_tavg-p39-hy-air,mon,m01s30i301,30,301,TMONMN,PLEV39Z,UP5,True
 UKESM1-3,epfy_tavg-p39-hy-air,mon,m01s30i312,30,312,TMONMN,PLEV39,UP5,True
-HadGEM3-GC5,wsg_tmax-h10m-hxy-u,mon,m01s03i463,0,024,,DIAG,UP5,False
+HadGEM3-GC5,wsg_tmax-h10m-hxy-u,mon,m01s03i463,0,024,TMAXMON,DIAG,UP5,False
 HadGEM3-GC31,wetlandFrac_tavg-u-hxy-u,mon,m01s03i395,3,395,TMONMN,DIAG,UP5,True
 HadGEM3-GC31,wetlandFrac_tavg-u-hxy-u,mon,m01s08i248,8,248,TMONMN,DIAG,UP5,True
 HadGEM3-GC5,wetlandFrac_tavg-u-hxy-u,mon,m01s03i395,3,395,TMONMN,DIAG,UP5,True
