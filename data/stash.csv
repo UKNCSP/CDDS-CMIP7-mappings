@@ -409,6 +409,7 @@ UKESM1,gpp_tavg-u-hxy-lnd,mon,m01s19i183,19,183,TMONMN,DIAG,UP5,True
 UKESM1-3,gpp_tavg-u-hxy-lnd,mon,m01s19i183,19,183,TMONMN,DIAG,UP5,True
 UKESM1,fVegSoil_tavg-u-hxy-lnd,mon,m01s19i005,19,005,TMONMN,DIAG,UP5,True
 UKESM1-3,fVegSoil_tavg-u-hxy-lnd,mon,m01s19i005,19,005,TMONMN,DIAG,UP5,True
+UKESM1-3,fVegLitter_tavg-u-hxy-lnd,mon,m01s19i005,19,005,TMONMN,DIAG,UP5,False
 HadGEM3-GC31,evspsblveg_tavg-u-hxy-lnd,mon,m01s03i297,3,297,TMONMN,DIAG,UP5,True
 HadGEM3-GC5,evspsblveg_tavg-u-hxy-lnd,mon,m01s03i297,3,297,TMONMN,DIAG,UP5,True
 UKESM1,evspsblveg_tavg-u-hxy-lnd,mon,m01s03i297,3,297,TMONMN,DIAG,UP5,True
