@@ -20947,7 +20947,8 @@
     "labels": [
       "mon",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.prveg.tavg-u-hxy-lnd.mon.GLB (Lmon.prveg)"
   },
@@ -25473,7 +25474,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "yvelsurf",
+      "Model units": "m yr^-1"
     },
     "STASH entries": [],
     "issue_number": 1230,
@@ -26463,7 +26465,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "yvelsurf",
+      "Model units": "m yr^-1"
     },
     "STASH entries": [],
     "issue_number": 1197,
