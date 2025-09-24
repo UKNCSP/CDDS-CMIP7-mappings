@@ -32273,7 +32273,7 @@
       "Expression HadGEM3-GC5": "m01s03i463[lbproc=128]",
       "Expression UKESM1": "m01s03i463[lbproc=128]",
       "Expression UKESM1-3": "m01s03i463[lbproc=128]",
-      "Model units": ""
+      "Model units": "m s-1"
     },
     "STASH entries": [
       {
