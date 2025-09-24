@@ -22062,7 +22062,8 @@
     "labels": [
       "mon",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "approved"
     ],
     "title": "Variable land.fVegLitter.tavg-u-hxy-lnd.mon.GLB (Lmon.fVegLitter)"
   },
@@ -41422,9 +41423,19 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1-3": "m01s19i124[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR)",
+      "Model units": "kg m-2 s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s19i124",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "19,124",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 898,
     "labels": [
       "mon",
