@@ -3123,7 +3123,8 @@
     "issue_number": 1812,
     "labels": [
       "day",
-      "atmos"
+      "atmos",
+      "do-not-produce"
     ],
     "title": "Variable atmos.noaahi2m.tmax-h2m-hxy-u.day.GLB (day.noaahi2mmax)"
   },
@@ -3152,7 +3153,8 @@
     "issue_number": 1811,
     "labels": [
       "day",
-      "atmos"
+      "atmos",
+      "do-not-produce"
     ],
     "title": "Variable atmos.noaahi2m.tavg-h2m-hxy-u.day.GLB (day.noaahi2m)"
   },
@@ -19167,14 +19169,19 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "zos",
+      "Expression HadGEM3-GC5": "zos",
+      "Expression UKESM1": "zos",
+      "Expression UKESM1-3": "zos",
+      "Model units": "m"
     },
     "STASH entries": [],
     "issue_number": 1348,
     "labels": [
       "day",
       "ocean",
-      "BCV"
+      "BCV",
+      "approved"
     ],
     "title": "Variable ocean.zos.tavg-u-hxy-sea.day.GLB (Oday.zos)"
   },
@@ -66414,7 +66421,8 @@
       "mon",
       "atmos",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.clwvimodis.tavg-u-hxy-u.mon.GLB (CFmon.clwvimodis)"
   },
@@ -67240,7 +67248,8 @@
       "mon",
       "atmos",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.clmodis.tavg-p7c-hxy-air.mon.GLB (CFmon.clmodis)"
   },
@@ -67544,7 +67553,8 @@
       "mon",
       "atmos",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.clivimodis.tavg-u-hxy-u.mon.GLB (CFmon.clivimodis)"
   },
@@ -70271,7 +70281,8 @@
       "day",
       "atmos",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.hur.tavg-700hPa-hxy-air.day.GLB (CFday.hur700)"
   },
@@ -103230,6 +103241,7 @@
     "STASH entries": [],
     "issue_number": 21,
     "labels": [
+      "question",
       "mon",
       "atmos",
       "CMIP6"
