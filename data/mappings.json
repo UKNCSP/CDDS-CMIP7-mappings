@@ -22142,7 +22142,8 @@
     "labels": [
       "mon",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.fFire.tavg-u-hxy-lnd.mon.GLB (Lmon.fFire)"
   },
@@ -22945,7 +22946,8 @@
     "labels": [
       "mon",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.burntFractionAll.tavg-u-hxy-u.mon.GLB (Lmon.burntFractionAll)"
   },
@@ -40833,7 +40835,8 @@
     "labels": [
       "mon",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.fVegFire.tavg-u-hxy-lnd.mon.GLB (Emon.fVegFire)"
   },
@@ -41201,7 +41204,8 @@
     "labels": [
       "mon",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.fNgasFire.tavg-u-hxy-lnd.mon.GLB (Emon.fNgasFire)"
   },
@@ -41796,7 +41800,8 @@
     "labels": [
       "mon",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.fLitterFire.tavg-u-hxy-lnd.mon.GLB (Emon.fLitterFire)"
   },
@@ -41907,7 +41912,8 @@
     "labels": [
       "mon",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.fFireNat.tavg-u-hxy-lnd.mon.GLB (Emon.fFireNat)"
   },
@@ -41937,7 +41943,8 @@
     "labels": [
       "mon",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.fFireAll.tavg-u-hxy-lnd.mon.GLB (Emon.fFireAll)"
   },
@@ -97136,13 +97143,18 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "mask_copy(tauvo, mask_2D_V)",
+      "Expression HadGEM3-GC5": "mask_copy(tauvo, mask_2D_V)",
+      "Expression UKESM1": "mask_copy(tauvo, mask_2D_V)",
+      "Expression UKESM1-3": "mask_copy(tauvo, mask_2D_V)",
+      "Model units": "N m-2"
     },
     "STASH entries": [],
     "issue_number": 110,
     "labels": [
       "3hr",
-      "ocean"
+      "ocean",
+      "approved"
     ],
     "title": "Variable ocean.tauvo.tavg-u-hxy-sea.3hr.GLB (3hr.tauvo)"
   },
