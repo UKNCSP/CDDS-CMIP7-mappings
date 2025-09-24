@@ -2337,9 +2337,46 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "m01s01i201[lbproc=128]",
+      "Expression HadGEM3-GC5": "m01s01i201[lbproc=128]",
+      "Expression UKESM1": "m01s01i201[lbproc=128]",
+      "Expression UKESM1-3": "m01s01i201[lbproc=128]",
+      "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s01i201",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "1,201",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s01i201",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "1,201",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s01i201",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "1,201",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s01i201",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "1,201",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      }
+    ],
     "issue_number": 1824,
     "labels": [
       "day",
@@ -2615,7 +2652,10 @@
     "issue_number": 1820,
     "labels": [
       "day",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.rluscs.tavg-u-hxy-u.day.GLB (day.rluscs)"
   },
