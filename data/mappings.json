@@ -98615,13 +98615,18 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "hfds",
+      "Expression HadGEM3-GC5": "hfds",
+      "Expression UKESM1": "hfds",
+      "Expression UKESM1-3": "hfds",
+      "Model units": "W m-2"
     },
     "STASH entries": [],
     "issue_number": 86,
     "labels": [
       "3hr",
-      "ocean"
+      "ocean",
+      "approved"
     ],
     "title": "Variable ocean.hfds.tavg-u-hxy-sea.3hr.GLB (3hr.hfds)"
   },
