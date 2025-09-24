@@ -2525,7 +2525,7 @@
       },
       {
         "STASH": "m01s02i219",
-        "domain_profile": "DIAG",
+        "domain_profile": "DALLRHP1",
         "model": "HadGEM3-GC31",
         "stash_number": "2,219",
         "time_profile": "TDAYMN",
@@ -2549,7 +2549,7 @@
       },
       {
         "STASH": "m01s02i219",
-        "domain_profile": "DIAG",
+        "domain_profile": "DALLRHP1",
         "model": "HadGEM3-GC5",
         "stash_number": "2,219",
         "time_profile": "TDAYMN",
@@ -2573,7 +2573,7 @@
       },
       {
         "STASH": "m01s02i219",
-        "domain_profile": "DIAG",
+        "domain_profile": "DALLRHP1",
         "model": "UKESM1",
         "stash_number": "2,219",
         "time_profile": "TDAYMN",
@@ -2597,7 +2597,7 @@
       },
       {
         "STASH": "m01s02i219",
-        "domain_profile": "DIAG",
+        "domain_profile": "DALLRHP1",
         "model": "UKESM1-3",
         "stash_number": "2,219",
         "time_profile": "TDAYMN",
