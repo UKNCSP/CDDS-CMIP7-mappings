@@ -97567,13 +97567,18 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "qsr",
+      "Expression HadGEM3-GC5": "qsr",
+      "Expression UKESM1": "qsr",
+      "Expression UKESM1-3": "qsr",
+      "Model units": "W m-2"
     },
     "STASH entries": [],
     "issue_number": 103,
     "labels": [
       "3hr",
-      "ocean"
+      "ocean",
+      "approved"
     ],
     "title": "Variable ocean.rsntds.tavg-u-hxy-sea.3hr.GLB (3hr.rsntds)"
   },
