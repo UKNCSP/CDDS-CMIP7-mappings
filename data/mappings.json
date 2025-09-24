@@ -2381,7 +2381,10 @@
     "labels": [
       "day",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.rss.tavg-u-hxy-u.day.GLB (day.rss)"
   },
@@ -2548,7 +2551,7 @@
       "Expression HadGEM3-GC31": "m01s02i219[lblev=1, lbproc=128] + m01s03i332[lbproc=128] - m01s02i205[lbproc=128]",
       "Expression HadGEM3-GC5": "m01s02i219[lblev=1, lbproc=128] + m01s03i332[lbproc=128] - m01s02i205[lbproc=128]",
       "Expression UKESM1": "m01s02i219[lblev=1, lbproc=128] + m01s03i332[lbproc=128] - m01s02i205[lbproc=128]",
-      "Expression UKESM1-3": "m01s02i219[lblev=1, lbproc=128] + m01s03i332[lbproc=128] - m01s02i205[lbproc=128]",
+      "Expression UKESM1-3": "m01s02i219[lblev=1, lbproc=128] + m01s03i332[lbproc=128] - m01s02i205[lbproc=128] ",
       "Model units": "W m-2"
     },
     "STASH entries": [

@@ -119,10 +119,10 @@ UKESM1,rsus_tavg-u-hxy-u,day,m01s01i201,1,201,TDAYMN,DIAG,UP6,True
 UKESM1,rsus_tavg-u-hxy-u,day,m01s01i235,1,235,TDAYMN,DIAG,UP6,True
 UKESM1-3,rsus_tavg-u-hxy-u,day,m01s01i201,1,201,TDAYMN,DIAG,UP6,True
 UKESM1-3,rsus_tavg-u-hxy-u,day,m01s01i235,1,235,TDAYMN,DIAG,UP6,True
-HadGEM3-GC31,rss_tavg-u-hxy-u,day,m01s01i201,1,201,TDAYMN,DIAG,UP6,False
-HadGEM3-GC5,rss_tavg-u-hxy-u,day,m01s01i201,1,201,TDAYMN,DIAG,UP6,False
-UKESM1,rss_tavg-u-hxy-u,day,m01s01i201,1,201,TDAYMN,DIAG,UP6,False
-UKESM1-3,rss_tavg-u-hxy-u,day,m01s01i201,1,201,TDAYMN,DIAG,UP6,False
+HadGEM3-GC31,rss_tavg-u-hxy-u,day,m01s01i201,1,201,TDAYMN,DIAG,UP6,True
+HadGEM3-GC5,rss_tavg-u-hxy-u,day,m01s01i201,1,201,TDAYMN,DIAG,UP6,True
+UKESM1,rss_tavg-u-hxy-u,day,m01s01i201,1,201,TDAYMN,DIAG,UP6,True
+UKESM1-3,rss_tavg-u-hxy-u,day,m01s01i201,1,201,TDAYMN,DIAG,UP6,True
 HadGEM3-GC31,rsds_tavg-u-hxy-u,day,m01s01i235,1,235,TDAYMN,DIAG,UP6,True
 HadGEM3-GC5,rsds_tavg-u-hxy-u,day,m01s01i235,1,235,TDAYMN,DIAG,UP6,True
 UKESM1,rsds_tavg-u-hxy-u,day,m01s01i235,1,235,TDAYMN,DIAG,UP6,True
