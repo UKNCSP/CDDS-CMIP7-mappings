@@ -22269,8 +22269,7 @@
       "mon",
       "land",
       "CMIP6",
-      "UKESM1",
-      "approved"
+      "UKESM1"
     ],
     "title": "Variable land.fVegSoil.tavg-u-hxy-lnd.mon.GLB (Lmon.fVegSoil)"
   },
@@ -22334,9 +22333,19 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1-3": "m01s19i005[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR)",
+      "Model units": "kg m-2 s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s19i005",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "19,005",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 1283,
     "labels": [
       "mon",
@@ -33428,7 +33437,8 @@
     "labels": [
       "question",
       "mon",
-      "atmos"
+      "atmos",
+      "approved"
     ],
     "title": "Variable atmos.wsg.tmax-h10m-hxy-u.mon.GLB (Emon.wsgmax10m)"
   },
@@ -102237,7 +102247,10 @@
     "issue_number": 52,
     "labels": [
       "mon",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.rluscs.tavg-u-hxy-u.mon.GLB (Amon.rluscs)"
   },
