@@ -5082,7 +5082,8 @@
     "labels": [
       "mon",
       "seaIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sistressave.tpt-u-hxy-si.mon.GLB (SImon.sistressave)"
   },
@@ -5117,7 +5118,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sispeed.tavg-u-hxy-si.mon.GLB (SImon.sispeed)"
   },
@@ -5153,7 +5155,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "BCV"
+      "BCV",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.snd.tavg-u-hxy-sn.mon.GLB (SImon.sisnthick)"
   },
@@ -5182,7 +5185,8 @@
     "issue_number": 1776,
     "labels": [
       "mon",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sisnmass.tavg-u-hm-u.mon.SH (SImon.sisnmasss)"
   },
@@ -5211,7 +5215,8 @@
     "issue_number": 1775,
     "labels": [
       "mon",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sisnmass.tavg-u-hm-u.mon.NH (SImon.sisnmassn)"
   },
@@ -5241,7 +5246,8 @@
     "labels": [
       "mon",
       "seaIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sisnmassacrossline.tavg-u-ht-u.mon.GLB (SImon.sisnmassacrossline)"
   },
@@ -5266,6 +5272,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "hs * SNOW_DENSITY",
       "Expression UKESM1": "hs * SNOW_DENSITY",
+      "Expression UKESM1-3": "hs * SNOW_DENSITY",
       "Model units": "kg m-2"
     },
     "STASH entries": [],
@@ -5275,7 +5282,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.snw.tavg-u-hxy-si.mon.GLB (SImon.sisnmass)"
   },
