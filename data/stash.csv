@@ -2028,10 +2028,10 @@ HadGEM3-GC31,pr_tavg-u-hxy-u,1hr,m01s05i216,5,216,T1HRMN,DIAG,UP9,True
 HadGEM3-GC5,pr_tavg-u-hxy-u,1hr,m01s05i216,5,216,T1HRMN,DIAG,UP9,True
 UKESM1,pr_tavg-u-hxy-u,1hr,m01s05i216,5,216,T1HRMN,DIAG,UP9,True
 UKESM1-3,pr_tavg-u-hxy-u,1hr,m01s05i216,5,216,T1HRMN,DIAG,UP9,True
-HadGEM3-GC31,bldep_tavg-u-hxy-u,1hr,m01s03i304,3,304,T1HRMN,DIAG,UP9,False
-HadGEM3-GC5,bldep_tavg-u-hxy-u,1hr,m01s03i304,3,304,T1HRMN,DIAG,UP9,False
-UKESM1,bldep_tavg-u-hxy-u,1hr,m01s03i304,3,304,T1HRMN,DIAG,UP9,False
-UKESM1-3,bldep_tavg-u-hxy-u,1hr,m01s03i304,3,304,T1HRMN,DIAG,UP9,False
+HadGEM3-GC31,bldep_tavg-u-hxy-u,1hr,m01s03i304,3,304,T1HRMN,DIAG,UP9,True
+HadGEM3-GC5,bldep_tavg-u-hxy-u,1hr,m01s03i304,3,304,T1HRMN,DIAG,UP9,True
+UKESM1,bldep_tavg-u-hxy-u,1hr,m01s03i304,3,304,T1HRMN,DIAG,UP9,True
+UKESM1-3,bldep_tavg-u-hxy-u,1hr,m01s03i304,3,304,T1HRMN,DIAG,UP9,True
 HadGEM3-GC31,zg_tpt-al-hxys-u,subhr,m01s16i201,16,201,EVERYTS,DTSL85P126,UPT,True
 HadGEM3-GC5,zg_tpt-al-hxys-u,subhr,m01s16i201,16,201,EVERYTS,DTSL85P126,UPT,True
 UKESM1,zg_tpt-al-hxys-u,subhr,m01s16i201,16,201,EVERYTS,DTSL85P126,UPT,True

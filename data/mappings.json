@@ -5010,6 +5010,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "sistrxdtop",
       "Expression UKESM1": "sistrxdtop",
+      "Expression UKESM1-3": "sistrxdtop",
       "Model units": "N m-2"
     },
     "STASH entries": [],
@@ -55301,7 +55302,10 @@
     "issue_number": 654,
     "labels": [
       "1hr",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.bldep.tavg-u-hxy-u.1hr.GLB (E1hr.bldep)"
   },
