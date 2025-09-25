@@ -1790,6 +1790,10 @@ HadGEM3-GC31,prw_tavg-u-hxy-u,day,m01s30i461,30,461,TDAYMN,DIAG,UP6,True
 HadGEM3-GC5,prw_tavg-u-hxy-u,day,m01s30i461,30,461,TDAYMN,DIAG,UP6,True
 UKESM1,prw_tavg-u-hxy-u,day,m01s30i461,30,461,TDAYMN,DIAG,UP6,True
 UKESM1-3,prw_tavg-u-hxy-u,day,m01s30i461,30,461,TDAYMN,DIAG,UP6,True
+HadGEM3-GC31,prra_tavg-u-hxy-lnd,day,m01s05i214,5,214,TDAYMN,DIAG,UP6,False
+HadGEM3-GC5,prra_tavg-u-hxy-lnd,day,m01s05i214,5,214,TDAYMN,DIAG,UP6,False
+UKESM1,prra_tavg-u-hxy-lnd,day,m01s05i214,5,214,TDAYMN,DIAG,UP6,False
+UKESM1-3,prra_tavg-u-hxy-lnd,day,m01s05i214,5,214,TDAYMN,DIAG,UP6,False
 HadGEM3-GC31,parasolRefl_tavg-u-hxy-sea,day,m01s02i348,2,348,TDAYMN,DCOSP5SZA,UP6,True
 HadGEM3-GC5,parasolRefl_tavg-u-hxy-sea,day,m01s02i348,2,348,TDAYMN,DCOSP5SZA,UP6,True
 UKESM1,parasolRefl_tavg-u-hxy-sea,day,m01s02i348,2,348,TDAYMN,DCOSP5SZA,UP6,True
