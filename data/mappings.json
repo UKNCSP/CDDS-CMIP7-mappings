@@ -19688,7 +19688,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "BCV"
+      "BCV",
+      "approved_UKESM"
     ],
     "title": "Variable ocean.tos.tavg-u-hxy-sea.day.GLB (Oday.tos)"
   },
@@ -19757,7 +19758,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "BCV"
+      "BCV",
+      "approved_UKESM"
     ],
     "title": "Variable ocean.sos.tavg-u-hxy-sea.day.GLB (Oday.sos)"
   },
@@ -22333,19 +22335,9 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression UKESM1-3": "m01s19i005[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR)",
-      "Model units": "kg m-2 s-1"
+      "Model units": ""
     },
-    "STASH entries": [
-      {
-        "STASH": "m01s19i005",
-        "domain_profile": "DIAG",
-        "model": "UKESM1-3",
-        "stash_number": "19,005",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP5"
-      }
-    ],
+    "STASH entries": [],
     "issue_number": 1283,
     "labels": [
       "mon",
@@ -37418,7 +37410,8 @@
     "issue_number": 993,
     "labels": [
       "mon",
-      "aerosol"
+      "aerosol",
+      "atmos"
     ],
     "title": "Variable atmos.reffsclwtop.tavg-u-hxy-scl.mon.GLB (Emon.reffsclwtop)"
   },
@@ -37855,7 +37848,8 @@
     "issue_number": 988,
     "labels": [
       "mon",
-      "aerosol"
+      "aerosol",
+      "atmos"
     ],
     "title": "Variable aerosol.reffccwctop.tavg-u-hxy-ccl.mon.GLB (Emon.reffccwctop)"
   },
@@ -37884,7 +37878,8 @@
     "issue_number": 987,
     "labels": [
       "mon",
-      "aerosol"
+      "aerosol",
+      "atmos"
     ],
     "title": "Variable atmos.reffcclwtop.tavg-u-hxy-ccl.mon.GLB (Emon.reffcclwtop)"
   },
@@ -102898,7 +102893,10 @@
     "issue_number": 44,
     "labels": [
       "mon",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.prra.tavg-u-hxy-u.mon.GLB (Amon.prra)"
   },

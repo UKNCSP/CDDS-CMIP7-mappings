@@ -438,7 +438,6 @@ UKESM1-3,gpp_tavg-u-hxy-lnd,mon,m01s19i183,19,183,TMONMN,DIAG,UP5,True
 UKESM1,fVegSoil_tavg-u-hxy-lnd,mon,m01s19i005,19,005,TMONMN,DIAG,UP5,False
 UKESM1-3,fVegSoil_tavg-u-hxy-lnd,mon,m01s19i005,19,005,TMONMN,DIAG,UP5,False
 UKESM1-3,fVegLitter_tavg-u-hxy-lnd,mon,m01s19i005,19,005,TMONMN,DIAG,UP5,True
-UKESM1-3,fLitterSoil_tavg-u-hxy-lnd,mon,m01s19i005,19,005,TMONMN,DIAG,UP5,False
 HadGEM3-GC31,evspsblveg_tavg-u-hxy-lnd,mon,m01s03i297,3,297,TMONMN,DIAG,UP5,True
 HadGEM3-GC5,evspsblveg_tavg-u-hxy-lnd,mon,m01s03i297,3,297,TMONMN,DIAG,UP5,True
 UKESM1,evspsblveg_tavg-u-hxy-lnd,mon,m01s03i297,3,297,TMONMN,DIAG,UP5,True
@@ -5355,10 +5354,10 @@ HadGEM3-GC31,prsn_tavg-u-hxy-u,mon,m01s05i215,5,215,TMONMN,DIAG,UP5,True
 HadGEM3-GC5,prsn_tavg-u-hxy-u,mon,m01s05i215,5,215,TMONMN,DIAG,UP5,True
 UKESM1,prsn_tavg-u-hxy-u,mon,m01s05i215,5,215,TMONMN,DIAG,UP5,True
 UKESM1-3,prsn_tavg-u-hxy-u,mon,m01s05i215,5,215,TMONMN,DIAG,UP5,True
-HadGEM3-GC31,prra_tavg-u-hxy-u,mon,m01s05i214,5,214,TMONMN,DIAG,UP5,False
-HadGEM3-GC5,prra_tavg-u-hxy-u,mon,m01s05i214,5,214,TMONMN,DIAG,UP5,False
-UKESM1,prra_tavg-u-hxy-u,mon,m01s05i214,5,214,TMONMN,DIAG,UP5,False
-UKESM1-3,prra_tavg-u-hxy-u,mon,m01s05i214,5,214,TMONMN,DIAG,UP5,False
+HadGEM3-GC31,prra_tavg-u-hxy-u,mon,m01s05i214,5,214,TMONMN,DIAG,UP5,True
+HadGEM3-GC5,prra_tavg-u-hxy-u,mon,m01s05i214,5,214,TMONMN,DIAG,UP5,True
+UKESM1,prra_tavg-u-hxy-u,mon,m01s05i214,5,214,TMONMN,DIAG,UP5,True
+UKESM1-3,prra_tavg-u-hxy-u,mon,m01s05i214,5,214,TMONMN,DIAG,UP5,True
 HadGEM3-GC31,prc_tavg-u-hxy-u,mon,m01s05i205,5,205,TMONMN,DIAG,UP5,True
 HadGEM3-GC31,prc_tavg-u-hxy-u,mon,m01s05i206,5,206,TMONMN,DIAG,UP5,True
 HadGEM3-GC5,prc_tavg-u-hxy-u,mon,m01s05i205,5,205,TMONMN,DIAG,UP5,True
