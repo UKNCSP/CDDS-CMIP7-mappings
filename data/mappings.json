@@ -102206,7 +102206,7 @@
         "domain_profile": "DIAG",
         "model": "UKESM1",
         "stash_number": "3,332",
-        "time_profile": "TMONMNTDAYMN",
+        "time_profile": "TMONMN",
         "usage_profile": "UP5"
       },
       {

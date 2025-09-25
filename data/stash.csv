@@ -5310,7 +5310,7 @@ HadGEM3-GC5,rluscs_tavg-u-hxy-u,mon,m01s02i219,2,219,TMONMN,DALLRHP1,UP5,False
 HadGEM3-GC5,rluscs_tavg-u-hxy-u,mon,m01s03i332,3,332,TMONMN,DIAG,UP5,False
 UKESM1,rluscs_tavg-u-hxy-u,mon,m01s02i205,2,205,TMONMN,DIAG,UP5,False
 UKESM1,rluscs_tavg-u-hxy-u,mon,m01s02i219,2,219,TMONMN,DALLRHP1,UP5,False
-UKESM1,rluscs_tavg-u-hxy-u,mon,m01s03i332,3,332,TMONMNTDAYMN,DIAG,UP5,False
+UKESM1,rluscs_tavg-u-hxy-u,mon,m01s03i332,3,332,TMONMN,DIAG,UP5,False
 UKESM1-3,rluscs_tavg-u-hxy-u,mon,m01s02i205,2,205,TMONMN,DIAG,UP5,False
 UKESM1-3,rluscs_tavg-u-hxy-u,mon,m01s02i219,2,219,TMONMN,DALLRHP1,UP5,False
 UKESM1-3,rluscs_tavg-u-hxy-u,mon,m01s03i332,3,332,TMONMN,DIAG,UP5,False
