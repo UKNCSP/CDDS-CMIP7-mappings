@@ -4974,6 +4974,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "sistrxubot",
       "Expression UKESM1": "sistrxubot",
+      "Expression UKESM1-3": "sistrxubot",
       "Model units": "N m-2"
     },
     "STASH entries": [],
@@ -4983,7 +4984,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sistrxubot.tavg-u-hxy-si.mon.GLB (SImon.sistrxubot)"
   },
