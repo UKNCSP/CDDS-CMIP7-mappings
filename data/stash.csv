@@ -1879,6 +1879,10 @@ UKESM1,clwvic_tavg-u-hxy-u,day,m01s02i395,2,395,TDAYMN,DIAG,UP6,True
 UKESM1,clwvic_tavg-u-hxy-u,day,m01s02i396,2,396,TDAYMN,DIAG,UP6,True
 UKESM1-3,clwvic_tavg-u-hxy-u,day,m01s02i395,2,395,TDAYMN,DIAG,UP6,True
 UKESM1-3,clwvic_tavg-u-hxy-u,day,m01s02i396,2,396,TDAYMN,DIAG,UP6,True
+HadGEM3-GC31,clt_tavg-u-hxy-lnd,day,m01s02i204,2,204,TDAYMN,DIAG,UP6,True
+HadGEM3-GC5,clt_tavg-u-hxy-lnd,day,m01s02i204,2,204,TDAYMN,DIAG,UP6,True
+UKESM1,clt_tavg-u-hxy-lnd,day,m01s02i204,2,204,TDAYMN,DIAG,UP6,True
+UKESM1-3,clt_tavg-u-hxy-lnd,day,m01s02i204,2,204,TDAYMN,DIAG,UP6,True
 HadGEM3-GC31,clivic_tavg-u-hxy-u,day,m01s02i396,2,396,TDAYMN,DIAG,UP6,True
 HadGEM3-GC5,clivic_tavg-u-hxy-u,day,m01s02i396,2,396,TDAYMN,DIAG,UP6,True
 UKESM1,clivic_tavg-u-hxy-u,day,m01s02i396,2,396,TDAYMN,DIAG,UP6,True
