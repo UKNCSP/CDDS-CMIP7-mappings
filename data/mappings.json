@@ -4876,7 +4876,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sitempbot.tavg-u-hxy-si.mon.GLB (SImon.sitempbot)"
   },
@@ -4901,6 +4902,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "sistryubot",
       "Expression UKESM1": "sistryubot",
+      "Expression UKESM1-3": "sistryubot",
       "Model units": "N m-2"
     },
     "STASH entries": [],
@@ -4910,7 +4912,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sistryubot.tavg-u-hxy-si.mon.GLB (SImon.sistryubot)"
   },
