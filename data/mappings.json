@@ -33435,7 +33435,6 @@
     ],
     "issue_number": 1060,
     "labels": [
-      "question",
       "mon",
       "atmos",
       "approved"
@@ -102859,9 +102858,43 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression": "HadGEM3-GC5",
+      "Model units": "kg m-2 s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s05i214",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "5,214",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s05i214",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "5,214",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s05i214",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "5,214",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s05i214",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "5,214",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 44,
     "labels": [
       "mon",
@@ -103067,7 +103100,8 @@
     "labels": [
       "mon",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.phalf.tclm-alh-hxy-u.mon.GLB (Amon.phalf)"
   },
@@ -103097,7 +103131,8 @@
     "labels": [
       "mon",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.pfull.tclm-al-hxy-u.mon.GLB (Amon.pfull)"
   },
@@ -103127,7 +103162,8 @@
     "labels": [
       "mon",
       "atmosChem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmosChem.o3.tclm-p19-hxy-air.mon.GLB (Amon.o3Clim)"
   },
@@ -103259,7 +103295,8 @@
     "labels": [
       "mon",
       "atmosChem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmosChem.n2o.tclm-u-hm-u.mon.GLB (Amon.n2oglobalClim)"
   },
@@ -103391,7 +103428,8 @@
     "labels": [
       "mon",
       "atmosChem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmosChem.n2o.tclm-p19-hxy-air.mon.GLB (Amon.n2oClim)"
   },
@@ -104504,10 +104542,10 @@
     "STASH entries": [],
     "issue_number": 21,
     "labels": [
-      "question",
       "mon",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.co2.tclm-u-hm-u.mon.GLB (Amon.co2massCLim)"
   },
@@ -104607,7 +104645,8 @@
     "labels": [
       "mon",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.co2.tclm-p19-hxy-air.mon.GLB (Amon.co2Clim)"
   },
@@ -104637,7 +104676,8 @@
     "labels": [
       "mon",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.co2.tavg-p19-hxy-air.mon.GLB (Amon.co2)"
   },
@@ -105285,7 +105325,8 @@
     "labels": [
       "mon",
       "atmosChem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmosChem.ch4.tclm-u-hm-u.mon.GLB (Amon.ch4globalClim)"
   },
@@ -105417,7 +105458,8 @@
     "labels": [
       "mon",
       "atmosChem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmosChem.ch4.tclm-p19-hxy-air.mon.GLB (Amon.ch4Clim)"
   },
