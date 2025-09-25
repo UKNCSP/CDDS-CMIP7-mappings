@@ -32672,7 +32672,8 @@
     "labels": [
       "mon",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.tntogw.tavg-p39-hy-air.mon.GLB (EmonZ.tntogw)"
   },
@@ -32702,7 +32703,8 @@
     "labels": [
       "mon",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.tntnogw.tavg-p39-hy-air.mon.GLB (EmonZ.tntnogw)"
   },
@@ -36943,7 +36945,8 @@
     "issue_number": 1006,
     "labels": [
       "mon",
-      "land"
+      "land",
+      "do-not-produce"
     ],
     "title": "Variable land.rsds.tavg-u-hxy-sn.mon.GLB (Emon.rsdss)"
   },
@@ -37001,7 +37004,8 @@
     "issue_number": 1004,
     "labels": [
       "mon",
-      "land"
+      "land",
+      "do-not-produce"
     ],
     "title": "Variable land.rsds.tavg-u-hxy-ufs.mon.GLB (Emon.rsdslni)"
   },
