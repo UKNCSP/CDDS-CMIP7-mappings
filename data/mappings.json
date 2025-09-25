@@ -51403,13 +51403,85 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "SPECIFIC_HEAT_OF_DRY_AIR * m01s30i426[lbproc=128] + m01s30i423[lbproc=128]",
+      "Expression HadGEM3-GC5": "SPECIFIC_HEAT_OF_DRY_AIR * m01s30i426[lbproc=128] + m01s30i423[lbproc=128]",
+      "Expression UKESM1": "SPECIFIC_HEAT_OF_DRY_AIR * m01s30i426[lbproc=128] + m01s30i423[lbproc=128]",
+      "Expression UKESM1-3": "SPECIFIC_HEAT_OF_DRY_AIR * m01s30i426[lbproc=128] + m01s30i423[lbproc=128]",
+      "Model units": "J m-1 s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s30i423",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "30,423",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s30i426",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "30,426",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s30i423",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "30,423",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s30i426",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "30,426",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s30i423",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "30,423",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s30i426",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "30,426",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s30i423",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "30,423",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s30i426",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "30,426",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      }
+    ],
     "issue_number": 732,
     "labels": [
       "day",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.intvadse.tavg-u-hxy-u.day.GLB (Eday.intvadse)"
   },
