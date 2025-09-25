@@ -5051,7 +5051,8 @@
     "labels": [
       "mon",
       "seaIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sistressmax.tpt-u-hxy-si.mon.GLB (SImon.sistressmax)"
   },
@@ -5106,6 +5107,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "sispeed",
       "Expression UKESM1": "sispeed",
+      "Expression UKESM1-3": "sispeed",
       "Model units": "m s-1"
     },
     "STASH entries": [],
@@ -54872,7 +54874,10 @@
     "issue_number": 666,
     "labels": [
       "1hr",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.rsdsdiff.tavg-u-hxy-u.1hr.GLB (E1hr.rsdsdiff)"
   },

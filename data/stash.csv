@@ -2020,10 +2020,10 @@ HadGEM3-GC31,rlut_tclmdc-u-hxy-u,1hr,m01s03i332,3,332,T1HRMN,DIAG,UP9,True
 HadGEM3-GC5,rlut_tclmdc-u-hxy-u,1hr,m01s03i332,3,332,T1HRMN,DIAG,UP9,True
 UKESM1,rlut_tclmdc-u-hxy-u,1hr,m01s03i332,3,332,T1HRMN,DIAG,UP9,True
 UKESM1-3,rlut_tclmdc-u-hxy-u,1hr,m01s03i332,3,332,T1HRMN,DIAG,UP9,True
-HadGEM3-GC31,rsdsdiff_tavg-u-hxy-u,1hr,m01s01i216,1,216,T1HRMN,DIAG,UP9,False
-HadGEM3-GC5,rsdsdiff_tavg-u-hxy-u,1hr,m01s01i216,1,216,T1HRMN,DIAG,UP9,False
-UKESM1,rsdsdiff_tavg-u-hxy-u,1hr,m01s01i216,1,216,T1HRMN,DIAG,UP9,False
-UKESM1-3,rsdsdiff_tavg-u-hxy-u,1hr,m01s01i216,1,216,T1HRMN,DIAG,UP9,False
+HadGEM3-GC31,rsdsdiff_tavg-u-hxy-u,1hr,m01s01i216,1,216,T1HRMN,DIAG,UP9,True
+HadGEM3-GC5,rsdsdiff_tavg-u-hxy-u,1hr,m01s01i216,1,216,T1HRMN,DIAG,UP9,True
+UKESM1,rsdsdiff_tavg-u-hxy-u,1hr,m01s01i216,1,216,T1HRMN,DIAG,UP9,True
+UKESM1-3,rsdsdiff_tavg-u-hxy-u,1hr,m01s01i216,1,216,T1HRMN,DIAG,UP9,True
 HadGEM3-GC31,psl_tpt-u-hxy-u,1hr,m01s16i222,16,222,T1HRMN,DIAG,UP9,True
 HadGEM3-GC5,psl_tpt-u-hxy-u,1hr,m01s16i222,16,222,T1HRMN,DIAG,UP9,True
 UKESM1,psl_tpt-u-hxy-u,1hr,m01s16i222,16,222,T1HRMN,DIAG,UP9,True
