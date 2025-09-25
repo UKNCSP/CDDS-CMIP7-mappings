@@ -47472,7 +47472,8 @@
     "issue_number": 806,
     "labels": [
       "day",
-      "atmos"
+      "atmos",
+      "do-not-produce"
     ],
     "title": "Variable atmos.vtendogw.tavg-p19-hxy-air.day.GLB (Eday.vtendogw)"
   },
@@ -47501,7 +47502,8 @@
     "issue_number": 805,
     "labels": [
       "day",
-      "atmos"
+      "atmos",
+      "do-not-produce"
     ],
     "title": "Variable atmos.vtendnogw.tavg-p19-hxy-air.day.GLB (Eday.vtendnogw)"
   },
@@ -47567,7 +47569,10 @@
     "issue_number": 803,
     "labels": [
       "day",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.utendogw.tavg-p19-hxy-air.day.GLB (Eday.utendogw)"
   },
@@ -48505,7 +48510,10 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression": "HadGEM3-GC5",
+      "Expression HadGEM3-GC31": "land_class_mean(m01s08i236[lbproc=128], m01s03i317[lbproc=128], land_class='canopy')",
+      "Expression HadGEM3-GC5": "land_class_mean(m01s08i236[lbproc=128], m01s03i317[lbproc=128], land_class='canopy')",
+      "Expression UKESM1": "land_class_mean(m01s08i236[lbproc=128], m01s03i317[lbproc=128], land_class='canopy')",
+      "Expression UKESM1-3": "land_class_mean(m01s08i236[lbproc=128], m01s03i317[lbproc=128], land_class='canopy')",
       "Model units": "kg m-2"
     },
     "STASH entries": [

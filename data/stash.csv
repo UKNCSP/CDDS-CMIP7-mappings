@@ -1656,10 +1656,10 @@ HadGEM3-GC31,wtd_tavg-u-hxy-lnd,day,m01s08i249,8,249,TDAYMN,DIAG,UP6,True
 HadGEM3-GC5,wtd_tavg-u-hxy-lnd,day,m01s08i249,8,249,TDAYMN,DIAG,UP6,True
 UKESM1,wtd_tavg-u-hxy-lnd,day,m01s08i249,8,249,TDAYMN,DIAG,UP6,True
 UKESM1-3,wtd_tavg-u-hxy-lnd,day,m01s08i249,8,249,TDAYMN,DIAG,UP6,True
-HadGEM3-GC31,utendogw_tavg-p19-hxy-air,day,m01s06i247,6,247,TDAYMN,PLEV19,UP6,False
-HadGEM3-GC5,utendogw_tavg-p19-hxy-air,day,m01s06i247,6,247,TDAYMN,PLEV19,UP6,False
-UKESM1,utendogw_tavg-p19-hxy-air,day,m01s06i247,6,247,TDAYMN,PLEV19,UP6,False
-UKESM1-3,utendogw_tavg-p19-hxy-air,day,m01s06i247,6,247,TDAYMN,PLEV19,UP6,False
+HadGEM3-GC31,utendogw_tavg-p19-hxy-air,day,m01s06i247,6,247,TDAYMN,PLEV19,UP6,True
+HadGEM3-GC5,utendogw_tavg-p19-hxy-air,day,m01s06i247,6,247,TDAYMN,PLEV19,UP6,True
+UKESM1,utendogw_tavg-p19-hxy-air,day,m01s06i247,6,247,TDAYMN,PLEV19,UP6,True
+UKESM1-3,utendogw_tavg-p19-hxy-air,day,m01s06i247,6,247,TDAYMN,PLEV19,UP6,True
 HadGEM3-GC31,utendnogw_tavg-p19-hxy-air,day,m01s06i115,6,115,TDAYMN,PLEV19,UP6,True
 HadGEM3-GC5,utendnogw_tavg-p19-hxy-air,day,m01s06i115,6,115,TDAYMN,PLEV19,UP6,True
 UKESM1,utendnogw_tavg-p19-hxy-air,day,m01s06i115,6,115,TDAYMN,PLEV19,UP6,True
