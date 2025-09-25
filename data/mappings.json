@@ -5020,7 +5020,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sistrxdtop.tavg-u-hxy-si.mon.GLB (SImon.sistrxdtop)"
   },
@@ -54828,9 +54829,46 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "m01s01i216[lbproc=128]",
+      "Expression HadGEM3-GC5": "m01s01i216[lbproc=128]",
+      "Expression UKESM1": "m01s01i216[lbproc=128]",
+      "Expression UKESM1-3": "m01s01i216[lbproc=128]",
+      "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s01i216",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "1,216",
+        "time_profile": "T1HRMN",
+        "usage_profile": "UP9"
+      },
+      {
+        "STASH": "m01s01i216",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "1,216",
+        "time_profile": "T1HRMN",
+        "usage_profile": "UP9"
+      },
+      {
+        "STASH": "m01s01i216",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "1,216",
+        "time_profile": "T1HRMN",
+        "usage_profile": "UP9"
+      },
+      {
+        "STASH": "m01s01i216",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "1,216",
+        "time_profile": "T1HRMN",
+        "usage_profile": "UP9"
+      }
+    ],
     "issue_number": 666,
     "labels": [
       "1hr",
