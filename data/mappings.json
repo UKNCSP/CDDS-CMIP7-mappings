@@ -4550,6 +4550,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "hi",
       "Expression UKESM1": "hi",
+      "Expression UKESM1-3": "hi",
       "Model units": "m"
     },
     "STASH entries": [],
@@ -49910,7 +49911,10 @@
     "labels": [
       "day",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.prra.tavg-u-hxy-lnd.day.GLB (Eday.prra)"
   },
