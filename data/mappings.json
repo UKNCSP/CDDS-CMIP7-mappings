@@ -4560,7 +4560,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sieqthick.tavg-u-hxy-u.mon.GLB (SImon.sivol)"
   },
@@ -4632,7 +4633,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "BCV"
+      "BCV",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siu.tavg-u-hxy-si.mon.GLB (SImon.siu)"
   },
@@ -49810,9 +49812,43 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression": "HadGEM3-GC5",
+      "Model units": "kg m-2 s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s05i206",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "5,206",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s05i206",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "5,206",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s05i206",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "5,206",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s05i206",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "5,206",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      }
+    ],
     "issue_number": 765,
     "labels": [
       "day",
@@ -49847,7 +49883,8 @@
     "labels": [
       "day",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.prrsn.tavg-u-hxy-lnd.day.GLB (Eday.prrsn)"
   },
