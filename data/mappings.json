@@ -100209,7 +100209,11 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "sum_2d_and_3d(hflx_rnf, -1*vohfcisf)",
+      "Expression HadGEM3-GC5": "sum_2d_and_3d(hflx_rnf, -1*vohfcisf)",
+      "Expression UKESM1": "sum_2d_and_3d(hflx_rnf, -1*vohfcisf)",
+      "Expression UKESM1-3": "sum_2d_and_3d(hflx_rnf, -1*vohfcisf)",
+      "Model units": "W m-2"
     },
     "STASH entries": [],
     "issue_number": 89,
