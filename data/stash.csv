@@ -1855,6 +1855,14 @@ UKESM1,jpdftaureicemodis_tavg-u-hxy-u,day,m01s02i330,2,330,TDAYMN,DIAG,UP6,True
 UKESM1,jpdftaureicemodis_tavg-u-hxy-u,day,m01s02i469,2,469,TDAYMN,DIAG,UP6,True
 UKESM1-3,jpdftaureicemodis_tavg-u-hxy-u,day,m01s02i330,2,330,TDAYMN,DIAG,UP6,True
 UKESM1-3,jpdftaureicemodis_tavg-u-hxy-u,day,m01s02i469,2,469,TDAYMN,DIAG,UP6,True
+HadGEM3-GC31,intuadse_tavg-u-hxy-u,day,m01s30i422,30,422,TDAYMN,DIAG,UP6,False
+HadGEM3-GC31,intuadse_tavg-u-hxy-u,day,m01s30i425,30,425,TDAYMN,DIAG,UP6,False
+HadGEM3-GC5,intuadse_tavg-u-hxy-u,day,m01s30i422,30,422,TDAYMN,DIAG,UP6,False
+HadGEM3-GC5,intuadse_tavg-u-hxy-u,day,m01s30i425,30,425,TDAYMN,DIAG,UP6,False
+UKESM1,intuadse_tavg-u-hxy-u,day,m01s30i422,30,422,TDAYMN,DIAG,UP6,False
+UKESM1,intuadse_tavg-u-hxy-u,day,m01s30i425,30,425,TDAYMN,DIAG,UP6,False
+UKESM1-3,intuadse_tavg-u-hxy-u,day,m01s30i422,30,422,TDAYMN,DIAG,UP6,False
+UKESM1-3,intuadse_tavg-u-hxy-u,day,m01s30i425,30,425,TDAYMN,DIAG,UP6,False
 HadGEM3-GC31,hurs_tmin-h2m-hxy-crp,day,m01s03i245,3,245,TDAYMIN,DIAG,UP6,True
 HadGEM3-GC5,hurs_tmin-h2m-hxy-crp,day,m01s03i245,3,245,TDAYMIN,DIAG,UP6,True
 UKESM1,hurs_tmin-h2m-hxy-crp,day,m01s03i245,3,245,TDAYMIN,DIAG,UP6,True
