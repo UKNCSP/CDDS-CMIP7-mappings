@@ -4670,7 +4670,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "BCV"
+      "BCV",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sitimefrac.tavg-u-hxy-sea.mon.GLB (SImon.sitimefrac)"
   },
@@ -4839,7 +4840,8 @@
     "labels": [
       "mon",
       "seaIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sitempsnic.tavg-u-hxy-si.mon.GLB (SImon.sitempsnic)"
   },
@@ -4864,6 +4866,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "sitempbot",
       "Expression UKESM1": "sitempbot",
+      "Expression UKESM1-3": "sitempbot",
       "Model units": "K"
     },
     "STASH entries": [],
@@ -100389,7 +100392,8 @@
     "issue_number": 85,
     "labels": [
       "3hr",
-      "ocean"
+      "ocean",
+      "approved"
     ],
     "title": "Variable ocean.friver.tavg-u-hxy-sea.3hr.GLB (3hr.friver)"
   },
