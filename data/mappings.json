@@ -49983,7 +49983,10 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression": "HadGEM3-GC5",
+      "Expression HadGEM3-GC31": "m01s05i206[lbproc=128]",
+      "Expression HadGEM3-GC5": "m01s05i206[lbproc=128]",
+      "Expression UKESM1": "m01s05i206[lbproc=128]",
+      "Expression UKESM1-3": "m01s05i206[lbproc=128]",
       "Model units": "kg m-2 s-1"
     },
     "STASH entries": [
@@ -100219,7 +100222,8 @@
     "issue_number": 89,
     "labels": [
       "3hr",
-      "ocean"
+      "ocean",
+      "approved"
     ],
     "title": "Variable ocean.hfrunoffds.tavg-ol-hxy-sea.3hr.GLB (3hr.hfrunoffds)"
   },
