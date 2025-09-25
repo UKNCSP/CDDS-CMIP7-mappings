@@ -100379,7 +100379,11 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "friver",
+      "Expression HadGEM3-GC5": "friver",
+      "Expression UKESM1": "friver",
+      "Expression UKESM1-3": "friver",
+      "Model units": "kg m-2 s-1"
     },
     "STASH entries": [],
     "issue_number": 85,
