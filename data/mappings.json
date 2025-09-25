@@ -47524,9 +47524,46 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "m01s06i247[blev=PLEV19, lbproc=128]",
+      "Expression HadGEM3-GC5": "m01s06i247[blev=PLEV19, lbproc=128]",
+      "Expression UKESM1": "m01s06i247[blev=PLEV19, lbproc=128]",
+      "Expression UKESM1-3": "m01s06i247[blev=PLEV19, lbproc=128]",
+      "Model units": "m s-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s06i247",
+        "domain_profile": "PLEV19",
+        "model": "HadGEM3-GC31",
+        "stash_number": "6,247",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s06i247",
+        "domain_profile": "PLEV19",
+        "model": "HadGEM3-GC5",
+        "stash_number": "6,247",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s06i247",
+        "domain_profile": "PLEV19",
+        "model": "UKESM1",
+        "stash_number": "6,247",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s06i247",
+        "domain_profile": "PLEV19",
+        "model": "UKESM1-3",
+        "stash_number": "6,247",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      }
+    ],
     "issue_number": 803,
     "labels": [
       "day",
@@ -47596,7 +47633,10 @@
     "issue_number": 802,
     "labels": [
       "day",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.utendnogw.tavg-p19-hxy-air.day.GLB (Eday.utendnogw)"
   },
