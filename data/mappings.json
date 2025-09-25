@@ -22884,9 +22884,27 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1-3": "m01s19i021[lbtim_ia=240,lbproc=128] + m01s19i022[lbtim_ia=240,lbproc=128]",
+      "Model units": "kg m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s19i021",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "19,021",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i022",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "19,022",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 1274,
     "labels": [
       "mon",
@@ -37255,9 +37273,19 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1-3": "m01s19i053[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR)",
+      "Model units": "kg m-2 s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s19i053",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "19,053",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 998,
     "labels": [
       "mon",
@@ -37347,9 +37375,27 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1-3": "m01s03i481[lbproc=128] + m01s03i482[lbproc=128]",
+      "Model units": "kg m-2 s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s03i481",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "3,481",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s03i482",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "3,482",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 995,
     "labels": [
       "mon",
@@ -39532,9 +39578,27 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1-3": "land_class_mean( m01s19i136[lbtim_ia=240,lbproc=128], m01s19i013[lbtim_ia=240,lbproc=128], land_class='Crop')",
+      "Model units": "kg m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s19i013",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
+        "stash_number": "19,013",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s19i136",
+        "domain_profile": "DPFTS",
+        "model": "UKESM1-3",
+        "stash_number": "19,136",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 952,
     "labels": [
       "mon",
@@ -51411,7 +51475,10 @@
     "issue_number": 731,
     "labels": [
       "day",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.intuaw.tavg-u-hxy-u.day.GLB (Eday.intuaw)"
   },
