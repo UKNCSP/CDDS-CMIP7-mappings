@@ -5987,7 +5987,8 @@
     "labels": [
       "mon",
       "seaIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.simassacrossline.tavg-u-ht-u.mon.GLB (SImon.simassacrossline)"
   },
@@ -6023,7 +6024,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "BCV"
+      "BCV",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.simass.tavg-u-hxy-sea.mon.GLB (SImon.simass)"
   },
@@ -6048,6 +6050,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "vicen / aicen",
       "Expression UKESM1": "vicen / aicen",
+      "Expression UKESM1-3": "vicen / aicen",
       "Model units": "m"
     },
     "STASH entries": [],
@@ -6057,7 +6060,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siitdthick.tavg-u-hxy-si.mon.GLB (SImon.siitdthick)"
   },
