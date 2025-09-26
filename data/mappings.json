@@ -6332,6 +6332,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "siforceintstry",
       "Expression UKESM1": "siforceintstry",
+      "Expression UKESM1-3": "siforceintstry",
       "Model units": "N m-2"
     },
     "STASH entries": [],
@@ -6341,7 +6342,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siforceintstry.tavg-u-hxy-si.mon.GLB (SImon.siforceintstry)"
   },
@@ -6366,6 +6368,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "siforceintstrx",
       "Expression UKESM1": "siforceintstrx",
+      "Expression UKESM1-3": "siforceintstrx",
       "Model units": "N m-2"
     },
     "STASH entries": [],
