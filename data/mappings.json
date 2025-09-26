@@ -5842,8 +5842,9 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression HadGEM3-GC31": "hpond_ai / aice",
-      "Expression UKESM1": "hpond_ai / aice",
+      "Expression HadGEM3-GC31": "hpond_ai / apond_ai",
+      "Expression UKESM1": "hpond_ai / apond_ai",
+      "Expression UKESM1-3": "hpond_ai / apond_ai",
       "Model units": "m"
     },
     "STASH entries": [],
@@ -5853,7 +5854,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.simpthick.tavg-u-hxy-simp.mon.GLB (SImon.simpthick)"
   },
