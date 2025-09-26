@@ -6414,7 +6414,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siforcecorioly.tavg-u-hxy-si.mon.GLB (SImon.siforcecorioly)"
   },
@@ -6449,7 +6450,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siforcecoriolx.tavg-u-hxy-si.mon.GLB (SImon.siforcecoriolx)"
   },
@@ -6683,7 +6685,8 @@
     "labels": [
       "mon",
       "seaIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siflswdbot.tavg-u-hxy-si.mon.GLB (SImon.siflswdbot)"
   },
@@ -6843,6 +6846,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "((meltt + meltb + meltl - congel - frazil) * ICE_DENSITY + melts * SNOW_DENSITY) / (100. * SECONDS_IN_DAY * aice) * REF_SALINITY / 1000.",
+      "Expression UKESM1-3": "((meltt + meltb + meltl - congel - frazil) * ICE_DENSITY + melts * SNOW_DENSITY) / (100. * SECONDS_IN_DAY * aice) * REF_SALINITY / 1000.",
       "Model units": "kg m-2 s-1"
     },
     "STASH entries": [],
@@ -6850,7 +6854,8 @@
     "labels": [
       "mon",
       "seaIce",
-      "UKESM1"
+      "UKESM1",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sfdsi.tavg-u-hxy-si.mon.GLB (SImon.siflsaltbot)"
   },
