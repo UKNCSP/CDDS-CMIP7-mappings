@@ -54586,10 +54586,10 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Expression HadGEM3-GC31": "m01s03i463[lbproc=128]",
-      "Expression HadGEM3-GC5": "m01s03i463[lbproc=128]",
-      "Expression UKESM1": "m01s03i463[lbproc=128]",
-      "Expression UKESM1-3": "m01s03i463[lbproc=128]",
+      "Expression HadGEM3-GC31": "m01s03i463[lbproc=8192]",
+      "Expression HadGEM3-GC5": "m01s03i463[lbproc=8192]",
+      "Expression UKESM1": "m01s03i463[lbproc=8192]",
+      "Expression UKESM1-3": "m01s03i463[lbproc=8192]",
       "Model units": "m s-1"
     },
     "STASH entries": [
