@@ -7192,6 +7192,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "siflcondtop",
       "Expression UKESM1": "siflcondtop",
+      "Expression UKESM1-3": "siflcondtop",
       "Model units": "W m-2"
     },
     "STASH entries": [],
