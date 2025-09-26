@@ -5946,6 +5946,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "apond_ai / aice",
       "Expression UKESM1": "apond_ai / aice",
+      "Expression UKESM1-3": "apond_ai / aice",
       "Model units": "1"
     },
     "STASH entries": [],
@@ -5955,7 +5956,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.simpconc.tavg-u-hxy-si.mon.GLB (SImon.simpconc)"
   },
