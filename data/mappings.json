@@ -5373,7 +5373,7 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression UKESM1-3  `-1 * evap_snow_ai * FRESHWATER_DENSITY / (100. * SECONDS_IN_DAY)": "",
+      "Expression UKESM1-3": "-1 * evap_snow_ai * FRESHWATER_DENSITY / (100. * SECONDS_IN_DAY)",
       "Model units": ""
     },
     "STASH entries": [],
