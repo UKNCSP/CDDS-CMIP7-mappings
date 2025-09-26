@@ -6096,7 +6096,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siitdsnthick.tavg-u-hxy-si.mon.GLB (SImon.siitdsnthick)"
   },
@@ -6121,6 +6122,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "snowfracn",
       "Expression UKESM1": "snowfracn",
+      "Expression UKESM1-3": "snowfracn",
       "Model units": "1"
     },
     "STASH entries": [],
