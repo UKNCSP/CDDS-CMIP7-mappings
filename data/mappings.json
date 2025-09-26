@@ -4670,7 +4670,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "BCV"
+      "BCV",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sitimefrac.tavg-u-hxy-sea.mon.GLB (SImon.sitimefrac)"
   },
@@ -4839,7 +4840,8 @@
     "labels": [
       "mon",
       "seaIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sitempsnic.tavg-u-hxy-si.mon.GLB (SImon.sitempsnic)"
   },
@@ -4864,6 +4866,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "sitempbot",
       "Expression UKESM1": "sitempbot",
+      "Expression UKESM1-3": "sitempbot",
       "Model units": "K"
     },
     "STASH entries": [],
@@ -4873,7 +4876,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sitempbot.tavg-u-hxy-si.mon.GLB (SImon.sitempbot)"
   },
@@ -4898,6 +4902,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "sistryubot",
       "Expression UKESM1": "sistryubot",
+      "Expression UKESM1-3": "sistryubot",
       "Model units": "N m-2"
     },
     "STASH entries": [],
@@ -4907,7 +4912,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sistryubot.tavg-u-hxy-si.mon.GLB (SImon.sistryubot)"
   },
@@ -4932,6 +4938,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "sistrydtop",
       "Expression UKESM1": "sistrydtop",
+      "Expression UKESM1-3": "sistrydtop",
       "Model units": "N m-2"
     },
     "STASH entries": [],
@@ -4941,7 +4948,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sistrydtop.tavg-u-hxy-si.mon.GLB (SImon.sistrydtop)"
   },
@@ -4966,6 +4974,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "sistrxubot",
       "Expression UKESM1": "sistrxubot",
+      "Expression UKESM1-3": "sistrxubot",
       "Model units": "N m-2"
     },
     "STASH entries": [],
@@ -4975,7 +4984,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sistrxubot.tavg-u-hxy-si.mon.GLB (SImon.sistrxubot)"
   },
@@ -5000,6 +5010,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "sistrxdtop",
       "Expression UKESM1": "sistrxdtop",
+      "Expression UKESM1-3": "sistrxdtop",
       "Model units": "N m-2"
     },
     "STASH entries": [],
@@ -5009,7 +5020,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sistrxdtop.tavg-u-hxy-si.mon.GLB (SImon.sistrxdtop)"
   },
@@ -5039,7 +5051,8 @@
     "labels": [
       "mon",
       "seaIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sistressmax.tpt-u-hxy-si.mon.GLB (SImon.sistressmax)"
   },
@@ -5069,7 +5082,8 @@
     "labels": [
       "mon",
       "seaIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sistressave.tpt-u-hxy-si.mon.GLB (SImon.sistressave)"
   },
@@ -5094,6 +5108,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "sispeed",
       "Expression UKESM1": "sispeed",
+      "Expression UKESM1-3": "sispeed",
       "Model units": "m s-1"
     },
     "STASH entries": [],
@@ -5103,7 +5118,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sispeed.tavg-u-hxy-si.mon.GLB (SImon.sispeed)"
   },
@@ -5168,7 +5184,8 @@
     "issue_number": 1776,
     "labels": [
       "mon",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sisnmass.tavg-u-hm-u.mon.SH (SImon.sisnmasss)"
   },
@@ -5197,7 +5214,8 @@
     "issue_number": 1775,
     "labels": [
       "mon",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sisnmass.tavg-u-hm-u.mon.NH (SImon.sisnmassn)"
   },
@@ -5227,7 +5245,8 @@
     "labels": [
       "mon",
       "seaIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sisnmassacrossline.tavg-u-ht-u.mon.GLB (SImon.sisnmassacrossline)"
   },
@@ -5252,6 +5271,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "hs * SNOW_DENSITY",
       "Expression UKESM1": "hs * SNOW_DENSITY",
+      "Expression UKESM1-3": "hs * SNOW_DENSITY",
       "Model units": "kg m-2"
     },
     "STASH entries": [],
@@ -5261,7 +5281,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.snw.tavg-u-hxy-si.mon.GLB (SImon.sisnmass)"
   },
@@ -5286,6 +5307,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "sisnhc",
       "Expression UKESM1": "sisnhc",
+      "Expression UKESM1-3": "sisnhc",
       "Model units": "J m-2"
     },
     "STASH entries": [],
@@ -5295,7 +5317,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sisnhc.tavg-u-hxy-si.mon.GLB (SImon.sisnhc)"
   },
@@ -5325,7 +5348,8 @@
     "labels": [
       "mon",
       "seaIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sisndmasswind.tavg-u-hxy-si.mon.GLB (SImon.sisndmasswind)"
   },
@@ -5348,6 +5372,7 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "-1 * evap_snow_ai * FRESHWATER_DENSITY / (100. * SECONDS_IN_DAY)",
       "Model units": ""
     },
     "STASH entries": [],
@@ -5380,6 +5405,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "snow_ai * FRESHWATER_DENSITY / (100. * SECONDS_IN_DAY)",
       "Expression UKESM1": "snow_ai * FRESHWATER_DENSITY / (100. * SECONDS_IN_DAY)",
+      "Expression UKESM1-3": "snow_ai * FRESHWATER_DENSITY / (100. * SECONDS_IN_DAY)",
       "Model units": "kg m-2 s-1"
     },
     "STASH entries": [],
@@ -5389,7 +5415,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.prsn.tavg-u-hxy-si.mon.GLB (SImon.sisndmasssnf)"
   },
@@ -5414,6 +5441,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "-1 * snoice * ICE_DENSITY / (100. * SECONDS_IN_DAY)",
       "Expression UKESM1": "-1 * snoice * ICE_DENSITY / (100. * SECONDS_IN_DAY)",
+      "Expression UKESM1-3": "-1 * snoice * ICE_DENSITY / (100. * SECONDS_IN_DAY)",
       "Model units": "kg m-2 s-1"
     },
     "STASH entries": [],
@@ -5423,7 +5451,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sisndmasssi.tavg-u-hxy-si.mon.GLB (SImon.sisndmasssi)"
   },
@@ -5448,6 +5477,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "-1 * melts * SNOW_DENSITY / (100. * SECONDS_IN_DAY)",
       "Expression UKESM1": "-1 * melts * SNOW_DENSITY / (100. * SECONDS_IN_DAY)",
+      "Expression UKESM1-3": "-1 * melts * SNOW_DENSITY / (100. * SECONDS_IN_DAY)",
       "Model units": "kg m-2 s-1"
     },
     "STASH entries": [],
@@ -5457,7 +5487,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.snm.tavg-u-hxy-si.mon.GLB (SImon.sisndmassmelt)"
   },
@@ -5487,7 +5518,8 @@
     "labels": [
       "mon",
       "seaIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sisndmassdyn.tavg-u-hxy-si.mon.GLB (SImon.sisndmassdyn)"
   },
@@ -5512,6 +5544,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "snowfrac / aice",
       "Expression UKESM1": "snowfrac / aice",
+      "Expression UKESM1-3": "snowfrac / aice",
       "Model units": "1"
     },
     "STASH entries": [],
@@ -5521,7 +5554,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.snc.tavg-u-hxy-si.mon.GLB (SImon.sisnconc)"
   },
@@ -5581,7 +5615,8 @@
     "labels": [
       "mon",
       "seaIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sishearvel.tpt-u-hxy-si.mon.GLB (SImon.sishearvel)"
   },
@@ -5606,6 +5641,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "sisaltmass",
       "Expression UKESM1": "sisaltmass",
+      "Expression UKESM1-3": "sisaltmass",
       "Model units": "kg m-2"
     },
     "STASH entries": [],
@@ -5615,7 +5651,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sisaltmass.tavg-u-hxy-sea.mon.GLB (SImon.sisaltmass)"
   },
@@ -5645,7 +5682,8 @@
     "labels": [
       "mon",
       "seaIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sisali.tavg-u-hxy-si.mon.GLB (SImon.sisali)"
   },
@@ -5670,6 +5708,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "vrdg / ardg",
       "Expression UKESM1": "vrdg / ardg",
+      "Expression UKESM1-3": "vrdg / ardg",
       "Model units": "m"
     },
     "STASH entries": [],
@@ -5679,7 +5718,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sithick.tavg-u-hxy-sir.mon.GLB (SImon.sirdgthick)"
   },
@@ -5738,6 +5778,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "rain_ai * FRESHWATER_DENSITY / (100. * SECONDS_IN_DAY)",
       "Expression UKESM1": "rain_ai * FRESHWATER_DENSITY / (100. * SECONDS_IN_DAY)",
+      "Expression UKESM1-3": "rain_ai * FRESHWATER_DENSITY / (100. * SECONDS_IN_DAY)",
       "Model units": "kg m-2 s-1"
     },
     "STASH entries": [],
@@ -5747,7 +5788,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.prra.tavg-u-hxy-si.mon.GLB (SImon.sipr)"
   },
@@ -5800,8 +5842,9 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression HadGEM3-GC31": "hpond_ai / aice",
-      "Expression UKESM1": "hpond_ai / aice",
+      "Expression HadGEM3-GC31": "hpond_ai / apond_ai",
+      "Expression UKESM1": "hpond_ai / apond_ai",
+      "Expression UKESM1-3": "hpond_ai / apond_ai",
       "Model units": "m"
     },
     "STASH entries": [],
@@ -5811,7 +5854,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.simpthick.tavg-u-hxy-simp.mon.GLB (SImon.simpthick)"
   },
@@ -5836,6 +5880,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "ipond_ai / apond_ai",
       "Expression UKESM1": "ipond_ai / apond_ai",
+      "Expression UKESM1-3": "ipond_ai / apond_ai",
       "Model units": "m"
     },
     "STASH entries": [],
@@ -5901,6 +5946,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "apond_ai / aice",
       "Expression UKESM1": "apond_ai / aice",
+      "Expression UKESM1-3": "apond_ai / aice",
       "Model units": "1"
     },
     "STASH entries": [],
@@ -5910,7 +5956,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.simpconc.tavg-u-hxy-si.mon.GLB (SImon.simpconc)"
   },
@@ -5940,7 +5987,8 @@
     "labels": [
       "mon",
       "seaIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.simassacrossline.tavg-u-ht-u.mon.GLB (SImon.simassacrossline)"
   },
@@ -5976,7 +6024,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "BCV"
+      "BCV",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.simass.tavg-u-hxy-sea.mon.GLB (SImon.simass)"
   },
@@ -6001,6 +6050,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "vicen / aicen",
       "Expression UKESM1": "vicen / aicen",
+      "Expression UKESM1-3": "vicen / aicen",
       "Model units": "m"
     },
     "STASH entries": [],
@@ -6010,7 +6060,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siitdthick.tavg-u-hxy-si.mon.GLB (SImon.siitdthick)"
   },
@@ -6035,6 +6086,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "vsnon / aicen",
       "Expression UKESM1": "vsnon / aicen",
+      "Expression UKESM1-3": "vsnon / aicen",
       "Model units": "m"
     },
     "STASH entries": [],
@@ -6044,7 +6096,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siitdsnthick.tavg-u-hxy-si.mon.GLB (SImon.siitdsnthick)"
   },
@@ -6069,6 +6122,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "snowfracn",
       "Expression UKESM1": "snowfracn",
+      "Expression UKESM1-3": "snowfracn",
       "Model units": "1"
     },
     "STASH entries": [],
@@ -6078,7 +6132,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siitdsnconc.tavg-u-hxy-si.mon.GLB (SImon.siitdsnconc)"
   },
@@ -6103,6 +6158,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "aicen",
       "Expression UKESM1": "aicen",
+      "Expression UKESM1-3": "aicen",
       "Model units": "1"
     },
     "STASH entries": [],
@@ -6112,7 +6168,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siitdconc.tavg-u-hxy-u.mon.GLB (SImon.siitdconc)"
   },
@@ -6137,6 +6194,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "sihc",
       "Expression UKESM1": "sihc",
+      "Expression UKESM1-3": "sihc",
       "Model units": "J m-2"
     },
     "STASH entries": [],
@@ -6146,7 +6204,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sihc.tavg-u-hxy-sea.mon.GLB (SImon.sihc)"
   },
@@ -33412,10 +33471,10 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Expression HadGEM3-GC31": "m01s03i463[lbproc=128]",
-      "Expression HadGEM3-GC5": "m01s03i463[lbproc=128]",
-      "Expression UKESM1": "m01s03i463[lbproc=128]",
-      "Expression UKESM1-3": "m01s03i463[lbproc=128]",
+      "Expression HadGEM3-GC31": "m01s03i463[lbproc=8192]",
+      "Expression HadGEM3-GC5": "m01s03i463[lbproc=8192]",
+      "Expression UKESM1": "m01s03i463[lbproc=8192]",
+      "Expression UKESM1-3": "m01s03i463[lbproc=8192]",
       "Model units": "m s-1"
     },
     "STASH entries": [
@@ -33423,7 +33482,7 @@
         "STASH": "m01s03i463",
         "domain_profile": "DIAG",
         "model": "HadGEM3-GC31",
-        "stash_number": "0,024",
+        "stash_number": "3,463",
         "time_profile": "TMONMAX",
         "usage_profile": "UP5"
       },
@@ -33431,7 +33490,7 @@
         "STASH": "m01s03i463",
         "domain_profile": "DIAG",
         "model": "UKESM1",
-        "stash_number": "0,024",
+        "stash_number": "3,463",
         "time_profile": "TMONMAX",
         "usage_profile": "UP5"
       },
@@ -33439,7 +33498,7 @@
         "STASH": "m01s03i463",
         "domain_profile": "DIAG",
         "model": "HadGEM3-GC5",
-        "stash_number": "0,024",
+        "stash_number": "3,463",
         "time_profile": "TMONMAX",
         "usage_profile": "UP5"
       },
@@ -33447,7 +33506,7 @@
         "STASH": "m01s03i463",
         "domain_profile": "DIAG",
         "model": "UKESM1-3",
-        "stash_number": "0,024",
+        "stash_number": "3,463",
         "time_profile": "TMONMAX",
         "usage_profile": "UP5"
       }
@@ -33456,6 +33515,8 @@
     "labels": [
       "mon",
       "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
       "approved"
     ],
     "title": "Variable atmos.wsg.tmax-h10m-hxy-u.mon.GLB (Emon.wsgmax10m)"
@@ -36718,9 +36779,206 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "mask_using_cube(m01s01i298[lbproc=128] / m01s01i299[lbproc=128], m01s02i391[lbproc=128] + m01s02i392[lbproc=128] - (m01s02i395[lbproc=128] + m01s02i396[lbproc=128]))",
+      "Expression HadGEM3-GC5": "mask_using_cube(m01s01i298[lbproc=128] / m01s01i299[lbproc=128], m01s02i391[lbproc=128] + m01s02i392[lbproc=128] - (m01s02i395[lbproc=128] + m01s02i396[lbproc=128]))",
+      "Expression UKESM1": "mask_using_cube(m01s01i298[lbproc=128] / m01s01i299[lbproc=128], m01s02i391[lbproc=128] + m01s02i392[lbproc=128] - (m01s02i395[lbproc=128] + m01s02i396[lbproc=128]))",
+      "Expression UKESM1-3": "mask_using_cube(m01s01i298[lbproc=128] / m01s01i299[lbproc=128], m01s02i391[lbproc=128] + m01s02i392[lbproc=128] - (m01s02i395[lbproc=128] + m01s02i396[lbproc=128]))",
+      "Model units": "cm-3"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s01i298",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "1,298",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i299",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "1,299",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i391",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2,391",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i392",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2,392",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2,395",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2,396",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i298",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "1,298",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i299",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "1,299",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i391",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,391",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i392",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,392",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,395",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,396",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i298",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "1,298",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i299",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "1,299",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i391",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "2,391",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i392",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "2,392",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "2,395",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "2,396",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i298",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "1,298",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i299",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "1,299",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i391",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "2,391",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i392",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "2,392",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "2,395",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "2,396",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 1014,
     "labels": [
       "mon",
@@ -37462,9 +37720,206 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "mask_using_cube(m01s01i245[lbproc=128] / m01s01i246[lbproc=128], m01s02i391[lbproc=128] + m01s02i392[lbproc=128] - (m01s02i395[lbproc=128] + m01s02i396[lbproc=128]))",
+      "Expression HadGEM3-GC5": "mask_using_cube(m01s01i245[lbproc=128] / m01s01i246[lbproc=128], m01s02i391[lbproc=128] + m01s02i392[lbproc=128] - (m01s02i395[lbproc=128] + m01s02i396[lbproc=128]))",
+      "Expression UKESM1": "mask_using_cube(m01s01i245[lbproc=128] / m01s01i246[lbproc=128], m01s02i391[lbproc=128] + m01s02i392[lbproc=128] - (m01s02i395[lbproc=128] + m01s02i396[lbproc=128]))",
+      "Expression UKESM1-3": "mask_using_cube(m01s01i245[lbproc=128] / m01s01i246[lbproc=128], m01s02i391[lbproc=128] + m01s02i392[lbproc=128] - (m01s02i395[lbproc=128] + m01s02i396[lbproc=128]))",
+      "Model units": "um"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s01i245",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "1,245",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i246",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "1,246",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i391",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2,391",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i392",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2,392",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2,395",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2,396",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i245",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "1,245",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i246",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "1,246",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i391",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,391",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i392",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,392",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,395",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,396",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i245",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "1,245",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i246",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "1,246",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i391",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "2,391",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i392",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "2,392",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "2,395",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "2,396",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i245",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "1,245",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i246",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "1,246",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i391",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "2,391",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i392",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "2,392",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "2,395",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "2,396",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 993,
     "labels": [
       "mon",
@@ -37907,7 +38362,8 @@
     "labels": [
       "mon",
       "aerosol",
-      "atmos"
+      "atmos",
+      "do-not-produce"
     ],
     "title": "Variable aerosol.reffccwctop.tavg-u-hxy-ccl.mon.GLB (Emon.reffccwctop)"
   },
@@ -45032,9 +45488,142 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "mask_using_cube(m01s01i298[lbproc=128] / m01s01i299[lbproc=128], m01s02i395[lbproc=128] + m01s02i396[lbproc=128])",
+      "Expression HadGEM3-GC5": "mask_using_cube(m01s01i298[lbproc=128] / m01s01i299[lbproc=128], m01s02i395[lbproc=128] + m01s02i396[lbproc=128])",
+      "Expression UKESM1": "mask_using_cube(m01s01i298[lbproc=128] / m01s01i299[lbproc=128], m01s02i395[lbproc=128] + m01s02i396[lbproc=128])",
+      "Expression UKESM1-3": "mask_using_cube(m01s01i298[lbproc=128] / m01s01i299[lbproc=128], m01s02i395[lbproc=128] + m01s02i396[lbproc=128])",
+      "Model units": "cm-3"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s01i298",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "1,298",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i299",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "1,299",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2,395",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2,396",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i298",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "1,298",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i299",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "1,299",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,395",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,396",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i298",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "1,298",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i299",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "1,299",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "2,395",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "2,396",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i298",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "1,298",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i299",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "1,299",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i395",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "2,395",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i396",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "2,396",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 858,
     "labels": [
       "mon",
@@ -54527,11 +55116,49 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "m01s03i463[lbproc=8192]",
+      "Expression HadGEM3-GC5": "m01s03i463[lbproc=8192]",
+      "Expression UKESM1": "m01s03i463[lbproc=8192]",
+      "Expression UKESM1-3": "m01s03i463[lbproc=8192]",
+      "Model units": "m s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s03i463",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "3,463",
+        "time_profile": "T1HRMAX",
+        "usage_profile": "UP9"
+      },
+      {
+        "STASH": "m01s03i463",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "3,463",
+        "time_profile": "T1HRMAX",
+        "usage_profile": "UP9"
+      },
+      {
+        "STASH": "m01s03i463",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "3,463",
+        "time_profile": "T1HRMAX",
+        "usage_profile": "UP9"
+      },
+      {
+        "STASH": "m01s03i463",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "3,463",
+        "time_profile": "T1HRMAX",
+        "usage_profile": "UP9"
+      }
+    ],
     "issue_number": 676,
     "labels": [
+      "question",
       "1hr",
       "atmos"
     ],
@@ -54562,7 +55189,8 @@
     "issue_number": 675,
     "labels": [
       "1hr",
-      "atmos"
+      "atmos",
+      "do-not-produce"
     ],
     "title": "Variable atmos.wsg.tmax-h100m-hxy-u.1hr.GLB (E1hr.wsgmax100m)"
   },
@@ -54817,13 +55445,53 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "m01s01i216[lbproc=128]",
+      "Expression HadGEM3-GC5": "m01s01i216[lbproc=128]",
+      "Expression UKESM1": "m01s01i216[lbproc=128]",
+      "Expression UKESM1-3": "m01s01i216[lbproc=128]",
+      "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s01i216",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "1,216",
+        "time_profile": "T1HRMN",
+        "usage_profile": "UP9"
+      },
+      {
+        "STASH": "m01s01i216",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "1,216",
+        "time_profile": "T1HRMN",
+        "usage_profile": "UP9"
+      },
+      {
+        "STASH": "m01s01i216",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "1,216",
+        "time_profile": "T1HRMN",
+        "usage_profile": "UP9"
+      },
+      {
+        "STASH": "m01s01i216",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "1,216",
+        "time_profile": "T1HRMN",
+        "usage_profile": "UP9"
+      }
+    ],
     "issue_number": 666,
     "labels": [
       "1hr",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.rsdsdiff.tavg-u-hxy-u.1hr.GLB (E1hr.rsdsdiff)"
   },
@@ -55248,13 +55916,53 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "m01s03i304[lbproc=128]",
+      "Expression HadGEM3-GC5": "m01s03i304[lbproc=128]",
+      "Expression UKESM1": "m01s03i304[lbproc=128]",
+      "Expression UKESM1-3": "m01s03i304[lbproc=128]",
+      "Model units": "m"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s03i304",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "3,304",
+        "time_profile": "T1HRMN",
+        "usage_profile": "UP9"
+      },
+      {
+        "STASH": "m01s03i304",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "3,304",
+        "time_profile": "T1HRMN",
+        "usage_profile": "UP9"
+      },
+      {
+        "STASH": "m01s03i304",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "3,304",
+        "time_profile": "T1HRMN",
+        "usage_profile": "UP9"
+      },
+      {
+        "STASH": "m01s03i304",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "3,304",
+        "time_profile": "T1HRMN",
+        "usage_profile": "UP9"
+      }
+    ],
     "issue_number": 654,
     "labels": [
       "1hr",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.bldep.tavg-u-hxy-u.1hr.GLB (E1hr.bldep)"
   },
@@ -100389,7 +101097,8 @@
     "issue_number": 85,
     "labels": [
       "3hr",
-      "ocean"
+      "ocean",
+      "approved"
     ],
     "title": "Variable ocean.friver.tavg-u-hxy-sea.3hr.GLB (3hr.friver)"
   },
@@ -102848,7 +103557,8 @@
       "atmos",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "do-not-produce"
     ],
     "title": "Variable atmos.rluscs.tavg-u-hxy-u.mon.GLB (Amon.rluscs)"
   },
@@ -103457,7 +104167,10 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Expression": "HadGEM3-GC5",
+      "Expression HadGEM3-GC31": "m01s05i214[lbproc=128]",
+      "Expression HadGEM3-GC5": "m01s05i214[lbproc=128]",
+      "Expression UKESM1": "m01s05i214[lbproc=128]",
+      "Expression UKESM1-3": "m01s05i214[lbproc=128]",
       "Model units": "kg m-2 s-1"
     },
     "STASH entries": [
