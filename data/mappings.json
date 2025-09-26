@@ -6031,15 +6031,15 @@
   },
   {
     "Data Request information": {
-      "Branded variable name": "siitdthick_tavg-u-hxy-si",
-      "CF standard name": "sea_ice_thickness",
-      "CMIP6 Differences": "\"long_name\" was \"Sea-Ice Thickness in Thickness Categories\"; ; \"cell_methods\" was \"area: time: mean where sea_ice (comment: mask=siitdconc)\"; ; \"comment\" was \"Actual (floe) thickness of sea ice in each category (NOT volume divided by grid area), (vector with one entry for each thickness category starting from the thinnest category, netcdf file should use thickness bounds of categories as third coordinate axis)\";",
+      "Branded variable name": "siitdsnthick_tavg-u-hxy-si",
+      "CF standard name": "surface_snow_thickness",
+      "CMIP6 Differences": "\"comment\" was \"Actual thickness of snow in each category (NOT volume divided by grid area), (vector with one entry for each thickness category starting from the thinnest category, netcdf file should use thickness bounds of categories as third coordinate axis)\"; ; \"cell_methods\" was \"area: time: mean where sea_ice (comment: mask=siitdconc)\";",
       "Cell measures": "area: areacello",
       "Cell methods": "area: time: mean where sea_ice (mask=siitdconc)",
-      "Comment": "Actual (floe) thickness of sea ice in each ice thickness category, NOT volume divided by grid area (vector with one entry for each ice thickness category starting from the thinnest category, netcdf file should use thickness bounds of categories as third coordinate axis).",
+      "Comment": "Actual thickness of snow in each ice thickness category, NOT snow volume divided by grid area (vector with one entry for each ice thickness category starting from the thinnest category, netcdf file should use thickness bounds of categories as third coordinate axis). It can also be derived by dividing the volume of snow by the area of snow in each thickness category.",
       "Dimensions": "longitude latitude iceband time",
       "Frequency": "mon",
-      "Long name": "Sea-Ice Thickness in Ice Thickness Categories",
+      "Long name": "Snow Thickness in Ice Thickness Categories",
       "Modeling realm": "seaIce",
       "Positive": "",
       "Processing notes": "Note that SIMIP requests the area-weighted average for all intensive variables (i.e., variables that are not proportional to area fraction such as albedo, temperature, or heat flux). Hence, all time samples with non-zero sea-ice fraction are first multiplied by area fraction, then summed, and then divided by the sum of the area fractions. See Appendix C of Notz et al. (2016) for more detail. CHANGE SINCE CMIP6 in Cell Methods - CMIP6:area: time: mean where sea_ice (comment: mask=siitdconc) CMIP7:area: time: mean where sea_ice (mask=siitdconc),",
@@ -6048,9 +6048,9 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression HadGEM3-GC31": "vicen / aicen",
-      "Expression UKESM1": "vicen / aicen",
-      "Expression UKESM1-3": "vicen / aicen",
+      "Expression HadGEM3-GC31": "vsnon / aicen",
+      "Expression UKESM1": "vsnon / aicen",
+      "Expression UKESM1-3": "vsnon / aicen",
       "Model units": "m"
     },
     "STASH entries": [],
