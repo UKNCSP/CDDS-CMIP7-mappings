@@ -6194,6 +6194,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "sihc",
       "Expression UKESM1": "sihc",
+      "Expression UKESM1-3": "sihc",
       "Model units": "J m-2"
     },
     "STASH entries": [],
@@ -6203,7 +6204,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sihc.tavg-u-hxy-sea.mon.GLB (SImon.sihc)"
   },
