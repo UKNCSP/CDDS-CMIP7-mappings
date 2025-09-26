@@ -5682,7 +5682,8 @@
     "labels": [
       "mon",
       "seaIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sisali.tavg-u-hxy-si.mon.GLB (SImon.sisali)"
   },
@@ -5707,6 +5708,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "vrdg / ardg",
       "Expression UKESM1": "vrdg / ardg",
+      "Expression UKESM1-3": "vrdg / ardg",
       "Model units": "m"
     },
     "STASH entries": [],
@@ -5716,7 +5718,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sithick.tavg-u-hxy-sir.mon.GLB (SImon.sirdgthick)"
   },
