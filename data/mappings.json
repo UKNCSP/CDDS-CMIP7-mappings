@@ -7084,6 +7084,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "-1. * flat_ai / aice",
       "Expression UKESM1": "-1. * flat_ai / aice",
+      "Expression UKESM1-3": "-1. * flat_ai / aice",
       "Model units": "W m-2"
     },
     "STASH entries": [],
