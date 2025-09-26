@@ -5518,7 +5518,8 @@
     "labels": [
       "mon",
       "seaIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sisndmassdyn.tavg-u-hxy-si.mon.GLB (SImon.sisndmassdyn)"
   },
@@ -5543,6 +5544,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "snowfrac / aice",
       "Expression UKESM1": "snowfrac / aice",
+      "Expression UKESM1-3": "snowfrac / aice",
       "Model units": "1"
     },
     "STASH entries": [],
@@ -5552,7 +5554,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.snc.tavg-u-hxy-si.mon.GLB (SImon.sisnconc)"
   },
