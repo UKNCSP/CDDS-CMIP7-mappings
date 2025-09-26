@@ -5880,6 +5880,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "ipond_ai / apond_ai",
       "Expression UKESM1": "ipond_ai / apond_ai",
+      "Expression UKESM1-3": "ipond_ai / apond_ai",
       "Model units": "m"
     },
     "STASH entries": [],
