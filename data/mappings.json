@@ -6132,7 +6132,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siitdsnconc.tavg-u-hxy-si.mon.GLB (SImon.siitdsnconc)"
   },
@@ -6157,6 +6158,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "aicen",
       "Expression UKESM1": "aicen",
+      "Expression UKESM1-3": "aicen",
       "Model units": "1"
     },
     "STASH entries": [],
@@ -6166,7 +6168,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siitdconc.tavg-u-hxy-u.mon.GLB (SImon.siitdconc)"
   },
