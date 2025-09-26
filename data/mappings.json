@@ -5308,6 +5308,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "sisnhc",
       "Expression UKESM1": "sisnhc",
+      "Expression UKESM1-3": "sisnhc",
       "Model units": "J m-2"
     },
     "STASH entries": [],
@@ -5317,7 +5318,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sisnhc.tavg-u-hxy-si.mon.GLB (SImon.sisnhc)"
   },
@@ -102951,7 +102953,8 @@
       "atmos",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "do-not-produce"
     ],
     "title": "Variable atmos.rluscs.tavg-u-hxy-u.mon.GLB (Amon.rluscs)"
   },
