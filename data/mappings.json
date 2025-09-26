@@ -5349,7 +5349,8 @@
     "labels": [
       "mon",
       "seaIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sisndmasswind.tavg-u-hxy-si.mon.GLB (SImon.sisndmasswind)"
   },
@@ -5372,6 +5373,7 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
+      "Expression UKESM1-3  `-1 * evap_snow_ai * FRESHWATER_DENSITY / (100. * SECONDS_IN_DAY)": "",
       "Model units": ""
     },
     "STASH entries": [],
