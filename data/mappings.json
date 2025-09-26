@@ -6260,6 +6260,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "siforcetilty",
       "Expression UKESM1": "siforcetilty",
+      "Expression UKESM1-3": "siforcetilty",
       "Model units": "N m-2"
     },
     "STASH entries": [],
@@ -54566,7 +54567,10 @@
     "labels": [
       "3hr",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.rsut.tavg-u-hxy-u.3hr.GLB (E3hr.rsut)"
   },
@@ -54697,7 +54701,10 @@
     "labels": [
       "3hr",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.rlutcs.tavg-u-hxy-u.3hr.GLB (E3hr.rlutcs)"
   },
@@ -54764,7 +54771,10 @@
     "labels": [
       "3hr",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.rlut.tavg-u-hxy-u.3hr.GLB (E3hr.rlut)"
   },
@@ -54831,7 +54841,10 @@
     "labels": [
       "3hr",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.prw.tavg-u-hxy-u.3hr.GLB (E3hr.prw)"
   },
@@ -54930,7 +54943,10 @@
     "labels": [
       "3hr",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.clwvi.tavg-u-hxy-u.3hr.GLB (E3hr.clwvi)"
   },
@@ -54997,7 +55013,10 @@
     "labels": [
       "3hr",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.clivi.tavg-u-hxy-u.3hr.GLB (E3hr.clivi)"
   },
