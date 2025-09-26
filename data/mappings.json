@@ -5155,8 +5155,7 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "BCV",
-      "approved_UKESM"
+      "BCV"
     ],
     "title": "Variable seaIce.snd.tavg-u-hxy-sn.mon.GLB (SImon.sisnthick)"
   },
@@ -5406,6 +5405,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "snow_ai * FRESHWATER_DENSITY / (100. * SECONDS_IN_DAY)",
       "Expression UKESM1": "snow_ai * FRESHWATER_DENSITY / (100. * SECONDS_IN_DAY)",
+      "Expression UKESM1-3": "snow_ai * FRESHWATER_DENSITY / (100. * SECONDS_IN_DAY)",
       "Model units": "kg m-2 s-1"
     },
     "STASH entries": [],
@@ -5415,7 +5415,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.prsn.tavg-u-hxy-si.mon.GLB (SImon.sisndmasssnf)"
   },
