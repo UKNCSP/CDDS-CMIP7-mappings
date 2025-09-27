@@ -24768,9 +24768,35 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1-3": "land_class_mean(`m01s01i235[lbproc=128] - m01s01i201[lbproc=128], m01s03i317[lbproc=128], land_class='iceElev')",
+      "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s01i201",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "1,201",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i235",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "1,235",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s03i317",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
+        "stash_number": "3,317",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 1249,
     "labels": [
       "mon",
@@ -24798,9 +24824,27 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1-3": "land_class_mean(m01s01i235[lbproc=128], m01s03i317[lbproc=128], land_class='iceElev')",
+      "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s01i235",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "1,235",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s03i317",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
+        "stash_number": "3,317",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 1248,
     "labels": [
       "mon",

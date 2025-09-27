@@ -580,6 +580,11 @@ UKESM1,sbl_tavg-u-hxy-lnd,mon,m01s03i317,3,317,TMONMN,DTILE,UP5,True
 UKESM1,sbl_tavg-u-hxy-lnd,mon,m01s03i331,3,331,TMONMN,DTILE,UP5,True
 UKESM1-3,sbl_tavg-u-hxy-lnd,mon,m01s03i317,3,317,TMONMN,DTILE,UP5,True
 UKESM1-3,sbl_tavg-u-hxy-lnd,mon,m01s03i331,3,331,TMONMN,DTILE,UP5,True
+UKESM1-3,rsus_tavg-u-hxy-is,mon,m01s01i201,1,201,TMONMN,DIAG,UP5,False
+UKESM1-3,rsus_tavg-u-hxy-is,mon,m01s01i235,1,235,TMONMN,DIAG,UP5,False
+UKESM1-3,rsus_tavg-u-hxy-is,mon,m01s03i317,3,317,TMONMN,DTILE,UP5,False
+UKESM1-3,rsds_tavg-u-hxy-is,mon,m01s01i235,1,235,TMONMN,DIAG,UP5,False
+UKESM1-3,rsds_tavg-u-hxy-is,mon,m01s03i317,3,317,TMONMN,DTILE,UP5,False
 HadGEM3-GC31,rlus_tavg-u-hxy-is,mon,m01s03i317,3,317,TMONMN,DTILE,UP5,True
 HadGEM3-GC31,rlus_tavg-u-hxy-is,mon,m01s03i383,3,383,TMONMN,DTILE,UP5,True
 HadGEM3-GC5,rlus_tavg-u-hxy-is,mon,m01s03i317,3,317,TMONMN,DTILE,UP5,True
