@@ -7656,15 +7656,15 @@
   },
   {
     "Data Request information": {
-      "Branded variable name": "sidmassgrowthbot_tavg-u-hxy-sea",
-      "CF standard name": "tendency_of_sea_ice_amount_due_to_congelation_ice_accumulation",
-      "CMIP6 Differences": "\"comment\" was \"The rate of change of sea ice mass due to vertical growth of existing sea ice at its base divided by grid-cell area.\";",
+      "Branded variable name": "sidmassmeltbot_tavg-u-hxy-sea",
+      "CF standard name": "tendency_of_sea_ice_amount_due_to_basal_melting",
+      "CMIP6 Differences": "\"comment\" was \"The rate of change of sea ice mass through melting at the ice bottom divided by grid-cell area\";",
       "Cell measures": "area: areacello",
       "Cell methods": "area: mean where sea time: mean",
-      "Comment": "Rate of change of sea-ice mass due to vertical growth of existing sea ice at its base divided by grid-cell area. Note that this number is always positive or zero since sea-ice melt is collected in sidmassmeltbot. This is to account for differential growth and melt in models with a sub-grid scale ice thickness distribution.",
+      "Comment": "Rate of change of sea-ice mass through melting/dissolution at the ice bottom divided by grid-cell area. Note that this number is always zero or negative since sea-ice growth is collected in sidmassgrowthbot. This is to account for differential growth and melt in models with a sub-grid scale ice thickness distribution.",
       "Dimensions": "longitude latitude time",
       "Frequency": "mon",
-      "Long name": "Sea-Ice Mass Change Through Basal Growth",
+      "Long name": "Sea-Ice Mass Change Through Bottom Melting",
       "Modeling realm": "seaIce",
       "Positive": "",
       "Processing notes": "",
@@ -7673,9 +7673,9 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression HadGEM3-GC31": "congel * ICE_DENSITY / (100. * SECONDS_IN_DAY)",
-      "Expression UKESM1": "congel * ICE_DENSITY / (100. * SECONDS_IN_DAY)",
-      "Expression UKESM1-3": "congel * ICE_DENSITY / (100. * SECONDS_IN_DAY)",
+      "Expression HadGEM3-GC31": "-1 * meltb * ICE_DENSITY / (100. * SECONDS_IN_DAY)",
+      "Expression UKESM1": "-1 * meltb * ICE_DENSITY / (100. * SECONDS_IN_DAY)",
+      "Expression UKESM1-3": "-1 * meltb * ICE_DENSITY / (100. * SECONDS_IN_DAY)",
       "Model units": "kg m-2 s-1"
     },
     "STASH entries": [],
