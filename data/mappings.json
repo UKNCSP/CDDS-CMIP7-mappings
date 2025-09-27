@@ -23472,7 +23472,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.tsn.tavg-u-hxy-is.mon.GLB (LImon.tsnIs)"
   },
@@ -23502,7 +23503,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.tsn.tavg-u-hxy-lnd.mon.GLB (LImon.tsn)"
   },
@@ -24370,9 +24372,35 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1-3": "snc_calc(m01s08i236[lbproc=128], m01s03i317[lbproc=128], m01s03i395[lbproc=128], land_class='iceElev')",
+      "Model units": "%"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s03i317",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
+        "stash_number": "3,317",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s08i236",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
+        "stash_number": "8,236",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s03i395",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "3,395",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      }
+    ],
     "issue_number": 1255,
     "labels": [
       "mon",
@@ -24801,7 +24829,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved"
     ],
     "title": "Variable landIce.rsus.tavg-u-hxy-is.mon.GLB (LImon.rsusIs)"
   },
@@ -24849,7 +24878,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved"
     ],
     "title": "Variable landIce.rsds.tavg-u-hxy-is.mon.GLB (LImon.rsdsIs)"
   },
@@ -25101,7 +25131,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved"
     ],
     "title": "Variable landIce.prsn.tavg-u-hxy-is.mon.GLB (LImon.prsnIs)"
   },
@@ -25149,7 +25180,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved"
     ],
     "title": "Variable landIce.prra.tavg-u-hxy-is.mon.GLB (LImon.prraIs)"
   },
@@ -25228,7 +25260,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved"
     ],
     "title": "Variable landIce.orog.tavg-u-hxy-is.mon.GLB (LImon.orogIs)"
   },
@@ -25360,7 +25393,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.lwsnl.tavg-u-hxy-lnd.mon.GLB (LImon.lwsnl)"
   },
@@ -25485,9 +25519,27 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "land_class_mean(m01s08i579[lbproc=128], m01s03i317[lbproc=128], land_class='iceElev')",
       "Model units": ""
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s03i317",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
+        "stash_number": "3,317",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s08i236",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
+        "stash_number": "8,579",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      }
+    ],
     "issue_number": 1238,
     "labels": [
       "mon",
@@ -48705,7 +48757,8 @@
     "labels": [
       "day",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.tsn.tavg-u-hxy-lnd.day.GLB (Eday.tsn)"
   },
@@ -51889,7 +51942,8 @@
     "labels": [
       "day",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.lwsnl.tavg-u-hxy-lnd.day.GLB (Eday.lwsnl)"
   },
