@@ -720,7 +720,8 @@
     "issue_number": 1849,
     "labels": [
       "fx",
-      "landIce"
+      "landIce",
+      "do-not-produce"
     ],
     "title": "Variable landIce.lithk.ti-u-hxy-u.fx.GLB (fx.lithk)"
   },
@@ -23633,7 +23634,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.tpf.tavg-u-hxy-lnd.mon.GLB (LImon.tpf)"
   },
@@ -23765,7 +23767,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.sootsn.tavg-u-hxy-lnd.mon.GLB (LImon.sootsn)"
   },
@@ -24404,7 +24407,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.sftgrf.tavg-u-hxy-u.mon.GLB (LImon.sftgrf)"
   },
@@ -24536,7 +24540,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.sftflf.tavg-u-hxy-u.mon.GLB (LImon.sftflf)"
   },
@@ -25027,9 +25032,27 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1-3": "land_class_mean(m01s05i215[lbproc=128], m01s03i317[lbproc=128], land_class='iceElev')",
+      "Model units": "kg m-2 s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s05i215",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "5,215",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s03i317",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
+        "stash_number": "3,317",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 1245,
     "labels": [
       "mon",
@@ -25057,9 +25080,27 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1-3": "land_class_mean(m01s05i214[lbproc=128], m01s03i317[lbproc=128], land_class='iceElev')",
+      "Model units": "kg m-2 s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s05i214",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "5,214",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s03i317",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
+        "stash_number": "3,317",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 1244,
     "labels": [
       "mon",
@@ -25094,7 +25135,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.pflw.tavg-u-hxy-lnd.mon.GLB (LImon.pflw)"
   },
@@ -25117,9 +25159,27 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1-3": "land_class_mean(m01s00i033[lbproc=128], m01s03i317[lbproc=128], land_class='iceElev')",
+      "Model units": "m"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "0,33",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s03i317",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "3,317",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "issue_number": 1242,
     "labels": [
       "mon",
@@ -25692,7 +25752,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.agesno.tavg-u-hxy-lnd.mon.GLB (LImon.agesno)"
   },
@@ -26245,7 +26306,8 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.snc.tavg-u-hxy-is.yr.GRL (IyrGre.snc)"
   },
@@ -26401,7 +26463,8 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.areacell.tavg-u-hxy-u.yr.GRL (IyrGre.modelCellAreai)"
   },
@@ -27314,7 +27377,8 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.snc.tavg-u-hxy-is.yr.ATA (IyrAnt.snc)"
   },
@@ -27470,7 +27534,8 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.areacell.tavg-u-hxy-u.yr.ATA (IyrAnt.modelCellAreai)"
   },
@@ -27962,7 +28027,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.tsn.tavg-u-hxy-is.mon.GRL (ImonGre.tsn)"
   },
@@ -27992,7 +28058,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.ts.tavg-u-hxy-is.mon.GRL (ImonGre.ts)"
   },
@@ -28022,7 +28089,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.tas.tavg-h2m-hm-is.mon.GRL (ImonGre.tas)"
   },
@@ -28052,7 +28120,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.snm.tavg-u-hxy-is.mon.GRL (ImonGre.snm)"
   },
@@ -28082,7 +28151,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.snicem.tavg-u-hxy-is.mon.GRL (ImonGre.snicem)"
   },
@@ -28112,7 +28182,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.snrefr.tavg-u-hxy-is.mon.GRL (ImonGre.snicefreez)"
   },
@@ -28142,7 +28213,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.snc.tavg-u-hxy-is.mon.GRL (ImonGre.snc)"
   },
@@ -28172,7 +28244,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.sbl.tavg-u-hxy-is.mon.GRL (ImonGre.sbl)"
   },
@@ -28202,7 +28275,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.rsus.tavg-u-hxy-is.mon.GRL (ImonGre.rsus)"
   },
@@ -28232,7 +28306,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.rsds.tavg-u-hxy-is.mon.GRL (ImonGre.rsds)"
   },
@@ -28262,7 +28337,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.rlus.tavg-u-hxy-is.mon.GRL (ImonGre.rlus)"
   },
@@ -28292,7 +28368,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.rlds.tavg-u-hxy-is.mon.GRL (ImonGre.rlds)"
   },
@@ -28322,7 +28399,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.prsn.tavg-u-hxy-is.mon.GRL (ImonGre.prsn)"
   },
@@ -28352,7 +28430,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.prra.tavg-u-hxy-is.mon.GRL (ImonGre.prra)"
   },
@@ -28412,7 +28491,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.mrroLi.tavg-u-hxy-is.mon.GRL (ImonGre.mrroLi)"
   },
@@ -28442,7 +28522,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.litemptop.tavg-u-hxy-is.mon.GRL (ImonGre.litemptop)"
   },
@@ -28472,7 +28553,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.litempbot.tavg-u-hxy-gis.mon.GRL (ImonGre.litempbotgr)"
   },
@@ -28502,7 +28584,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.litempbot.tavg-u-hxy-fis.mon.GRL (ImonGre.litempbotfl)"
   },
@@ -28532,7 +28615,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.lifmassbf.tavg-u-hxy-is.mon.GRL (ImonGre.lifmassbf)"
   },
@@ -28562,7 +28646,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.licalvf.tavg-u-hxy-is.mon.GRL (ImonGre.licalvf)"
   },
@@ -28592,7 +28677,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.libmassbf.tavg-u-hxy-gis.mon.GRL (ImonGre.libmassbfgr)"
   },
@@ -28622,7 +28708,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.libmassbf.tavg-u-hxy-fis.mon.GRL (ImonGre.libmassbffl)"
   },
@@ -28652,7 +28739,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.icem.tavg-u-hxy-is.mon.GRL (ImonGre.icem)"
   },
@@ -28682,7 +28770,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.hfss.tavg-u-hxy-is.mon.GRL (ImonGre.hfss)"
   },
@@ -28712,7 +28801,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.hfls.tavg-u-hxy-is.mon.GRL (ImonGre.hfls)"
   },
@@ -28742,7 +28832,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.acabf.tavg-u-hxy-is.mon.GRL (ImonGre.acabf)"
   },
@@ -28772,7 +28863,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.tsn.tavg-u-hxy-is.mon.ATA (ImonAnt.tsn)"
   },
@@ -28802,7 +28894,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.ts.tavg-u-hxy-is.mon.ATA (ImonAnt.ts)"
   },
@@ -28832,7 +28925,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.tas.tavg-h2m-hm-is.mon.ATA (ImonAnt.tas)"
   },
@@ -28862,7 +28956,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.snm.tavg-u-hxy-is.mon.ATA (ImonAnt.snm)"
   },
@@ -28892,7 +28987,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.snicem.tavg-u-hxy-is.mon.ATA (ImonAnt.snicem)"
   },
@@ -28922,7 +29018,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.snrefr.tavg-u-hxy-is.mon.ATA (ImonAnt.snicefreez)"
   },
@@ -28952,7 +29049,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.snc.tavg-u-hxy-is.mon.ATA (ImonAnt.snc)"
   },
@@ -28982,7 +29080,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.sbl.tavg-u-hxy-is.mon.ATA (ImonAnt.sbl)"
   },
@@ -29012,7 +29111,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.rsus.tavg-u-hxy-is.mon.ATA (ImonAnt.rsus)"
   },
@@ -29042,7 +29142,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.rsds.tavg-u-hxy-is.mon.ATA (ImonAnt.rsds)"
   },
@@ -29072,7 +29173,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.rlus.tavg-u-hxy-is.mon.ATA (ImonAnt.rlus)"
   },
@@ -29102,7 +29204,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.rlds.tavg-u-hxy-is.mon.ATA (ImonAnt.rlds)"
   },
@@ -29132,7 +29235,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.prsn.tavg-u-hxy-is.mon.ATA (ImonAnt.prsn)"
   },
@@ -29162,7 +29266,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.prra.tavg-u-hxy-is.mon.ATA (ImonAnt.prra)"
   },
@@ -29222,7 +29327,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.mrroLi.tavg-u-hxy-is.mon.ATA (ImonAnt.mrroLi)"
   },
@@ -29252,7 +29358,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.litemptop.tavg-u-hxy-is.mon.ATA (ImonAnt.litemptop)"
   },
@@ -29282,7 +29389,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.litempbot.tavg-u-hxy-gis.mon.ATA (ImonAnt.litempbotgr)"
   },
@@ -29312,7 +29420,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.litempbot.tavg-u-hxy-fis.mon.ATA (ImonAnt.litempbotfl)"
   },
@@ -29342,7 +29451,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.lifmassbf.tavg-u-hxy-is.mon.ATA (ImonAnt.lifmassbf)"
   },
@@ -29372,7 +29482,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.licalvf.tavg-u-hxy-is.mon.ATA (ImonAnt.licalvf)"
   },
@@ -29402,7 +29513,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.libmassbf.tavg-u-hxy-gis.mon.ATA (ImonAnt.libmassbfgr)"
   },
@@ -29432,7 +29544,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.libmassbf.tavg-u-hxy-fis.mon.ATA (ImonAnt.libmassbffl)"
   },
@@ -29462,7 +29575,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.icem.tavg-u-hxy-is.mon.ATA (ImonAnt.icem)"
   },
@@ -29492,7 +29606,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.hfss.tavg-u-hxy-is.mon.ATA (ImonAnt.hfss)"
   },
@@ -29522,7 +29637,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.hfls.tavg-u-hxy-is.mon.ATA (ImonAnt.hfls)"
   },
@@ -29552,7 +29668,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.acabf.tavg-u-hxy-is.mon.ATA (ImonAnt.acabf)"
   },
@@ -29582,7 +29699,8 @@
     "labels": [
       "fx",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.topg.ti-u-hxy-gis.fx.GRL (IfxGre.topg)"
   },
@@ -29612,7 +29730,8 @@
     "labels": [
       "fx",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.lithk.ti-u-hxy-is.fx.GRL (IfxGre.lithk)"
   },
@@ -29705,7 +29824,8 @@
     "labels": [
       "fx",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.topg.ti-u-hxy-gis.fx.ATA (IfxAnt.topg)"
   },
@@ -29735,7 +29855,8 @@
     "labels": [
       "fx",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.lithk.ti-u-hxy-is.fx.ATA (IfxAnt.lithk)"
   },
@@ -46964,7 +47085,8 @@
     "labels": [
       "fx",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.sftgrf.ti-u-hxy-u.fx.GLB (Efx.sftgrf)"
   },
@@ -46994,7 +47116,8 @@
     "labels": [
       "fx",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.sftflf.ti-u-hxy-u.fx.GLB (Efx.sftflf)"
   },
@@ -48708,7 +48831,8 @@
     "labels": [
       "day",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.tpf.tavg-u-hxy-lnd.day.GLB (Eday.tpf)"
   },
@@ -51019,7 +51143,8 @@
     "labels": [
       "day",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.pflw.tavg-u-hxy-lnd.day.GLB (Eday.pflw)"
   },
@@ -60904,7 +61029,8 @@
       "landIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable landIce.sbl.tpt-u-hxys-u.subhr.GLB (CFsubhr.sbl)"
   },
