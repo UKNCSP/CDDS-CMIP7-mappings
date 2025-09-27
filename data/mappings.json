@@ -26580,7 +26580,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "lifmassbf",
+      "Model units": "kg m^-2 yr^-1"
     },
     "STASH entries": [],
     "issue_number": 1207,
@@ -26610,7 +26611,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "licalvf",
+      "Model units": "kg m^-2 yr^-1"
     },
     "STASH entries": [],
     "issue_number": 1206,
@@ -26640,7 +26642,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "libmassbfgr",
+      "Model units": "kg m^-2 yr^-1"
     },
     "STASH entries": [],
     "issue_number": 1205,
@@ -26670,7 +26673,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "libmassbffl",
+      "Model units": "kg m^-2 yr^-1"
     },
     "STASH entries": [],
     "issue_number": 1204,
@@ -26700,7 +26704,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "iareagr",
+      "Model units": "m^2"
     },
     "STASH entries": [],
     "issue_number": 1203,
@@ -26730,7 +26735,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "iareafl",
+      "Model units": "m^2"
     },
     "STASH entries": [],
     "issue_number": 1202,
@@ -26760,7 +26766,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "hfgeoubed",
+      "Model units": "W m^\u22122"
     },
     "STASH entries": [],
     "issue_number": 1201,
@@ -26790,7 +26797,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "acabf",
+      "Model units": "kg m^-2 yr^-1"
     },
     "STASH entries": [],
     "issue_number": 1200,
@@ -27084,7 +27092,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.topg.tavg-u-hxy-gis.yr.ATA (IyrAnt.topg)"
   },
@@ -27115,7 +27125,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.tendlicalvf.tavg-u-hm-is.yr.ATA (IyrAnt.tendlicalvf)"
   },
@@ -27146,7 +27158,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.tendlibmassbf.tavg-u-hm-is.yr.ATA (IyrAnt.tendlibmassbf)"
   },
@@ -27177,7 +27191,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.tendacabf.tavg-u-hm-is.yr.ATA (IyrAnt.tendacabf)"
   },
@@ -27208,7 +27224,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.strbasemag.tavg-u-hxy-is.yr.ATA (IyrAnt.strbasemag)"
   },
@@ -27269,7 +27287,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.sftgrf.tavg-u-hxy-u.yr.ATA (IyrAnt.sftgrf)"
   },
@@ -27330,7 +27350,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.sftflf.tavg-u-hxy-u.yr.ATA (IyrAnt.sftflf)"
   },
@@ -27421,7 +27443,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.lithk.tavg-u-hxy-is.yr.ATA (IyrAnt.lithk)"
   },
@@ -27452,7 +27476,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.litemptop.tavg-u-hxy-is.yr.ATA (IyrAnt.litemptop)"
   },
@@ -27483,7 +27509,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.litempbot.tavg-u-hxy-gis.yr.ATA (IyrAnt.litempbotgr)"
   },
@@ -27514,7 +27542,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.litempbot.tavg-u-hxy-fis.yr.ATA (IyrAnt.litempbotfl)"
   },
@@ -27545,7 +27575,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.limnsw.tavg-u-hm-is.yr.ATA (IyrAnt.limnsw)"
   },
@@ -27576,7 +27608,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.lim.tavg-u-hm-is.yr.ATA (IyrAnt.lim)"
   },
@@ -27607,7 +27641,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.lifmassbf.tavg-u-hxy-is.yr.ATA (IyrAnt.lifmassbf)"
   },
@@ -27638,7 +27674,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.licalvf.tavg-u-hxy-is.yr.ATA (IyrAnt.licalvf)"
   },
@@ -27669,7 +27707,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.libmassbf.tavg-u-hxy-gis.yr.ATA (IyrAnt.libmassbfgr)"
   },
@@ -27700,7 +27740,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.libmassbf.tavg-u-hxy-fis.yr.ATA (IyrAnt.libmassbffl)"
   },
@@ -27731,7 +27773,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.iareagr.tavg-u-hm-gis.yr.ATA (IyrAnt.iareagr)"
   },
@@ -27762,7 +27806,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.iareafl.tavg-u-hm-fis.yr.ATA (IyrAnt.iareafl)"
   },
@@ -27793,7 +27839,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.hfgeoubed.tavg-u-hxy-gis.yr.ATA (IyrAnt.hfgeoubed)"
   },
@@ -27824,7 +27872,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.acabf.tavg-u-hxy-is.yr.ATA (IyrAnt.acabf)"
   },
@@ -29527,7 +29577,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "hfgeoubed",
+      "Model units": "W m^\u22122"
     },
     "STASH entries": [],
     "issue_number": 1110,
@@ -29655,7 +29706,9 @@
     "labels": [
       "fx",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.hfgeoubed.ti-u-hxy-gis.fx.ATA (IfxAnt.hfgeoubed)"
   },
