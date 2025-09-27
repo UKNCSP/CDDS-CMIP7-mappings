@@ -7818,6 +7818,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "-1 * evap_ai * FRESHWATER_DENSITY / (100. * SECONDS_IN_DAY)",
       "Expression UKESM1": "-1 * evap_ai * FRESHWATER_DENSITY / (100. * SECONDS_IN_DAY)",
+      "Expression UKESM1-3": "-1 * evap_ice_ai * FRESHWATER_DENSITY / (100. * SECONDS_IN_DAY)",
       "Model units": "kg m-2 s-1"
     },
     "STASH entries": [],
@@ -26756,7 +26757,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.iareafl.tavg-u-hm-fis.yr.GRL (IyrGre.iareafl)"
   },
@@ -26787,7 +26790,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.hfgeoubed.tavg-u-hxy-gis.yr.GRL (IyrGre.hfgeoubed)"
   },
@@ -26818,7 +26823,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.acabf.tavg-u-hxy-is.yr.GRL (IyrGre.acabf)"
   },
@@ -29598,7 +29605,9 @@
     "labels": [
       "fx",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.hfgeoubed.ti-u-hxy-gis.fx.GRL (IfxGre.hfgeoubed)"
   },
