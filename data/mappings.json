@@ -7639,6 +7639,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "-1 * meltl * ICE_DENSITY / (100. * SECONDS_IN_DAY)",
       "Expression UKESM1": "-1 * meltl * ICE_DENSITY / (100. * SECONDS_IN_DAY)",
+      "Expression UKESM1-3": "-1 * meltl * ICE_DENSITY / (100. * SECONDS_IN_DAY)",
       "Model units": "kg m-2 s-1"
     },
     "STASH entries": [],
