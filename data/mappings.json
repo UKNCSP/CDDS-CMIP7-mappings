@@ -7173,15 +7173,15 @@
   },
   {
     "Data Request information": {
-      "Branded variable name": "siflcondtop_tavg-u-hxy-si",
-      "CF standard name": "surface_downward_heat_flux_in_sea_ice",
-      "CMIP6 Differences": "\"comment\" was \"the net heat conduction flux at the ice surface\"; ; \"cell_methods\" was \"area: time: mean where sea_ice (comment: mask=siconc)\"; ; \"standard_name\" was \"surface_downward_sensible_heat_flux\"; ; \"long_name\" was \"Net Conductive Heat Flux in Ice at the Surface\";",
+      "Branded variable name": "siflcondbot_tavg-u-hxy-si",
+      "CF standard name": "basal_downward_heat_flux_in_sea_ice",
+      "CMIP6 Differences": "\"cell_methods\" was \"area: time: mean where sea_ice (comment: mask=siconc)\"; ; \"comment\" was \"the net heat conduction flux at the ice base\"; ; \"long_name\" was \"Net Conductive Heat Fluxes in Ice at the Bottom\";",
       "Cell measures": "area: areacello",
       "Cell methods": "area: time: mean where sea_ice (mask=siconc)",
-      "Comment": "Net heat conduction flux at the ice surface, i.e. the conductive heat flux from the centre of the uppermost vertical sea-ice grid box to the surface of the sea ice\u00a0(energy flow per sea ice area). Positive for a downward heat flux.",
+      "Comment": "Net heat conduction flux at the ice base, i.e. the conductive heat flux from the centre of the lowermost vertical sea-ice grid box to the base of the sea ice\u00a0(energy flow per sea ice area). Positive for a downward heat flux.",
       "Dimensions": "longitude latitude time",
       "Frequency": "mon",
-      "Long name": "Net Conductive Heat Flux in Sea Ice at the Surface",
+      "Long name": "Net Conductive Heat Flux in Sea Ice at the Base",
       "Modeling realm": "seaIce",
       "Positive": "down",
       "Processing notes": "Note that SIMIP requests the area-weighted average for all intensive variables (i.e., variables that are not proportional to area fraction such as albedo, temperature, or heat flux). Hence, all time samples with non-zero sea-ice fraction are first multiplied by area fraction, then summed, and then divided by the sum of the area fractions. See Appendix C of Notz et al. (2016) for more detail. CHANGE SINCE CMIP6 in Cell Methods - CMIP6:area: time: mean where sea_ice (comment: mask=siconc) CMIP7:area: time: mean where sea_ice (mask=siconc),",
@@ -7190,9 +7190,9 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression HadGEM3-GC31": "siflcondtop",
-      "Expression UKESM1": "siflcondtop",
-      "Expression UKESM1-3": "siflcondtop",
+      "Expression HadGEM3-GC31": "siflcondbot",
+      "Expression UKESM1": "siflcondbot",
+      "Expression UKESM1-3": "siflcondbot",
       "Model units": "W m-2"
     },
     "STASH entries": [],
@@ -25924,7 +25924,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.yvelbase.tavg-u-hxy-is.yr.GRL (IyrGre.yvelbase)"
   },
@@ -26019,7 +26021,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.xvelbase.tavg-u-hxy-is.yr.GRL (IyrGre.xvelbase)"
   },
