@@ -25797,7 +25797,8 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.zvelsurf.tavg-u-hxy-is.yr.GRL (IyrGre.zvelsurf)"
   },
@@ -25827,7 +25828,8 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.zvelbase.tavg-u-hxy-is.yr.GRL (IyrGre.zvelbase)"
   },
@@ -25890,7 +25892,8 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.yvelmean.tavg-u-hxy-is.yr.GRL (IyrGre.yvelmean)"
   },
@@ -25951,7 +25954,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.xvelsurf.tavg-u-hxy-is.yr.GRL (IyrGre.xvelsurf)"
   },
@@ -25981,7 +25986,8 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.xvelmean.tavg-u-hxy-is.yr.GRL (IyrGre.xvelmean)"
   },
@@ -26791,7 +26797,8 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.zvelsurf.tavg-u-hxy-is.yr.ATA (IyrAnt.zvelsurf)"
   },
@@ -26821,7 +26828,8 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.zvelbase.tavg-u-hxy-is.yr.ATA (IyrAnt.zvelbase)"
   },
@@ -26853,7 +26861,7 @@
       "yr",
       "landIce",
       "CMIP6",
-      "approved",
+      "approved_UKESM",
       "UNICICLES"
     ],
     "title": "Variable landIce.yvelsurf.tavg-u-hxy-is.yr.ATA (IyrAnt.yvelsurf)"
@@ -26884,7 +26892,8 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.yvelmean.tavg-u-hxy-is.yr.ATA (IyrAnt.yvelmean)"
   },
@@ -26945,7 +26954,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.xvelsurf.tavg-u-hxy-is.yr.ATA (IyrAnt.xvelsurf)"
   },
@@ -26975,7 +26986,8 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable landIce.xvelmean.tavg-u-hxy-is.yr.ATA (IyrAnt.xvelmean)"
   },
@@ -26998,7 +27010,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "xvelbase",
+      "Model units": "m yr^-1"
     },
     "STASH entries": [],
     "issue_number": 1192,
