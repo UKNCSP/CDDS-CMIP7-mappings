@@ -7238,7 +7238,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siflcondbot.tavg-u-hxy-si.mon.GLB (SImon.siflcondbot)"
   },
@@ -7263,6 +7264,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "sifb",
       "Expression UKESM1": "sifb",
+      "Expression UKESM1-3": "sifb",
       "Model units": "m"
     },
     "STASH entries": [],
@@ -7272,7 +7274,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sifb.tavg-u-hxy-si.mon.GLB (SImon.sifb)"
   },
