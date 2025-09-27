@@ -7305,7 +7305,8 @@
     "labels": [
       "mon",
       "seaIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siextent.tavg-u-hm-u.mon.SH (SImon.siextents)"
   },
@@ -7335,7 +7336,8 @@
     "labels": [
       "mon",
       "seaIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siextent.tavg-u-hm-u.mon.NH (SImon.siextentn)"
   },
@@ -7467,7 +7469,8 @@
     "labels": [
       "mon",
       "seaIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sidragbot.tavg-u-hxy-si.mon.GLB (SImon.sidragbot)"
   },
@@ -7526,6 +7529,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "sidmasstranx",
       "Expression UKESM1": "sidmasstranx",
+      "Expression UKESM1-3": "sidmasstranx",
       "Model units": "kg s-1"
     },
     "STASH entries": [],
