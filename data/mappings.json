@@ -7721,7 +7721,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sidmassgrowthwat.tavg-u-hxy-sea.mon.GLB (SImon.sidmassgrowthwat)"
   },
@@ -7746,6 +7747,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "snoice * ICE_DENSITY / (100. * SECONDS_IN_DAY)",
       "Expression UKESM1": "snoice * ICE_DENSITY / (100. * SECONDS_IN_DAY)",
+      "Expression UKESM1-3": "snoice * ICE_DENSITY / (100. * SECONDS_IN_DAY)",
       "Model units": "kg m-2 s-1"
     },
     "STASH entries": [],
