@@ -27071,7 +27071,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "topg",
+      "Model units": "m"
     },
     "STASH entries": [],
     "issue_number": 1191,
@@ -27101,7 +27102,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "tendlicalvf",
+      "Model units": "kg m^-2 yr^-1"
     },
     "STASH entries": [],
     "issue_number": 1190,
@@ -27131,7 +27133,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "tendlibmassbf",
+      "Model units": "kg m^-2 yr^-1"
     },
     "STASH entries": [],
     "issue_number": 1189,
@@ -27161,7 +27164,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "tendacabf",
+      "Model units": "kg m^-2 yr^-1"
     },
     "STASH entries": [],
     "issue_number": 1188,
@@ -27191,7 +27195,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "strbasemag",
+      "Model units": "Pa"
     },
     "STASH entries": [],
     "issue_number": 1187,
@@ -27251,7 +27256,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "sftgrf",
+      "Model units": "1"
     },
     "STASH entries": [],
     "issue_number": 1185,
@@ -27311,7 +27317,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "sftflf",
+      "Model units": "1"
     },
     "STASH entries": [],
     "issue_number": 1183,
@@ -27401,7 +27408,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "lithk",
+      "Model units": "m"
     },
     "STASH entries": [],
     "issue_number": 1180,
@@ -27431,7 +27439,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "litemptop",
+      "Model units": "K"
     },
     "STASH entries": [],
     "issue_number": 1179,
@@ -27461,7 +27470,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "litempbotgr",
+      "Model units": "K"
     },
     "STASH entries": [],
     "issue_number": 1178,
@@ -27491,7 +27501,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "litempbotfl",
+      "Model units": "K"
     },
     "STASH entries": [],
     "issue_number": 1177,
@@ -27521,7 +27532,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "limnsw",
+      "Model units": "kg"
     },
     "STASH entries": [],
     "issue_number": 1176,
@@ -27551,7 +27563,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "lim",
+      "Model units": "kg"
     },
     "STASH entries": [],
     "issue_number": 1175,
@@ -27581,7 +27594,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "lifmassbf",
+      "Model units": "kg m^-2 yr^-1"
     },
     "STASH entries": [],
     "issue_number": 1174,
