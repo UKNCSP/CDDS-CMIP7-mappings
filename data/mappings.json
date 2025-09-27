@@ -7853,6 +7853,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "dvidtd * ICE_DENSITY / (100. * SECONDS_IN_DAY)",
       "Expression UKESM1": "dvidtd * ICE_DENSITY / (100. * SECONDS_IN_DAY)",
+      "Expression UKESM1-3": "dvidtd * ICE_DENSITY / (100. * SECONDS_IN_DAY)",
       "Model units": "kg m-2 s-1"
     },
     "STASH entries": [],
@@ -7862,7 +7863,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sidmassdyn.tavg-u-hxy-sea.mon.GLB (SImon.sidmassdyn)"
   },
@@ -26079,7 +26081,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.topg.tavg-u-hxy-gis.yr.GRL (IyrGre.topg)"
   },
@@ -26110,7 +26114,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.tendlicalvf.tavg-u-hm-is.yr.GRL (IyrGre.tendlicalvf)"
   },
@@ -26141,7 +26147,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.tendlibmassbf.tavg-u-hm-is.yr.GRL (IyrGre.tendlibmassbf)"
   },
@@ -26172,7 +26180,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.tendacabf.tavg-u-hm-is.yr.GRL (IyrGre.tendacabf)"
   },
@@ -26203,7 +26213,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.strbasemag.tavg-u-hxy-is.yr.GRL (IyrGre.strbasemag)"
   },
@@ -26264,7 +26276,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.sftgrf.tavg-u-hxy-u.yr.GRL (IyrGre.sftgrf)"
   },
@@ -26325,7 +26339,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.sftflf.tavg-u-hxy-u.yr.GRL (IyrGre.sftflf)"
   },
@@ -26416,7 +26432,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.lithk.tavg-u-hxy-is.yr.GRL (IyrGre.lithk)"
   },
@@ -26447,7 +26465,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.litemptop.tavg-u-hxy-is.yr.GRL (IyrGre.litemptop)"
   },
@@ -26478,7 +26498,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.litempbot.tavg-u-hxy-gis.yr.GRL (IyrGre.litempbotgr)"
   },
@@ -26509,7 +26531,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.litempbot.tavg-u-hxy-fis.yr.GRL (IyrGre.litempbotfl)"
   },
@@ -26540,7 +26564,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.limnsw.tavg-u-hm-is.yr.GRL (IyrGre.limnsw)"
   },
@@ -26571,7 +26597,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.lim.tavg-u-hm-is.yr.GRL (IyrGre.lim)"
   },
@@ -26602,7 +26630,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.lifmassbf.tavg-u-hxy-is.yr.GRL (IyrGre.lifmassbf)"
   },
@@ -26633,7 +26663,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.licalvf.tavg-u-hxy-is.yr.GRL (IyrGre.licalvf)"
   },
@@ -26664,7 +26696,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.libmassbf.tavg-u-hxy-gis.yr.GRL (IyrGre.libmassbfgr)"
   },
@@ -26695,7 +26729,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.libmassbf.tavg-u-hxy-fis.yr.GRL (IyrGre.libmassbffl)"
   },
@@ -26726,7 +26762,9 @@
     "labels": [
       "yr",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM",
+      "UNICICLES"
     ],
     "title": "Variable landIce.iareagr.tavg-u-hm-gis.yr.GRL (IyrGre.iareagr)"
   },
