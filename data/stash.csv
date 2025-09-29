@@ -1952,6 +1952,8 @@ UKESM1-3,loaddust_tavg-u-hxy-u,day,m01s17i257,17,257,TDAYMN,DALLTH,UP6,True,Fals
 UKESM1-3,loaddust_tavg-u-hxy-u,day,m01s50i255,50,255,TDAYMN,DALLTH,UP6,True,False,False
 UKESM1,loadbc_tavg-u-hxy-u,day,m01s38i525,38,525,TDAYMN,DIAG,UP6,True,False,False
 UKESM1-3,loadbc_tavg-u-hxy-u,day,m01s38i525,38,525,TDAYMN,DIAG,UP6,True,False,False
+UKESM1-3,lai_tavg-u-hxy-lnd,day,m01s19i013,19,013,TDAYMN,DTILE,UP6,False,False,False
+UKESM1-3,lai_tavg-u-hxy-lnd,day,m01s19i014,19,014,TDAYMN,DPFTS,UP6,False,False,False
 HadGEM3-GC31,jpdftaureliqmodis_tavg-u-hxy-u,day,m01s02i330,2,330,TDAYMN,DIAG,UP6,True,False,False
 HadGEM3-GC31,jpdftaureliqmodis_tavg-u-hxy-u,day,m01s02i468,2,468,TDAYMN,DIAG,UP6,True,False,False
 HadGEM3-GC5,jpdftaureliqmodis_tavg-u-hxy-u,day,m01s02i330,2,330,TDAYMN,DIAG,UP6,True,False,False
