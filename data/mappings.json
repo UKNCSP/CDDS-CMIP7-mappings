@@ -8982,7 +8982,8 @@
     "issue_number": 1679,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.simpthick.tavg-u-hxy-si.day.GLB (SIday.simpthick)"
   },
@@ -9012,7 +9013,8 @@
     "issue_number": 1678,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.simprefrozen.tavg-u-hxy-simp.day.GLB (SIday.simprefrozen)"
   },
@@ -9042,7 +9044,8 @@
     "issue_number": 1677,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.simpeffconc.tavg-u-hxy-si.day.GLB (SIday.simpeffconc)"
   },
@@ -9072,7 +9075,8 @@
     "issue_number": 1676,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.simpconc.tavg-u-hxy-si.day.GLB (SIday.simpconc)"
   },
