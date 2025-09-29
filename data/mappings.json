@@ -8468,7 +8468,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sitimefrac.tavg-u-hxy-sea.day.GLB (SIday.sitimefrac)"
   },
@@ -8503,7 +8504,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sithick.tavg-u-hxy-si.day.GLB (SIday.sithick)"
   },
@@ -8634,7 +8636,8 @@
     "issue_number": 1690,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sitempsnic.tavg-u-hxy-si.day.GLB (SIday.sitempsnic)"
   },
