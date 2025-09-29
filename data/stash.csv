@@ -2000,6 +2000,10 @@ HadGEM3-GC31,hfdsn_tavg-u-hxy-lnd,day,m01s08i202,8,202,TDAYMN,DIAG,UP6,True,Fals
 HadGEM3-GC5,hfdsn_tavg-u-hxy-lnd,day,m01s08i202,8,202,TDAYMN,DIAG,UP6,True,False,False
 UKESM1,hfdsn_tavg-u-hxy-lnd,day,m01s08i202,8,202,TDAYMN,DIAG,UP6,True,False,False
 UKESM1-3,hfdsn_tavg-u-hxy-lnd,day,m01s08i202,8,202,TDAYMN,DIAG,UP6,True,False,False
+UKESM1-3,evspsblveg_tavg-u-hxy-u,day,m01s03i297,3,297,TDAYMN,DIAG,UP6,False,False,False
+UKESM1-3,evspsblsoi_tavg-u-hxy-u,day,m01s03i296,3,296,TDAYMN,DIAG,UP6,False,False,False
+UKESM1-3,evspsblsoi_tavg-u-hxy-u,day,m01s03i298,3,298,TDAYMN,DIAG,UP6,False,False,False
+UKESM1-3,evspsblsoi_tavg-u-hxy-u,day,m01s03i539,3,539,TDAYMN,DIAG,UP6,False,False,False
 HadGEM3-GC31,evspsblpot_tavg-u-hxy-lnd,day,m01s03i334,3,334,TDAYMN,DTILE,UP6,True,False,False
 HadGEM3-GC5,evspsblpot_tavg-u-hxy-lnd,day,m01s03i334,3,334,TDAYMN,DTILE,UP6,True,False,False
 UKESM1,evspsblpot_tavg-u-hxy-lnd,day,m01s03i334,3,334,TDAYMN,DTILE,UP6,True,False,False

@@ -9106,7 +9106,8 @@
     "issue_number": 1675,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siitdthick.tavg-u-hxy-si.day.GLB (SIday.siitdthick)"
   },
@@ -9136,7 +9137,8 @@
     "issue_number": 1674,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siitdsnthick.tavg-u-hxy-si.day.GLB (SIday.siitdsnthick)"
   },
@@ -9166,7 +9168,8 @@
     "issue_number": 1673,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siitdsnconc.tavg-u-hxy-si.day.GLB (SIday.siitdsnconc)"
   },
@@ -9196,7 +9199,8 @@
     "issue_number": 1672,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siitdconc.tavg-u-hxy-u.day.GLB (SIday.siitdconc)"
   },
@@ -9226,7 +9230,8 @@
     "issue_number": 1671,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sihc.tavg-u-hxy-sea.day.GLB (SIday.sihc)"
   },
@@ -53259,9 +53264,19 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1-3": "m01s03i297[lbproc=128]",
+      "Model units": "kg m-2 s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s03i297",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "3,297",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      }
+    ],
     "issue_number": 723,
     "labels": [
       "day",
@@ -53288,9 +53303,35 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1-3": "m01s03i296[lbproc=128] + m01s03i298[lbproc=128] - m01s03i539[lbproc=128]",
+      "Model units": "kg m-2 s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s03i296",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "3,296",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s03i298",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "3,298",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s03i539",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "3,539",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      }
+    ],
     "issue_number": 722,
     "labels": [
       "day",
