@@ -102543,9 +102543,19 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1-3": "-1.0 * m01s03i202[lbproc=128]",
+      "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s03i202",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "3,202",
+        "time_profile": "T3HRMN",
+        "usage_profile": "UP8"
+      }
+    ],
     "issue_number": 87,
     "labels": [
       "3hr",
@@ -102698,9 +102708,19 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1-3": "m01s03i297[lbproc=128]",
+      "Model units": "kg m-2 s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s03i297",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "3,297",
+        "time_profile": "T3HRMN",
+        "usage_profile": "UP8"
+      }
+    ],
     "issue_number": 82,
     "labels": [
       "3hr",
@@ -102727,9 +102747,35 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1-3": "m01s03i296[lbproc=128] + m01s03i298[lbproc=128] - m01s03i539[lbproc=128]",
+      "Model units": "kg m-2 s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s03i296",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "3,296",
+        "time_profile": "T3HRMN",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s03i298",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "3,298",
+        "time_profile": "T3HRMN",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s03i539",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "3,539",
+        "time_profile": "T3HRMN",
+        "usage_profile": "UP8"
+      }
+    ],
     "issue_number": 81,
     "labels": [
       "3hr",
