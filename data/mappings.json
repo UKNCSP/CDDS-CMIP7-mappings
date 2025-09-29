@@ -8330,7 +8330,8 @@
     "issue_number": 1697,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sivol.tavg-u-hm-u.day.SH (SIday.sivols)"
   },
@@ -8359,7 +8360,8 @@
     "issue_number": 1696,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sivol.tavg-u-hm-u.day.NH (SIday.sivoln)"
   },
@@ -8394,7 +8396,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siv.tavg-u-hxy-si.day.GLB (SIday.siv)"
   },
@@ -8429,7 +8432,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siu.tavg-u-hxy-si.day.GLB (SIday.siu)"
   },
