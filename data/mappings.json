@@ -102744,13 +102744,17 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "sum_2d_and_3d(ficeberg, -1*vowflisf)",
+      "Expression UKESM1": "sum_2d_and_3d(ficeberg, -1*vowflisf)",
+      "Expression UKESM1-3": "sum_2d_and_3d(ficeberg, -1*vowflisf)",
+      "Model units": "kg m-2 s-1"
     },
     "STASH entries": [],
     "issue_number": 83,
     "labels": [
       "3hr",
-      "ocean"
+      "ocean",
+      "approved"
     ],
     "title": "Variable ocean.ficeberg.tavg-ol-hxy-sea.3hr.GLB (3hr.ficeberg)"
   },
