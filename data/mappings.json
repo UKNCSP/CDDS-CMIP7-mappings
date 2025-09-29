@@ -1520,7 +1520,8 @@
     "labels": [
       "day",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.tslsi.tavg-u-hxy-u.day.GLB (day.tslsi)"
   },
@@ -7758,7 +7759,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sidmassgrowthsi.tavg-u-hxy-sea.mon.GLB (SImon.sidmassgrowthsi)"
   },
@@ -7921,6 +7923,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "sidconcth",
       "Expression UKESM1": "sidconcth",
+      "Expression UKESM1-3": "sidconcth",
       "Model units": "s-1"
     },
     "STASH entries": [],
@@ -7930,7 +7933,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sidconcth.tavg-u-hxy-sea.mon.GLB (SImon.sidconcth)"
   },
@@ -64568,7 +64572,8 @@
     "labels": [
       "3hr",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.tslsi.tpt-u-hxy-u.3hr.GLB (3hr.tslsi)"
   },
