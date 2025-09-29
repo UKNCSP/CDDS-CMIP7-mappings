@@ -8075,7 +8075,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "BCV"
+      "BCV",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siconc.tavg-u-hxy-u.mon.GLB (SImon.siconc)"
   },
@@ -8100,6 +8101,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "sicompstren",
       "Expression UKESM1": "sicompstren",
+      "Expression UKESM1-3": "sicompstren",
       "Model units": "N m-1"
     },
     "STASH entries": [],
