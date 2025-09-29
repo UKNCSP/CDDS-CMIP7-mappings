@@ -8111,7 +8111,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sicompstren.tavg-u-hxy-si.mon.GLB (SImon.sicompstren)"
   },
@@ -8171,7 +8172,8 @@
     "labels": [
       "mon",
       "seaIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siarea.tavg-u-hm-u.mon.SH (SImon.siareas)"
   },
@@ -8201,7 +8203,8 @@
     "labels": [
       "mon",
       "seaIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siarea.tavg-u-hm-u.mon.NH (SImon.siarean)"
   },
@@ -8231,7 +8234,8 @@
     "labels": [
       "mon",
       "seaIce",
-      "CMIP6"
+      "CMIP6",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siareaacrossline.tavg-u-ht-u.mon.GLB (SImon.siareaacrossline)"
   },
@@ -8286,6 +8290,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "iage * SECONDS_IN_DAY * DAYS_IN_YEAR",
       "Expression UKESM1": "iage * SECONDS_IN_DAY * DAYS_IN_YEAR",
+      "Expression UKESM1-3": "iage * SECONDS_IN_DAY * DAYS_IN_YEAR",
       "Model units": "s"
     },
     "STASH entries": [],
@@ -8295,7 +8300,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siage.tavg-u-hxy-si.mon.GLB (SImon.siage)"
   },
