@@ -7888,6 +7888,7 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
+      "Expression UKESM1-3": "sidivvel",
       "Model units": ""
     },
     "STASH entries": [],
@@ -24405,7 +24406,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved"
     ],
     "title": "Variable landIce.snc.tavg-u-hxy-is.mon.GLB (LImon.sncIs)"
   },
@@ -25544,7 +25546,8 @@
     "labels": [
       "mon",
       "landIce",
-      "CMIP6"
+      "CMIP6",
+      "approved"
     ],
     "title": "Variable landIce.icem.tavg-u-hxy-is.mon.GLB (LImon.icemIs)"
   },

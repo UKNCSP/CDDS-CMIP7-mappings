@@ -556,9 +556,9 @@ UKESM1,snd_tavg-u-hxy-lnd,mon,m01s03i317,3,317,TMONMN,DTILE,UP5,True
 UKESM1,snd_tavg-u-hxy-lnd,mon,m01s08i376,8,376,TMONMN,DTILE,UP5,True
 UKESM1-3,snd_tavg-u-hxy-lnd,mon,m01s03i317,3,317,TMONMN,DTILE,UP5,True
 UKESM1-3,snd_tavg-u-hxy-lnd,mon,m01s08i376,8,376,TMONMN,DTILE,UP5,True
-UKESM1-3,snc_tavg-u-hxy-is,mon,m01s03i317,3,317,TDAYMN,DTILE,UP6,False
-UKESM1-3,snc_tavg-u-hxy-is,mon,m01s08i236,8,236,TDAYMN,DTILE,UP6,False
-UKESM1-3,snc_tavg-u-hxy-is,mon,m01s03i395,3,395,TDAYMN,DIAG,UP6,False
+UKESM1-3,snc_tavg-u-hxy-is,mon,m01s03i317,3,317,TDAYMN,DTILE,UP6,True
+UKESM1-3,snc_tavg-u-hxy-is,mon,m01s08i236,8,236,TDAYMN,DTILE,UP6,True
+UKESM1-3,snc_tavg-u-hxy-is,mon,m01s03i395,3,395,TDAYMN,DIAG,UP6,True
 HadGEM3-GC31,sftgif_tavg-u-hxy-u,mon,m01s03i317,3,317,TMONMN,DTILE,UP5,True
 HadGEM3-GC31,sftgif_tavg-u-hxy-u,mon,m01s03i395,3,395,TMONMN,DIAG,UP5,True
 HadGEM3-GC5,sftgif_tavg-u-hxy-u,mon,m01s03i317,3,317,TMONMN,DTILE,UP5,True
@@ -626,8 +626,8 @@ UKESM1,litemptop_tavg-u-hxy-is,mon,m01s03i317,3,317,TMONMN,DTILE,UP5,True
 UKESM1,litemptop_tavg-u-hxy-is,mon,m01s08i576,8,576,TMONMN,DTILE,UP5,True
 UKESM1-3,litemptop_tavg-u-hxy-is,mon,m01s03i317,3,317,TMONMN,DTILE,UP5,True
 UKESM1-3,litemptop_tavg-u-hxy-is,mon,m01s08i576,8,576,TMONMN,DTILE,UP5,True
-UKESM1-3,icem_tavg-u-hxy-is,mon,m01s03i317,3,317,TDAYMN,DTILE,UP6,False
-UKESM1-3,icem_tavg-u-hxy-is,mon,m01s08i236,8,579,TDAYMN,DTILE,UP6,False
+UKESM1-3,icem_tavg-u-hxy-is,mon,m01s03i317,3,317,TDAYMN,DTILE,UP6,True
+UKESM1-3,icem_tavg-u-hxy-is,mon,m01s08i236,8,579,TDAYMN,DTILE,UP6,True
 HadGEM3-GC31,hfss_tavg-u-hxy-is,mon,m01s03i290,3,290,TMONMN,DTILE,UP5,True
 HadGEM3-GC31,hfss_tavg-u-hxy-is,mon,m01s03i317,3,317,TMONMN,DTILE,UP5,True
 HadGEM3-GC5,hfss_tavg-u-hxy-is,mon,m01s03i290,3,290,TMONMN,DTILE,UP5,True
