@@ -8921,7 +8921,8 @@
     "issue_number": 1681,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sithick.tavg-u-hxy-sir.day.GLB (SIday.sirdgthick)"
   },
@@ -8974,7 +8975,7 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Expression UKESM1-3": "hpond_ai / aice",
+      "Expression UKESM1-3": "hpond_ai / apond_ai",
       "Model units": ""
     },
     "STASH entries": [],
@@ -56283,7 +56284,8 @@
     "issue_number": 669,
     "labels": [
       "1hr",
-      "land"
+      "land",
+      "do-not-produce"
     ],
     "title": "Variable land.tas.tavg-u-hxy-u.1hr.GLB (E1hr.tas)"
   },
@@ -100800,7 +100802,7 @@
     "issue_number": 119,
     "labels": [
       "3hr",
-      "land"
+      "atmos"
     ],
     "title": "Variable atmos.bldep.tpt-u-hxy-u.3hr.GLB (3hrPt.bldep)"
   },
