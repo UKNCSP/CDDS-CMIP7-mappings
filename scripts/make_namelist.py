@@ -37,7 +37,9 @@ if __name__ == '__main__':
                 imod += 1
 
                 # Is this entry approved?  Note that some entries have 'TRUE' in lower case.
-                if d['approved'].upper() == 'TRUE':
+                if d['approved'].upper() == 'TRUE' \
+                    or d['approved_UKESM'].upper() == 'TRUE' \
+                    or d['approved_HadGEM'].upper() == 'TRUE':
                     iapproved += 1
 
                     # Add the variables we're interested in to the set of unique entries.
