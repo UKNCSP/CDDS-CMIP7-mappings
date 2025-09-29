@@ -7096,8 +7096,7 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31",
-      "approved_UKESM"
+      "HadGEM3-GC31"
     ],
     "title": "Variable seaIce.sifllattop.tavg-u-hxy-si.mon.GLB (SImon.sifllattop)"
   },
@@ -9261,7 +9260,8 @@
     "issue_number": 1670,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.rsus.tavg-u-hxy-si.day.GLB (SIday.siflswutop)"
   },
@@ -9291,7 +9291,8 @@
     "issue_number": 1669,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.rsds.tavg-u-hxy-si.day.GLB (SIday.siflswdtop)"
   },
@@ -9320,7 +9321,8 @@
     "issue_number": 1668,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siflswdbot.tavg-u-hxy-si.day.GLB (SIday.siflswdbot)"
   },
@@ -9350,7 +9352,8 @@
     "issue_number": 1667,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siflsenstop.tavg-u-hxy-si.day.GLB (SIday.siflsenstop)"
   },
@@ -9410,7 +9413,8 @@
     "issue_number": 1665,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.rlus.tavg-u-hxy-si.day.GLB (SIday.sifllwutop)"
   },
@@ -9440,7 +9444,8 @@
     "issue_number": 1664,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.rlds.tavg-u-hxy-si.day.GLB (SIday.sifllwdtop)"
   },
@@ -9500,7 +9505,8 @@
     "issue_number": 1662,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siflcondtop.tavg-u-hxy-si.day.GLB (SIday.siflcondtop)"
   },
@@ -9530,7 +9536,8 @@
     "issue_number": 1661,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siflcondbot.tavg-u-hxy-si.day.GLB (SIday.siflcondbot)"
   },
@@ -9560,7 +9567,8 @@
     "issue_number": 1660,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sifb.tavg-u-hxy-si.day.GLB (SIday.sifb)"
   },
@@ -50270,7 +50278,8 @@
     "labels": [
       "day",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.rzwc.tavg-u-hxy-lnd.day.GLB (Eday.rzwc)"
   },
@@ -53505,7 +53514,8 @@
     "labels": [
       "day",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.esn.tavg-u-hxy-sn.day.GLB (Eday.esn)"
   },
@@ -53535,7 +53545,8 @@
     "labels": [
       "day",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.dsw.tavg-u-hxy-lnd.day.GLB (Eday.dsw)"
   },
@@ -53565,7 +53576,8 @@
     "labels": [
       "day",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.dsn.tavg-u-hxy-lnd.day.GLB (Eday.dsn)"
   },
@@ -53595,7 +53607,8 @@
     "labels": [
       "day",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.dslw.tavg-u-hxy-lnd.day.GLB (Eday.dslw)"
   },
@@ -53686,7 +53699,8 @@
     "labels": [
       "day",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.dcw.tavg-u-hxy-lnd.day.GLB (Eday.dcw)"
   },
@@ -102697,7 +102711,11 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "berg_calve - sowflisf",
+      "Expression HadGEM3-GC5": "berg_calve - sowflisf",
+      "Expression UKESM1": "berg_calve - sowflisf",
+      "Expression UKESM1-3": "berg_calve - sowflisf",
+      "Model units": "kg m-2 s-1"
     },
     "STASH entries": [],
     "issue_number": 84,
