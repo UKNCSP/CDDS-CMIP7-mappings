@@ -5335,6 +5335,7 @@ UKESM1,ec550aer_tpt-u-hxy-u,6hr,m01s00i033,0,033,T6HR,DIAG,UP7,True
 UKESM1-3,ec550aer_tpt-u-hxy-u,6hr,m01s02i530,2,530,T6HR,DALLTHAOT,UP7,True
 UKESM1-3,ec550aer_tpt-u-hxy-u,6hr,m01s02i540,2,540,T6HR,DALLTHAOT,UP7,True
 UKESM1-3,ec550aer_tpt-u-hxy-u,6hr,m01s00i033,0,033,T6HR,DIAG,UP7,True
+UKESM1-3,tran_tavg-u-hxy-u,3hr,m01s03i539,3,539,T3HRMN,DIAG,UP8,False
 HadGEM3-GC31,tas_tpt-h2m-hxy-u,3hr,m01s03i236,3,236,T3HR,DIAG,UP8,True
 HadGEM3-GC5,tas_tpt-h2m-hxy-u,3hr,m01s03i236,3,236,T3HR,DIAG,UP8,True
 UKESM1,tas_tpt-h2m-hxy-u,3hr,m01s03i236,3,236,T3HR,DIAG,UP8,True
@@ -5395,6 +5396,8 @@ HadGEM3-GC31,mrsol_tpt-d10cm-hxy-lnd,3hr,m01s08i223,8,223,T3HR,DSOIL,UP8,True
 HadGEM3-GC5,mrsol_tpt-d10cm-hxy-lnd,3hr,m01s08i223,8,223,T3HR,DSOIL,UP8,True
 UKESM1,mrsol_tpt-d10cm-hxy-lnd,3hr,m01s08i223,8,223,T3HR,DSOIL,UP8,True
 UKESM1-3,mrsol_tpt-d10cm-hxy-lnd,3hr,m01s08i223,8,223,T3HR,DSOIL,UP8,True
+UKESM1-3,mrsol_tavg-d100cm-hxy-lnd,3hr,m01s08i223,8,223,T3HRMN,DSOIL,UP8,False
+UKESM1-3,mrros_tavg-u-hxy-lnd,3hr,m01s08i234,8,234,T3HRMN,DIAG,UP8,False
 HadGEM3-GC31,mrro_tavg-u-hxy-lnd,3hr,m01s08i234,8,234,T3HRMN,DIAG,UP8,True
 HadGEM3-GC31,mrro_tavg-u-hxy-lnd,3hr,m01s08i235,8,235,T3HRMN,DIAG,UP8,True
 HadGEM3-GC5,mrro_tavg-u-hxy-lnd,3hr,m01s08i234,8,234,T3HRMN,DIAG,UP8,True

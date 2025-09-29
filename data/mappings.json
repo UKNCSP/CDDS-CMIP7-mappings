@@ -8667,7 +8667,8 @@
     "issue_number": 1689,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sitempbot.tavg-u-hxy-si.day.GLB (SIday.sitempbot)"
   },
@@ -8702,7 +8703,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sispeed.tavg-u-hxy-si.day.GLB (SIday.sispeed)"
   },
@@ -8766,7 +8768,8 @@
     "issue_number": 1686,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sisnmass.tavg-u-hm-u.day.SH (SIday.sisnmasss)"
   },
@@ -8795,7 +8798,8 @@
     "issue_number": 1685,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sisnmass.tavg-u-hm-u.day.NH (SIday.sisnmassn)"
   },
@@ -8825,7 +8829,8 @@
     "issue_number": 1684,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sisnhc.tavg-u-hxy-si.day.GLB (SIday.sisnhc)"
   },
@@ -8855,7 +8860,8 @@
     "issue_number": 1683,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sisaltmass.tavg-u-hxy-sea.day.GLB (SIday.sisaltmass)"
   },
@@ -8884,7 +8890,8 @@
     "issue_number": 1682,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sisali.tavg-u-hxy-si.day.GLB (SIday.sisali)"
   },
@@ -100995,9 +101002,19 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1-3": "m01s03i539[lbproc=128]",
+      "Model units": "kg m-2 s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s03i539",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "3,539",
+        "time_profile": "T3HRMN",
+        "usage_profile": "UP8"
+      }
+    ],
     "issue_number": 112,
     "labels": [
       "3hr",
@@ -102072,9 +102089,19 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1-3": "m01s08i223[blev=0.05, lbproc=128] + m01s08i223[blev=0.225, lbproc=128] + m01s08i223[blev=0.675, lbproc=128]",
+      "Model units": "kg m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s08i223",
+        "domain_profile": "DSOIL",
+        "model": "UKESM1-3",
+        "stash_number": "8,223",
+        "time_profile": "T3HRMN",
+        "usage_profile": "UP8"
+      }
+    ],
     "issue_number": 95,
     "labels": [
       "3hr",
@@ -102101,9 +102128,19 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1-3": "m01s08i234[lbproc=128]",
+      "Model units": "kg m-2 s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s08i234",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "8,234",
+        "time_profile": "T3HRMN",
+        "usage_profile": "UP8"
+      }
+    ],
     "issue_number": 94,
     "labels": [
       "3hr",
