@@ -47961,7 +47961,10 @@
     "issue_number": 821,
     "labels": [
       "day",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.tntrs.tavg-p39-hy-air.day.GLB (EdayZ.tntrs)"
   },
@@ -48027,7 +48030,10 @@
     "issue_number": 820,
     "labels": [
       "day",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.tntrl.tavg-p39-hy-air.day.GLB (EdayZ.tntrl)"
   },
@@ -48413,7 +48419,10 @@
     "issue_number": 819,
     "labels": [
       "day",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.tntmp.tavg-p39-hy-air.day.GLB (EdayZ.tntmp)"
   },
@@ -97579,9 +97588,174 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "remove_altitude_coords(m01s34i136[lblev=1, lbproc=128] + m01s34i137[lblev=1, lbproc=128] + m01s34i138[lblev=1, lbproc=128] + m01s34i139[lblev=1, lbproc=128])",
+      "Expression HadGEM3-GC5": "remove_altitude_coords(m01s34i136[lblev=1, lbproc=128] + m01s34i137[lblev=1, lbproc=128] + m01s34i138[lblev=1, lbproc=128] + m01s34i139[lblev=1, lbproc=128])",
+      "Expression UKESM1": "remove_altitude_coords(m01s34i136[lblev=1, lbproc=128] + m01s34i137[lblev=1, lbproc=128] + m01s34i138[lblev=1, lbproc=128] + m01s34i139[lblev=1, lbproc=128])",
+      "Expression UKESM1-3": "remove_altitude_coords(m01s34i136[lblev=1, lbproc=128] + m01s34i137[lblev=1, lbproc=128] + m01s34i138[lblev=1, lbproc=128] + m01s34i139[lblev=1, lbproc=128])",
+      "Model units": "kg kg-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s34i136",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "34,136",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i137",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "34,137",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i138",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "34,138",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i139",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "34,139",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i136",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "34,136",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i137",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "34,137",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i138",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "34,138",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i139",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "34,139",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i136",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "34,136",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i137",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "34,137",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i138",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "34,138",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i139",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "34,139",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i136",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "34,136",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i137",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "34,137",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i138",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "34,138",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i139",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "34,139",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      }
+    ],
     "issue_number": 210,
     "labels": [
       "day",
