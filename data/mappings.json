@@ -98263,9 +98263,44 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1": "SECONDS_IN_HOUR / ATMOS_TIMESTEP * remove_altitude_coords(m01s38i545[lblev=1, lbproc=128])",
+      "Expression UKESM1-3": "SECONDS_IN_HOUR / ATMOS_TIMESTEP * remove_altitude_coords(m01s38i545[lblev=1, lbproc=128])",
+      "Model units": "kg kg-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s38i545",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "38,545",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s38i545",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "38,545",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      }
+    ],
     "issue_number": 206,
     "labels": [
       "day",
