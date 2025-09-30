@@ -9475,7 +9475,8 @@
     "issue_number": 1663,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sifllattop.tavg-u-hxy-si.day.GLB (SIday.sifllattop)"
   },
@@ -54683,7 +54684,6 @@
     "STASH entries": [],
     "issue_number": 693,
     "labels": [
-      "question",
       "3hr",
       "atmos"
     ],
@@ -88456,7 +88456,8 @@
     "issue_number": 338,
     "labels": [
       "mon",
-      "aerosol"
+      "aerosol",
+      "do-not-produce"
     ],
     "title": "Variable aerosol.hfc134a.tavg-al-hxy-u.mon.GLB (AERmon.hfc134a)"
   },
@@ -88485,7 +88486,8 @@
     "issue_number": 337,
     "labels": [
       "mon",
-      "aerosol"
+      "aerosol",
+      "do-not-produce"
     ],
     "title": "Variable aerosol.hfc125.tavg-al-hxy-u.mon.GLB (AERmon.hfc125)"
   },
@@ -88718,7 +88720,8 @@
     "issue_number": 334,
     "labels": [
       "mon",
-      "aerosol"
+      "aerosol",
+      "do-not-produce"
     ],
     "title": "Variable aerosol.hcfc22.tavg-al-hxy-u.mon.GLB (AERmon.hcfc22)"
   },
@@ -91739,9 +91742,76 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1": "achem_emdrywet(MOLECULAR_MASS_OF_NO3, m01s38i588[lbproc=128] + m01s38i589[lbproc=128] + m01s38i590[lbproc=128] + m01s38i591[lbproc=128], sumlev='True', areadiv='True')",
+      "Expression UKESM1-3": "achem_emdrywet(MOLECULAR_MASS_OF_NO3, m01s38i588[lbproc=128] + m01s38i589[lbproc=128] + m01s38i590[lbproc=128] + m01s38i591[lbproc=128], sumlev='True', areadiv='True')",
+      "Model units": "g m-2 s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s38i588",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "38,588",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s38i589",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "38,589",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s38i590",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "38,590",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s38i591",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "38,591",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s38i588",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "38,588",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s38i589",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "38,589",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s38i590",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "38,590",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s38i591",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "38,591",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      }
+    ],
     "issue_number": 284,
     "labels": [
       "mon",
@@ -93679,7 +93749,8 @@
     "issue_number": 259,
     "labels": [
       "mon",
-      "aerosol"
+      "aerosol",
+      "do-not-produce"
     ],
     "title": "Variable aerosol.cfc114.tavg-al-hxy-u.mon.GLB (AERmon.cfc114)"
   },
@@ -105255,8 +105326,7 @@
       "atmos",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved",
-      "do-not-produce"
+      "approved"
     ],
     "title": "Variable atmos.rluscs.tavg-u-hxy-u.mon.GLB (Amon.rluscs)"
   },
@@ -108899,7 +108969,8 @@
     "issue_number": 1,
     "labels": [
       "mon",
-      "atmos"
+      "atmos",
+      "do-not-produce"
     ],
     "title": "Variable atmos.aod550volso4.tavg-u-hxy-u.mon.GLB (Amon.aod550volso4)"
   }

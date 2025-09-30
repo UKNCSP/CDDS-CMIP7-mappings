@@ -4865,6 +4865,14 @@ HadGEM3-GC31,dryo3_tavg-u-hxy-u,mon,m01s50i131,50,131,TMONMN,DALLTH,UP4,True,Fal
 HadGEM3-GC5,dryo3_tavg-u-hxy-u,mon,m01s50i131,50,131,TMONMN,DALLTH,UP4,True,False,False
 UKESM1,dryo3_tavg-u-hxy-u,mon,m01s50i131,50,131,TMONMN,DALLTH,UP4,True,False,False
 UKESM1-3,dryo3_tavg-u-hxy-u,mon,m01s50i131,50,131,TMONMN,DALLTH,UP4,True,False,False
+UKESM1,dryno3_tavg-u-hxy-u,mon,m01s38i588,38,588,TMONMN,DALLTH,UP4,False,False,False
+UKESM1,dryno3_tavg-u-hxy-u,mon,m01s38i589,38,589,TMONMN,DALLTH,UP4,False,False,False
+UKESM1,dryno3_tavg-u-hxy-u,mon,m01s38i590,38,590,TMONMN,DALLTH,UP4,False,False,False
+UKESM1,dryno3_tavg-u-hxy-u,mon,m01s38i591,38,591,TMONMN,DALLTH,UP4,False,False,False
+UKESM1-3,dryno3_tavg-u-hxy-u,mon,m01s38i588,38,588,TMONMN,DALLTH,UP4,False,False,False
+UKESM1-3,dryno3_tavg-u-hxy-u,mon,m01s38i589,38,589,TMONMN,DALLTH,UP4,False,False,False
+UKESM1-3,dryno3_tavg-u-hxy-u,mon,m01s38i590,38,590,TMONMN,DALLTH,UP4,False,False,False
+UKESM1-3,dryno3_tavg-u-hxy-u,mon,m01s38i591,38,591,TMONMN,DALLTH,UP4,False,False,False
 HadGEM3-GC31,drydust_tavg-u-hxy-u,mon,m01s03i441,3,441,TMONMN,DIAG,UP4,True,False,False
 HadGEM3-GC31,drydust_tavg-u-hxy-u,mon,m01s03i455,3,455,TMONMN,DIAG,UP4,True,False,False
 HadGEM3-GC31,drydust_tavg-u-hxy-u,mon,m01s03i456,3,456,TMONMN,DIAG,UP4,True,False,False
