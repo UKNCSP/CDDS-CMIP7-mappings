@@ -4599,7 +4599,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "BCV"
+      "BCV",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siv.tavg-u-hxy-si.mon.GLB (SImon.siv)"
   },
@@ -4709,7 +4710,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "BCV"
+      "BCV",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sithick.tavg-u-hxy-si.mon.GLB (SImon.sithick)"
   },
@@ -5157,7 +5159,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "BCV"
+      "BCV",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.snd.tavg-u-hxy-sn.mon.GLB (SImon.sisnthick)"
   },
@@ -8739,7 +8742,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.snd.tavg-u-hxy-sn.day.GLB (SIday.sisnthick)"
   },
@@ -9261,7 +9265,8 @@
     "issue_number": 1670,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.rsus.tavg-u-hxy-si.day.GLB (SIday.siflswutop)"
   },
@@ -9291,7 +9296,8 @@
     "issue_number": 1669,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.rsds.tavg-u-hxy-si.day.GLB (SIday.siflswdtop)"
   },
@@ -9320,7 +9326,8 @@
     "issue_number": 1668,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siflswdbot.tavg-u-hxy-si.day.GLB (SIday.siflswdbot)"
   },
@@ -9350,7 +9357,8 @@
     "issue_number": 1667,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siflsenstop.tavg-u-hxy-si.day.GLB (SIday.siflsenstop)"
   },
@@ -9410,7 +9418,8 @@
     "issue_number": 1665,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.rlus.tavg-u-hxy-si.day.GLB (SIday.sifllwutop)"
   },
@@ -9440,7 +9449,8 @@
     "issue_number": 1664,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.rlds.tavg-u-hxy-si.day.GLB (SIday.sifllwdtop)"
   },
@@ -9470,7 +9480,8 @@
     "issue_number": 1663,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sifllattop.tavg-u-hxy-si.day.GLB (SIday.sifllattop)"
   },
@@ -9500,7 +9511,8 @@
     "issue_number": 1662,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siflcondtop.tavg-u-hxy-si.day.GLB (SIday.siflcondtop)"
   },
@@ -9530,7 +9542,8 @@
     "issue_number": 1661,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.siflcondbot.tavg-u-hxy-si.day.GLB (SIday.siflcondbot)"
   },
@@ -9560,7 +9573,8 @@
     "issue_number": 1660,
     "labels": [
       "day",
-      "seaIce"
+      "seaIce",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sifb.tavg-u-hxy-si.day.GLB (SIday.sifb)"
   },
@@ -11223,7 +11237,8 @@
     "issue_number": 1609,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.wppwindsea.tavg-u-hxy-sea.mon.GLB (Omon.wppwindsea)"
   },
@@ -11252,7 +11267,8 @@
     "issue_number": 1608,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.wppswell.tavg-u-hxy-sea.mon.GLB (Omon.wppswell)"
   },
@@ -11281,7 +11297,8 @@
     "issue_number": 1607,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.wpp.tavg-u-hxy-sea.mon.GLB (Omon.wpp)"
   },
@@ -11310,7 +11327,8 @@
     "issue_number": 1606,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.wpdirwindsea.tavg-u-hxy-sea.mon.GLB (Omon.wpdirwindsea)"
   },
@@ -11339,7 +11357,8 @@
     "issue_number": 1605,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.wpdirswell.tavg-u-hxy-sea.mon.GLB (Omon.wpdirswell)"
   },
@@ -11368,7 +11387,8 @@
     "issue_number": 1604,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.wpdir.tavg-u-hxy-sea.mon.GLB (Omon.wpdir)"
   },
@@ -11533,7 +11553,8 @@
     "issue_number": 1599,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.wdirwindsea.tavg-u-hxy-sea.mon.GLB (Omon.wdirwindsea)"
   },
@@ -11562,7 +11583,8 @@
     "issue_number": 1598,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.wdirswell.tavg-u-hxy-sea.mon.GLB (Omon.wdirswell)"
   },
@@ -11591,7 +11613,8 @@
     "issue_number": 1597,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.wdir.tavg-u-hxy-sea.mon.GLB (Omon.wdir)"
   },
@@ -12396,7 +12419,8 @@
     "issue_number": 1573,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.swhwindsea.tavg-u-hxy-sea.mon.GLB (Omon.swhwindsea)"
   },
@@ -12425,7 +12449,8 @@
     "issue_number": 1572,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.swhswell.tavg-u-hxy-sea.mon.GLB (Omon.swhswell)"
   },
@@ -12454,7 +12479,8 @@
     "issue_number": 1571,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.swh.tmax-u-hxy-sea.mon.GLB (Omon.swhmax)"
   },
@@ -12483,7 +12509,8 @@
     "issue_number": 1570,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.swh.tavg-u-hxy-sea.mon.GLB (Omon.swh)"
   },
@@ -14510,7 +14537,8 @@
     "issue_number": 1506,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.mpwwindsea.tavg-u-hxy-sea.mon.GLB (Omon.mpwwindsea)"
   },
@@ -14539,7 +14567,8 @@
     "issue_number": 1505,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.mpwswell.tavg-u-hxy-sea.mon.GLB (Omon.mpwswell)"
   },
@@ -14568,7 +14597,8 @@
     "issue_number": 1504,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.mpw.tavg-u-hxy-sea.mon.GLB (Omon.mpw)"
   },
@@ -33638,6 +33668,7 @@
     ],
     "issue_number": 1064,
     "labels": [
+      "question",
       "mon",
       "atmos",
       "CMIP6",
@@ -36959,7 +36990,8 @@
     "issue_number": 1020,
     "labels": [
       "mon",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.t17d.tavg-u-hxy-sea.mon.GLB (Emon.t17d)"
   },
@@ -47487,7 +47519,8 @@
     "labels": [
       "day",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.utendwtem.tavg-p39-hy-air.day.GLB (EdayZ.utendwtem)"
   },
@@ -47517,7 +47550,8 @@
     "labels": [
       "day",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.utendvtem.tavg-p39-hy-air.day.GLB (EdayZ.utendvtem)"
   },
@@ -47884,13 +47918,53 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "m01s01i161[lbproc=128] / ATMOS_TIMESTEP",
+      "Expression HadGEM3-GC5": "m01s01i161[lbproc=128] / ATMOS_TIMESTEP",
+      "Expression UKESM1": "m01s01i161[lbproc=128] / ATMOS_TIMESTEP",
+      "Expression UKESM1-3": "m01s01i161[lbproc=128] / ATMOS_TIMESTEP",
+      "Model units": "K s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s01i161",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "1,161",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s01i161",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "1,161",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s01i161",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "1,161",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s01i161",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "1,161",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      }
+    ],
     "issue_number": 821,
     "labels": [
       "day",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.tntrs.tavg-p39-hy-air.day.GLB (EdayZ.tntrs)"
   },
@@ -47913,13 +47987,53 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "m01s02i161[lbproc=128] / ATMOS_TIMESTEP",
+      "Expression HadGEM3-GC5": "m01s02i161[lbproc=128] / ATMOS_TIMESTEP",
+      "Expression UKESM1": "m01s02i161[lbproc=128] / ATMOS_TIMESTEP",
+      "Expression UKESM1-3": "m01s02i161[lbproc=128] / ATMOS_TIMESTEP",
+      "Model units": "K s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s02i161",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2,161",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i161",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,161",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i161",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "2,161",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i161",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "2,161",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      }
+    ],
     "issue_number": 820,
     "labels": [
       "day",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.tntrl.tavg-p39-hy-air.day.GLB (EdayZ.tntrl)"
   },
@@ -47942,13 +48056,373 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "(m01s14i181[lbproc=128]+ m01s01i181[lbproc=128] + m01s02i181[lbproc=128] + m01s03i181[lbproc=128] + m01s04i141[lbproc=128] + m01s04i181[lbproc=128] + m01s05i181[lbproc=128] + m01s06i181[lbproc=128] + m01s16i161[lbproc=128] + m01s16i181[lbproc=128] + m01s35i029[lbproc=128]) / ATMOS_TIMESTEP",
+      "Expression HadGEM3-GC5": "(m01s14i181[lbproc=128]+ m01s01i181[lbproc=128] + m01s02i181[lbproc=128] + m01s03i181[lbproc=128] + m01s04i141[lbproc=128] + m01s04i181[lbproc=128] + m01s05i181[lbproc=128] + m01s06i181[lbproc=128] + m01s16i161[lbproc=128] + m01s16i181[lbproc=128] + m01s35i029[lbproc=128]) / ATMOS_TIMESTEP",
+      "Expression UKESM1": "(m01s14i181[lbproc=128]+ m01s01i181[lbproc=128] + m01s02i181[lbproc=128] + m01s03i181[lbproc=128] + m01s04i141[lbproc=128] + m01s04i181[lbproc=128] + m01s05i181[lbproc=128] + m01s06i181[lbproc=128] + m01s16i161[lbproc=128] + m01s16i181[lbproc=128] + m01s35i029[lbproc=128]) / ATMOS_TIMESTEP",
+      "Expression UKESM1-3": "(m01s14i181[lbproc=128]+ m01s01i181[lbproc=128] + m01s02i181[lbproc=128] + m01s03i181[lbproc=128] + m01s04i141[lbproc=128] + m01s04i181[lbproc=128] + m01s05i181[lbproc=128] + m01s06i181[lbproc=128] + m01s16i161[lbproc=128] + m01s16i181[lbproc=128] + m01s35i029[lbproc=128]) / ATMOS_TIMESTEP",
+      "Model units": "K s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s14i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "14,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s01i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "1,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "2,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s03i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "3,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s04i141",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "4,141",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s04i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "4,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s05i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "5,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s06i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "6,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s16i161",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "16,161",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s16i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "16,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s35i029",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC31",
+        "stash_number": "35,029",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s14i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "14,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s01i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "1,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s03i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "3,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s04i141",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "4,141",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s04i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "4,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s05i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "5,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s06i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "6,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s16i161",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "16,161",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s16i181",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "16,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s35i029",
+        "domain_profile": "PLEV39Z",
+        "model": "HadGEM3-GC5",
+        "stash_number": "35,029",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s14i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "14,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s01i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "1,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "2,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s03i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "3,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s04i141",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "4,141",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s04i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "4,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s05i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "5,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s06i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "6,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s16i161",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "16,161",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s16i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "16,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s35i029",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1",
+        "stash_number": "35,029",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s14i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "14,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s01i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "1,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s02i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "2,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s03i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "3,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s04i141",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "4,141",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s04i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "4,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s05i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "5,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s06i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "6,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s16i161",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "16,161",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s16i181",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "16,181",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s35i029",
+        "domain_profile": "PLEV39Z",
+        "model": "UKESM1-3",
+        "stash_number": "35,029",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      }
+    ],
     "issue_number": 819,
     "labels": [
       "day",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.tntmp.tavg-p39-hy-air.day.GLB (EdayZ.tntmp)"
   },
@@ -50270,7 +50744,8 @@
     "labels": [
       "day",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.rzwc.tavg-u-hxy-lnd.day.GLB (Eday.rzwc)"
   },
@@ -52461,9 +52936,27 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": "-"
+      "Expression UKESM1-3": "land_class_mean(m01s19i014[lbtim_ia=240,lbproc=128], m01s19i013[lbtim_ia=240,lbproc=128], land_class='veg')",
+      "Model units": "1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s19i013",
+        "domain_profile": "DTILE",
+        "model": "UKESM1-3",
+        "stash_number": "19,013",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s19i014",
+        "domain_profile": "DPFTS",
+        "model": "UKESM1-3",
+        "stash_number": "19,014",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      }
+    ],
     "issue_number": 736,
     "labels": [
       "day",
@@ -53505,7 +53998,8 @@
     "labels": [
       "day",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.esn.tavg-u-hxy-sn.day.GLB (Eday.esn)"
   },
@@ -53535,7 +54029,8 @@
     "labels": [
       "day",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.dsw.tavg-u-hxy-lnd.day.GLB (Eday.dsw)"
   },
@@ -53565,7 +54060,8 @@
     "labels": [
       "day",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.dsn.tavg-u-hxy-lnd.day.GLB (Eday.dsn)"
   },
@@ -53595,7 +54091,8 @@
     "labels": [
       "day",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.dslw.tavg-u-hxy-lnd.day.GLB (Eday.dslw)"
   },
@@ -53686,7 +54183,8 @@
     "labels": [
       "day",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.dcw.tavg-u-hxy-lnd.day.GLB (Eday.dcw)"
   },
@@ -54250,13 +54748,85 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "m01s30i298[blev=PLEV6, lbproc=0] / m01s30i304[blev=PLEV6, lbproc=0]",
+      "Expression HadGEM3-GC5": "m01s30i298[blev=PLEV6, lbproc=0] / m01s30i304[blev=PLEV6, lbproc=0]",
+      "Expression UKESM1": "m01s30i298[blev=PLEV6, lbproc=0] / m01s30i304[blev=PLEV6, lbproc=0]",
+      "Expression UKESM1-3": "m01s30i298[blev=PLEV6, lbproc=0] / m01s30i304[blev=PLEV6, lbproc=0]",
+      "Model units": "Pa s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s30i298",
+        "domain_profile": "PLEV6",
+        "model": "HadGEM3-GC31",
+        "stash_number": "30,298",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i304",
+        "domain_profile": "PLEV6",
+        "model": "HadGEM3-GC31",
+        "stash_number": "30,304",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i298",
+        "domain_profile": "PLEV6",
+        "model": "HadGEM3-GC5",
+        "stash_number": "30,298",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i304",
+        "domain_profile": "PLEV6",
+        "model": "HadGEM3-GC5",
+        "stash_number": "30,304",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i298",
+        "domain_profile": "PLEV6",
+        "model": "UKESM1",
+        "stash_number": "30,298",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i304",
+        "domain_profile": "PLEV6",
+        "model": "UKESM1",
+        "stash_number": "30,304",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i298",
+        "domain_profile": "PLEV6",
+        "model": "UKESM1-3",
+        "stash_number": "30,298",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i304",
+        "domain_profile": "PLEV6",
+        "model": "UKESM1-3",
+        "stash_number": "30,304",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      }
+    ],
     "issue_number": 706,
     "labels": [
       "3hr",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.wap.tpt-p6-hxy-air.3hr.GLB (E3hrPt.wap6)"
   },
@@ -54279,13 +54849,85 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "m01s30i202[blev=PLEV6, lbproc=0] / m01s30i301[blev=PLEV6, lbproc=0]",
+      "Expression HadGEM3-GC5": "m01s30i202[blev=PLEV6, lbproc=0] / m01s30i301[blev=PLEV6, lbproc=0]",
+      "Expression UKESM1": "m01s30i202[blev=PLEV6, lbproc=0] / m01s30i301[blev=PLEV6, lbproc=0]",
+      "Expression UKESM1-3": "m01s30i202[blev=PLEV6, lbproc=0] / m01s30i301[blev=PLEV6, lbproc=0]",
+      "Model units": "m s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s30i202",
+        "domain_profile": "PLEV6",
+        "model": "HadGEM3-GC31",
+        "stash_number": "30,202",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i301",
+        "domain_profile": "PLEV6",
+        "model": "HadGEM3-GC31",
+        "stash_number": "30,301",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i202",
+        "domain_profile": "PLEV6",
+        "model": "HadGEM3-GC5",
+        "stash_number": "30,202",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i301",
+        "domain_profile": "PLEV6",
+        "model": "HadGEM3-GC5",
+        "stash_number": "30,301",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i202",
+        "domain_profile": "PLEV6",
+        "model": "UKESM1",
+        "stash_number": "30,202",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i301",
+        "domain_profile": "PLEV6",
+        "model": "UKESM1",
+        "stash_number": "30,301",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i202",
+        "domain_profile": "PLEV6",
+        "model": "UKESM1-3",
+        "stash_number": "30,202",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i301",
+        "domain_profile": "PLEV6",
+        "model": "UKESM1-3",
+        "stash_number": "30,301",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      }
+    ],
     "issue_number": 705,
     "labels": [
       "3hr",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.va.tpt-p6-hxy-air.3hr.GLB (E3hrPt.va6)"
   },
@@ -54308,13 +54950,85 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "m01s30i201[blev=PLEV6, lbproc=0] / m01s30i301[blev=PLEV6, lbproc=0]",
+      "Expression HadGEM3-GC5": "m01s30i201[blev=PLEV6, lbproc=0] / m01s30i301[blev=PLEV6, lbproc=0]",
+      "Expression UKESM1": "m01s30i201[blev=PLEV6, lbproc=0] / m01s30i301[blev=PLEV6, lbproc=0]",
+      "Expression UKESM1-3": "m01s30i201[blev=PLEV6, lbproc=0] / m01s30i301[blev=PLEV6, lbproc=0]",
+      "Model units": "m s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s30i201",
+        "domain_profile": "PLEV6",
+        "model": "HadGEM3-GC31",
+        "stash_number": "30,201",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i301",
+        "domain_profile": "PLEV6",
+        "model": "HadGEM3-GC31",
+        "stash_number": "30,301",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i201",
+        "domain_profile": "PLEV6",
+        "model": "HadGEM3-GC5",
+        "stash_number": "30,201",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i301",
+        "domain_profile": "PLEV6",
+        "model": "HadGEM3-GC5",
+        "stash_number": "30,301",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i201",
+        "domain_profile": "PLEV6",
+        "model": "UKESM1",
+        "stash_number": "30,201",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i301",
+        "domain_profile": "PLEV6",
+        "model": "UKESM1",
+        "stash_number": "30,301",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i201",
+        "domain_profile": "PLEV6",
+        "model": "UKESM1-3",
+        "stash_number": "30,201",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i301",
+        "domain_profile": "PLEV6",
+        "model": "UKESM1-3",
+        "stash_number": "30,301",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      }
+    ],
     "issue_number": 704,
     "labels": [
       "3hr",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.ua.tpt-p6-hxy-air.3hr.GLB (E3hrPt.ua6)"
   },
@@ -54337,13 +55051,85 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "m01s30i294[blev=PLEV6, lbproc=0] / m01s30i304[blev=PLEV6, lbproc=0]",
+      "Expression HadGEM3-GC5": "m01s30i294[blev=PLEV6, lbproc=0] / m01s30i304[blev=PLEV6, lbproc=0]",
+      "Expression UKESM1": "m01s30i294[blev=PLEV6, lbproc=0] / m01s30i304[blev=PLEV6, lbproc=0]",
+      "Expression UKESM1-3": "m01s30i294[blev=PLEV6, lbproc=0] / m01s30i304[blev=PLEV6, lbproc=0]",
+      "Model units": "K"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s30i294",
+        "domain_profile": "PLEV6",
+        "model": "HadGEM3-GC31",
+        "stash_number": "30,294",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i304",
+        "domain_profile": "PLEV6",
+        "model": "HadGEM3-GC31",
+        "stash_number": "30,304",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i294",
+        "domain_profile": "PLEV6",
+        "model": "HadGEM3-GC5",
+        "stash_number": "30,294",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i304",
+        "domain_profile": "PLEV6",
+        "model": "HadGEM3-GC5",
+        "stash_number": "30,304",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i294",
+        "domain_profile": "PLEV6",
+        "model": "UKESM1",
+        "stash_number": "30,294",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i304",
+        "domain_profile": "PLEV6",
+        "model": "UKESM1",
+        "stash_number": "30,304",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i294",
+        "domain_profile": "PLEV6",
+        "model": "UKESM1-3",
+        "stash_number": "30,294",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i304",
+        "domain_profile": "PLEV6",
+        "model": "UKESM1-3",
+        "stash_number": "30,304",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      }
+    ],
     "issue_number": 703,
     "labels": [
       "3hr",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.ta.tpt-p6-hxy-air.3hr.GLB (E3hrPt.ta6)"
   },
@@ -54627,13 +55413,85 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "m01s30i295[blev=PLEV6, lbproc=0] / m01s30i304[blev=PLEV6, lbproc=0]",
+      "Expression HadGEM3-GC5": "m01s30i295[blev=PLEV6, lbproc=0] / m01s30i304[blev=PLEV6, lbproc=0]",
+      "Expression UKESM1": "m01s30i295[blev=PLEV6, lbproc=0] / m01s30i304[blev=PLEV6, lbproc=0]",
+      "Expression UKESM1-3": "m01s30i295[blev=PLEV6, lbproc=0] / m01s30i304[blev=PLEV6, lbproc=0]",
+      "Model units": "1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s30i295",
+        "domain_profile": "PLEV6",
+        "model": "HadGEM3-GC31",
+        "stash_number": "30,295",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i304",
+        "domain_profile": "PLEV6",
+        "model": "HadGEM3-GC31",
+        "stash_number": "30,304",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i295",
+        "domain_profile": "PLEV6",
+        "model": "HadGEM3-GC5",
+        "stash_number": "30,295",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i304",
+        "domain_profile": "PLEV6",
+        "model": "HadGEM3-GC5",
+        "stash_number": "30,304",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i295",
+        "domain_profile": "PLEV6",
+        "model": "UKESM1",
+        "stash_number": "30,295",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i304",
+        "domain_profile": "PLEV6",
+        "model": "UKESM1",
+        "stash_number": "30,304",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i295",
+        "domain_profile": "PLEV6",
+        "model": "UKESM1-3",
+        "stash_number": "30,295",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      },
+      {
+        "STASH": "m01s30i304",
+        "domain_profile": "PLEV6",
+        "model": "UKESM1-3",
+        "stash_number": "30,304",
+        "time_profile": "T3HR",
+        "usage_profile": "UP8"
+      }
+    ],
     "issue_number": 693,
     "labels": [
       "3hr",
-      "atmos"
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
     ],
     "title": "Variable atmos.hus.tpt-p6-hxy-air.3hr.GLB (E3hrPt.hus6)"
   },
@@ -88404,7 +89262,8 @@
     "issue_number": 338,
     "labels": [
       "mon",
-      "aerosol"
+      "aerosol",
+      "do-not-produce"
     ],
     "title": "Variable aerosol.hfc134a.tavg-al-hxy-u.mon.GLB (AERmon.hfc134a)"
   },
@@ -88433,7 +89292,8 @@
     "issue_number": 337,
     "labels": [
       "mon",
-      "aerosol"
+      "aerosol",
+      "do-not-produce"
     ],
     "title": "Variable aerosol.hfc125.tavg-al-hxy-u.mon.GLB (AERmon.hfc125)"
   },
@@ -88666,7 +89526,8 @@
     "issue_number": 334,
     "labels": [
       "mon",
-      "aerosol"
+      "aerosol",
+      "do-not-produce"
     ],
     "title": "Variable aerosol.hcfc22.tavg-al-hxy-u.mon.GLB (AERmon.hcfc22)"
   },
@@ -91687,9 +92548,76 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1": "achem_emdrywet(MOLECULAR_MASS_OF_NO3, m01s38i588[lbproc=128] + m01s38i589[lbproc=128] + m01s38i590[lbproc=128] + m01s38i591[lbproc=128], sumlev='True', areadiv='True')",
+      "Expression UKESM1-3": "achem_emdrywet(MOLECULAR_MASS_OF_NO3, m01s38i588[lbproc=128] + m01s38i589[lbproc=128] + m01s38i590[lbproc=128] + m01s38i591[lbproc=128], sumlev='True', areadiv='True')",
+      "Model units": "g m-2 s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s38i588",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "38,588",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s38i589",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "38,589",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s38i590",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "38,590",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s38i591",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "38,591",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s38i588",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "38,588",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s38i589",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "38,589",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s38i590",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "38,590",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s38i591",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "38,591",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      }
+    ],
     "issue_number": 284,
     "labels": [
       "mon",
@@ -92486,9 +93414,46 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "m01s38i437[lbproc=128]",
+      "Expression HadGEM3-GC5": "m01s38i437[lbproc=128]",
+      "Expression UKESM1": "m01s38i437[lbproc=128]",
+      "Expression UKESM1-3": "m01s38i437[lbproc=128]",
+      "Model units": "cm-3"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s38i437",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "38,437",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s38i437",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "38,437",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s38i437",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "38,437",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s38i437",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "38,437",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      }
+    ],
     "issue_number": 275,
     "labels": [
       "mon",
@@ -93627,7 +94592,8 @@
     "issue_number": 259,
     "labels": [
       "mon",
-      "aerosol"
+      "aerosol",
+      "do-not-produce"
     ],
     "title": "Variable aerosol.cfc114.tavg-al-hxy-u.mon.GLB (AERmon.cfc114)"
   },
@@ -95787,9 +96753,46 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "remove_altitude_coords(m01s34i072[lblev=1, lbproc=128]) * (MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_SO2)",
+      "Expression HadGEM3-GC5": "remove_altitude_coords(m01s34i072[lblev=1, lbproc=128]) * (MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_SO2)",
+      "Expression UKESM1": "remove_altitude_coords(m01s34i072[lblev=1, lbproc=128]) * (MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_SO2)",
+      "Expression UKESM1-3": "remove_altitude_coords(m01s34i072[lblev=1, lbproc=128]) * (MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_SO2)",
+      "Model units": "mol mol-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s34i072",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "34,072",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i072",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "34,072",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i072",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "34,072",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i072",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "34,072",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      }
+    ],
     "issue_number": 220,
     "labels": [
       "day",
@@ -96171,9 +97174,110 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "remove_altitude_coords(m01s34i111[lblev=1, lbproc=128] + m01s34i117[lblev=1, lbproc=128])",
+      "Expression HadGEM3-GC5": "remove_altitude_coords(m01s34i111[lblev=1, lbproc=128] + m01s34i117[lblev=1, lbproc=128])",
+      "Expression UKESM1": "remove_altitude_coords(m01s34i111[lblev=1, lbproc=128] + m01s34i117[lblev=1, lbproc=128])",
+      "Expression UKESM1-3": "remove_altitude_coords(m01s34i111[lblev=1, lbproc=128] + m01s34i117[lblev=1, lbproc=128])",
+      "Model units": "kg kg-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s34i111",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "34,111",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i117",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "34,117",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i111",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "34,111",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i117",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "34,117",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i111",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "34,111",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i117",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "34,117",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i111",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "34,111",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i117",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "34,117",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      }
+    ],
     "issue_number": 214,
     "labels": [
       "day",
@@ -96258,9 +97362,206 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "remove_altitude_coords(m01s34i106[lblev=1, lbproc=128] + m01s34i110[lblev=1, lbproc=128] + m01s34i116[lblev=1, lbproc=128] + m01s34i121[lblev=1, lbproc=128] + m01s34i126[lblev=1, lbproc=128])",
+      "Expression HadGEM3-GC5": "remove_altitude_coords(m01s34i106[lblev=1, lbproc=128] + m01s34i110[lblev=1, lbproc=128] + m01s34i116[lblev=1, lbproc=128] + m01s34i121[lblev=1, lbproc=128] + m01s34i126[lblev=1, lbproc=128])",
+      "Expression UKESM1": "remove_altitude_coords(m01s34i106[lblev=1, lbproc=128] + m01s34i110[lblev=1, lbproc=128] + m01s34i116[lblev=1, lbproc=128] + m01s34i121[lblev=1, lbproc=128] + m01s34i126[lblev=1, lbproc=128])",
+      "Expression UKESM1-3": "remove_altitude_coords(m01s34i106[lblev=1, lbproc=128] + m01s34i110[lblev=1, lbproc=128] + m01s34i116[lblev=1, lbproc=128] + m01s34i121[lblev=1, lbproc=128] + m01s34i126[lblev=1, lbproc=128])",
+      "Model units": "kg kg-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s34i106",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "34,106",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i110",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "34,110",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i116",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "34,116",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i121",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "34,121",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i126",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "34,126",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i106",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "34,106",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i110",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "34,110",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i116",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "34,116",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i121",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "34,121",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i126",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "34,126",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i106",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "34,106",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i110",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "34,110",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i116",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "34,116",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i121",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "34,121",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i126",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "34,126",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i106",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "34,106",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i110",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "34,110",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i116",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "34,116",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i121",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "34,121",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i126",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "34,126",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      }
+    ],
     "issue_number": 211,
     "labels": [
       "day",
@@ -96287,9 +97588,174 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "remove_altitude_coords(m01s34i136[lblev=1, lbproc=128] + m01s34i137[lblev=1, lbproc=128] + m01s34i138[lblev=1, lbproc=128] + m01s34i139[lblev=1, lbproc=128])",
+      "Expression HadGEM3-GC5": "remove_altitude_coords(m01s34i136[lblev=1, lbproc=128] + m01s34i137[lblev=1, lbproc=128] + m01s34i138[lblev=1, lbproc=128] + m01s34i139[lblev=1, lbproc=128])",
+      "Expression UKESM1": "remove_altitude_coords(m01s34i136[lblev=1, lbproc=128] + m01s34i137[lblev=1, lbproc=128] + m01s34i138[lblev=1, lbproc=128] + m01s34i139[lblev=1, lbproc=128])",
+      "Expression UKESM1-3": "remove_altitude_coords(m01s34i136[lblev=1, lbproc=128] + m01s34i137[lblev=1, lbproc=128] + m01s34i138[lblev=1, lbproc=128] + m01s34i139[lblev=1, lbproc=128])",
+      "Model units": "kg kg-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s34i136",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "34,136",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i137",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "34,137",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i138",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "34,138",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i139",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "34,139",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i136",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "34,136",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i137",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "34,137",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i138",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "34,138",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i139",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "34,139",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i136",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "34,136",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i137",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "34,137",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i138",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "34,138",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i139",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "34,139",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i136",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "34,136",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i137",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "34,137",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i138",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "34,138",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i139",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "34,139",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      }
+    ],
     "issue_number": 210,
     "labels": [
       "day",
@@ -96345,9 +97811,238 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "remove_altitude_coords(m01s00i431[lblev=1, lbproc=128] + m01s00i432[lblev=1, lbproc=128] + m01s00i433[lblev=1, lbproc=128] + m01s00i434[lblev=1, lbproc=128] + m01s00i435[lblev=1, lbproc=128] + m01s00i436[lblev=1, lbproc=128])",
+      "Expression HadGEM3-GC5": "remove_altitude_coords(m01s00i431[lblev=1, lbproc=128] + m01s00i432[lblev=1, lbproc=128] + m01s00i433[lblev=1, lbproc=128] + m01s00i434[lblev=1, lbproc=128] + m01s00i435[lblev=1, lbproc=128] + m01s00i436[lblev=1, lbproc=128])",
+      "Expression UKESM1": "remove_altitude_coords(m01s00i431[lblev=1, lbproc=128] + m01s00i432[lblev=1, lbproc=128] + m01s00i433[lblev=1, lbproc=128] + m01s00i434[lblev=1, lbproc=128] + m01s00i435[lblev=1, lbproc=128] + m01s00i436[lblev=1, lbproc=128])",
+      "Expression UKESM1-3": "remove_altitude_coords(m01s00i431[lblev=1, lbproc=128] + m01s00i432[lblev=1, lbproc=128] + m01s00i433[lblev=1, lbproc=128] + m01s00i434[lblev=1, lbproc=128] + m01s00i435[lblev=1, lbproc=128] + m01s00i436[lblev=1, lbproc=128])",
+      "Model units": "kg kg-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s00i431",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "0,431",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i432",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "0,432",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i433",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "0,433",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i434",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "0,434",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i435",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "0,435",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i436",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "0,436",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i431",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "0,431",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i432",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "0,432",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i433",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "0,433",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i434",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "0,434",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i435",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "0,435",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i436",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "0,436",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i431",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "0,431",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i432",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "0,432",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i433",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "0,433",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i434",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "0,434",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i435",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "0,435",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i436",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "0,436",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i431",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "0,431",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i432",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "0,432",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i433",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "0,433",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i434",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "0,434",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i435",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "0,435",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i436",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "0,436",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      }
+    ],
     "issue_number": 208,
     "labels": [
       "day",
@@ -96374,9 +98069,174 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "remove_altitude_coords(m01s34i105[lblev=1, lbproc=128] + m01s34i109[lblev=1, lbproc=128] + m01s34i115[lblev=1, lbproc=128] + m01s34i120[lblev=1, lbproc=128])",
+      "Expression HadGEM3-GC5": "remove_altitude_coords(m01s34i105[lblev=1, lbproc=128] + m01s34i109[lblev=1, lbproc=128] + m01s34i115[lblev=1, lbproc=128] + m01s34i120[lblev=1, lbproc=128])",
+      "Expression UKESM1": "remove_altitude_coords(m01s34i105[lblev=1, lbproc=128] + m01s34i109[lblev=1, lbproc=128] + m01s34i115[lblev=1, lbproc=128] + m01s34i120[lblev=1, lbproc=128])",
+      "Expression UKESM1-3": "remove_altitude_coords(m01s34i105[lblev=1, lbproc=128] + m01s34i109[lblev=1, lbproc=128] + m01s34i115[lblev=1, lbproc=128] + m01s34i120[lblev=1, lbproc=128])",
+      "Model units": "kg kg-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s34i105",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "34,105",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i109",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "34,109",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i115",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "34,115",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i120",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC31",
+        "stash_number": "34,120",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i105",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "34,105",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i109",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "34,109",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i115",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "34,115",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i120",
+        "domain_profile": "DALLTH",
+        "model": "HadGEM3-GC5",
+        "stash_number": "34,120",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC5",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i105",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "34,105",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i109",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "34,109",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i115",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "34,115",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i120",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "34,120",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i105",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "34,105",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i109",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "34,109",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i115",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "34,115",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s34i120",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "34,120",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      }
+    ],
     "issue_number": 207,
     "labels": [
       "day",
@@ -96403,9 +98263,44 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1": "SECONDS_IN_HOUR / ATMOS_TIMESTEP * remove_altitude_coords(m01s38i545[lblev=1, lbproc=128])",
+      "Expression UKESM1-3": "SECONDS_IN_HOUR / ATMOS_TIMESTEP * remove_altitude_coords(m01s38i545[lblev=1, lbproc=128])",
+      "Model units": "kg kg-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s38i545",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "38,545",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s38i545",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "38,545",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "0,033",
+        "time_profile": "TDAYMN",
+        "usage_profile": "UP6"
+      }
+    ],
     "issue_number": 206,
     "labels": [
       "day",
@@ -100102,7 +101997,8 @@
     "issue_number": 144,
     "labels": [
       "6hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.wppwindsea.tavg-u-hxy-sea.6hr.GLB (6hr.wppwindsea)"
   },
@@ -100131,7 +102027,8 @@
     "issue_number": 143,
     "labels": [
       "6hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.wppswell.tavg-u-hxy-sea.6hr.GLB (6hr.wppswell)"
   },
@@ -100160,7 +102057,8 @@
     "issue_number": 142,
     "labels": [
       "6hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.wpp.tavg-u-hxy-sea.6hr.GLB (6hr.wpp)"
   },
@@ -100189,7 +102087,8 @@
     "issue_number": 141,
     "labels": [
       "6hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.wpdirwindsea.tavg-u-hxy-sea.6hr.GLB (6hr.wpdirwindsea)"
   },
@@ -100218,7 +102117,8 @@
     "issue_number": 140,
     "labels": [
       "6hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.wpdirswell.tavg-u-hxy-sea.6hr.GLB (6hr.wpdirswell)"
   },
@@ -100247,7 +102147,8 @@
     "issue_number": 139,
     "labels": [
       "6hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.wpdir.tavg-u-hxy-sea.6hr.GLB (6hr.wpdir)"
   },
@@ -100276,7 +102177,8 @@
     "issue_number": 138,
     "labels": [
       "6hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.wdirwindsea.tavg-u-hxy-sea.6hr.GLB (6hr.wdirwindsea)"
   },
@@ -100305,7 +102207,8 @@
     "issue_number": 137,
     "labels": [
       "6hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.wdirswell.tavg-u-hxy-sea.6hr.GLB (6hr.wdirswell)"
   },
@@ -100334,7 +102237,8 @@
     "issue_number": 136,
     "labels": [
       "6hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.wdir.tavg-u-hxy-sea.6hr.GLB (6hr.wdir)"
   },
@@ -100363,7 +102267,8 @@
     "issue_number": 135,
     "labels": [
       "6hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.swhwindsea.tavg-u-hxy-sea.6hr.GLB (6hr.swhwindsea)"
   },
@@ -100392,7 +102297,8 @@
     "issue_number": 134,
     "labels": [
       "6hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.swhswell.tavg-u-hxy-sea.6hr.GLB (6hr.swhswell)"
   },
@@ -100421,7 +102327,8 @@
     "issue_number": 133,
     "labels": [
       "6hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.swh.tmax-u-hxy-sea.6hr.GLB (6hr.swhmax)"
   },
@@ -100450,7 +102357,8 @@
     "issue_number": 132,
     "labels": [
       "6hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.swh.tavg-u-hxy-sea.6hr.GLB (6hr.swh)"
   },
@@ -100539,7 +102447,8 @@
     "issue_number": 129,
     "labels": [
       "6hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.mpwwindsea.tavg-u-hxy-sea.6hr.GLB (6hr.mpwwindsea)"
   },
@@ -100568,7 +102477,8 @@
     "issue_number": 128,
     "labels": [
       "6hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.mpwswell.tavg-u-hxy-sea.6hr.GLB (6hr.mpwswell)"
   },
@@ -100597,7 +102507,8 @@
     "issue_number": 127,
     "labels": [
       "6hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.mpw.tavg-u-hxy-sea.6hr.GLB (6hr.mpw)"
   },
@@ -100626,7 +102537,8 @@
     "issue_number": 126,
     "labels": [
       "3hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.wpp.unknown05.3hr.GLB (3hrPt.wpp)"
   },
@@ -100655,7 +102567,8 @@
     "issue_number": 125,
     "labels": [
       "3hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.wpdir.unknown04.3hr.GLB (3hrPt.wpdir)"
   },
@@ -100684,7 +102597,8 @@
     "issue_number": 124,
     "labels": [
       "3hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.wdir.unknown03.3hr.GLB (3hrPt.wdir)"
   },
@@ -100789,7 +102703,8 @@
     "issue_number": 121,
     "labels": [
       "3hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.swh.unknown02.3hr.GLB (3hrPt.swh)"
   },
@@ -100818,7 +102733,8 @@
     "issue_number": 120,
     "labels": [
       "3hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.mpw.unknown01.3hr.GLB (3hrPt.mpw)"
   },
@@ -100876,7 +102792,8 @@
     "issue_number": 118,
     "labels": [
       "3hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.wpp.tavg-u-hxy-sea.3hr.GLB (3hr.wpp)"
   },
@@ -100905,7 +102822,8 @@
     "issue_number": 117,
     "labels": [
       "3hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.wpdir.tavg-u-hxy-sea.3hr.GLB (3hr.wpdir)"
   },
@@ -100968,7 +102886,8 @@
     "issue_number": 115,
     "labels": [
       "3hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.wdir.tavg-u-hxy-sea.3hr.GLB (3hr.wdir)"
   },
@@ -101263,7 +103182,8 @@
     "issue_number": 107,
     "labels": [
       "3hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.swh.tavg-u-hxy-sea.3hr.GLB (3hr.swh)"
   },
@@ -102322,7 +104242,8 @@
     "issue_number": 92,
     "labels": [
       "3hr",
-      "ocean"
+      "ocean",
+      "do-not-produce"
     ],
     "title": "Variable ocean.mpw.tavg-u-hxy-sea.3hr.GLB (3hr.mpw)"
   },
@@ -102697,7 +104618,11 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "berg_calve - sowflisf",
+      "Expression HadGEM3-GC5": "berg_calve - sowflisf",
+      "Expression UKESM1": "berg_calve - sowflisf",
+      "Expression UKESM1-3": "berg_calve - sowflisf",
+      "Model units": "kg m-2 s-1"
     },
     "STASH entries": [],
     "issue_number": 84,
@@ -102726,13 +104651,17 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression HadGEM3-GC31": "sum_2d_and_3d(ficeberg, -1*vowflisf)",
+      "Expression UKESM1": "sum_2d_and_3d(ficeberg, -1*vowflisf)",
+      "Expression UKESM1-3": "sum_2d_and_3d(ficeberg, -1*vowflisf)",
+      "Model units": "kg m-2 s-1"
     },
     "STASH entries": [],
     "issue_number": 83,
     "labels": [
       "3hr",
-      "ocean"
+      "ocean",
+      "approved"
     ],
     "title": "Variable ocean.ficeberg.tavg-ol-hxy-sea.3hr.GLB (3hr.ficeberg)"
   },
@@ -105169,8 +107098,7 @@
       "atmos",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved",
-      "do-not-produce"
+      "approved"
     ],
     "title": "Variable atmos.rluscs.tavg-u-hxy-u.mon.GLB (Amon.rluscs)"
   },
@@ -108813,7 +110741,8 @@
     "issue_number": 1,
     "labels": [
       "mon",
-      "atmos"
+      "atmos",
+      "do-not-produce"
     ],
     "title": "Variable atmos.aod550volso4.tavg-u-hxy-u.mon.GLB (Amon.aod550volso4)"
   }

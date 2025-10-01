@@ -7,6 +7,9 @@ on:
 jobs:
   update-data-files:
     runs-on: ubuntu-22.04
+    concurrency:
+       group: csv-updates
+       cancel-in-progress: true
     permissions:
       contents: write
     steps:
