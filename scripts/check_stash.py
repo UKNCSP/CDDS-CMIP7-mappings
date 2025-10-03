@@ -5,52 +5,6 @@ that all STASH codes in the Expression lines are in the STASH entries, and vice 
 """
 import sys
 import re
-UKESM_only_variables = [
-    'Amon.fco2antt',
-    'Amon.fco2fos',
-    'Amon.fco2nat',
-
-    'Eday.loadbc',
-    'Eday.loadoa',
-    'Eday.loadss',
-    'Eday.loadso4',
-
-    'Emon.co23D',
-    'Emon.co2s',
-    'Emon.loadso4',
-    'Emon.cropFracC3',
-    'Emon.cropFracC4',
-    'Emon.cVegGrass',
-    'Emon.cVegShrub',
-    'Emon.cVegTree',
-    'Emon.fAnthDisturb',
-    'Emon.fNProduct',
-    'Emon.fracLut',
-    'Emon.gppGrass',
-    'Emon.gppShrub',
-    'Emon.gppTree',
-    'Emon.grassFracC3',
-    'Emon.grassFracC4',
-    'Emon.netAtmosLandCO2Flux',
-    'Emon.nppGrass',
-    'Emon.nppShrub',
-    'Emon.nppTree',
-    'Emon.pastureFracC3',
-    'Emon.pastureFracC4',
-    'Emon.raGrass',
-    'Emon.raLut',
-    'Emon.raShrub',
-    'Emon.raTree',
-    'Emon.treeFracBdlEvg',
-    'Emon.treeFracNdlDcd',
-    'Emon.vegHeight',
-    'Emon.vegHeightGrass',
-    'Emon.vegHeightShrub',
-    'Emon.vegHeightTree',
-
-    'Lmon.pastureFrac',
-    'Lmon.cropFrac',
-    ]
 
 if __name__ == '__main__':
 
@@ -71,15 +25,27 @@ if __name__ == '__main__':
             if "Dimensions" in line:
                 usesAlev = "alev" in line
 
+        # Which models produce this variable?  Find which models are mentioned
+        # in the Expression lines.  We use a set for the models to avoid duplicates
+        # when adding the model names we found.  Previously, we had a list of variables
+        # that were UKESM1 only, but it's simpler to just check the Expression lines.
+        model = set()
+        names = ["UKESM1", "HadGEM3-GC31"]
+        for line in lines:
+            if "Expression" in line:
+                for n in names:
+                    if n in line:
+                        model.add(n)
+
+        # Check that we found at least one model.
+        if len(model) == 0:
+            print(f"*** Warning: No models found in Expression lines for {filename} XXX\n")
+            continue
+
         # For this variable, did we find codes in Expression lines and STASH entries?
         foundSTASHinExpression = True
         foundSTASHentries = True
 
-        # The models to check.
-        if any(var in filename for var in UKESM_only_variables):
-            model = ["UKESM1"]
-        else:
-            model = ["UKESM1", "HadGEM3-GC31"]
         for m in model:
             print(f"Processing {m} in {filename}")
             
@@ -167,14 +133,15 @@ if __name__ == '__main__':
         # Summary of results for this variable.  Check whether there were any codes
         # in the Expression lines and STASH entries first.
         if not foundSTASHinExpression:
-            if filename in UKESM_only_variables:
-                print(f"No STASH codes found in Expression lines for {filename} (UKESM_only) %%%\n")
+            if len(model) == 1:
+                # If only one model, say which one.  Can't subscript a set, so convert to list first.
+                print(f"No STASH codes found in Expression lines for {filename} ({list(model)[0]} only) %%%\n")
             else:
                 print(f"No STASH codes found in Expression lines for {filename} %%%\n")
             continue
         if not foundSTASHentries:
-            if filename in UKESM_only_variables:
-                print(f"No STASH entries found for {filename} (UKESM_only) ~~~\n")
+            if len(model) == 1:
+                print(f"No STASH entries found for {filename} ({list(model)[0]} only) ~~~\n")
             else:
                 print(f"No STASH entries found for {filename} ~~~\n")
             continue
