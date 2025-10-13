@@ -107271,7 +107271,10 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Expression": "HadGEM3-GC5",
+      "Expression HadGEM3-GC31": "m01s05i214[lbproc=128]",
+      "Expression HadGEM3-GC5": "m01s05i214[lbproc=128]",
+      "Expression UKESM1": "m01s05i214[lbproc=128]",
+      "Expression UKESM1-3": "m01s05i214[lbproc=128]",
       "Model units": "kg m-2 s-1"
     },
     "STASH entries": [
