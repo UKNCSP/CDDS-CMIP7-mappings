@@ -31080,7 +31080,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "areacell",
+      "Model units": "m^2"
     },
     "STASH entries": [],
     "XIOS entries": {},
@@ -31089,6 +31090,7 @@
       "fx",
       "land",
       "CMIP6",
+      "approved_UKESM",
       "UNICICLES"
     ],
     "title": "Variable land.areacell.ti-u-hxy-u.fx.ATA (IfxAnt.areacellg)"
