@@ -108,7 +108,7 @@ if __name__ == '__main__':
     order_labels = ['labels']
     order_dr = sorted(list(results[0]['Data Request information'].keys()))
     order_mapping = [i for i in sorted(list(all_mapping_keys)) if ('Expression' in i or 'units' in i)]
-    title_list = order_first + order_link + order_labels + order_dr + order_mapping + ['labels']
+    title_list = order_first + order_link + order_labels + order_dr + order_mapping
     csv_output = []
     for entry in results:
         record = [entry[i] for i in order_first]
@@ -116,7 +116,7 @@ if __name__ == '__main__':
         record += [' '.join(entry['labels'])]
         record += [entry['Data Request information'].get(i, "") for i in order_dr]
         record += [entry['Mapping information'].get(i, "") for i in order_mapping]
-        record.append(','.join(entry['labels']))
+        #record.append(','.join(entry['labels']))
         csv_output.append(record)
 
     with open(os.path.join(output_dir, 'mappings.csv'), 'w') as fh:
