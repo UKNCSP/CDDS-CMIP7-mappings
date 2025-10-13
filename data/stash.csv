@@ -701,10 +701,10 @@ UKESM1,grassFrac_tavg-u-hxy-u,yr,m01s03i395,3,395,TMONMN,DIAG,UP5,True,False,Fal
 UKESM1,grassFrac_tavg-u-hxy-u,yr,m01s19i013,19,013,TMONMN,DTILE,UP5,True,False,False
 UKESM1-3,grassFrac_tavg-u-hxy-u,yr,m01s03i395,3,395,TMONMN,DIAG,UP5,True,False,False
 UKESM1-3,grassFrac_tavg-u-hxy-u,yr,m01s19i013,19,013,TMONMN,DTILE,UP5,True,False,False
-UKESM1,fracLut_tpt-u-hxy-u,yr,m01s03i395,3,395,TMONMN,DIAG,UP5,True,False,False
-UKESM1,fracLut_tpt-u-hxy-u,yr,m01s19i013,19,013,TMONMN,DTILE,UP5,True,False,False
-UKESM1-3,fracLut_tpt-u-hxy-u,yr,m01s03i395,3,395,TMONMN,DIAG,UP5,True,False,False
-UKESM1-3,fracLut_tpt-u-hxy-u,yr,m01s19i013,19,013,TMONMN,DTILE,UP5,True,False,False
+UKESM1,fracLut_tpt-u-hxy-u,yr,m01s03i395,3,395,TMONMN,DIAG,UP5,False,False,False
+UKESM1,fracLut_tpt-u-hxy-u,yr,m01s19i013,19,013,TMONMN,DTILE,UP5,False,False,False
+UKESM1-3,fracLut_tpt-u-hxy-u,yr,m01s03i395,3,395,TMONMN,DIAG,UP5,False,False,False
+UKESM1-3,fracLut_tpt-u-hxy-u,yr,m01s19i013,19,013,TMONMN,DTILE,UP5,False,False,False
 UKESM1,cropFrac_tavg-u-hxy-u,yr,m01s03i395,3,395,TMONMN,DIAG,UP5,True,False,False
 UKESM1,cropFrac_tavg-u-hxy-u,yr,m01s19i013,19,013,TMONMN,DTILE,UP5,True,False,False
 UKESM1-3,cropFrac_tavg-u-hxy-u,yr,m01s03i395,3,395,TMONMN,DIAG,UP5,True,False,False

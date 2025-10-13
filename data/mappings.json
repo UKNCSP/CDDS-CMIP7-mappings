@@ -31570,8 +31570,7 @@
     "labels": [
       "yr",
       "land",
-      "CMIP6",
-      "approved"
+      "CMIP6"
     ],
     "title": "Variable land.fracLut.tpt-u-hxy-u.yr.GLB (Eyr.fracLut)"
   },
