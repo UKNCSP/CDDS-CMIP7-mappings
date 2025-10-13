@@ -41,7 +41,13 @@ def tables_to_dict(text):
                 value = linedata[2]
                 results[section][key] = value
             if section.startswith('STASH'):
-                model, stash, stash_num, time, dom, usage = linedata[1:7]
+                try:
+                    model, stash, stash_num, time, dom, usage = linedata[1:7]
+                except ValueError:
+                    bv_name = results['Data Request information']['Branded variable name']
+                    freq = results['Data Request information']['Frequency']
+                    print(f'Could not interpret line "{line}" for branded variable "{bv_name}" at frequency "{freq}"')
+                    continue
                 if stash != "":
                     results[section].append({
                         'model': model,
