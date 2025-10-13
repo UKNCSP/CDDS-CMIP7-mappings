@@ -28366,7 +28366,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "sftgif",
+      "Model units": "1"
     },
     "STASH entries": [],
     "XIOS entries (relevant for NEMO, MEDUSA, SI3)": {},
