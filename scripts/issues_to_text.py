@@ -29,6 +29,9 @@ def tables_to_dict(text):
             if 'STASH' in section:
                 section = "STASH entries"
                 results[section] = []
+            elif 'XIOS' in section:
+                section = "XIOS entries"
+                results[section] = {}
             else:
                 results[section] = {}
             continue
@@ -36,7 +39,7 @@ def tables_to_dict(text):
             linedata = [i.strip().strip("`") for i in line.split("|")]
             if linedata[1] in ['Key', '---', 'Field', 'Model']:
                 continue
-            if section.startswith("Data") or section.startswith("Mapping"):
+            if any([section.startswith(i) for i in ["Data", "Mapping", "XIOS"]]):
                 key = linedata[1]
                 value = linedata[2]
                 results[section][key] = value
@@ -186,6 +189,15 @@ if __name__ == '__main__':
         writer = csv.writer(fh, dialect='excel')
         for row in stash_csv:
             writer.writerow(row)  
-        
+    
+    
+    xios_data = {}
+    for entry in results:
+        xios_entry = entry.get("XIOS entries", [])
+        if xios_entry:
+            xios_data[entry['title']] = xios_entry
+    
+    with open(os.path.join(output_dir, "xios.json"), 'w') as fh:
+        json.dump(xios_data, fh, indent=2, sort_keys=True)
 
 
