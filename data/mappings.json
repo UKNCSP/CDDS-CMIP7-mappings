@@ -100539,7 +100539,7 @@
     "XIOS entries (relevant for NEMO, MEDUSA, SI3)": {},
     "issue_number": 231,
     "labels": [
-      "mon",
+      "fx",
       "aerosol",
       "atmosChem"
     ],
@@ -100570,7 +100570,7 @@
     "XIOS entries (relevant for NEMO, MEDUSA, SI3)": {},
     "issue_number": 230,
     "labels": [
-      "mon",
+      "fx",
       "atmosChem"
     ],
     "title": "Variable atmosChem.o3ref.ti-al-hxy-u.fx.GLB (AERfx.o3ref)"
@@ -100600,7 +100600,7 @@
     "XIOS entries (relevant for NEMO, MEDUSA, SI3)": {},
     "issue_number": 229,
     "labels": [
-      "mon",
+      "fx",
       "atmosChem"
     ],
     "title": "Variable atmosChem.ch4ref.ti-al-hxy-u.fx.GLB (AERfx.ch4ref)"
