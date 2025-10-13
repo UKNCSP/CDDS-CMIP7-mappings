@@ -464,7 +464,8 @@
     "labels": [
       "fx",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.zfull.ti-al-hxy-u.fx.GLB (fx.zfull)"
   },
@@ -42197,27 +42198,9 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression UKESM1-3": "land_class_mean( m01s19i136[lbtim_ia=240,lbproc=128], m01s19i013[lbtim_ia=240,lbproc=128], land_class='Crop')",
-      "Model units": "kg m-2"
+      "": ""
     },
-    "STASH entries": [
-      {
-        "STASH": "m01s19i013",
-        "domain_profile": "DTILE",
-        "model": "UKESM1-3",
-        "stash_number": "19,013",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP5"
-      },
-      {
-        "STASH": "m01s19i136",
-        "domain_profile": "DPFTS",
-        "model": "UKESM1-3",
-        "stash_number": "19,136",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP5"
-      }
-    ],
+    "STASH entries": [],
     "XIOS entries (relevant for NEMO, MEDUSA, SI3)": {},
     "issue_number": 952,
     "labels": [

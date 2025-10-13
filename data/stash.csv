@@ -1417,8 +1417,6 @@ UKESM1,nRoot_tavg-u-hxy-lnd,mon,m01s19i133,19,133,TMONMN,DPFTS,UP5,True,False,Fa
 UKESM1-3,nRoot_tavg-u-hxy-lnd,mon,m01s03i395,3,395,TMONMN,DIAG,UP5,True,False,False
 UKESM1-3,nRoot_tavg-u-hxy-lnd,mon,m01s19i013,19,013,TMONMN,DTILE,UP5,True,False,False
 UKESM1-3,nRoot_tavg-u-hxy-lnd,mon,m01s19i133,19,133,TMONMN,DPFTS,UP5,True,False,False
-UKESM1-3,nProduct_tavg-u-hxy-lnd,mon,m01s19i013,19,013,TMONMN,DTILE,UP5,False,False,False
-UKESM1-3,nProduct_tavg-u-hxy-lnd,mon,m01s19i136,19,136,TMONMN,DPFTS,UP5,False,False,False
 UKESM1,nMineral_tavg-u-hxy-lnd,mon,m01s19i146,19,146,TMONMN,DIAG,UP5,True,False,False
 UKESM1-3,nMineral_tavg-u-hxy-lnd,mon,m01s19i146,19,146,TMONMN,DIAG,UP5,True,False,False
 UKESM1,nLeaf_tavg-u-hxy-lnd,mon,m01s03i395,3,395,TMONMN,DIAG,UP5,True,False,False
