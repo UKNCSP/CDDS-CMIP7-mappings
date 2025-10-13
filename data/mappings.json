@@ -27327,7 +27327,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "orog",
+      "Model units": "m"
     },
     "STASH entries": [],
     "XIOS entries (relevant for NEMO, MEDUSA, SI3)": {},
@@ -28435,7 +28436,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM 1-3": "orog",
+      "Model units": "m"
     },
     "STASH entries": [],
     "XIOS entries (relevant for NEMO, MEDUSA, SI3)": {},
