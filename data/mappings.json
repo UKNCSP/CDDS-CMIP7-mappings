@@ -100539,7 +100539,6 @@
     "issue_number": 231,
     "labels": [
       "fx",
-      "aerosol",
       "atmosChem"
     ],
     "title": "Variable atmosChem.o3ref.tclm-al-hxy-u.fx.GLB (AERfx.o3refClim)"
