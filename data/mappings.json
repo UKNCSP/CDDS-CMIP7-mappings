@@ -44698,7 +44698,8 @@
     "labels": [
       "mon",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.fVegSoilSenescence.tavg-u-hxy-lnd.mon.GLB (Emon.fVegSoilSenescence)"
   },
@@ -44729,7 +44730,8 @@
     "labels": [
       "mon",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.fVegSoilMortality.tavg-u-hxy-lnd.mon.GLB (Emon.fVegSoilMortality)"
   },
@@ -50648,7 +50650,8 @@
     "labels": [
       "day",
       "atmos",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable atmos.psitem.tavg-p39-hy-air.day.GLB (EdayZ.psitem)"
   },
@@ -55819,7 +55822,8 @@
     "issue_number": 723,
     "labels": [
       "day",
-      "land"
+      "land",
+      "approved"
     ],
     "title": "Variable land.evspsblveg.tavg-u-hxy-u.day.GLB (Eday.evspsblveg)"
   },
@@ -55950,7 +55954,8 @@
     "issue_number": 722,
     "labels": [
       "day",
-      "land"
+      "land",
+      "approved"
     ],
     "title": "Variable land.evspsblsoi.tavg-u-hxy-u.day.GLB (Eday.evspsblsoi)"
   },
@@ -104469,16 +104474,16 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression HadGEM3-GC31": "m01s30i297[blev=P500, lbproc=0] / m01s30i304[blev=P500, lbproc=0]",
-      "Expression HadGEM3-GC5": "m01s30i297[blev=P500, lbproc=0] / m01s30i304[blev=P500, lbproc=0]",
-      "Expression UKESM1": "m01s30i297[blev=P500, lbproc=0] / m01s30i304[blev=P500, lbproc=0]",
-      "Expression UKESM1-3": "m01s30i297[blev=P500, lbproc=0] / m01s30i304[blev=P500, lbproc=0]",
+      "Expression HadGEM3-GC31": "m01s30i297[blev=PLEV3, lbproc=0] / m01s30i304[blev=PLEV3, lbproc=0]",
+      "Expression HadGEM3-GC5": "m01s30i297[blev=PLEV3, lbproc=0] / m01s30i304[blev=PLEV3, lbproc=0]",
+      "Expression UKESM1": "m01s30i297[blev=PLEV3, lbproc=0] / m01s30i304[blev=PLEV3, lbproc=0]",
+      "Expression UKESM1-3": "m01s30i297[blev=PLEV3, lbproc=0] / m01s30i304[blev=PLEV3, lbproc=0]",
       "Model units": "m"
     },
     "STASH entries": [
       {
         "STASH": "m01s30i297",
-        "domain_profile": "DP500",
+        "domain_profile": "DP3",
         "model": "HadGEM3-GC31",
         "stash_number": "30,297",
         "time_profile": "T6HR",
@@ -104486,7 +104491,7 @@
       },
       {
         "STASH": "m01s30i304",
-        "domain_profile": "DP500",
+        "domain_profile": "DP3",
         "model": "HadGEM3-GC31",
         "stash_number": "30,304",
         "time_profile": "T6HR",
@@ -104494,7 +104499,7 @@
       },
       {
         "STASH": "m01s30i297",
-        "domain_profile": "DP500",
+        "domain_profile": "DP3",
         "model": "HadGEM3-GC5",
         "stash_number": "30,297",
         "time_profile": "T6HR",
@@ -104502,7 +104507,7 @@
       },
       {
         "STASH": "m01s30i304",
-        "domain_profile": "DP500",
+        "domain_profile": "DP3",
         "model": "HadGEM3-GC5",
         "stash_number": "30,304",
         "time_profile": "T6HR",
@@ -104510,7 +104515,7 @@
       },
       {
         "STASH": "m01s30i297",
-        "domain_profile": "DP500",
+        "domain_profile": "DP3",
         "model": "UKESM1",
         "stash_number": "30,297",
         "time_profile": "T6HR",
@@ -104518,7 +104523,7 @@
       },
       {
         "STASH": "m01s30i304",
-        "domain_profile": "DP500",
+        "domain_profile": "DP3",
         "model": "UKESM1",
         "stash_number": "30,304",
         "time_profile": "T6HR",
@@ -104526,7 +104531,7 @@
       },
       {
         "STASH": "m01s30i297",
-        "domain_profile": "DP500",
+        "domain_profile": "DP3",
         "model": "UKESM1-3",
         "stash_number": "30,297",
         "time_profile": "T6HR",
@@ -104534,7 +104539,7 @@
       },
       {
         "STASH": "m01s30i304",
-        "domain_profile": "DP500",
+        "domain_profile": "DP3",
         "model": "UKESM1-3",
         "stash_number": "30,304",
         "time_profile": "T6HR",
