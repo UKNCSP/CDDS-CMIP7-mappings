@@ -2228,6 +2228,8 @@ UKESM1,ta_tpt-p6-hxy-air,3hr,m01s30i294,30,294,T3HR,PLEV6,UP8,True,False,False
 UKESM1,ta_tpt-p6-hxy-air,3hr,m01s30i304,30,304,T3HR,PLEV6,UP8,True,False,False
 UKESM1-3,ta_tpt-p6-hxy-air,3hr,m01s30i294,30,294,T3HR,PLEV6,UP8,True,False,False
 UKESM1-3,ta_tpt-p6-hxy-air,3hr,m01s30i304,30,304,T3HR,PLEV6,UP8,True,False,False
+HadGEM-GC3.1,so2_tavg-h2m-hxy-u,3hr,m01s34i072,34,072,EVERYTS,DTSL1P126,UPT,False,False,False
+HadGEM-GC5,so2_tavg-h2m-hxy-u,3hr,m01s34i072,34,072,EVERYTS,DTSL1P126,UPT,False,False,False
 UKESM1,so2_tavg-h2m-hxy-u,3hr,m01s34i072,34,072,EVERYTS,DTSL1P126,UPT,False,False,False
 UKESM1-3,so2_tavg-h2m-hxy-u,3hr,m01s34i072,34,072,EVERYTS,DTSL1P126,UPT,False,False,False
 HadGEM3-GC31,hus_tpt-p6-hxy-air,3hr,m01s30i295,30,295,T3HR,PLEV6,UP8,True,False,False
