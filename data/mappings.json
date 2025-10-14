@@ -42811,7 +42811,8 @@
     "labels": [
       "mon",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.mrtws.tavg-u-hxy-lnd.mon.GLB (Emon.mrtws)"
   },
@@ -53928,7 +53929,8 @@
     "labels": [
       "day",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable land.mrtws.tavg-u-hxy-lnd.day.GLB (Eday.mrtws)"
   },
@@ -57336,9 +57338,28 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_SO2) * m01s34i072[lbproc=0]",
+      "Expression UKESM1-3": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_SO2) * m01s34i072[lbproc=0]",
       "Model units": ""
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s34i072",
+        "domain_profile": "DTSL1P126",
+        "model": "UKESM1",
+        "stash_number": "34,072",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s34i072",
+        "domain_profile": "DTSL1P126",
+        "model": "UKESM1-3",
+        "stash_number": "34,072",
+        "time_profile": "EVERYTS",
+        "usage_profile": "UPT"
+      }
+    ],
     "XIOS entries": {},
     "issue_number": 702,
     "labels": [
