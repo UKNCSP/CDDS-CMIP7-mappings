@@ -42063,7 +42063,8 @@
     "labels": [
       "mon",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "approved"
     ],
     "title": "Variable land.nep.tavg-u-hxy-lnd.mon.GLB (Emon.nep)"
   },
@@ -46890,7 +46891,8 @@
     "issue_number": 870,
     "labels": [
       "mon",
-      "land"
+      "land",
+      "do-not-produce"
     ],
     "title": "Variable land.cnc.tavg-u-hxy-u.mon.GLB (Emon.cnc)"
   },
@@ -92913,11 +92915,10 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression HadGEM3-GC31": "m01s16i207[lbproc=128]+m01s00i272[lbproc=128]+(m01s05i213[lbproc=128]*m01s05i212[lbproc=128])",
-      "Expression HadGEM3-GC5": "m01s16i207[lbproc=128]+m01s00i272[lbproc=128]+(m01s05i213[lbproc=128]*m01s05i212[lbproc=128])",
-      "Expression UKESM1": "m01s16i207[lbproc=128]+m01s00i272[lbproc=128]+(m01s05i213[lbproc=128]*m01s05i212[lbproc=128])",
-      "Expression UKESM1-3": "m01s16i207[lbproc=128]+m01s00i272[lbproc=128]+(m01s05i213[lbproc=128]*m01s05i212[lbproc=128])",
-      "Expression UKESM2": "m01s16i207[lbproc=128]+m01s00i272[lbproc=128]+(m01s05i213[lbproc=128]*m01s05i212[lbproc=128])",
+      "Expression HadGEM3-GC31": "m01s16i207[lbproc=128]+m01s00i272[lbproc=128]",
+      "Expression HadGEM3-GC5": "m01s16i207[lbproc=128]+m01s00i272[lbproc=128]",
+      "Expression UKESM1": "m01s16i207[lbproc=128]+m01s00i272[lbproc=128]",
+      "Expression UKESM1-3": "m01s16i207[lbproc=128]+m01s00i272[lbproc=128]",
       "Model units": "kg kg-1"
     },
     "STASH entries": [
@@ -92930,22 +92931,6 @@
         "usage_profile": "UP4"
       },
       {
-        "STASH": "m01s05i212",
-        "domain_profile": "DALLTH",
-        "model": "HadGEM3-GC31",
-        "stash_number": "5,212",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP4"
-      },
-      {
-        "STASH": "m01s05i213",
-        "domain_profile": "DALLTH",
-        "model": "HadGEM3-GC31",
-        "stash_number": "5,213",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP4"
-      },
-      {
         "STASH": "m01s00i272",
         "domain_profile": "DALLTH",
         "model": "HadGEM3-GC31",
@@ -92962,22 +92947,6 @@
         "usage_profile": "UP4"
       },
       {
-        "STASH": "m01s05i212",
-        "domain_profile": "DALLTH",
-        "model": "HadGEM3-GC5",
-        "stash_number": "5,212",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP4"
-      },
-      {
-        "STASH": "m01s05i213",
-        "domain_profile": "DALLTH",
-        "model": "HadGEM3-GC5",
-        "stash_number": "5,213",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP4"
-      },
-      {
         "STASH": "m01s00i272",
         "domain_profile": "DALLTH",
         "model": "HadGEM3-GC5",
@@ -92990,22 +92959,6 @@
         "domain_profile": "DALLTH",
         "model": "UKESM1",
         "stash_number": "16,207",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP4"
-      },
-      {
-        "STASH": "m01s05i212",
-        "domain_profile": "DALLTH",
-        "model": "UKESM1",
-        "stash_number": "5,212",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP4"
-      },
-      {
-        "STASH": "m01s05i213",
-        "domain_profile": "DALLTH",
-        "model": "UKESM1",
-        "stash_number": "5,213",
         "time_profile": "TMONMN",
         "usage_profile": "UP4"
       },
@@ -93026,22 +92979,6 @@
         "usage_profile": "UP4"
       },
       {
-        "STASH": "m01s05i212",
-        "domain_profile": "DALLTH",
-        "model": "UKESM1-3",
-        "stash_number": "5,212",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP4"
-      },
-      {
-        "STASH": "m01s05i213",
-        "domain_profile": "DALLTH",
-        "model": "UKESM1-3",
-        "stash_number": "5,213",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP4"
-      },
-      {
         "STASH": "m01s00i272",
         "domain_profile": "DALLTH",
         "model": "UKESM1-3",
@@ -93054,22 +92991,6 @@
         "domain_profile": "DALLTH",
         "model": "UKESM2",
         "stash_number": "16,207",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP4"
-      },
-      {
-        "STASH": "m01s05i212",
-        "domain_profile": "DALLTH",
-        "model": "UKESM2",
-        "stash_number": "5,212",
-        "time_profile": "TMONMN",
-        "usage_profile": "UP4"
-      },
-      {
-        "STASH": "m01s05i213",
-        "domain_profile": "DALLTH",
-        "model": "UKESM2",
-        "stash_number": "5,213",
         "time_profile": "TMONMN",
         "usage_profile": "UP4"
       },
