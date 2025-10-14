@@ -2238,8 +2238,8 @@ HadGEM-GC5,mmrss_tpt-h2m-hxys-u,3hr,m01s34i111,34,111,T3HR,DTSL1P126,UPT,False,F
 HadGEM-GC5,mmrss_tpt-h2m-hxys-u,3hr,m01s34i117,34,117,T3HR,DTSL1P126,UPT,False,False,False
 UKESM1,mmrss_tpt-h2m-hxys-u,3hr,m01s34i111,34,111,T3HR,DTSL1P126,UPT,False,False,False
 UKESM1,mmrss_tpt-h2m-hxys-u,3hr,m01s34i117,34,117,T3HR,DTSL1P126,UPT,False,False,False
-UKESM1-3,mmrss_tpt-h2m-hxys-u,3hr,m01s34i072,34,111,T3HR,DTSL1P126,UPT,False,False,False
-UKESM1-3,mmrss_tpt-h2m-hxys-u,3hr,m01s34i111,34,117,T3HR,DTSL1P126,UPT,False,False,False
+UKESM1-3,mmrss_tpt-h2m-hxys-u,3hr,m01s34i111,34,111,T3HR,DTSL1P126,UPT,False,False,False
+UKESM1-3,mmrss_tpt-h2m-hxys-u,3hr,m01s34i117,34,117,T3HR,DTSL1P126,UPT,False,False,False
 HadGEM3-GC31,hus_tpt-p6-hxy-air,3hr,m01s30i295,30,295,T3HR,PLEV6,UP8,True,False,False
 HadGEM3-GC31,hus_tpt-p6-hxy-air,3hr,m01s30i304,30,304,T3HR,PLEV6,UP8,True,False,False
 HadGEM3-GC5,hus_tpt-p6-hxy-air,3hr,m01s30i295,30,295,T3HR,PLEV6,UP8,True,False,False
