@@ -57382,7 +57382,8 @@
     "issue_number": 702,
     "labels": [
       "3hr",
-      "aerosol"
+      "aerosol",
+      "approved"
     ],
     "title": "Variable aerosol.so2.tavg-h2m-hxy-u.3hr.GLB (E3hrPt.so2)"
   },
@@ -57405,9 +57406,78 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression HadGEM-GC3.1": "m01s34i111[lbproc=0] + m01s34i117[lbproc=0]",
+      "Expression HadGEM-GC5": "m01s34i111[lbproc=0] + m01s34i117[lbproc=0]",
+      "Expression UKESM1": "m01s34i111[lbproc=0] + m01s34i117[lbproc=0]",
+      "Expression UKESM1-3": "m01s34i111[lbproc=0] + m01s34i117[lbproc=0]",
       "Model units": ""
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s34i111",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM-GC3.1",
+        "stash_number": "34,111",
+        "time_profile": "T3HR",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s34i117",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM-GC3.1",
+        "stash_number": "34,117",
+        "time_profile": "T3HR",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s34i111",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM-GC5",
+        "stash_number": "34,111",
+        "time_profile": "T3HR",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s34i117",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM-GC5",
+        "stash_number": "34,117",
+        "time_profile": "T3HR",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s34i111",
+        "domain_profile": "DTSL1P126",
+        "model": "UKESM1",
+        "stash_number": "34,111",
+        "time_profile": "T3HR",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s34i117",
+        "domain_profile": "DTSL1P126",
+        "model": "UKESM1",
+        "stash_number": "34,117",
+        "time_profile": "T3HR",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s34i072",
+        "domain_profile": "DTSL1P126",
+        "model": "UKESM1-3",
+        "stash_number": "34,111",
+        "time_profile": "T3HR",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s34i111",
+        "domain_profile": "DTSL1P126",
+        "model": "UKESM1-3",
+        "stash_number": "34,117",
+        "time_profile": "T3HR",
+        "usage_profile": "UPT"
+      }
+    ],
     "XIOS entries": {},
     "issue_number": 701,
     "labels": [
