@@ -57350,7 +57350,7 @@
         "domain_profile": "DTSL1P126",
         "model": "HadGEM-GC3.1",
         "stash_number": "34,072",
-        "time_profile": "EVERYTS",
+        "time_profile": "T3HR",
         "usage_profile": "UPT"
       },
       {
@@ -57358,7 +57358,7 @@
         "domain_profile": "DTSL1P126",
         "model": "HadGEM-GC5",
         "stash_number": "34,072",
-        "time_profile": "EVERYTS",
+        "time_profile": "T3HR",
         "usage_profile": "UPT"
       },
       {
@@ -57366,7 +57366,7 @@
         "domain_profile": "DTSL1P126",
         "model": "UKESM1",
         "stash_number": "34,072",
-        "time_profile": "EVERYTS",
+        "time_profile": "T3HR",
         "usage_profile": "UPT"
       },
       {
@@ -57374,7 +57374,7 @@
         "domain_profile": "DTSL1P126",
         "model": "UKESM1-3",
         "stash_number": "34,072",
-        "time_profile": "EVERYTS",
+        "time_profile": "T3HR",
         "usage_profile": "UPT"
       }
     ],
