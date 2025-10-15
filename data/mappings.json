@@ -57338,8 +57338,8 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Expression HadGEM-GC3.1": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_SO2) * m01s34i072[lbproc=0]",
-      "Expression HadGEM-GC5": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_SO2) * m01s34i072[lbproc=0]",
+      "Expression HadGEM3-GC3.1": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_SO2) * m01s34i072[lbproc=0]",
+      "Expression HadGEM3-GC5": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_SO2) * m01s34i072[lbproc=0]",
       "Expression UKESM1": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_SO2) * m01s34i072[lbproc=0]",
       "Expression UKESM1-3": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_SO2) * m01s34i072[lbproc=0]",
       "Model units": ""
@@ -57348,7 +57348,7 @@
       {
         "STASH": "m01s34i072",
         "domain_profile": "DTSL1P126",
-        "model": "HadGEM-GC3.1",
+        "model": "HadGEM3-GC3.1",
         "stash_number": "34,072",
         "time_profile": "T3HR",
         "usage_profile": "UPT"
@@ -57356,7 +57356,7 @@
       {
         "STASH": "m01s34i072",
         "domain_profile": "DTSL1P126",
-        "model": "HadGEM-GC5",
+        "model": "HadGEM3-GC5",
         "stash_number": "34,072",
         "time_profile": "T3HR",
         "usage_profile": "UPT"
