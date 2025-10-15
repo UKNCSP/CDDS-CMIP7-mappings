@@ -13267,10 +13267,10 @@
     },
     "STASH entries": [],
     "XIOS entries": {
-      "HadGEM3-GC31": "onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_global\"> 1026 * 1000 * (@sopstadv + @sopstldf + @sopsteiv) </field>` <br>  `onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_atlantic\"> 1026 * 1000 * (@sopstadv_atl + @sopstldf_atl + @sopsteiv_atl) </field>` <br> `onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_indopacific\"> 1026 * 1000 * (@sopstadv_ipc + @sopstldf_ipc + @sopsteiv_ipc) </field>",
-      "HadGEM3-GC5": "onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin\" grid_ref=\"grid_ptr_T_2D\" > 1000 * (@sopstadv + @sopstldf + @sopsteiv) </field>",
-      "UKESM1": "onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_global\"> 1026 * 1000 * (@sopstadv + @sopstldf + @sopsteiv) </field>` <br>  `onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_atlantic\"> 1026 * 1000 * (@sopstadv_atl + @sopstldf_atl + @sopsteiv_atl) </field>` <br> `onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_indopacific\"> 1026 * 1000 * (@sopstadv_ipc + @sopstldf_ipc + @sopsteiv_ipc) </field>",
-      "UKESM1-3": "onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_global\"  grid_ref=\"grid_ptr_T_2D\"> 1026 * 1000 * (@sopstadv + @sopstldf + @sopsteiv) </field>` <br> `onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_atlantic\"  grid_ref=\"grid_ptr_T_2D\"> 1026 * 1000 * (@sopstadv_atl + @sopstldf_atl + @sopsteiv_atl) </field>` <br> `onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_indopacific\"  grid_ref=\"grid_ptr_T_2D\"> 1026 * 1000 * (@sopstadv_ipc + @sopstldf_ipc + @sopsteiv_ipc) </field>"
+      "HadGEM3-GC31": "onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_global\" detect_missing_value=\"true\"> 1026 * 1000 * (@sopstadv + @sopstldf + @sopsteiv) </field>` <br>  `onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_atlantic\" detect_missing_value=\"true\"> 1026 * 1000 * (@sopstadv_atl + @sopstldf_atl + @sopsteiv_atl) </field>` <br> `onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_indopacific\" detect_missing_value=\"true\"> 1026 * 1000 * (@sopstadv_ipc + @sopstldf_ipc + @sopsteiv_ipc) </field>",
+      "HadGEM3-GC5": "onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin\" grid_ref=\"grid_ptr_T_2D\" detect_missing_value=\"true\" > 1000 * (@sopstadv + @sopstldf + @sopsteiv) </field>",
+      "UKESM1": "onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_global\" detect_missing_value=\"true\"> 1026 * 1000 * (@sopstadv + @sopstldf + @sopsteiv) </field>` <br>  `onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_atlantic\" detect_missing_value=\"true\"> 1026 * 1000 * (@sopstadv_atl + @sopstldf_atl + @sopsteiv_atl) </field>` <br> `onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_indopacific\" detect_missing_value=\"true\"> 1026 * 1000 * (@sopstadv_ipc + @sopstldf_ipc + @sopsteiv_ipc) </field>",
+      "UKESM1-3": "onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_global\" grid_ref=\"grid_ptr_T_2D\" detect_missing_value=\"true\"> 1026 * 1000 * (@sopstadv + @sopstldf + @sopsteiv) </field>` <br> `onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_atlantic\" grid_ref=\"grid_ptr_T_2D\" detect_missing_value=\"true\"> 1026 * 1000 * (@sopstadv_atl + @sopstldf_atl + @sopsteiv_atl) </field>` <br> `onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_indopacific\" grid_ref=\"grid_ptr_T_2D\" detect_missing_value=\"true\"> 1026 * 1000 * (@sopstadv_ipc + @sopstldf_ipc + @sopsteiv_ipc) </field>"
     },
     "issue_number": 1560,
     "labels": [
@@ -57810,7 +57810,8 @@
     "issue_number": 699,
     "labels": [
       "3hr",
-      "aerosol"
+      "aerosol",
+      "approved"
     ],
     "title": "Variable aerosol.mmroa.tpt-h2m-hxys-u.3hr.GLB (E3hrPt.mmroa)"
   },
@@ -57840,7 +57841,8 @@
     "issue_number": 698,
     "labels": [
       "3hr",
-      "aerosol"
+      "aerosol",
+      "do-not-produce"
     ],
     "title": "Variable aerosol.mmrno3.tpt-h2m-hxys-u.3hr.GLB (E3hrPt.mmrno3)"
   },
@@ -57870,7 +57872,8 @@
     "issue_number": 697,
     "labels": [
       "3hr",
-      "aerosol"
+      "aerosol",
+      "do-not-produce"
     ],
     "title": "Variable aerosol.mmrnh4.tpt-h2m-hxys-u.3hr.GLB (E3hrPt.mmrnh4)"
   },
