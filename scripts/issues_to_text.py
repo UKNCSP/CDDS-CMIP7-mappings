@@ -110,7 +110,13 @@ if __name__ == '__main__':
     order_link = ['link']
     order_labels = ['labels']
     order_dr = sorted(list(results[0]['Data Request information'].keys()))
-    order_mapping = [i for i in sorted(list(all_mapping_keys)) if ('Expression' in i or 'units' in i)]
+    
+    order_mapping = ['Expression HadGEM3-GC31', 'Expression HadGEM3-GC5', 'Expression UKESM1', 'Expression UKESM1-3', 'Expression UKESM2', 'Model units']
+    found_order_mapping = [i for i in sorted(list(all_mapping_keys)) if ('Expression' in i or 'units' in i)]
+    for i in found_order_mapping:
+        if i not in order_mapping:
+            print(f"found unexpected expression field {i}")
+    
     title_list = order_first + order_link + order_labels + order_dr + order_mapping
     csv_output = []
     for entry in results:
