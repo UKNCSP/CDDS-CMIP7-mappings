@@ -57482,7 +57482,8 @@
     "issue_number": 701,
     "labels": [
       "3hr",
-      "aerosol"
+      "aerosol",
+      "approved"
     ],
     "title": "Variable aerosol.mmrss.tpt-h2m-hxys-u.3hr.GLB (E3hrPt.mmrss)"
   },
@@ -93114,10 +93115,10 @@
     ],
     "issue_number": 332,
     "labels": [
-      "question",
       "mon",
       "aerosol",
-      "CMIP6"
+      "CMIP6",
+      "comment needed"
     ],
     "title": "Variable aerosol.h2o.tavg-al-hxy-u.mon.GLB (AERmon.h2o)"
   },
@@ -98825,7 +98826,6 @@
     "XIOS entries": {},
     "issue_number": 255,
     "labels": [
-      "question",
       "mon",
       "aerosol",
       "CMIP6",
@@ -100184,8 +100184,7 @@
       "question",
       "1hr",
       "aerosol",
-      "CMIP6",
-      "approved"
+      "CMIP6"
     ],
     "title": "Variable aerosol.sfpm25.tavg-h2m-hxy-u.1hr.GLB (AERhr.sfpm25)"
   },
