@@ -2232,10 +2232,10 @@ HadGEM-GC3.1,so2_tavg-h2m-hxy-u,3hr,m01s34i072,34,072,T3HR,DTSL1P126,UPT,True,Fa
 HadGEM-GC5,so2_tavg-h2m-hxy-u,3hr,m01s34i072,34,072,T3HR,DTSL1P126,UPT,True,False,False
 UKESM1,so2_tavg-h2m-hxy-u,3hr,m01s34i072,34,072,T3HR,DTSL1P126,UPT,True,False,False
 UKESM1-3,so2_tavg-h2m-hxy-u,3hr,m01s34i072,34,072,T3HR,DTSL1P126,UPT,True,False,False
-HadGEM-GC3.1,mmrss_tpt-h2m-hxys-u,3hr,m01s34i111,34,111,T3HR,DTSL1P126,UPT,True,False,False
-HadGEM-GC3.1,mmrss_tpt-h2m-hxys-u,3hr,m01s34i117,34,117,T3HR,DTSL1P126,UPT,True,False,False
-HadGEM-GC5,mmrss_tpt-h2m-hxys-u,3hr,m01s34i111,34,111,T3HR,DTSL1P126,UPT,True,False,False
-HadGEM-GC5,mmrss_tpt-h2m-hxys-u,3hr,m01s34i117,34,117,T3HR,DTSL1P126,UPT,True,False,False
+HadGEM3-GC3.1,mmrss_tpt-h2m-hxys-u,3hr,m01s34i111,34,111,T3HR,DTSL1P126,UPT,True,False,False
+HadGEM3-GC3.1,mmrss_tpt-h2m-hxys-u,3hr,m01s34i117,34,117,T3HR,DTSL1P126,UPT,True,False,False
+HadGEM3-GC5,mmrss_tpt-h2m-hxys-u,3hr,m01s34i111,34,111,T3HR,DTSL1P126,UPT,True,False,False
+HadGEM3-GC5,mmrss_tpt-h2m-hxys-u,3hr,m01s34i117,34,117,T3HR,DTSL1P126,UPT,True,False,False
 UKESM1,mmrss_tpt-h2m-hxys-u,3hr,m01s34i111,34,111,T3HR,DTSL1P126,UPT,True,False,False
 UKESM1,mmrss_tpt-h2m-hxys-u,3hr,m01s34i117,34,117,T3HR,DTSL1P126,UPT,True,False,False
 UKESM1-3,mmrss_tpt-h2m-hxys-u,3hr,m01s34i111,34,111,T3HR,DTSL1P126,UPT,True,False,False
