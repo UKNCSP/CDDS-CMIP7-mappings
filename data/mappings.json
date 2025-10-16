@@ -5871,6 +5871,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "ardg",
       "Expression UKESM1": "ardg",
+      "Expression UKESM1-3": "ardg/aice",
       "Model units": "1"
     },
     "STASH entries": [],
@@ -5881,7 +5882,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.sirdgconc.tavg-u-hxy-si.mon.GLB (SImon.sirdgconc)"
   },
