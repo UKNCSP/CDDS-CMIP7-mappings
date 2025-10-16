@@ -7994,7 +7994,7 @@
     "Mapping information": {
       "Expression HadGEM3-GC31": "-1 * evap_ai * FRESHWATER_DENSITY / (100. * SECONDS_IN_DAY)",
       "Expression UKESM1": "-1 * evap_ai * FRESHWATER_DENSITY / (100. * SECONDS_IN_DAY)",
-      "Expression UKESM1-3": "-1 * evap_ice_ai * FRESHWATER_DENSITY / (100. * SECONDS_IN_DAY)",
+      "Expression UKESM1-3": "-1 * evap_ai * FRESHWATER_DENSITY / (100. * SECONDS_IN_DAY)",
       "Model units": "kg m-2 s-1"
     },
     "STASH entries": [],
@@ -8005,7 +8005,8 @@
       "seaIce",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "approved_UKESM"
     ],
     "title": "Variable seaIce.evspsbl.tavg-u-hxy-si.mon.GLB (SImon.sidmassevapsubl)"
   },
