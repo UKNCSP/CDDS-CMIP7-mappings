@@ -137,6 +137,25 @@ not require Science QA review.
 All new variables will need to go through a Science QA review process  to ensure that we have the
 capability to produce the data correctly.
 
+### Usage profiles and output frequency
+
+The usage profiles in stash should be used to collect data of similar frequencies -- mixing, for example, 
+daily and monthly mean data within the same stream makes data processing difficult.  
+The usage profiles from CMIP6 should be reused for CMIP7;
+
+| Usage profile | frequency | notes |
+| --- | --- | --- |
+| UP4, UP5 | monthly | Split between streams is for load balancing |
+| UPU | monthly | Unpacked data only (e.g. tendencies) |
+| UP6 | daily | |
+| UP7 | 6hr | |
+| UP8 | 3hr | |
+| UP9 | 1hr | |
+| UPT | subhr | Generally only used for site specific (CFsubhr) variables |
+
+Note that for a given variable there must only be one usage profile/stream used -- we cannot extract
+data from multiple streams to produce a single variable.
+
 ### Differences between HadGEM3-GC5 and UKESM1-*/HadGEM3-GC31 models
 
 Please note that the HadGEM3-GC5 configuration uses both a new configuration of NEMO (conservative 
