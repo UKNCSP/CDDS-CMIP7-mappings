@@ -57903,7 +57903,7 @@
       "Expression HadGEM3-GC5": "m01s00i431[lblev=1, lbproc=0] + m01s00i432[lblev=1, lbproc=0] + m01s00i433[lblev=1, lbproc=0] + m01s00i434[lblev=1, lbproc=0] + m01s00i435[lblev=1, lbproc=0] + m01s00i436[lblev=1, lbproc=0]",
       "Expression UKESM1": "m01s00i431[lblev=1, lbproc=0] + m01s00i432[lblev=1, lbproc=0] + m01s00i433[lblev=1, lbproc=0] + m01s00i434[lblev=1, lbproc=0] + m01s00i435[lblev=1, lbproc=0] + m01s00i436[lblev=1, lbproc=0]",
       "Expression UKESM1-3": "m01s00i431[lblev=1, lbproc=0] + m01s00i432[lblev=1, lbproc=0] + m01s00i433[lblev=1, lbproc=0] + m01s00i434[lblev=1, lbproc=0] + m01s00i435[lblev=1, lbproc=0] + m01s00i436[lblev=1, lbproc=0]",
-      "Model units": ""
+      "Model units": "kg kg-1"
     },
     "STASH entries": [
       {
