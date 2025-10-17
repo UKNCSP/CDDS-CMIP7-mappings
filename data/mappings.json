@@ -57341,10 +57341,10 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Expression HadGEM3-GC3.1": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_SO2) * m01s34i072[lbproc=0]",
-      "Expression HadGEM3-GC5": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_SO2) * m01s34i072[lbproc=0]",
-      "Expression UKESM1": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_SO2) * m01s34i072[lbproc=0]",
-      "Expression UKESM1-3": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_SO2) * m01s34i072[lbproc=0]",
+      "Expression HadGEM3-GC3.1": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_SO2) * m01s34i072[lblev=1, lbproc=0]",
+      "Expression HadGEM3-GC5": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_SO2) * m01s34i072[lblev=1, lbproc=0]",
+      "Expression UKESM1": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_SO2) * m01s34i072[lblev=1, lbproc=0]",
+      "Expression UKESM1-3": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_SO2) * m01s34i072[lblev=1, lbproc=0]",
       "Model units": ""
     },
     "STASH entries": [
