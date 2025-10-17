@@ -4447,6 +4447,8 @@ UKESM1-3,wetoa_tavg-u-hxy-u,mon,m01s38i274,38,274,TMONMN,DALLTH,UP4,True,False,F
 UKESM1-3,wetoa_tavg-u-hxy-u,mon,m01s38i275,38,275,TMONMN,DALLTH,UP4,True,False,False
 UKESM1-3,wetoa_tavg-u-hxy-u,mon,m01s38i907,38,907,TMONMN,DIAG,UP4,True,False,False
 UKESM1-3,wetoa_tavg-u-hxy-u,mon,m01s38i913,38,913,TMONMN,DIAG,UP4,True,False,False
+UKESM1,wethno3_tavg-al-hxy-u,mon,m01s50i190,50,190,TMONMN,DALLTH,UP4,False,False,False
+UKESM1-3,wethno3_tavg-al-hxy-u,mon,m01s50i190,50,190,TMONMN,DALLTH,UP4,False,False,False
 HadGEM3-GC31,wetdust_tavg-u-hxy-u,mon,m01s04i231,4,231,TMONMN,DIAG,UP4,True,False,False
 HadGEM3-GC31,wetdust_tavg-u-hxy-u,mon,m01s05i285,5,285,TMONMN,DIAG,UP4,True,False,False
 HadGEM3-GC31,wetdust_tavg-u-hxy-u,mon,m01s05i286,5,286,TMONMN,DIAG,UP4,True,False,False

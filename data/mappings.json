@@ -85746,9 +85746,28 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1": "achem_emdrywet(MOLECULAR_MASS_OF_HONO2, m01s50i190[lbproc=128], areadiv='True')",
+      "Expression UKESM1-3": "achem_emdrywet(MOLECULAR_MASS_OF_HONO2, m01s50i190[lbproc=128], areadiv='True')",
+      "Model units": "g m-2 s-1"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s50i190",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "50,190",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s50i190",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "50,190",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      }
+    ],
     "XIOS entries": {},
     "issue_number": 420,
     "labels": [
