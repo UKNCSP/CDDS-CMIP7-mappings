@@ -57673,10 +57673,10 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Expression HadGEM3-GC3.1": "m01s34i106[lbproc=0] + m01s34i110[lbproc=0] + m01s34i116[lbproc=0] + m01s34i121[lbproc=0]",
-      "Expression HadGEM3-GC5": "m01s34i106[lbproc=0] + m01s34i110[lbproc=0] + m01s34i116[lbproc=0] + m01s34i121[lbproc=0]",
-      "Expression UKESM1": "m01s34i106[lbproc=0] + m01s34i110[lbproc=0] + m01s34i116[lbproc=0] + m01s34i121[lbproc=0]",
-      "Expression UKESM1-3": "m01s34i106[lbproc=0] + m01s34i110[lbproc=0] + m01s34i116[lbproc=0] + m01s34i121[lbproc=0]",
+      "Expression HadGEM3-GC3.1": "m01s34i106[lblev=1, lbproc=0] + m01s34i110[lblev=1, lbproc=0] + m01s34i116[lblev=1, lbproc=0] + m01s34i121[lblev=1, lbproc=0]",
+      "Expression HadGEM3-GC5": "m01s34i106[lblev=1, lbproc=0] + m01s34i110[lblev=1, lbproc=0] + m01s34i116[lblev=1, lbproc=0] + m01s34i121[lblev=1, lbproc=0]",
+      "Expression UKESM1": "m01s34i106[lblev=1, lbproc=0] + m01s34i110[lblev=1, lbproc=0] + m01s34i116[lblev=1, lbproc=0] + m01s34i121[lblev=1, lbproc=0]",
+      "Expression UKESM1-3": "m01s34i106[lblev=1, lbproc=0] + m01s34i110[lblev=1, lbproc=0] + m01s34i116[lblev=1, lbproc=0] + m01s34i121[lblev=1, lbproc=0]",
       "Model units": ""
     },
     "STASH entries": [
