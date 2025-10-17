@@ -4615,6 +4615,8 @@ UKESM1,rlutcsaf_tavg-u-hxy-u,mon,m01s03i332,3,332,TMONMN,DIAG,UP4,True,False,Fal
 UKESM1-3,rlutcsaf_tavg-u-hxy-u,mon,m01s02i205,2,205,TMONMN,DIAG,UP4,True,False,False
 UKESM1-3,rlutcsaf_tavg-u-hxy-u,mon,m01s02i519,2,519,TMONMN,DALLRHP1,UP4,True,False,False
 UKESM1-3,rlutcsaf_tavg-u-hxy-u,mon,m01s03i332,3,332,TMONMN,DIAG,UP4,True,False,False
+UKESM1,rlutch4ref_tavg-u-hxy-u,mon,m01s02i521,2,521,TMONMN,DALLTH,UP5,False,False,False
+UKESM1-3,rlutch4ref_tavg-u-hxy-u,mon,m01s02i521,2,521,TMONMN,DALLTH,UP5,False,False,False
 HadGEM3-GC31,rlutaf_tavg-u-hxy-u,mon,m01s02i205,2,205,TMONMN,DIAG,UP4,True,False,False
 HadGEM3-GC31,rlutaf_tavg-u-hxy-u,mon,m01s02i517,2,517,TMONMN,DALLRHP1,UP4,True,False,False
 HadGEM3-GC31,rlutaf_tavg-u-hxy-u,mon,m01s03i332,3,332,TMONMN,DIAG,UP4,True,False,False

@@ -88098,9 +88098,28 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1": "m01s02i521[lblev=86, lbproc=128]",
+      "Expression UKESM1-3": "m01s02i521[lblev=86, lbproc=128]",
+      "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s02i521",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "2,521",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s02i521",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "2,521",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "XIOS entries": {},
     "issue_number": 392,
     "labels": [
@@ -101721,7 +101740,8 @@
     "issue_number": 230,
     "labels": [
       "fx",
-      "atmosChem"
+      "atmosChem",
+      "do-not-produce"
     ],
     "title": "Variable atmosChem.o3ref.ti-al-hxy-u.fx.GLB (AERfx.o3ref)"
   },
