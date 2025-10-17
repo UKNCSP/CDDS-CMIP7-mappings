@@ -100993,7 +100993,8 @@
       "question",
       "1hr",
       "aerosol",
-      "CMIP6"
+      "CMIP6",
+      "approved"
     ],
     "title": "Variable aerosol.sfpm25.tavg-h2m-hxy-u.1hr.GLB (AERhr.sfpm25)"
   },
