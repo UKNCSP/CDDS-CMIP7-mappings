@@ -12663,7 +12663,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "BCV",
-      "approved"
+      "approved_UKESM"
     ],
     "title": "Variable ocean.thetao.tavg-ol-hxy-sea.mon.GLB (Omon.thetao)"
   },
@@ -58103,7 +58103,8 @@
     "issue_number": 696,
     "labels": [
       "3hr",
-      "aerosol"
+      "aerosol",
+      "approved"
     ],
     "title": "Variable aerosol.mmrdust.tpt-h2m-hxys-u.3hr.GLB (E3hrPt.mmrdust)"
   },
