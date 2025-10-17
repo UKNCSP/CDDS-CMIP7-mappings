@@ -91,7 +91,12 @@
     ],
     "XIOS entries": {},
     "issue_number": 1882,
-    "labels": [],
+    "labels": [
+      "mon",
+      "aerosol",
+      "UKESM1",
+      "HadGEM3-GC31"
+    ],
     "title": "Variable aerosol.rsdaf.tavg-u-hxy-u.mon.GLB (AERmon.rsdaf)"
   },
   {
@@ -87967,9 +87972,28 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1": "m01s01i521[lblev=86, lbproc=128]",
+      "Expression UKESM1-3": "m01s01i521[lblev=86, lbproc=128]",
+      "Model units": "W m-2"
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s01i521",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1",
+        "stash_number": "1,521",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      },
+      {
+        "STASH": "m01s01i521",
+        "domain_profile": "DALLTH",
+        "model": "UKESM1-3",
+        "stash_number": "1,521",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP5"
+      }
+    ],
     "XIOS entries": {},
     "issue_number": 398,
     "labels": [
