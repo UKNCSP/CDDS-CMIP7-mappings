@@ -58291,9 +58291,46 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression HadGEM-GC3.1": "m01s38i545[lblev=1, lbproc=0]",
+      "Expression HadGEM-GC5": "m01s38i545[lblev=1, lbproc=0]",
+      "Expression UKESM1": "m01s38i545[lblev=1, lbproc=0]",
+      "Expression UKESM1-3": "m01s38i545[lblev=1, lbproc=0]",
       "Model units": ""
     },
-    "STASH entries": [],
+    "STASH entries": [
+      {
+        "STASH": "m01s38i545",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM3-GC3.1",
+        "stash_number": "38,545",
+        "time_profile": "T3HR",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s38i545",
+        "domain_profile": "DTSL1P126",
+        "model": "HadGEM3-GC5",
+        "stash_number": "38,545",
+        "time_profile": "T3HR",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s38i545",
+        "domain_profile": "DTSL1P126",
+        "model": "UKESM1",
+        "stash_number": "38,545",
+        "time_profile": "T3HR",
+        "usage_profile": "UPT"
+      },
+      {
+        "STASH": "m01s38i545",
+        "domain_profile": "DTSL1P126",
+        "model": "UKESM1-3",
+        "stash_number": "38,545",
+        "time_profile": "T3HR",
+        "usage_profile": "UPT"
+      }
+    ],
     "XIOS entries": {},
     "issue_number": 694,
     "labels": [
