@@ -1,6 +1,101 @@
 [
   {
     "Data Request information": {
+      "Branded variable name": "rldcsaf_tavg-u-hxy-u",
+      "CF standard name": "downwelling_longwave_flux_in_air",
+      "CMIP6 Differences": "\"comment\" was \"Flux corresponding to rldcs resulting from aerosol-free call to radiation, following Ghan (ACP, 2013)\";",
+      "Cell measures": "area: areacella",
+      "Cell methods": "area: time: mean",
+      "Comment": "Flux corresponding to rldcs resulting fom aerosol-free call to radiation",
+      "Dimensions": "longitude latitude time",
+      "Frequency": "mon",
+      "Long name": "Downwelling Clear Sky Aerosol-free Longwave Radiation",
+      "Modeling realm": "aerosol",
+      "Positive": "up",
+      "Processing notes": "",
+      "Region": "GLB",
+      "Units": "W m-2",
+      "Variable status": "CMIP6 CMOR variable"
+    },
+    "Mapping information": {
+      "Expression HadGEM3-GC3.1": "correct_multilevel_metadata(m01s02i520[llbproc=128])",
+      "Expression HadGEM3-GC5": "correct_multilevel_metadata(m01s02i520[llbproc=128])",
+      "Expression UKESM1": "correct_multilevel_metadata(m01s02i520[llbproc=128])",
+      "Expression UKESM1-3": "correct_multilevel_metadata(m01s02i520[llbproc=128])"
+    },
+    "STASH entries": [
+      {
+        "STASH": "m01s02i518",
+        "domain_profile": "DALLRHP1",
+        "model": "HadGEM3-GC3.1",
+        "stash_number": "2,520",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "0,033",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s02i518",
+        "domain_profile": "DALLRHP1",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,520",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "0,033",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s02i518",
+        "domain_profile": "DALLRHP1",
+        "model": "UKESM1",
+        "stash_number": "2,520",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "0,033",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s02i518",
+        "domain_profile": "DALLRHP1",
+        "model": "UKESM1.3",
+        "stash_number": "2,520",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "0,033",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      }
+    ],
+    "XIOS entries": {},
+    "issue_number": 1881,
+    "labels": [],
+    "title": "Variable aerosol.rldcsaf.tavg-u-hxy-u.mon.GLB (AERmon.rldcsaf)"
+  },
+  {
+    "Data Request information": {
       "Branded variable name": "rldaf_tavg-u-hxy-u",
       "CF standard name": "downwelling_longwave_flux_in_air",
       "CMIP6 Differences": "\"comment\" was \"Flux corresponding to rld resulting from aerosol-free call to radiation, following Ghan (ACP, 2013)\";",

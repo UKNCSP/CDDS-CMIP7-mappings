@@ -1,4 +1,12 @@
 Model,Branded variable name,Frequency,STASH,Section,Item,time_profile,domain_profile,usage_profile,approved,approved_UKESM,approved_HadGEM
+HadGEM3-GC3.1,rldcsaf_tavg-u-hxy-u,mon,m01s02i518,2,520,TMONMN,DALLRHP1,UP4,False,False,False
+HadGEM3-GC31,rldcsaf_tavg-u-hxy-u,mon,m01s00i033,0,033,TMONMN,DIAG,UP4,False,False,False
+HadGEM3-GC5,rldcsaf_tavg-u-hxy-u,mon,m01s02i518,2,520,TMONMN,DALLRHP1,UP4,False,False,False
+HadGEM3-GC31,rldcsaf_tavg-u-hxy-u,mon,m01s00i033,0,033,TMONMN,DIAG,UP4,False,False,False
+UKESM1,rldcsaf_tavg-u-hxy-u,mon,m01s02i518,2,520,TMONMN,DALLRHP1,UP4,False,False,False
+UKESM1,rldcsaf_tavg-u-hxy-u,mon,m01s00i033,0,033,TMONMN,DIAG,UP4,False,False,False
+UKESM1.3,rldcsaf_tavg-u-hxy-u,mon,m01s02i518,2,520,TMONMN,DALLRHP1,UP4,False,False,False
+UKESM1-3,rldcsaf_tavg-u-hxy-u,mon,m01s00i033,0,033,TMONMN,DIAG,UP4,False,False,False
 HadGEM3-GC3.1,rldaf_tavg-u-hxy-u,mon,m01s02i518,2,518,TMONMN,DALLRHP1,UP4,False,False,False
 HadGEM3-GC31,rldaf_tavg-u-hxy-u,mon,m01s00i033,0,033,TMONMN,DIAG,UP4,False,False,False
 HadGEM3-GC5,rldaf_tavg-u-hxy-u,mon,m01s02i518,2,518,TMONMN,DALLRHP1,UP4,False,False,False
