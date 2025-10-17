@@ -57509,10 +57509,10 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Expression HadGEM3-GC3.1": "(MOLECULAR_MASS_OF_SO4 / MOLECULAR_MASS_OF_H2SO4) * (m01s34i102[lbproc=0] + m01s34i104[lbproc=0] + m01s34i108[lbproc=0] + m01s34i114[lbproc=0])",
-      "Expression HadGEM3-GC5": "(MOLECULAR_MASS_OF_SO4 / MOLECULAR_MASS_OF_H2SO4) * (m01s34i102[lbproc=0] + m01s34i104[lbproc=0] + m01s34i108[lbproc=0] + m01s34i114[lbproc=0])",
-      "Expression UKESM1": "(MOLECULAR_MASS_OF_SO4 / MOLECULAR_MASS_OF_H2SO4) * (m01s34i102[lbproc=0] + m01s34i104[lbproc=0] + m01s34i108[lbproc=0] + m01s34i114[lbproc=0])",
-      "Expression UKESM1-3": "(MOLECULAR_MASS_OF_SO4 / MOLECULAR_MASS_OF_H2SO4) * (m01s34i102[lbproc=0] + m01s34i104[lbproc=0] + m01s34i108[lbproc=0] + m01s34i114[lbproc=0])",
+      "Expression HadGEM3-GC3.1": "(MOLECULAR_MASS_OF_SO4 / MOLECULAR_MASS_OF_H2SO4) * (m01s34i102[lblev=1, lbproc=0] + m01s34i104[lblev=1, lbproc=0] + m01s34i108[lblev=1, lbproc=0] + m01s34i114[lblev=1, lbproc=0])",
+      "Expression HadGEM3-GC5": "(MOLECULAR_MASS_OF_SO4 / MOLECULAR_MASS_OF_H2SO4) * (m01s34i102[lblev=1, lbproc=0] + m01s34i104[lblev=1, lbproc=0] + m01s34i108[lblev=1, lbproc=0] + m01s34i114[lblev=1, lbproc=0])",
+      "Expression UKESM1": "(MOLECULAR_MASS_OF_SO4 / MOLECULAR_MASS_OF_H2SO4) * (m01s34i102[lblev=1, lbproc=0] + m01s34i104[lblev=1, lbproc=0] + m01s34i108[lblev=1, lbproc=0] + m01s34i114[lblev=1, lbproc=0])",
+      "Expression UKESM1-3": "(MOLECULAR_MASS_OF_SO4 / MOLECULAR_MASS_OF_H2SO4) * (m01s34i102[lblev=1, lbproc=0] + m01s34i104[lblev=1, lbproc=0] + m01s34i108[lblev=1, lbproc=0] + m01s34i114[lblev=1, lbproc=0])",
       "Model units": ""
     },
     "STASH entries": [
