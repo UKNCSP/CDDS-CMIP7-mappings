@@ -3,9 +3,9 @@ HadGEM3-GC3.1,rsdcsaf_tavg-u-hxy-u,mon,m01s02i520,1,520,TMONMN,DALLRHP1,UP4,Fals
 HadGEM3-GC31,rsdcsaf_tavg-u-hxy-u,mon,m01s00i033,0,033,TMONMN,DIAG,UP4,False,False,False
 HadGEM3-GC5,rsdcsaf_tavg-u-hxy-u,mon,m01s02i520,1,520,TMONMN,DALLRHP1,UP4,False,False,False
 HadGEM3-GC31,rsdcsaf_tavg-u-hxy-u,mon,m01s00i033,0,033,TMONMN,DIAG,UP4,False,False,False
-UKESM1,rsdcsaf_tavg-u-hxy-u,mon,m01s02i518,1,520,TMONMN,DALLRHP1,UP4,False,False,False
+UKESM1,rsdcsaf_tavg-u-hxy-u,mon,m01s02i520,1,520,TMONMN,DALLRHP1,UP4,False,False,False
 UKESM1,rsdcsaf_tavg-u-hxy-u,mon,m01s00i033,0,033,TMONMN,DIAG,UP4,False,False,False
-UKESM1.3,rsdcsaf_tavg-u-hxy-u,mon,m01s02i518,1,520,TMONMN,DALLRHP1,UP4,False,False,False
+UKESM1.3,rsdcsaf_tavg-u-hxy-u,mon,m01s02i520,1,520,TMONMN,DALLRHP1,UP4,False,False,False
 UKESM1-3,rsdcsaf_tavg-u-hxy-u,mon,m01s00i033,0,033,TMONMN,DIAG,UP4,False,False,False
 HadGEM3-GC3.1,rsdaf_tavg-u-hxy-u,mon,m01s02i518,1,518,TMONMN,DALLRHP1,UP4,False,False,False
 HadGEM3-GC31,rsdaf_tavg-u-hxy-u,mon,m01s00i033,0,033,TMONMN,DIAG,UP4,False,False,False
