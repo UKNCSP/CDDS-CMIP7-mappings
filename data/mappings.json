@@ -58295,7 +58295,7 @@
       "Expression HadGEM-GC5": "m01s38i545[lblev=1, lbproc=0]",
       "Expression UKESM1": "m01s38i545[lblev=1, lbproc=0]",
       "Expression UKESM1-3": "m01s38i545[lblev=1, lbproc=0]",
-      "Model units": ""
+      "Model units": "kg/kg"
     },
     "STASH entries": [
       {
@@ -58736,7 +58736,8 @@
     "issue_number": 691,
     "labels": [
       "3hr",
-      "aerosol"
+      "aerosol",
+      "approved"
     ],
     "title": "Variable aerosol.conccn.tpt-u-hxys-u.3hr.GLB (E3hrPt.conccn)"
   },
