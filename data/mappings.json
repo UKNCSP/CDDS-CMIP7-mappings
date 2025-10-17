@@ -57345,7 +57345,7 @@
       "Expression HadGEM3-GC5": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_SO2) * m01s34i072[lblev=1, lbproc=0]",
       "Expression UKESM1": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_SO2) * m01s34i072[lblev=1, lbproc=0]",
       "Expression UKESM1-3": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_SO2) * m01s34i072[lblev=1, lbproc=0]",
-      "Model units": ""
+      "Model units": "kg kg-1"
     },
     "STASH entries": [
       {
@@ -57413,7 +57413,7 @@
       "Expression HadGEM3-GC5": "m01s34i111[lblev=1, lbproc=0] + m01s34i117[lblev=1, lbproc=0]",
       "Expression UKESM1": "m01s34i111[lblev=1, lbproc=0] + m01s34i117[lblev=1, lbproc=0]",
       "Expression UKESM1-3": "m01s34i111[lblev=1, lbproc=0] + m01s34i117[lblev=1, lbproc=0]",
-      "Model units": ""
+      "Model units": "kg kg-1"
     },
     "STASH entries": [
       {
