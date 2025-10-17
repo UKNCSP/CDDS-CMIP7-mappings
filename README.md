@@ -143,18 +143,21 @@ The usage profiles in stash should be used to collect data of similar frequencie
 daily and monthly mean data within the same stream makes data processing difficult.  
 The usage profiles from CMIP6 should be reused for CMIP7;
 
-| Usage profile | frequency | notes |
-| --- | --- | --- |
-| UP4, UP5 | monthly | Split between streams is for load balancing |
-| UPU | monthly | Unpacked data only (e.g. tendencies) |
-| UP6 | daily | |
-| UP7 | 6hr | |
-| UP8 | 3hr | |
-| UP9 | 1hr | |
-| UPT | subhr | Generally only used for site specific (CFsubhr) variables |
+| Usage profile | Output Stream | frequency | notes |
+| --- | --- | --- | --- |
+| UP4, UP5 | ap4, ap5 | monthly | Split between streams is for load balancing |
+| UPU | apu | monthly | Unpacked data only (e.g. tendencies) |
+| UP6 | ap6 | daily | |
+| UP7 | ap7 | 6hr | |
+| UP8 | ap8 | 3hr | |
+| UP9 | ap9 | 1hr | |
+| UPT | apt | subhr | Generally only used for site specific (CFsubhr) variables |
 
 Note that for a given variable there must only be one usage profile/stream used -- we cannot extract
 data from multiple streams to produce a single variable.
+
+In the past data has been retrieved from the `apm` stream (UPMEAN usage profile), but we would prefer to 
+avoid this if possible in case of issues with the climate meaning system.
 
 ### Differences between HadGEM3-GC5 and UKESM1-*/HadGEM3-GC31 models
 
