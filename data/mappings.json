@@ -57677,7 +57677,7 @@
       "Expression HadGEM3-GC5": "m01s34i106[lblev=1, lbproc=0] + m01s34i110[lblev=1, lbproc=0] + m01s34i116[lblev=1, lbproc=0] + m01s34i121[lblev=1, lbproc=0]",
       "Expression UKESM1": "m01s34i106[lblev=1, lbproc=0] + m01s34i110[lblev=1, lbproc=0] + m01s34i116[lblev=1, lbproc=0] + m01s34i121[lblev=1, lbproc=0]",
       "Expression UKESM1-3": "m01s34i106[lblev=1, lbproc=0] + m01s34i110[lblev=1, lbproc=0] + m01s34i116[lblev=1, lbproc=0] + m01s34i121[lblev=1, lbproc=0]",
-      "Model units": ""
+      "Model units": "kg kg-1"
     },
     "STASH entries": [
       {
