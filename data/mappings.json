@@ -1,6 +1,106 @@
 [
   {
     "Data Request information": {
+      "Branded variable name": "rldaf_tavg-u-hxy-u",
+      "CF standard name": "downwelling_longwave_flux_in_air",
+      "CMIP6 Differences": "\"comment\" was \"Flux corresponding to rld resulting from aerosol-free call to radiation, following Ghan (ACP, 2013)\";",
+      "Cell measures": "area: areacella",
+      "Cell methods": "area: time: mean",
+      "Comment": "Flux corresponding to rld resulting fom aerosol-free call to radiation",
+      "Dimensions": "longitude latitude time",
+      "Frequency": "mon",
+      "Long name": "Downwelling Aerosol-free Longwave Radiation",
+      "Modeling realm": "aerosol",
+      "Positive": "up",
+      "Processing notes": "",
+      "Region": "GLB",
+      "Units": "W m-2",
+      "Variable status": "CMIP6 CMOR variable"
+    },
+    "Mapping information": {
+      "Expression HadGEM3-GC3.1": "correct_multilevel_metadata(m01s02i518[llbproc=128])",
+      "Expression HadGEM3-GC5": "correct_multilevel_metadata(m01s02i518[llbproc=128])",
+      "Expression UKESM1": "correct_multilevel_metadata(m01s02i518[llbproc=128])",
+      "Expression UKESM1-3": "correct_multilevel_metadata(m01s02i518[llbproc=128])"
+    },
+    "STASH entries": [
+      {
+        "STASH": "m01s02i518",
+        "domain_profile": "DALLRHP1",
+        "model": "HadGEM3-GC3.1",
+        "stash_number": "2,518",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "0,033",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s02i518",
+        "domain_profile": "DALLRHP1",
+        "model": "HadGEM3-GC5",
+        "stash_number": "2,518",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "HadGEM3-GC31",
+        "stash_number": "0,033",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s02i518",
+        "domain_profile": "DALLRHP1",
+        "model": "UKESM1",
+        "stash_number": "2,518",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "UKESM1",
+        "stash_number": "0,033",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s02i518",
+        "domain_profile": "DALLRHP1",
+        "model": "UKESM1.3",
+        "stash_number": "2,518",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      },
+      {
+        "STASH": "m01s00i033",
+        "domain_profile": "DIAG",
+        "model": "UKESM1-3",
+        "stash_number": "0,033",
+        "time_profile": "TMONMN",
+        "usage_profile": "UP4"
+      }
+    ],
+    "XIOS entries": {},
+    "issue_number": 1880,
+    "labels": [
+      "mon",
+      "aerosol",
+      "UKESM1",
+      "HadGEM3-GC31"
+    ],
+    "title": "Variable aerosol.rldaf.tavg-u-hxy-u.mon.GLB (AERmon.rldaf)"
+  },
+  {
+    "Data Request information": {
       "Branded variable name": "tos_tavg-u-hm-sea",
       "CF standard name": "sea_surface_temperature",
       "CMIP6 Differences": "\"comment\" was \"Temperature of upper boundary of the liquid ocean, including temperatures below sea-ice and floating ice shelves.\";",
@@ -86916,7 +87016,8 @@
     "issue_number": 412,
     "labels": [
       "mon",
-      "atmosChem"
+      "atmosChem",
+      "do-not-produce"
     ],
     "title": "Variable atmosChem.tropo3ste.tavg-al-hxy-u.mon.GLB (AERmon.tropo3ste)"
   },
@@ -97263,7 +97364,8 @@
     "issue_number": 280,
     "labels": [
       "mon",
-      "atmosChem"
+      "atmosChem",
+      "do-not-produce"
     ],
     "title": "Variable atmosChem.dryh2.tavg-u-hxy-u.mon.GLB (AERmon.dryh2)"
   },
@@ -98648,7 +98750,8 @@
     "issue_number": 269,
     "labels": [
       "mon",
-      "atmosChem"
+      "atmosChem",
+      "do-not-produce"
     ],
     "title": "Variable atmosChem.chepno3.tavg-al-hxy-u.mon.GLB (AERmon.chepno3)"
   },
@@ -98678,7 +98781,8 @@
     "issue_number": 268,
     "labels": [
       "mon",
-      "atmosChem"
+      "atmosChem",
+      "do-not-produce"
     ],
     "title": "Variable atmosChem.chepnh4.tavg-al-hxy-u.mon.GLB (AERmon.chepnh4)"
   },
@@ -102016,7 +102120,8 @@
     "issue_number": 224,
     "labels": [
       "day",
-      "atmosChem"
+      "atmosChem",
+      "do-not-produce"
     ],
     "title": "Variable atmosChem.wetnh4.tavg-u-hxy-u.day.GLB (AERday.wetnh4)"
   },
@@ -102046,7 +102151,8 @@
     "issue_number": 223,
     "labels": [
       "day",
-      "atmosChem"
+      "atmosChem",
+      "do-not-produce"
     ],
     "title": "Variable atmosChem.wetnh3.tavg-u-hxy-u.day.GLB (AERday.wetnh3)"
   },
@@ -104710,7 +104816,8 @@
     "issue_number": 202,
     "labels": [
       "day",
-      "atmosChem"
+      "atmosChem",
+      "do-not-produce"
     ],
     "title": "Variable atmosChem.drynh4.tavg-u-hxy-u.day.GLB (AERday.drynh4)"
   },
@@ -104740,7 +104847,8 @@
     "issue_number": 201,
     "labels": [
       "day",
-      "atmosChem"
+      "atmosChem",
+      "do-not-produce"
     ],
     "title": "Variable atmosChem.drynh3.tavg-u-hxy-u.day.GLB (AERday.drynh3)"
   },
