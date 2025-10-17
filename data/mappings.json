@@ -25,7 +25,7 @@
     },
     "STASH entries": [
       {
-        "STASH": "m01s02i518",
+        "STASH": "m01s02i520",
         "domain_profile": "DALLRHP1",
         "model": "HadGEM3-GC3.1",
         "stash_number": "1,520",
@@ -41,7 +41,7 @@
         "usage_profile": "UP4"
       },
       {
-        "STASH": "m01s02i518",
+        "STASH": "m01s02i520",
         "domain_profile": "DALLRHP1",
         "model": "HadGEM3-GC5",
         "stash_number": "1,520",

@@ -1,7 +1,7 @@
 Model,Branded variable name,Frequency,STASH,Section,Item,time_profile,domain_profile,usage_profile,approved,approved_UKESM,approved_HadGEM
-HadGEM3-GC3.1,rsdcsaf_tavg-u-hxy-u,mon,m01s02i518,1,520,TMONMN,DALLRHP1,UP4,False,False,False
+HadGEM3-GC3.1,rsdcsaf_tavg-u-hxy-u,mon,m01s02i520,1,520,TMONMN,DALLRHP1,UP4,False,False,False
 HadGEM3-GC31,rsdcsaf_tavg-u-hxy-u,mon,m01s00i033,0,033,TMONMN,DIAG,UP4,False,False,False
-HadGEM3-GC5,rsdcsaf_tavg-u-hxy-u,mon,m01s02i518,1,520,TMONMN,DALLRHP1,UP4,False,False,False
+HadGEM3-GC5,rsdcsaf_tavg-u-hxy-u,mon,m01s02i520,1,520,TMONMN,DALLRHP1,UP4,False,False,False
 HadGEM3-GC31,rsdcsaf_tavg-u-hxy-u,mon,m01s00i033,0,033,TMONMN,DIAG,UP4,False,False,False
 UKESM1,rsdcsaf_tavg-u-hxy-u,mon,m01s02i518,1,520,TMONMN,DALLRHP1,UP4,False,False,False
 UKESM1,rsdcsaf_tavg-u-hxy-u,mon,m01s00i033,0,033,TMONMN,DIAG,UP4,False,False,False
