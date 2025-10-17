@@ -1,4 +1,12 @@
 Model,Branded variable name,Frequency,STASH,Section,Item,time_profile,domain_profile,usage_profile,approved,approved_UKESM,approved_HadGEM
+HadGEM3-GC3.1,rsdcsaf_tavg-u-hxy-u,mon,m01s02i518,1,520,TMONMN,DALLRHP1,UP4,False,False,False
+HadGEM3-GC31,rsdcsaf_tavg-u-hxy-u,mon,m01s00i033,0,033,TMONMN,DIAG,UP4,False,False,False
+HadGEM3-GC5,rsdcsaf_tavg-u-hxy-u,mon,m01s02i518,1,520,TMONMN,DALLRHP1,UP4,False,False,False
+HadGEM3-GC31,rsdcsaf_tavg-u-hxy-u,mon,m01s00i033,0,033,TMONMN,DIAG,UP4,False,False,False
+UKESM1,rsdcsaf_tavg-u-hxy-u,mon,m01s02i518,1,520,TMONMN,DALLRHP1,UP4,False,False,False
+UKESM1,rsdcsaf_tavg-u-hxy-u,mon,m01s00i033,0,033,TMONMN,DIAG,UP4,False,False,False
+UKESM1.3,rsdcsaf_tavg-u-hxy-u,mon,m01s02i518,1,520,TMONMN,DALLRHP1,UP4,False,False,False
+UKESM1-3,rsdcsaf_tavg-u-hxy-u,mon,m01s00i033,0,033,TMONMN,DIAG,UP4,False,False,False
 HadGEM3-GC3.1,rsdaf_tavg-u-hxy-u,mon,m01s02i518,1,518,TMONMN,DALLRHP1,UP4,False,False,False
 HadGEM3-GC31,rsdaf_tavg-u-hxy-u,mon,m01s00i033,0,033,TMONMN,DIAG,UP4,False,False,False
 HadGEM3-GC5,rsdaf_tavg-u-hxy-u,mon,m01s02i518,1,518,TMONMN,DALLRHP1,UP4,False,False,False
@@ -4615,8 +4623,8 @@ HadGEM3-GC31,rsutcsaf_tavg-u-hxy-u,mon,m01s01i519,1,519,TMONMN,DALLRHP1,UP4,True
 HadGEM3-GC5,rsutcsaf_tavg-u-hxy-u,mon,m01s01i519,1,519,TMONMN,DALLRHP1,UP4,True,False,False
 UKESM1,rsutcsaf_tavg-u-hxy-u,mon,m01s01i519,1,519,TMONMN,DALLRHP1,UP4,True,False,False
 UKESM1-3,rsutcsaf_tavg-u-hxy-u,mon,m01s01i519,1,519,TMONMN,DALLRHP1,UP4,True,False,False
-UKESM1,rsutch4ref_tavg-u-hxy-u,mon,m01s01i521,1,521,TMONMN,DALLTH,UP5,False,False,False
-UKESM1-3,rsutch4ref_tavg-u-hxy-u,mon,m01s01i521,1,521,TMONMN,DALLTH,UP5,False,False,False
+UKESM1,rsutch4ref_tavg-u-hxy-u,mon,m01s01i521,1,521,TMONMN,DALLTH,UP5,False,True,False
+UKESM1-3,rsutch4ref_tavg-u-hxy-u,mon,m01s01i521,1,521,TMONMN,DALLTH,UP5,False,True,False
 HadGEM3-GC31,rsutaf_tavg-u-hxy-u,mon,m01s01i517,1,517,TMONMN,DALLRHP1,UP4,True,False,False
 HadGEM3-GC5,rsutaf_tavg-u-hxy-u,mon,m01s01i517,1,517,TMONMN,DALLRHP1,UP4,True,False,False
 UKESM1,rsutaf_tavg-u-hxy-u,mon,m01s01i517,1,517,TMONMN,DALLRHP1,UP4,True,False,False
