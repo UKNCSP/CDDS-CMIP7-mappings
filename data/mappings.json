@@ -20279,7 +20279,8 @@
     "labels": [
       "dec",
       "ocean",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocean.volo.tavg-u-hm-sea.dec.GLB (Odec.volo)"
   },
@@ -20310,7 +20311,8 @@
     "labels": [
       "dec",
       "ocean",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocean.volcello.tavg-ol-hxy-sea.dec.GLB (Odec.volcello)"
   },
@@ -20341,7 +20343,8 @@
     "labels": [
       "dec",
       "ocean",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocean.thkcello.tavg-ol-hxy-sea.dec.GLB (Odec.thkcello)"
   },
@@ -20372,7 +20375,8 @@
     "labels": [
       "dec",
       "ocean",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocean.thetao.tavg-ol-hxy-sea.dec.GLB (Odec.thetao)"
   },
@@ -20403,7 +20407,8 @@
     "labels": [
       "dec",
       "ocean",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocean.tauvo.tavg-u-hxy-sea.dec.GLB (Odec.tauvo)"
   },
@@ -20434,7 +20439,8 @@
     "labels": [
       "dec",
       "ocean",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocean.tauuo.tavg-u-hxy-sea.dec.GLB (Odec.tauuo)"
   },
@@ -20465,7 +20471,8 @@
     "labels": [
       "dec",
       "ocean",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocean.so.tavg-ol-hxy-sea.dec.GLB (Odec.so)"
   },
@@ -20503,7 +20510,7 @@
     "labels": [
       "dec",
       "ocean",
-      "approved"
+      "do-not-produce"
     ],
     "title": "Variable ocean.opottemptend.tavg-ol-hxy-sea.dec.GLB (Odec.opottemptend)"
   },
@@ -20534,7 +20541,8 @@
     "labels": [
       "dec",
       "ocean",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocean.masso.tavg-u-hm-sea.dec.GLB (Odec.masso)"
   },
@@ -20565,7 +20573,8 @@
     "labels": [
       "dec",
       "ocean",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocean.masscello.tavg-ol-hxy-sea.dec.GLB (Odec.masscello)"
   },
@@ -20596,7 +20605,8 @@
     "labels": [
       "dec",
       "ocean",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocean.bigthetao.tavg-ol-hxy-sea.dec.GLB (Odec.bigthetao)"
   },
@@ -101507,7 +101517,6 @@
     ],
     "issue_number": 237,
     "labels": [
-      "question",
       "1hr",
       "aerosol",
       "CMIP6",
