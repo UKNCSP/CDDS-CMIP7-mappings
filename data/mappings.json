@@ -95,7 +95,8 @@
       "mon",
       "aerosol",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "beyond-AFT"
     ],
     "title": "Variable aerosol.rsdcsaf.tavg-u-hxy-u.mon.GLB (AERmon.rsdcsaf)"
   },
@@ -195,7 +196,8 @@
       "mon",
       "aerosol",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "beyond-AFT"
     ],
     "title": "Variable aerosol.rsdaf.tavg-u-hxy-u.mon.GLB (AERmon.rsdaf)"
   },
@@ -295,7 +297,8 @@
       "mon",
       "aerosol",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "beyond-AFT"
     ],
     "title": "Variable aerosol.rldcsaf.tavg-u-hxy-u.mon.GLB (AERmon.rldcsaf)"
   },
@@ -395,7 +398,8 @@
       "mon",
       "aerosol",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "beyond-AFT"
     ],
     "title": "Variable aerosol.rldaf.tavg-u-hxy-u.mon.GLB (AERmon.rldaf)"
   },
@@ -57750,7 +57754,7 @@
     "STASH entries": [
       {
         "STASH": "m01s34i072",
-        "domain_profile": "DTSL1P126",
+        "domain_profile": "DTSL85P126",
         "model": "HadGEM3-GC3.1",
         "stash_number": "34,072",
         "time_profile": "T3HR",
@@ -57758,7 +57762,7 @@
       },
       {
         "STASH": "m01s34i072",
-        "domain_profile": "DTSL1P126",
+        "domain_profile": "DTSL85P126",
         "model": "HadGEM3-GC5",
         "stash_number": "34,072",
         "time_profile": "T3HR",
@@ -57766,7 +57770,7 @@
       },
       {
         "STASH": "m01s34i072",
-        "domain_profile": "DTSL1P126",
+        "domain_profile": "DTSL85P126",
         "model": "UKESM1",
         "stash_number": "34,072",
         "time_profile": "T3HR",
@@ -57774,7 +57778,7 @@
       },
       {
         "STASH": "m01s34i072",
-        "domain_profile": "DTSL1P126",
+        "domain_profile": "DTSL85P126",
         "model": "UKESM1-3",
         "stash_number": "34,072",
         "time_profile": "T3HR",
@@ -87997,7 +88001,8 @@
     "issue_number": 400,
     "labels": [
       "mon",
-      "atmosChem"
+      "atmosChem",
+      "approved_UKESM"
     ],
     "title": "Variable atmosChem.rsutcsch4ref.tavg-u-hxy-u.mon.GLB (AERmon.rsutcsch4ref)"
   },
@@ -96358,7 +96363,8 @@
     "issue_number": 308,
     "labels": [
       "mon",
-      "atmosChem"
+      "atmosChem",
+      "do-not-produce"
     ],
     "title": "Variable atmosChem.emic2h4.tavg-u-hxy-u.mon.GLB (AERmon.emic2h4)"
   },
