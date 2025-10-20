@@ -2344,10 +2344,10 @@ UKESM1-3,mmrbc_tpt-h2m-hxys-u,3hr,m01s34i105,34,105,T3HR,DTSL85P126,UPT,True,Fal
 UKESM1-3,mmrbc_tpt-h2m-hxys-u,3hr,m01s34i109,34,109,T3HR,DTSL85P126,UPT,True,False,False
 UKESM1-3,mmrbc_tpt-h2m-hxys-u,3hr,m01s34i115,34,115,T3HR,DTSL85P126,UPT,True,False,False
 UKESM1-3,mmrbc_tpt-h2m-hxys-u,3hr,m01s34i120,34,120,T3HR,DTSL85P126,UPT,True,False,False
-HadGEM3-GC3.1,mmraerh2o_tpt-h2m-hxys-u,3hr,m01s38i545,38,545,T3HR,DTSL1P126,UPT,True,False,False
-HadGEM3-GC5,mmraerh2o_tpt-h2m-hxys-u,3hr,m01s38i545,38,545,T3HR,DTSL1P126,UPT,True,False,False
-UKESM1,mmraerh2o_tpt-h2m-hxys-u,3hr,m01s38i545,38,545,T3HR,DTSL1P126,UPT,True,False,False
-UKESM1-3,mmraerh2o_tpt-h2m-hxys-u,3hr,m01s38i545,38,545,T3HR,DTSL1P126,UPT,True,False,False
+HadGEM3-GC3.1,mmraerh2o_tpt-h2m-hxys-u,3hr,m01s38i545,38,545,T3HR,DTSL85P126,UPT,True,False,False
+HadGEM3-GC5,mmraerh2o_tpt-h2m-hxys-u,3hr,m01s38i545,38,545,T3HR,DTSL85P126,UPT,True,False,False
+UKESM1,mmraerh2o_tpt-h2m-hxys-u,3hr,m01s38i545,38,545,T3HR,DTSL85P126,UPT,True,False,False
+UKESM1-3,mmraerh2o_tpt-h2m-hxys-u,3hr,m01s38i545,38,545,T3HR,DTSL85P126,UPT,True,False,False
 HadGEM3-GC31,hus_tpt-p6-hxy-air,3hr,m01s30i295,30,295,T3HR,PLEV6,UP8,True,False,False
 HadGEM3-GC31,hus_tpt-p6-hxy-air,3hr,m01s30i304,30,304,T3HR,PLEV6,UP8,True,False,False
 HadGEM3-GC5,hus_tpt-p6-hxy-air,3hr,m01s30i295,30,295,T3HR,PLEV6,UP8,True,False,False
