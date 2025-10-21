@@ -14461,7 +14461,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression UKESM1": "PHD[depth=0] * C_TO_N_RATIO",
+      "Expression UKESM1": "PHD[depth=0] * C_TO_N_RATIO * 1e-3",
+      "Expression UKESM1-3": "PHD[depth=0] * C_TO_N_RATIO * 1e-3",
       "Model units": "mmol m-3"
     },
     "STASH entries": [],
@@ -14494,7 +14495,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression UKESM1": "PHD_E3T * C_TO_N_RATIO / thkcello",
+      "Expression UKESM1": "PHD_E3T * C_TO_N_RATIO * 1e-3 / thkcello",
+      "Expression UKESM1-3": "PHD_E3T * C_TO_N_RATIO * 1e-3 / thkcello",
       "Model units": "mmol m-3"
     },
     "STASH entries": [],
