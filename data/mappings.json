@@ -15794,7 +15794,9 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1": "PN_NLIM",
+      "Expression UKESM1-3": "PN_NLIM",
+      "Model units": "1"
     },
     "STASH entries": [],
     "XIOS entries": {},
