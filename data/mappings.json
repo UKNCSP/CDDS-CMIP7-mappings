@@ -14925,7 +14925,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression UKESM1": "OXY_E3T[depth=0] / thkcello[depth=0]",
+      "Expression UKESM1": "OXY_E3T[depth=0] * 1e-3 / thkcello[depth=0]",
+      "Expression UKESM1-3": "OXY_E3T[depth=0] * 1e-3 / thkcello[depth=0]",
       "Model units": "mmol m-3"
     },
     "STASH entries": [],
