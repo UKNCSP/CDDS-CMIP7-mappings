@@ -16124,6 +16124,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
+      "Expression UKESM1": "PN_FELIM",
+      "Expression UKESM1-3": "PN_FELIM",
       "Model units": ""
     },
     "STASH entries": [],
