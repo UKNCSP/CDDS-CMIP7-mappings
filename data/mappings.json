@@ -14266,7 +14266,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression UKESM1": "PHN[depth=0] * C_TO_N_RATIO",
+      "Expression UKESM1": "PHN[depth=0] * C_TO_N_RATIO * 1e-3",
+      "Expression UKESM1-3": "PHN[depth=0] * C_TO_N_RATIO * 1e-3",
       "Model units": "mmol m-3"
     },
     "STASH entries": [],
@@ -14402,7 +14403,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.phydiaz.tavg-d0m-hxy-sea.mon.30S-90S (Omon.phydiazos)"
   },
@@ -14433,7 +14435,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.phydiaz.tavg-ol-hxy-sea.mon.GLB (Omon.phydiaz)"
   },
