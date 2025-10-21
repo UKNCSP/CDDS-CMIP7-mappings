@@ -11657,7 +11657,7 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression UKESM1": "(ZMI[depth=0] + ZME[depth=0]) * C_TO_N_RATIO_ZOO",
+      "Expression UKESM1": "(ZMI[depth=0] + ZME[depth=0]) * C_TO_N_RATIO_ZOO * 1e-3",
       "Model units": "mmol m-3"
     },
     "STASH entries": [],
