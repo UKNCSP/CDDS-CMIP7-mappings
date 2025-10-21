@@ -16289,6 +16289,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
+      "Expression UKESM1": "PRN * C_TO_N_RATIO * 1e-3 / SECONDS_IN_DAY",
+      "Expression UKESM1-3": "PRN * C_TO_N_RATIO * 1e-3 / SECONDS_IN_DAY",
       "Model units": ""
     },
     "STASH entries": [],
