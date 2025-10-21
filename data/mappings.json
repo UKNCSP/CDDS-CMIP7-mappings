@@ -16330,7 +16330,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.intppnitrate.tavg-u-hxy-sea.mon.GLB (Omon.intppnitrate)"
   },
@@ -16383,7 +16384,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression UKESM1": "PRN * C_TO_N_RATIO",
+      "Expression UKESM1": "PRN * C_TO_N_RATIO * 1e-3 / SECONDS_IN_DAY",
+      "Expression UKESM1-3": "PRN * C_TO_N_RATIO * 1e-3 / SECONDS_IN_DAY",
       "Model units": "mmol m-2 d-1"
     },
     "STASH entries": [],
