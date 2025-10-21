@@ -457,7 +457,7 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression UKESM1": "OCN_PCO2 - ATM_PCO2",
+      "Expression UKESM1": "(OCN_PCO2 - ATM_PCO2) * 1e-6 * 101325",
       "Model units": "uatm"
     },
     "STASH entries": [],
