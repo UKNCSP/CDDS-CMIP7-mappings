@@ -14167,7 +14167,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1-3": "TPP3[depth=0] * C_TO_N_RATIO_PHY * 1e-3 / SECONDS_IN_DAY",
+      "Model units": "mmol m-3 d-1"
     },
     "STASH entries": [],
     "XIOS entries": {},
