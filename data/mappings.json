@@ -14300,7 +14300,9 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1": "PHN * C_TO_N_RATIO * 1e-3",
+      "Expression UKESM1-3": "PHN * C_TO_N_RATIO * 1e-3",
+      "Model units": "mmol m-3"
     },
     "STASH entries": [],
     "XIOS entries": {},
