@@ -15828,6 +15828,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "PN_NLIM",
+      "Expression UKESM1-3": "PN_NLIM",
       "Model units": "1"
     },
     "STASH entries": [],
