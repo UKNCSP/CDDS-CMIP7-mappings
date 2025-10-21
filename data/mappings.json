@@ -14232,7 +14232,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression UKESM1": "DIN_E3T * P_TO_N_RATIO / thkcello",
+      "Expression UKESM1": "DIN_E3T * P_TO_N_RATIO * 1e-3 / thkcello",
+      "Expression UKESM1-3": "DIN_E3T * P_TO_N_RATIO * 1e-3 / thkcello",
       "Model units": "mmol m-3"
     },
     "STASH entries": [],
