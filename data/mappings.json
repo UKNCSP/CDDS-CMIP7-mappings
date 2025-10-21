@@ -14571,7 +14571,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.phycalc.tavg-d0m-hxy-sea.mon.30S-90S (Omon.phycalcos)"
   },
@@ -14602,7 +14603,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.phycalc.tavg-ol-hxy-sea.mon.GLB (Omon.phycalc)"
   },
@@ -14625,7 +14627,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression UKESM1": "(PHN_E3T + PHD_E3T) * C_TO_N_RATIO / thkcello",
+      "Expression UKESM1": "(PHN_E3T + PHD_E3T) * C_TO_N_RATIO * 1e-3 / thkcello",
+      "Expression UKESM1-3": "(PHN_E3T + PHD_E3T) * C_TO_N_RATIO * 1e-3 / thkcello",
       "Model units": "mmol m-3"
     },
     "STASH entries": [],
