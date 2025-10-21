@@ -13749,7 +13749,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression UKESM1": "SIL_E3T / thkcello",
+      "Expression UKESM1": "SIL_E3T * 1e-3 / thkcello",
+      "Expression UKESM1-3": "SIL_E3T * 1e-3 / thkcello",
       "Model units": "mmol m-3"
     },
     "STASH entries": [],
