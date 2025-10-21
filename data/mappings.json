@@ -15993,6 +15993,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "PN_JLIM",
+      "Expression UKESM1-3": "PN_JLIM",
       "Model units": "1"
     },
     "STASH entries": [],
