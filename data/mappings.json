@@ -14832,7 +14832,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.ocfriver.tavg-u-hxy-sea.mon.GLB (Omon.ocfriver)"
   },
@@ -14890,7 +14891,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression UKESM1": "O2SAT3",
+      "Expression UKESM1": "O2SAT3 * 1e-3",
+      "Expression UKESM1-3": "O2SAT3 * 1e-3",
       "Model units": "mmol m-3"
     },
     "STASH entries": [],
@@ -15063,7 +15065,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.nh4.tavg-d0m-hxy-sea.mon.30S-90S (Omon.nh4os)"
   },
@@ -15094,7 +15097,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.nh4.tavg-ol-hxy-sea.mon.GLB (Omon.nh4)"
   },
@@ -15858,7 +15862,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.limndiaz.tavg-u-hxy-sea.mon.GLB (Omon.limndiaz)"
   },
@@ -15922,7 +15927,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.limncalc.tavg-u-hxy-sea.mon.GLB (Omon.limncalc)"
   },
@@ -16017,7 +16023,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.limirrdiaz.tavg-u-hxy-sea.mon.GLB (Omon.limirrdiaz)"
   },
@@ -16081,7 +16088,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.limirrcalc.tavg-u-hxy-sea.mon.GLB (Omon.limirrcalc)"
   },
@@ -16176,7 +16184,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.limfediaz.tavg-u-hxy-sea.mon.GLB (Omon.limfediaz)"
   },
@@ -16240,7 +16249,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.limfecalc.tavg-u-hxy-sea.mon.GLB (Omon.limfecalc)"
   },
@@ -16396,7 +16406,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.intppdiaz.tavg-u-hxy-sea.mon.GLB (Omon.intppdiaz)"
   },
@@ -16460,7 +16471,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.intppcalc.tavg-u-hxy-sea.mon.GLB (Omon.intppcalc)"
   },
@@ -16784,7 +16796,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.intdoc.tavg-u-hxy-sea.mon.30S-90S (Omon.intdoc)"
   },
@@ -18118,7 +18131,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.fg14co2abio.tavg-u-hxy-sea.mon.GLB (Omon.fg14co2abio)"
   },
@@ -18149,7 +18163,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.fg13co2.tavg-u-hxy-sea.mon.GLB (Omon.fg13co2)"
   },
@@ -18875,7 +18890,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.dissi14cabio.tavg-d0m-hxy-sea.mon.GLB (Omon.dissi14cabioos)"
   },
@@ -18906,7 +18922,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.dissi14cabio.tavg-ol-hxy-sea.mon.GLB (Omon.dissi14cabio)"
   },
@@ -18937,7 +18954,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.dissi13c.tavg-d0m-hxy-sea.mon.GLB (Omon.dissi13cos)"
   },
@@ -18968,7 +18986,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.dissi13c.tavg-ol-hxy-sea.mon.GLB (Omon.dissi13c)"
   },
@@ -19259,7 +19278,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.chldiaz.tavg-d0m-hxy-sea.mon.30S-90S (Omon.chldiazos)"
   },
@@ -19290,7 +19310,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.chldiaz.tavg-ol-hxy-sea.mon.GLB (Omon.chldiaz)"
   },
@@ -19387,7 +19408,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.chlcalc.tavg-d0m-hxy-sea.mon.30S-90S (Omon.chlcalcos)"
   },
@@ -19418,7 +19440,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.chlcalc.tavg-ol-hxy-sea.mon.GLB (Omon.chlcalc)"
   },
@@ -19513,7 +19536,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.calc.tavg-d0m-hxy-sea.mon.GLB (Omon.calcos)"
   },
@@ -19544,7 +19568,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.calc.tavg-ol-hxy-sea.mon.GLB (Omon.calc)"
   },
@@ -19642,7 +19667,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.bacc.tavg-d0m-hxy-sea.mon.30S-90S (Omon.baccos)"
   },
@@ -45145,7 +45171,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.fg14co2.tavg-u-hxy-sea.mon.GLB (Emon.fg14co2)"
   },
@@ -46976,7 +47003,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.dissi14c.tavg-ol-hxy-sea.mon.GLB (Emon.dissi14c)"
   },
