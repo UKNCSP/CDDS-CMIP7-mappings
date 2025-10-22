@@ -16752,6 +16752,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "(PRN + PRD) * FE_TO_N_RATIO",
+      "Expression UKESM1-3": "(PRN + PRD) * FE_TO_N_RATIO",
       "Model units": "mmol m-2 d-1"
     },
     "STASH entries": [],
