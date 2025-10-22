@@ -16793,7 +16793,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.intparag.tavg-u-hxy-sea.mon.30S-90S (Omon.intparag)"
   },
@@ -16849,6 +16850,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "INTDISSIC * ATOMIC_MASS_OF_C",
+      "Expression UKESM1-3": "INTDISSIC * ATOMIC_MASS_OF_C",
       "Model units": "mg m-2"
     },
     "STASH entries": [],
