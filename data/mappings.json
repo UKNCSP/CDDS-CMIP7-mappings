@@ -18289,6 +18289,8 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1": "IBEN_N",
+      "Expression UKESM1-3": "IBEN_N",
       "Model units": ""
     },
     "STASH entries": [],
