@@ -18418,6 +18418,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "EXPC3",
+      "Expression UKESM1-3": "EXPC3",
       "Model units": "mmol m-2 d-1"
     },
     "STASH entries": [],
