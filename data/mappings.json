@@ -101939,10 +101939,10 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression HadGEM3-GC31": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_O3) * m01s34i001[lbproc=128]",
-      "Expression HadGEM3-GC5": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_O3) * m01s34i001[lbproc=128]",
-      "Expression UKESM1": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_O3) * m01s34i001[lbproc=128]",
-      "Expression UKESM1-3": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_O3) * m01s34i001[lbproc=128]",
+      "Expression HadGEM3-GC31": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_O3) * m01s34i001[lblev=1, lbproc=128]",
+      "Expression HadGEM3-GC5": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_O3) * m01s34i001[lblev=1, lbproc=128]",
+      "Expression UKESM1": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_O3) * m01s34i001[lblev=1, lbproc=128]",
+      "Expression UKESM1-3": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_O3) * m01s34i001[lblev=1, lbproc=128]",
       "Model units": "mol mol-1"
     },
     "STASH entries": [
