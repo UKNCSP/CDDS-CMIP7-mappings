@@ -18225,7 +18225,9 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "** Model units": "",
+      "Expression UKESM1": "IBEN_SI",
+      "Expression UKESM1-3": "IBEN_SI"
     },
     "STASH entries": [],
     "XIOS entries": {},
