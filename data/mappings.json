@@ -18321,6 +18321,8 @@
       "Variable status": "New"
     },
     "Mapping information": {
+      "Expression UKESM1": "IBEN_FE",
+      "Expression UKESM1-3": "IBEN_FE",
       "Model units": ""
     },
     "STASH entries": [],
