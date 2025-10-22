@@ -101939,16 +101939,16 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression HadGEM3-GC31": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_O3) * m01s34i001[lblev=1, lbproc=128]",
-      "Expression HadGEM3-GC5": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_O3) * m01s34i001[lblev=1, lbproc=128]",
-      "Expression UKESM1": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_O3) * m01s34i001[lblev=1, lbproc=128]",
-      "Expression UKESM1-3": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_O3) * m01s34i001[lblev=1, lbproc=128]",
+      "Expression HadGEM3-GC31": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_O3) * m01s34i001[lbproc=128]",
+      "Expression HadGEM3-GC5": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_O3) * m01s34i001[lbproc=128]",
+      "Expression UKESM1": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_O3) * m01s34i001[lbproc=128]",
+      "Expression UKESM1-3": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_O3) * m01s34i001[lbproc=128]",
       "Model units": "mol mol-1"
     },
     "STASH entries": [
       {
         "STASH": "m01s34i001",
-        "domain_profile": "DALLTH",
+        "domain_profile": "D1TH",
         "model": "HadGEM3-GC31",
         "stash_number": "34,001",
         "time_profile": "T1HRMN",
@@ -101956,7 +101956,7 @@
       },
       {
         "STASH": "m01s34i001",
-        "domain_profile": "DALLTH",
+        "domain_profile": "D1TH",
         "model": "HadGEM3-GC5",
         "stash_number": "34,001",
         "time_profile": "T1HRMN",
@@ -101964,7 +101964,7 @@
       },
       {
         "STASH": "m01s34i001",
-        "domain_profile": "DALLTH",
+        "domain_profile": "D1TH",
         "model": "UKESM1",
         "stash_number": "34,001",
         "time_profile": "T1HRMN",
@@ -101972,7 +101972,7 @@
       },
       {
         "STASH": "m01s34i001",
-        "domain_profile": "DALLTH",
+        "domain_profile": "D1TH",
         "model": "UKESM1-3",
         "stash_number": "34,001",
         "time_profile": "T1HRMN",
