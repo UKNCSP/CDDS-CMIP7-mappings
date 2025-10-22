@@ -18586,6 +18586,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "epN100",
+      "Expression UKESM1-3": "epN100",
       "Model units": "mmol m-2 d-1"
     },
     "STASH entries": [],
