@@ -18650,6 +18650,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "epCALC100",
+      "Expression UKESM1-3": "epCALC100",
       "Model units": "mmol m-2 d-1"
     },
     "STASH entries": [],
