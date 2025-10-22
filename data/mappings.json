@@ -57883,6 +57883,7 @@
     "labels": [
       "3hr",
       "aerosol",
+      "processor",
       "approved"
     ],
     "title": "Variable aerosol.so2.tavg-h2m-hxy-u.3hr.GLB (E3hrPt.so2)"
@@ -57983,6 +57984,7 @@
     "labels": [
       "3hr",
       "aerosol",
+      "processor",
       "approved"
     ],
     "title": "Variable aerosol.mmrss.tpt-h2m-hxys-u.3hr.GLB (E3hrPt.mmrss)"
@@ -58147,6 +58149,7 @@
     "labels": [
       "3hr",
       "aerosol",
+      "processor",
       "approved"
     ],
     "title": "Variable aerosol.mmrso4.tpt-h2m-hxys-u.3hr.GLB (E3hrPt.mmrso4)"
@@ -58311,6 +58314,7 @@
     "labels": [
       "3hr",
       "aerosol",
+      "processor",
       "approved"
     ],
     "title": "Variable aerosol.mmroa.tpt-h2m-hxys-u.3hr.GLB (E3hrPt.mmroa)"
@@ -58601,6 +58605,7 @@
     "labels": [
       "3hr",
       "aerosol",
+      "processor",
       "approved"
     ],
     "title": "Variable aerosol.mmrdust.tpt-h2m-hxys-u.3hr.GLB (E3hrPt.mmrdust)"
@@ -58765,6 +58770,7 @@
     "labels": [
       "3hr",
       "aerosol",
+      "processor",
       "approved"
     ],
     "title": "Variable aerosol.mmrbc.tpt-h2m-hxys-u.3hr.GLB (E3hrPt.mmrbc)"
@@ -58833,6 +58839,7 @@
     "labels": [
       "3hr",
       "aerosol",
+      "processor",
       "approved"
     ],
     "title": "Variable aerosol.mmraerh2o.tpt-h2m-hxys-u.3hr.GLB (E3hrPt.mmraerh2o)"
@@ -59234,6 +59241,7 @@
     "labels": [
       "3hr",
       "aerosol",
+      "processor",
       "approved"
     ],
     "title": "Variable aerosol.conccn.tpt-u-hxys-u.3hr.GLB (E3hrPt.conccn)"
