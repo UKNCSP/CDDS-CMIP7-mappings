@@ -18128,6 +18128,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "CO2FLUX * ATOMIC_MASS_OF_C",
+      "Expression UKESM1-3": "CO2FLUX * ATOMIC_MASS_OF_C",
       "Model units": "mg m-2 d-1"
     },
     "STASH entries": [],
