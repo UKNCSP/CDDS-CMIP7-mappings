@@ -18626,7 +18626,8 @@
     "issue_number": 1413,
     "labels": [
       "mon",
-      "ocnBgchem"
+      "ocnBgchem",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.expcalc.tavg-d1000m-hxy-sea.mon.GLB (Omon.epcalc1000)"
   },
@@ -18683,7 +18684,9 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Model units": ""
+      "Expression UKESM1": "EXPC3[depth=46]",
+      "Expression UKESM1-3": "EXPC3[depth=46]",
+      "Model units": "mmol m-2 d-1"
     },
     "STASH entries": [],
     "XIOS entries": {},
