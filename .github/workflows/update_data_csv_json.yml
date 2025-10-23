@@ -1,8 +1,8 @@
 name: Update data files
 run-name: ${{ github.actor }} updated Mapping issue
 on:
-  issues:
-    types: [opened, edited]
+  schedule:
+    - cron: '0 * * * *'
   workflow_dispatch:
 jobs:
   update-data-files:
