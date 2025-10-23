@@ -40,6 +40,12 @@
     "UKESM1": "ond/grid-U`: `<field field_ref=\"u_heattr\" name=\"hfxint\" detect_missing_value=\"true\" > @uadv_heattr + @udiff_heattr + @ueiv_heattr </field>",
     "UKESM1-3": "ond/grid-U`: `<field field_ref=\"u_heattr\" name=\"hfxint\" detect_missing_value=\"true\" > @uadv_heattr + @udiff_heattr + @ueiv_heattr </field>"
   },
+  "Variable ocean.hfx.tavg-u-hxy-sea.mon.GLB (Omon.hfxint)": {
+    "HadGEM3-GC31": "onm/grid-U`: `<field field_ref=\"u_heattr\" name=\"hfxint\" detect_missing_value=\"true\" > @uadv_heattr + @udiff_heattr + @ueiv_heattr </field>",
+    "HadGEM3-GC5": "onm/grid-U`: `<field field_ref=\"u_heattr\" name=\"hfxint\" detect_missing_value=\"true\" > @uadv_heattr + @udiff_heattr + @ueiv_heattr </field>",
+    "UKESM1": "onm/grid-U`: `<field field_ref=\"u_heattr\" name=\"hfxint\" detect_missing_value=\"true\" > @uadv_heattr + @udiff_heattr + @ueiv_heattr </field>",
+    "UKESM1-3": "onm/grid-U`: `<field field_ref=\"u_heattr\" name=\"hfxint\" detect_missing_value=\"true\" > @uadv_heattr + @udiff_heattr + @ueiv_heattr </field>"
+  },
   "Variable ocean.hfy.tavg-u-hxy-sea.day.GLB (Oday.hfyint)": {
     "HadGEM3-GC31": "ond/grid-V`: `<field field_ref=\"v_heattr\" name=\"hfyint\" detect_missing_value=\"true\" > @vadv_heattr + @vdiff_heattr + @veiv_heattr </field>",
     "HadGEM3-GC5": "ond/grid-V`: `<field field_ref=\"v_heattr\" name=\"hfyint\" detect_missing_value=\"true\" > @vadv_heattr + @vdiff_heattr + @veiv_heattr </field>",
