@@ -15,7 +15,7 @@
       "Processing notes": "",
       "Region": "GLB",
       "Units": "W m-2",
-      "Variable status": "CMIP6 CMOR variable"
+      "Variable status": "Prospective addition after AFT"
     },
     "Mapping information": {
       "Expression HadGEM3-GC3.1": "correct_multilevel_metadata(m01s01i520[llbproc=128])",
@@ -116,7 +116,7 @@
       "Processing notes": "",
       "Region": "GLB",
       "Units": "W m-2",
-      "Variable status": "CMIP6 CMOR variable"
+      "Variable status": "Prospective addition after AFT"
     },
     "Mapping information": {
       "Expression HadGEM3-GC3.1": "correct_multilevel_metadata(m01s01i518[llbproc=128])",
@@ -217,7 +217,7 @@
       "Processing notes": "",
       "Region": "GLB",
       "Units": "W m-2",
-      "Variable status": "CMIP6 CMOR variable"
+      "Variable status": "Prospective addition after AFT"
     },
     "Mapping information": {
       "Expression HadGEM3-GC3.1": "correct_multilevel_metadata(m01s02i520[llbproc=128])",
@@ -318,7 +318,7 @@
       "Processing notes": "",
       "Region": "GLB",
       "Units": "W m-2",
-      "Variable status": "CMIP6 CMOR variable"
+      "Variable status": "Prospective addition after AFT"
     },
     "Mapping information": {
       "Expression HadGEM3-GC3.1": "correct_multilevel_metadata(m01s02i518[llbproc=128])",
@@ -18783,6 +18783,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "DMS_SURF",
+      "Expression UKESM1-3": "DMS_SURF",
       "Model units": "nmol L-1"
     },
     "STASH entries": [],
@@ -18823,7 +18824,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.dmso.tavg-ol-hxy-sea.mon.GLB (Omon.dmso)"
   },
@@ -18854,7 +18856,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "CMIP6"
+      "CMIP6",
+      "do-not-produce"
     ],
     "title": "Variable ocnBgchem.dissoc.tavg-ol-hxy-sea.mon.GLB (Omon.dissoc)"
   },
@@ -18878,6 +18881,7 @@
     },
     "Mapping information": {
       "Expression UKESM1": "DIC[depth=0]",
+      "Expression UKESM1-3": "DIC[depth=0]",
       "Model units": "mmol m-3"
     },
     "STASH entries": [],
