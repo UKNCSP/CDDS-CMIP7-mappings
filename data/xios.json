@@ -46,6 +46,12 @@
     "UKESM1": "ond/grid-V`: `<field field_ref=\"v_heattr\" name=\"hfyint\" detect_missing_value=\"true\" > @vadv_heattr + @vdiff_heattr + @veiv_heattr </field>",
     "UKESM1-3": "ond/grid-V`: `<field field_ref=\"v_heattr\" name=\"hfyint\" detect_missing_value=\"true\" > @vadv_heattr + @vdiff_heattr + @veiv_heattr </field>"
   },
+  "Variable ocean.hfy.tavg-u-hxy-sea.mon.GLB (Omon.hfyint)": {
+    "HadGEM3-GC31": "onm/grid-V`: `<field field_ref=\"v_heattr\" name=\"hfyint\" detect_missing_value=\"true\" > @vadv_heattr + @vdiff_heattr + @veiv_heattr </field>",
+    "HadGEM3-GC5": "onm/grid-V`: `<field field_ref=\"v_heattr\" name=\"hfyint\" detect_missing_value=\"true\" > @vadv_heattr + @vdiff_heattr + @veiv_heattr </field>",
+    "UKESM1": "onm/grid-V`: `<field field_ref=\"v_heattr\" name=\"hfyint\" detect_missing_value=\"true\" > @vadv_heattr + @vdiff_heattr + @veiv_heattr </field>",
+    "UKESM1-3": "onm/grid-V`: `<field field_ref=\"v_heattr\" name=\"hfyint\" detect_missing_value=\"true\" > @vadv_heattr + @vdiff_heattr + @veiv_heattr </field>"
+  },
   "Variable ocean.mlotst.tavg-u-hxy-sea.mon.GLB (Omon.mlotst)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotst\" />",
     "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotst\" />",
@@ -191,6 +197,12 @@
     "HadGEM3-GC5": "on3/grid-T`: `<field field_ref=\"empmr\" name=\"wfo\" > -1 * (@empmr + @fwfisf) </field>",
     "UKESM1": "on3/grid-T`: `<field field_ref=\"empmr\" name=\"wfo\" > -1 * (@empmr + @fwfisf) </field>",
     "UKESM1-3": "on3/grid-T`: `<field field_ref=\"empmr\" name=\"wfo\" > -1 * (@empmr + @fwfisf) </field>"
+  },
+  "Variable ocean.wfo.tavg-u-hxy-sea.mon.GLB (Omon.wfo)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"empmr\" name=\"wfo\" > -1 * (@empmr + @fwfisf) </field>",
+    "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"empmr\" name=\"wfo\" > -1 * (@empmr + @fwfisf) </field>",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"empmr\" name=\"wfo\" > -1 * (@empmr + @fwfisf) </field>",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"empmr\" name=\"wfo\" > -1 * (@empmr + @fwfisf) </field>"
   },
   "Variable ocean.wmo.tavg-ol-hxy-sea.mon.GLB (Omon.wmo)": {
     "HadGEM3-GC31": "onm/grid-W`: `<field field_ref=\"w_masstr\" name=\"wmo\" detect_missing_value=\"true\"> @w_masstr + @weiv_masstr </field>",
