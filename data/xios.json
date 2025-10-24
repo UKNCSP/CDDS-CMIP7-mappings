@@ -10,6 +10,11 @@
     "UKESM1": "on3/grid-T`: `<field field_ref=\"berg_total_melt\" />` <br> `on3/grid-T`: `<field field_ref=\"fwfisf3d\" />",
     "UKESM1-3": "on3/grid-T`: `<field field_ref=\"berg_total_melt\" />` <br> `on3/grid-T`: `<field field_ref=\"fwfisf3d\" />"
   },
+  "Variable ocean.ficeberg.tavg-ol-hxy-sea.mon.GLB (Omon.ficeberg)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"berg_total_melt\" />` <br> `onm/grid-T`: `<field field_ref=\"fwfisf3d\" />",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"berg_total_melt\" />` <br> `onm/grid-T`: `<field field_ref=\"fwfisf3d\" />",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"berg_total_melt\" />` <br> `onm/grid-T`: `<field field_ref=\"fwfisf3d\" />"
+  },
   "Variable ocean.flandice.tavg-u-hxy-sea.3hr.GLB (3hr.flandice)": {
     "HadGEM3-GC31": "on3/grid-T`: `<field field_ref=\"fwfisf\" name=\"flandice\" > -1 * @fwfisf </field> ",
     "HadGEM3-GC5": "on3/grid-T`: `<field field_ref=\"fwfisf\" name=\"flandice\" > -1 * @fwfisf </field> ",
@@ -21,6 +26,12 @@
     "HadGEM3-GC5": "on3/grid-T`: `<field field_ref=\"runoffs\" name=\"friver\" />",
     "UKESM1": "on3/grid-T`: `<field field_ref=\"runoffs\" name=\"friver\" />",
     "UKESM1-3": "on3/grid-T`: `<field field_ref=\"runoffs\" name=\"friver\" />"
+  },
+  "Variable ocean.friver.tavg-u-hxy-sea.mon.GLB (Omon.friver)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"runoffs\" name=\"friver\" />",
+    "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"runoffs\" name=\"friver\" />",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"runoffs\" name=\"friver\" />",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"runoffs\" name=\"friver\" />"
   },
   "Variable ocean.hfds.tavg-u-hxy-sea.3hr.GLB (3hr.hfds)": {
     "HadGEM3-GC31": "on3/grid-T`: `<field field_ref=\"qt\" name=\"hfds\" />",
