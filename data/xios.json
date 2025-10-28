@@ -134,6 +134,18 @@
     "UKESM1": "onm/grid-T`: `<field field_ref=\"sss\" name=\"sos\" />",
     "UKESM1-3": "onm/grid-T`: `<field field_ref=\"sss\" name=\"sos\" />"
   },
+  "Variable ocean.t20d.tavg-u-hxy-sea.day.GLB (Eday.t20d)": {
+    "HadGEM3-GC31": "ond/grid-T`: `<field field_ref=\"20d\" name=\"t20d\" />",
+    "HadGEM3-GC5": "ond/grid-T`: `<field field_ref=\"20d\" name=\"t20d\" />",
+    "UKESM1": "ond/grid-T`: `<field field_ref=\"20d\" name=\"t20d\" />",
+    "UKESM1-3": "ond/grid-T`: `<field field_ref=\"20d\" name=\"t20d\" />"
+  },
+  "Variable ocean.t20d.tavg-u-hxy-sea.mon.GLB (Emon.t20d)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"20d\" name=\"t20d\" />",
+    "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"20d\" name=\"t20d\" />",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"20d\" name=\"t20d\" />",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"20d\" name=\"t20d\" />"
+  },
   "Variable ocean.tauuo.tavg-u-hxy-sea.3hr.GLB (3hr.tauuo)": {
     "HadGEM3-GC31": "on3/grid-U`: `<field field_ref=\"utau\" name=\"tauuo\" />",
     "HadGEM3-GC5": "on3/grid-U`: `<field field_ref=\"utau\" name=\"tauuo\" />",
