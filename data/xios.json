@@ -16,6 +16,7 @@
   },
   "Variable ocean.ficeberg.tavg-ol-hxy-sea.3hr.GLB (3hr.ficeberg)": {
     "HadGEM3-GC31": "on3/grid-T`: `<field field_ref=\"berg_total_melt\" />` <br> `on3/grid-T`: `<field field_ref=\"fwfisf3d\" />",
+    "HadGEM3-GC5": "on3/grid-T`: `<field field_ref=\"fwfisf3d\" />",
     "UKESM1": "on3/grid-T`: `<field field_ref=\"berg_total_melt\" />` <br> `on3/grid-T`: `<field field_ref=\"fwfisf3d\" />",
     "UKESM1-3": "on3/grid-T`: `<field field_ref=\"berg_total_melt\" />` <br> `on3/grid-T`: `<field field_ref=\"fwfisf3d\" />"
   },
