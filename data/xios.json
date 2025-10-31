@@ -185,6 +185,12 @@
     "UKESM1": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotstsq\" > this * this </field>",
     "UKESM1-3": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotstsq\" > this * this </field>"
   },
+  "Variable ocean.msftbarot.tavg-u-hxy-sea.mon.GLB (Omon.msftbarot)": {
+    "HadGEM3-GC31": "onm/grid-U`: `<field field_ref=\"u_masstr_vint\" />",
+    "HadGEM3-GC5": "onm/grid-U`: `<field field_ref=\"u_masstr_vint\" />",
+    "UKESM1": "onm/grid-U`: `<field field_ref=\"u_masstr_vint\" />",
+    "UKESM1-3": "onm/grid-U`: `<field field_ref=\"u_masstr_vint\" />"
+  },
   "Variable ocean.opottemptend.tavg-ol-hxy-sea.dec.GLB (Odec.opottemptend)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"ttrd_tot_li\" name=\"opottemptend\" />",
     "UKESM1": "onm/grid-T`: `<field field_ref=\"ttrd_tot_li\" name=\"opottemptend\" />",
