@@ -149,6 +149,12 @@
     "UKESM1": "onm/diaptr`: `<field field_ref=\"sophtove\" name=\"htovovrt_global\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophtove_atl\" name=\"htovovrt_atlantic\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophtove_ipc\" name=\"htovovrt_indopacific\" />",
     "UKESM1-3": "onm/diaptr`: `<field field_ref=\"sophtove\" name=\"htovovrt_global\" grid_ref=\"grid_ptr_T_2D\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophtove_atl\" name=\"htovovrt_atlantic\" grid_ref=\"grid_ptr_T_2D\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophtove_ipc\" name=\"htovovrt_indopacific\" grid_ref=\"grid_ptr_T_2D\" />"
   },
+  "Variable ocean.masso.tavg-u-hm-sea.mon.GLB (Omon.masso)": {
+    "HadGEM3-GC31": "onm/scalar`: `<field field_ref=\"voltot\" name=\"masso\" > 1026 * this </field>",
+    "HadGEM3-GC5": "onm/scalar`: `<field field_ref=\"voltot\" name=\"masso\" > 1026 * this </field>",
+    "UKESM1": "onm/scalar`: `<field field_ref=\"voltot\" name=\"masso\" > 1026 * this </field>",
+    "UKESM1-3": "onm/scalar`: `<field field_ref=\"voltot\" name=\"masso\" > 1026 * this </field>"
+  },
   "Variable ocean.mlotst.tavg-u-hxy-sea.day.GLB (Eday.mlotst)": {
     "HadGEM3-GC31": "ond/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotst\" />",
     "HadGEM3-GC5": "ond/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotst\" />",
@@ -160,6 +166,18 @@
     "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotst\" />",
     "UKESM1": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotst\" />",
     "UKESM1-3": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotst\" />"
+  },
+  "Variable ocean.mlotstmax.tmax-u-hxy-sea.mon.GLB (Omon.mlotstmax)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotstmax\" operation=\"maximum\" />",
+    "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotstmax\" operation=\"maximum\" />",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotstmax\" operation=\"maximum\" />",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotstmax\" operation=\"maximum\" />"
+  },
+  "Variable ocean.mlotstsq.tavg-u-hxy-sea.mon.GLB (Omon.mlotstsq)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotstsq\" > this * this </field>",
+    "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotstsq\" > this * this </field>",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotstsq\" > this * this </field>",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotstsq\" > this * this </field>"
   },
   "Variable ocean.opottemptend.tavg-ol-hxy-sea.dec.GLB (Odec.opottemptend)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"ttrd_tot_li\" name=\"opottemptend\" />",
