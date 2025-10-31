@@ -86,11 +86,29 @@
     "UKESM1": "onm/grid-T`: `<field field_ref=\"hflx_evap_cea\" name=\"hfevapds\" />",
     "UKESM1-3": "onm/grid-T`: `<field field_ref=\"hflx_evap_cea\" name=\"hfevapds\" />"
   },
+  "Variable ocean.hfibthermds.tavg-ol-hxy-sea.mon.GLB (Omon.hfibthermds)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"berg_total_heat_flux\" />` <br> `onm/grid-T`: `<field field_ref=\"qlatisf3d\" />",
+    "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"qlatisf3d\" />",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"berg_total_heat_flux\" />` <br> `onm/grid-T`: `<field field_ref=\"qlatisf3d\" />",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"berg_total_heat_flux\" />` <br> `onm/grid-T`: `<field field_ref=\"qlatisf3d\" />"
+  },
+  "Variable ocean.hfrainds.tavg-u-hxy-ifs.mon.GLB (Omon.hfrainds)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"hflx_rain_cea\" name=\"hfrainds\" />",
+    "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"hflx_rain_cea\" name=\"hfrainds\" />",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"hflx_rain_cea\" name=\"hfrainds\" />",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"hflx_rain_cea\" name=\"hfrainds\" />"
+  },
   "Variable ocean.hfrunoffds.tavg-ol-hxy-sea.3hr.GLB (3hr.hfrunoffds)": {
     "HadGEM3-GC31": "on3/grid-T`: `<field field_ref=\"hflx_rnf_cea\" />` <br> `on3/grid-T`: `<field field_ref=\"qhcisf3d\" />",
     "HadGEM3-GC5": "on3/grid-T`: `<field field_ref=\"hflx_rnf_cea\" />` <br> `on3/grid-T`: `<field field_ref=\"qhcisf3d\" />",
     "UKESM1": "on3/grid-T`: `<field field_ref=\"hflx_rnf_cea\" />` <br> `on3/grid-T`: `<field field_ref=\"qhcisf3d\" />",
     "UKESM1-3": "on3/grid-T`: `<field field_ref=\"hflx_rnf_cea\" />` <br> `on3/grid-T`: `<field field_ref=\"qhcisf3d\" />"
+  },
+  "Variable ocean.hfrunoffds.tavg-ol-hxy-sea.mon.GLB (Omon.hfrunoffds)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"hflx_rnf_cea\" />` <br> `onm/grid-T`: `<field field_ref=\"qhcisf3d\" />",
+    "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"hflx_rnf_cea\" />` <br> `onm/grid-T`: `<field field_ref=\"qhcisf3d\" />",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"hflx_rnf_cea\" />` <br> `onm/grid-T`: `<field field_ref=\"qhcisf3d\" />",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"hflx_rnf_cea\" />` <br> `onm/grid-T`: `<field field_ref=\"qhcisf3d\" />"
   },
   "Variable ocean.hfx.tavg-u-hxy-sea.day.GLB (Oday.hfxint)": {
     "HadGEM3-GC31": "ond/grid-U`: `<field field_ref=\"u_heattr\" name=\"hfxint\" detect_missing_value=\"true\" > @uadv_heattr + @udiff_heattr + @ueiv_heattr </field>",
