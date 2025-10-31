@@ -173,6 +173,12 @@
     "UKESM1": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotstmax\" operation=\"maximum\" />",
     "UKESM1-3": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotstmax\" operation=\"maximum\" />"
   },
+  "Variable ocean.mlotstmin.tmin-u-hxy-sea.mon.GLB (Omon.mlotstmin)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotstmin\" operation=\"minimum\" />",
+    "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotstmin\" operation=\"minimum\" />",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotstmin\" operation=\"minimum\" />",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotstmin\" operation=\"minimum\" />"
+  },
   "Variable ocean.mlotstsq.tavg-u-hxy-sea.mon.GLB (Omon.mlotstsq)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotstsq\" > this * this </field>",
     "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotstsq\" > this * this </field>",
