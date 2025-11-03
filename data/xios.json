@@ -191,6 +191,12 @@
     "UKESM1": "onm/grid-U`: `<field field_ref=\"u_masstr_vint\" />",
     "UKESM1-3": "onm/grid-U`: `<field field_ref=\"u_masstr_vint\" />"
   },
+  "Variable ocean.msfty.tavg-ol-hys-sea.mon.GLB (Omon.msftyz)": {
+    "HadGEM3-GC31": "onm/diaptr`: `<field field_ref=\"zomsfglo\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfatl\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfipc\" />",
+    "HadGEM3-GC5": "onm/diaptr`: `<field field_ref=\"zomsf\" grid_ref=\"grid_ptr_W_3D\" />",
+    "UKESM1": "onm/diaptr`: `<field field_ref=\"zomsfglo\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfatl\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfipc\" />",
+    "UKESM1-3": "onm/diaptr`: `<field field_ref=\"zomsfglo\" grid_ref=\"grid_ptr_W_3D\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfatl\" grid_ref=\"grid_ptr_W_3D\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfipc\" grid_ref=\"grid_ptr_W_3D\" />"
+  },
   "Variable ocean.opottemptend.tavg-ol-hxy-sea.dec.GLB (Odec.opottemptend)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"ttrd_tot_li\" name=\"opottemptend\" />",
     "UKESM1": "onm/grid-T`: `<field field_ref=\"ttrd_tot_li\" name=\"opottemptend\" />",
