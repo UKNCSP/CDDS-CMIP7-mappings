@@ -1,5 +1,5 @@
 # UKNCSP CDDS-CMIP7-mappings 
-**UPDATE 23/10/25: I've altered the gitub action to run as a "cron" job rather than after every update. CSV files in the data directory should be updated at the start of every hour @matthew-mizielinski**
+**UPDATE 23/10/25: I've altered the gitub action to run as a "cron" job rather than after every update. CSV files in the data directory should be updated roughly every hour (see [here](https://github.com/UKNCSP/CDDS-CMIP7-mappings/actions/workflows/update_data_csv_json.yml) for the last run time) **
 
 **IMPORTANT: All issues were updated for version 1.2.2 of the Data Request at the end of August. All CSV files will have changed as part of this update**
 
