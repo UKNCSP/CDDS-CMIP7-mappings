@@ -197,10 +197,27 @@
     "UKESM1": "onm/diaptr`: `<field field_ref=\"zomsfglo\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfatl\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfipc\" />",
     "UKESM1-3": "onm/diaptr`: `<field field_ref=\"zomsfglo\" grid_ref=\"grid_ptr_W_3D\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfatl\" grid_ref=\"grid_ptr_W_3D\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfipc\" grid_ref=\"grid_ptr_W_3D\" />"
   },
+  "Variable ocean.msftypa.tavg-ol-hys-sea.mon.GLB (Omon.msftyzmpa)": {
+    "HadGEM3-GC31": "onm/diaptr`: `<field field_ref=\"zomsfeivglo\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfeivatl\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfeivipc\" />",
+    "UKESM1": "onm/diaptr`: `<field field_ref=\"zomsfeivglo\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfeivatl\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfeivipc\" />",
+    "UKESM1-3": "onm/diaptr`: `<field field_ref=\"zomsfeivglo\" grid_ref=\"grid_ptr_W_3D\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfeivatl\" grid_ref=\"grid_ptr_W_3D\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfeivipc\" grid_ref=\"grid_ptr_W_3D\" />"
+  },
+  "Variable ocean.obvfsq.tavg-ol-hxy-sea.mon.GLB (Omon.obvfsq)": {
+    "HadGEM3-GC31": "onm/grid-W`: `<field field_ref=\"bn2\" name=\"obvfsq\" />",
+    "HadGEM3-GC5": "onm/grid-W`: `<field field_ref=\"bn2\" name=\"obvfsq\" />",
+    "UKESM1": "onm/grid-W`: `<field field_ref=\"bn2\" name=\"obvfsq\" />",
+    "UKESM1-3": "onm/grid-W`: `<field field_ref=\"bn2\" name=\"obvfsq\" />"
+  },
   "Variable ocean.opottemptend.tavg-ol-hxy-sea.dec.GLB (Odec.opottemptend)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"ttrd_tot_li\" name=\"opottemptend\" />",
     "UKESM1": "onm/grid-T`: `<field field_ref=\"ttrd_tot_li\" name=\"opottemptend\" />",
     "UKESM1-3": "onm/grid-T`: `<field field_ref=\"ttrd_tot_li\" name=\"opottemptend\" />"
+  },
+  "Variable ocean.pbo.tavg-u-hxy-sea.mon.GLB (Omon.pbo)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"botpres\" name=\"pbo\" />",
+    "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"botpres\" name=\"pbo\" />",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"botpres\" name=\"pbo\" />",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"botpres\" name=\"pbo\" />"
   },
   "Variable ocean.rsdo.tavg-ol-hxy-sea.day.GLB (Oday.rsdo)": {
     "HadGEM3-GC31": "ond/grid-T`: `<field field_ref=\"qsr3d\" name=\"rsdo\" />",
