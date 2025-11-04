@@ -380,6 +380,11 @@
     "UKESM1": "onm/grid-V`: `<field field_ref=\"e3v\" name=\"thkcellvo\" />",
     "UKESM1-3": "onm/grid-V`: `<field field_ref=\"e3v\" name=\"thkcellvo\" />"
   },
+  "Variable ocean.tob.tavg-u-hxy-sea.mon.GLB (Omon.tob)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"sbt\" name=\"tob\" />",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"sbt\" name=\"tob\" />",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"sbt\" name=\"tob\" />"
+  },
   "Variable ocean.tos.tavg-u-hxy-sea.mon.GLB (Omon.tos)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"sst\" name=\"tos\" />",
     "UKESM1": "onm/grid-T`: `<field field_ref=\"sst\" name=\"tos\" />",
