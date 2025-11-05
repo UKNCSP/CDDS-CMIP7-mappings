@@ -385,6 +385,12 @@
     "UKESM1": "onm/grid-T`: `<field field_ref=\"sbt\" name=\"tob\" />",
     "UKESM1-3": "onm/grid-T`: `<field field_ref=\"sbt\" name=\"tob\" />"
   },
+  "Variable ocean.tos.tavg-u-hm-sea.mon.GLB (Omon.tosga)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"sst\" name=\"tos\" />` <br> `onm/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
+    "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"sst_m_pot\" name=\"tos\" />` <br> `onm/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"sst\" name=\"tos\" />` <br> `onm/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"sst\" name=\"tos\" />` <br> `onm/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />"
+  },
   "Variable ocean.tos.tavg-u-hxy-sea.day.GLB (Oday.tos)": {
     "HadGEM3-GC31": "ond/grid-T`: `<field field_ref=\"sst\" name=\"tos\" />",
     "HadGEM3-GC5": "ond/grid-T`: `<field field_ref=\"sst_m_pot\" name=\"tos\" />",
