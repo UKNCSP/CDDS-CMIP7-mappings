@@ -80,6 +80,12 @@
     "UKESM1": "on3/grid-T`: `<field field_ref=\"qt\" name=\"hfds\" />",
     "UKESM1-3": "on3/grid-T`: `<field field_ref=\"qt\" name=\"hfds\" />"
   },
+  "Variable ocean.hfds.tavg-u-hxy-sea.mon.GLB (Omon.hfds)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"qt\" name=\"hfds\" />",
+    "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"qt\" name=\"hfds\" />",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"qt\" name=\"hfds\" />",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"qt\" name=\"hfds\" />"
+  },
   "Variable ocean.hfevapds.tavg-u-hxy-ifs.mon.GLB (Omon.hfevapds)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"hflx_evap_cea\" name=\"hfevapds\" />",
     "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"hflx_evap_cea\" name=\"hfevapds\" />",
@@ -148,6 +154,12 @@
     "HadGEM3-GC5": "onm/diaptr`: `<field field_ref=\"sophtove\" name=\"htovovrt\" grid_ref=\"grid_ptr_T_2D\" />",
     "UKESM1": "onm/diaptr`: `<field field_ref=\"sophtove\" name=\"htovovrt_global\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophtove_atl\" name=\"htovovrt_atlantic\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophtove_ipc\" name=\"htovovrt_indopacific\" />",
     "UKESM1-3": "onm/diaptr`: `<field field_ref=\"sophtove\" name=\"htovovrt_global\" grid_ref=\"grid_ptr_T_2D\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophtove_atl\" name=\"htovovrt_atlantic\" grid_ref=\"grid_ptr_T_2D\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophtove_ipc\" name=\"htovovrt_indopacific\" grid_ref=\"grid_ptr_T_2D\" />"
+  },
+  "Variable ocean.masscello.tavg-ol-hxy-sea.mon.GLB (Omon.masscello)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"e3t\" name=\"masscello\" > @e3t * 1026 </field>",
+    "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"e3t\" name=\"masscello\" > @e3t * 1026 </field>",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"e3t\" name=\"masscello\" > @e3t * 1026 </field>",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"e3t\" name=\"masscello\" > @e3t * 1026 </field>"
   },
   "Variable ocean.masso.tavg-u-hm-sea.mon.GLB (Omon.masso)": {
     "HadGEM3-GC31": "onm/scalar`: `<field field_ref=\"voltot\" name=\"masso\" > 1026 * this </field>",
@@ -290,6 +302,12 @@
     "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"sss_abs\" name=\"sos\" />` <br> `onm/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
     "UKESM1": "onm/grid-T`: `<field field_ref=\"sss\" name=\"sos\" />` <br> `onm/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
     "UKESM1-3": "onm/grid-T`: `<field field_ref=\"sss\" name=\"sos\" />` <br> `onm/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />"
+  },
+  "Variable ocean.sos.tavg-u-hxy-sea.day.GLB (Oday.sos)": {
+    "HadGEM3-GC31": "ond/grid-T`: `<field field_ref=\"sss\" name=\"sos\" />",
+    "HadGEM3-GC5": "ond/grid-T`: `<field field_ref=\"sss_abs\" name=\"sos\" />",
+    "UKESM1": "ond/grid-T`: `<field field_ref=\"sss\" name=\"sos\" />",
+    "UKESM1-3": "ond/grid-T`: `<field field_ref=\"sss\" name=\"sos\" />"
   },
   "Variable ocean.sos.tavg-u-hxy-sea.mon.GLB (Omon.sos)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"sss\" name=\"sos\" />",
