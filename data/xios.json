@@ -223,6 +223,9 @@
   "Variable ocean.ocontempmint.tavg-u-hxy-sea.yr.GLB (Oyr.ocontempmint)": {
     "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"tosmint_con\" name=\"ocontempmint\" />"
   },
+  "Variable ocean.ocontemptend.tavg-ol-hxy-sea.yr.GLB (Oyr.ocontemptend)": {
+    "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"ttrd_tot_li\" name=\"ocontemptend\" />"
+  },
   "Variable ocean.opottempmint.tavg-u-hxy-sea.yr.GLB (Oyr.opottempmint)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"tosmint\" name=\"opottempmint\" />",
     "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"tosmint_pot\" name=\"opottempmint\" />",
@@ -233,6 +236,17 @@
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"ttrd_tot_li\" name=\"opottemptend\" />",
     "UKESM1": "onm/grid-T`: `<field field_ref=\"ttrd_tot_li\" name=\"opottemptend\" />",
     "UKESM1-3": "onm/grid-T`: `<field field_ref=\"ttrd_tot_li\" name=\"opottemptend\" />"
+  },
+  "Variable ocean.opottemptend.tavg-ol-hxy-sea.yr.GLB (Oyr.opottemptend)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"ttrd_tot_li\" name=\"opottemptend\" />",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"ttrd_tot_li\" name=\"opottemptend\" />",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"ttrd_tot_li\" name=\"opottemptend\" />"
+  },
+  "Variable ocean.osalttend.tavg-ol-hxy-sea.yr.GLB (Oyr.osalttend)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"strd_tot_li\" name=\"osalttend\" />",
+    "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"strd_tot_li\" name=\"osalttend\" />",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"strd_tot_li\" name=\"osalttend\" />",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"strd_tot_li\" name=\"osalttend\" />"
   },
   "Variable ocean.pbo.tavg-u-hxy-sea.mon.GLB (Omon.pbo)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"botpres\" name=\"pbo\" />",
@@ -437,6 +451,11 @@
     "HadGEM3-GC5": "onm/grid-V`: `<field field_ref=\"e3v\" name=\"thkcellvo\" />",
     "UKESM1": "onm/grid-V`: `<field field_ref=\"e3v\" name=\"thkcellvo\" />",
     "UKESM1-3": "onm/grid-V`: `<field field_ref=\"e3v\" name=\"thkcellvo\" />"
+  },
+  "Variable ocean.tnkebto.tavg-u-hxy-sea.yr.GLB (Oyr.tnkebto)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"ketrd_eiv\" name=\"tnkebto\" />",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"ketrd_eiv\" name=\"tnkebto\" />",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"ketrd_eiv\" name=\"tnkebto\" />"
   },
   "Variable ocean.tnpeo.tavg-u-hxy-sea.yr.GLB (Oyr.tnpeo)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"tnpeo\" />",
