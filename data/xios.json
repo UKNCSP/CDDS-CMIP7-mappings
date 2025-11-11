@@ -388,10 +388,10 @@
     "UKESM1-3": "onm/grid-T`: `<field field_ref=\"toce\" name=\"thetao\" operation=\"average\" freq_op=\"1mo\" > @toce_e3t / @e3t </field>"
   },
   "Variable ocean.thetao.tavg-op20bar-hxy-sea.day.GLB (Oday.thetao200)": {
-    "HadGEM3-GC31": "ond/grid-T`: `<field field_ref=\"toce\" name=\"thetao\" operation=\"average\" freq_op=\"1d\" > @toce_e3t / @e3t </field>` <br> `ond/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
-    "HadGEM3-GC5": "ond/grid-T`: `<field field_ref=\"toce_pot\" name=\"thetao\" operation=\"average\" freq_op=\"1d\" > @toce_pot_e3t / @e3t </field>` <br> `ond/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
-    "UKESM1": "ond/grid-T`: `<field field_ref=\"toce\" name=\"thetao\" operation=\"average\" freq_op=\"1d\" > @toce_e3t / @e3t </field>` <br> `ond/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
-    "UKESM1-3": "ond/grid-T`: `<field field_ref=\"toce\" name=\"thetao\" operation=\"average\" freq_op=\"1d\" > @toce_e3t / @e3t </field>` <br> `ond/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />"
+    "HadGEM3-GC31": "ond/grid-T`: `<field field_ref=\"toce\" name=\"thetao\" operation=\"average\" freq_op=\"1d\" > @toce_e3t / @e3t </field>",
+    "HadGEM3-GC5": "ond/grid-T`: `<field field_ref=\"toce_pot\" name=\"thetao\" operation=\"average\" freq_op=\"1d\" > @toce_pot_e3t / @e3t </field>",
+    "UKESM1": "ond/grid-T`: `<field field_ref=\"toce\" name=\"thetao\" operation=\"average\" freq_op=\"1d\" > @toce_e3t / @e3t </field>",
+    "UKESM1-3": "ond/grid-T`: `<field field_ref=\"toce\" name=\"thetao\" operation=\"average\" freq_op=\"1d\" > @toce_e3t / @e3t </field>"
   },
   "Variable ocean.thetaot.tavg-u-hxy-sea.mon.GLB (Emon.thetaot)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"toce\" name=\"thetao\" operation=\"average\" freq_op=\"1mo\" > @toce_e3t / @e3t </field>` <br> `onm/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
@@ -430,7 +430,7 @@
   },
   "Variable ocean.tos.tavg-u-hxy-sea.day.GLB (Oday.tos)": {
     "HadGEM3-GC31": "ond/grid-T`: `<field field_ref=\"sst\" name=\"tos\" />",
-    "HadGEM3-GC5": "ond/grid-T`: `<field field_ref=\"sst_m_pot\" name=\"tos\" />",
+    "HadGEM3-GC5": "ond/grid-T`: `<field field_ref=\"sst_pot\" name=\"tos\" />",
     "UKESM1": "ond/grid-T`: `<field field_ref=\"sst\" name=\"tos\" />",
     "UKESM1-3": "ond/grid-T`: `<field field_ref=\"sst\" name=\"tos\" />"
   },
@@ -448,7 +448,7 @@
   },
   "Variable ocean.tossq.tavg-u-hxy-sea.day.GLB (Oday.tossq)": {
     "HadGEM3-GC31": "ond/grid-T`: `<field field_ref=\"sst2\" name=\"tossq\" />",
-    "HadGEM3-GC5": "ond/grid-T`: `<field field_ref=\"sst_m_pot\" name=\"tossq\" > this * this </field>",
+    "HadGEM3-GC5": "ond/grid-T`: `<field field_ref=\"sst_pot\" name=\"tossq\" > this * this </field>",
     "UKESM1": "ond/grid-T`: `<field field_ref=\"sst2\" name=\"tossq\" />",
     "UKESM1-3": "ond/grid-T`: `<field field_ref=\"sst2\" name=\"tossq\" />"
   },
