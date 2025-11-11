@@ -297,6 +297,12 @@
     "UKESM1": "onm/grid-T`: `<field field_ref=\"sbs\" name=\"sob\" />",
     "UKESM1-3": "onm/grid-T`: `<field field_ref=\"sbs\" name=\"sob\" />"
   },
+  "Variable ocean.somint.tavg-u-hxy-sea.yr.GLB (Oyr.somint)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"somint\" />",
+    "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"somint_abs\" name=\"somint\" />",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"somint\" />",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"somint\" />"
+  },
   "Variable ocean.sos.tavg-u-hm-sea.mon.GLB (Omon.sosga)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"sss\" name=\"sos\" />` <br> `onm/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
     "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"sss_abs\" name=\"sos\" />` <br> `onm/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
@@ -489,6 +495,12 @@
     "UKESM1-3": "onm/grid-V`: `<field field_ref=\"voce\" name=\"vo\" operation=\"average\" freq_op=\"1mo\" > @voce_e3v / @e3v </field>"
   },
   "Variable ocean.volcello.tavg-ol-hxy-sea.mon.GLB (Omon.volcello)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
+    "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />"
+  },
+  "Variable ocean.volcello.tavg-ol-hxy-sea.yr.GLB (Oyr.volcello)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
     "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
     "UKESM1": "onm/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
