@@ -20,6 +20,12 @@
     "UKESM1": "onm/grid-W`: `<field field_ref=\"avs\" name=\"difvso\" />",
     "UKESM1-3": "onm/grid-W`: `<field field_ref=\"avs\" name=\"difvso\" />"
   },
+  "Variable ocean.dispkexyfo.tavg-u-hxy-sea.yr.GLB (Oyr.dispkexyfo)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"ketrd_ldf_vsum\" name=\"dispkexyfo\" />",
+    "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"ketrd_ldf_vsum\" name=\"dispkexyfo\" />",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"ketrd_ldf_vsum\" name=\"dispkexyfo\" />",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"ketrd_ldf_vsum\" name=\"dispkexyfo\" />"
+  },
   "Variable ocean.evspsbl.tavg-u-hxy-ifs.mon.GLB (Omon.evs)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"evap_ao_cea\" name=\"evs\" />` <br> `onm/grid-T`: `<field field_ref=\"empmr\" />` <br> `onm/grid-T`: `<field field_ref=\"berg_total_melt\" />` <br> `onm/grid-T`: `<field field_ref=\"runoffs\" name=\"friver\" />` <br> `onm/grid-T`: `<field field_ref=\"snow_ao_cea\" />` <br> `onm/grid-T`: `<field field_ref=\"rain_ao_cea\" />` <br> `onm/grid-T`: `<field field_ref=\"fmmflx\" name=\"fsitherm\" />",
     "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"evap_ao_cea\" name=\"evs\" />` <br> `onm/grid-T`: `<field field_ref=\"empmr\" />` <br> `onm/grid-T`: `<field field_ref=\"berg_total_melt\" />` <br> `onm/grid-T`: `<field field_ref=\"runoffs\" name=\"friver\" />` <br> `onm/grid-T`: `<field field_ref=\"snow_ao_cea\" />` <br> `onm/grid-T`: `<field field_ref=\"rain_ao_cea\" />` <br> `onm/grid-T`: `<field field_ref=\"fmmflx\" name=\"fsitherm\" />",
@@ -241,6 +247,9 @@
   "Variable ocean.ocontemppmdiff.tavg-ol-hxy-sea.yr.GLB (Oyr.ocontemppmdiff)": {
     "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"ttrd_iso_li\" name=\"ocontemppmdiff\" />"
   },
+  "Variable ocean.ocontemprmadvect.tavg-ol-hxy-sea.yr.GLB (Oyr.ocontemprmadvect)": {
+    "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"ttrd_totad_li\" name=\"ocontemprmadvect\" />"
+  },
   "Variable ocean.ocontemptend.tavg-ol-hxy-sea.yr.GLB (Oyr.ocontemptend)": {
     "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"ttrd_tot_li\" name=\"ocontemptend\" />"
   },
@@ -261,9 +270,9 @@
     "UKESM1-3": "onm/grid-T`: `<field field_ref=\"ttrd_iso_li\" name=\"opottemppmdiff\" />"
   },
   "Variable ocean.opottemprmadvect.tavg-ol-hxy-sea.yr.GLB (Oyr.opottemprmadvect)": {
-    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"ttrd_totad_li\" name=\"opottempdiff\" />",
-    "UKESM1": "onm/grid-T`: `<field field_ref=\"ttrd_totad_li\" name=\"opottempdiff\" />",
-    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"ttrd_totad_li\" name=\"opottempdiff\" />"
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"ttrd_totad_li\" name=\"opottemprmadvect\" />",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"ttrd_totad_li\" name=\"opottemprmadvect\" />",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"ttrd_totad_li\" name=\"opottemprmadvect\" />"
   },
   "Variable ocean.opottemptend.tavg-ol-hxy-sea.dec.GLB (Odec.opottemptend)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"ttrd_tot_li\" name=\"opottemptend\" />",
@@ -286,6 +295,12 @@
     "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"strd_iso_li\" name=\"osaltpmdiff\" />",
     "UKESM1": "onm/grid-T`: `<field field_ref=\"strd_iso_li\" name=\"osaltpmdiff\" />",
     "UKESM1-3": "onm/grid-T`: `<field field_ref=\"strd_iso_li\" name=\"osaltpmdiff\" />"
+  },
+  "Variable ocean.osaltrmadvect.tavg-ol-hxy-sea.yr.GLB (Oyr.osaltrmadvect)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"strd_totad_li\" name=\"osaltrmadvect\" />",
+    "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"strd_totad_li\" name=\"osaltrmadvect\" />",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"strd_totad_li\" name=\"osaltrmadvect\" />",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"strd_totad_li\" name=\"osaltrmadvect\" />"
   },
   "Variable ocean.osalttend.tavg-ol-hxy-sea.yr.GLB (Oyr.osalttend)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"strd_tot_li\" name=\"osalttend\" />",
