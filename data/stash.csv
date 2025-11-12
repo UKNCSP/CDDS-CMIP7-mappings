@@ -5135,6 +5135,10 @@ UKESM1-3,h2o_tavg-al-hxy-u,mon,m01s16i207,16,207,TMONMN,DALLTH,UP4,True,False,Fa
 UKESM1-3,h2o_tavg-al-hxy-u,mon,m01s00i272,0,272,TMONMN,DALLTH,UP4,True,False,False
 UKESM2,h2o_tavg-al-hxy-u,mon,m01s16i207,16,207,TMONMN,DALLTH,UP4,True,False,False
 UKESM2,h2o_tavg-al-hxy-u,mon,m01s00i272,0,272,TMONMN,DALLTH,UP4,True,False,False
+UKESM1,h2_tavg-al-hxy-u,mon,m01s34i070,34,001,TMONMN,DALLTH,UP4,False,True,False
+UKESM1,h2_tavg-al-hxy-u,mon,m01s00i033,0,033,TMONMN,DIAG,UP4,False,True,False
+UKESM1-3,h2_tavg-al-hxy-u,mon,m01s34i070,34,001,TMONMN,DALLTH,UP4,False,True,False
+UKESM1-3,h2_tavg-al-hxy-u,mon,m01s00i033,0,033,TMONMN,DIAG,UP4,False,True,False
 HadGEM3-GC31,emivoc_tavg-u-hxy-u,mon,m01s50i159,50,159,TMONMN,DIAG,UP4,True,False,False
 HadGEM3-GC31,emivoc_tavg-u-hxy-u,mon,m01s50i160,50,160,TMONMN,DIAG,UP4,True,False,False
 HadGEM3-GC31,emivoc_tavg-u-hxy-u,mon,m01s50i161,50,161,TMONMN,DIAG,UP4,True,False,False

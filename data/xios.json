@@ -232,11 +232,19 @@
     "UKESM1": "onm/grid-W`: `<field field_ref=\"bn2\" name=\"obvfsq\" />",
     "UKESM1-3": "onm/grid-W`: `<field field_ref=\"bn2\" name=\"obvfsq\" />"
   },
+  "Variable ocean.ocontempdiff.tavg-ol-hxy-sea.yr.GLB (Oyr.ocontempdiff)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"ttrd_zdfp_li\" name=\"ocontempdiff\" />"
+  },
   "Variable ocean.ocontempmint.tavg-u-hxy-sea.yr.GLB (Oyr.ocontempmint)": {
     "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"tosmint_con\" name=\"ocontempmint\" />"
   },
   "Variable ocean.ocontemptend.tavg-ol-hxy-sea.yr.GLB (Oyr.ocontemptend)": {
     "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"ttrd_tot_li\" name=\"ocontemptend\" />"
+  },
+  "Variable ocean.opottempdiff.tavg-ol-hxy-sea.yr.GLB (Oyr.opottempdiff)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"ttrd_zdfp_li\" name=\"opottempdiff\" />",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"ttrd_zdfp_li\" name=\"opottempdiff\" />",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"ttrd_zdfp_li\" name=\"opottempdiff\" />"
   },
   "Variable ocean.opottempmint.tavg-u-hxy-sea.yr.GLB (Oyr.opottempmint)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"tosmint\" name=\"opottempmint\" />",
@@ -253,6 +261,12 @@
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"ttrd_tot_li\" name=\"opottemptend\" />",
     "UKESM1": "onm/grid-T`: `<field field_ref=\"ttrd_tot_li\" name=\"opottemptend\" />",
     "UKESM1-3": "onm/grid-T`: `<field field_ref=\"ttrd_tot_li\" name=\"opottemptend\" />"
+  },
+  "Variable ocean.osaltdiff.tavg-ol-hxy-sea.yr.GLB (Oyr.osaltdiff)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"strd_zdfp_li\" name=\"osaltdiff\" />",
+    "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"strd_zdfp_li\" name=\"osaltdiff\" />",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"strd_zdfp_li\" name=\"osaltdiff\" />",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"strd_zdfp_li\" name=\"osaltdiff\" />"
   },
   "Variable ocean.osalttend.tavg-ol-hxy-sea.yr.GLB (Oyr.osalttend)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"strd_tot_li\" name=\"osalttend\" />",
