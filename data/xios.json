@@ -8,6 +8,11 @@
   "Variable ocean.bigthetao.tavg-op20bar-hxy-sea.day.GLB (Oday.bigthetao200)": {
     "HadGEM3-GC5": "ond/grid-T`: `<field field_ref=\"toce_con\" name=\"bigthetao\" operation=\"average\" freq_op=\"1d\" > @toce_con_e3t / @e3t </field>"
   },
+  "Variable ocean.diftrblo.tavg-ol-hxy-sea.yr.GLB (Oyr.diftrblo)": {
+    "HadGEM3-GC31": "onm/grid-W`: `<field field_ref=\"aht2d_eiv\" name=\"diftrblo\" />",
+    "UKESM1": "onm/grid-W`: `<field field_ref=\"aht2d_eiv\" name=\"diftrblo\" />",
+    "UKESM1-3": "onm/grid-W`: `<field field_ref=\"aht2d_eiv\" name=\"diftrblo\" />"
+  },
   "Variable ocean.difvho.tavg-ol-hxy-sea.yr.GLB (Oyr.difvho)": {
     "HadGEM3-GC31": "onm/grid-W`: `<field field_ref=\"avt\" name=\"difvho\" />",
     "HadGEM3-GC5": "onm/grid-W`: `<field field_ref=\"avt\" name=\"difvho\" />",
