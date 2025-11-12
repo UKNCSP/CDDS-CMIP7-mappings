@@ -2172,6 +2172,10 @@ HadGEM3-GC31,hfdsn_tavg-u-hxy-lnd,day,m01s08i202,8,202,TDAYMN,DIAG,UP6,True,Fals
 HadGEM3-GC5,hfdsn_tavg-u-hxy-lnd,day,m01s08i202,8,202,TDAYMN,DIAG,UP6,True,False,False
 UKESM1,hfdsn_tavg-u-hxy-lnd,day,m01s08i202,8,202,TDAYMN,DIAG,UP6,True,False,False
 UKESM1-3,hfdsn_tavg-u-hxy-lnd,day,m01s08i202,8,202,TDAYMN,DIAG,UP6,True,False,False
+HadGEM3-GC31,flashrate_tavg-u-hxy-u,day,m01s50i082,50,082,TDAYMN,DIAG,UP6,False,True,True
+HadGEM3-GC5,flashrate_tavg-u-hxy-u,day,m01s50i082,50,082,TDAYMN,DIAG,UP6,False,True,True
+UKESM1,flashrate_tavg-u-hxy-u,day,m01s50i082,50,082,TDAYMN,DIAG,UP6,False,True,True
+UKESM1-3,flashrate_tavg-u-hxy-u,day,m01s50i082,50,082,TDAYMN,DIAG,UP6,False,True,True
 HadGEM3-GC31,evspsblveg_tavg-u-hxy-u,day,m01s03i297,3,297,TDAYMN,DIAG,UP6,True,False,False
 HadGEM3-GC5,evspsblveg_tavg-u-hxy-u,day,m01s03i297,3,297,TDAYMN,DIAG,UP6,True,False,False
 UKESM1,evspsblveg_tavg-u-hxy-u,day,m01s03i297,3,297,TDAYMN,DIAG,UP6,True,False,False
