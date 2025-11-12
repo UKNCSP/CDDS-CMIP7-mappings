@@ -8,6 +8,18 @@
   "Variable ocean.bigthetao.tavg-op20bar-hxy-sea.day.GLB (Oday.bigthetao200)": {
     "HadGEM3-GC5": "ond/grid-T`: `<field field_ref=\"toce_con\" name=\"bigthetao\" operation=\"average\" freq_op=\"1d\" > @toce_con_e3t / @e3t </field>"
   },
+  "Variable ocean.difvho.tavg-ol-hxy-sea.yr.GLB (Oyr.difvho)": {
+    "HadGEM3-GC31": "onm/grid-W`: `<field field_ref=\"avt\" name=\"difvho\" />",
+    "HadGEM3-GC5": "onm/grid-W`: `<field field_ref=\"avt\" name=\"difvho\" />",
+    "UKESM1": "onm/grid-W`: `<field field_ref=\"avt\" name=\"difvho\" />",
+    "UKESM1-3": "onm/grid-W`: `<field field_ref=\"avt\" name=\"difvho\" />"
+  },
+  "Variable ocean.difvso.tavg-ol-hxy-sea.yr.GLB (Oyr.difvso)": {
+    "HadGEM3-GC31": "onm/grid-W`: `<field field_ref=\"avs\" name=\"difvso\" />",
+    "HadGEM3-GC5": "onm/grid-W`: `<field field_ref=\"avs\" name=\"difvso\" />",
+    "UKESM1": "onm/grid-W`: `<field field_ref=\"avs\" name=\"difvso\" />",
+    "UKESM1-3": "onm/grid-W`: `<field field_ref=\"avs\" name=\"difvso\" />"
+  },
   "Variable ocean.evspsbl.tavg-u-hxy-ifs.mon.GLB (Omon.evs)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"evap_ao_cea\" name=\"evs\" />` <br> `onm/grid-T`: `<field field_ref=\"empmr\" />` <br> `onm/grid-T`: `<field field_ref=\"berg_total_melt\" />` <br> `onm/grid-T`: `<field field_ref=\"runoffs\" name=\"friver\" />` <br> `onm/grid-T`: `<field field_ref=\"snow_ao_cea\" />` <br> `onm/grid-T`: `<field field_ref=\"rain_ao_cea\" />` <br> `onm/grid-T`: `<field field_ref=\"fmmflx\" name=\"fsitherm\" />",
     "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"evap_ao_cea\" name=\"evs\" />` <br> `onm/grid-T`: `<field field_ref=\"empmr\" />` <br> `onm/grid-T`: `<field field_ref=\"berg_total_melt\" />` <br> `onm/grid-T`: `<field field_ref=\"runoffs\" name=\"friver\" />` <br> `onm/grid-T`: `<field field_ref=\"snow_ao_cea\" />` <br> `onm/grid-T`: `<field field_ref=\"rain_ao_cea\" />` <br> `onm/grid-T`: `<field field_ref=\"fmmflx\" name=\"fsitherm\" />",
