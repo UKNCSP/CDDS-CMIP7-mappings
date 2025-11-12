@@ -233,10 +233,13 @@
     "UKESM1-3": "onm/grid-W`: `<field field_ref=\"bn2\" name=\"obvfsq\" />"
   },
   "Variable ocean.ocontempdiff.tavg-ol-hxy-sea.yr.GLB (Oyr.ocontempdiff)": {
-    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"ttrd_zdfp_li\" name=\"ocontempdiff\" />"
+    "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"ttrd_zdfp_li\" name=\"ocontempdiff\" />"
   },
   "Variable ocean.ocontempmint.tavg-u-hxy-sea.yr.GLB (Oyr.ocontempmint)": {
     "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"tosmint_con\" name=\"ocontempmint\" />"
+  },
+  "Variable ocean.ocontemppmdiff.tavg-ol-hxy-sea.yr.GLB (Oyr.ocontemppmdiff)": {
+    "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"ttrd_iso_li\" name=\"ocontemppmdiff\" />"
   },
   "Variable ocean.ocontemptend.tavg-ol-hxy-sea.yr.GLB (Oyr.ocontemptend)": {
     "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"ttrd_tot_li\" name=\"ocontemptend\" />"
@@ -251,6 +254,11 @@
     "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"tosmint_pot\" name=\"opottempmint\" />",
     "UKESM1": "onm/grid-T`: `<field field_ref=\"tosmint\" name=\"opottempmint\" />",
     "UKESM1-3": "onm/grid-T`: `<field field_ref=\"tosmint\" name=\"opottempmint\" />"
+  },
+  "Variable ocean.opottemppmdiff.tavg-ol-hxy-sea.yr.GLB (Oyr.opottemppmdiff)": {
+    "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"ttrd_iso_li\" name=\"opottemppmdiff\" />",
+    "UKESM1": "onm/grid-T`: `<field field_ref=\"ttrd_iso_li\" name=\"opottemppmdiff\" />",
+    "UKESM1-3": "onm/grid-T`: `<field field_ref=\"ttrd_iso_li\" name=\"opottemppmdiff\" />"
   },
   "Variable ocean.opottemptend.tavg-ol-hxy-sea.dec.GLB (Odec.opottemptend)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"ttrd_tot_li\" name=\"opottemptend\" />",
