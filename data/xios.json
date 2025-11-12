@@ -590,6 +590,7 @@
   },
   "Variable ocean.zfullo.tavg-ol-hxy-sea.yr.GLB (Eyr.zfullo)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"tpt_dep\" name=\"zfullo\" />",
+    "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"tpt_dep\" name=\"zfullo\" />",
     "UKESM1": "onm/grid-T`: `<field field_ref=\"tpt_dep\" name=\"zfullo\" />",
     "UKESM1-3": "onm/grid-T`: `<field field_ref=\"tpt_dep\" name=\"zfullo\" />"
   },
