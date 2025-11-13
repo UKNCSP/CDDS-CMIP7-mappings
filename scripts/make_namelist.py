@@ -8,13 +8,6 @@ import csv
 import sys
 
 if __name__ == '__main__':
-    
-    # Get all the lines from the addresses file.
-    #filename = "addresses.txt"
-    #with open(filename, 'r') as fh:
-    #    addresses = fh.readlines()
-    #naddresses = len(addresses)
-    #print(f"Read {naddresses} lines from {filename}")
 
     if len(sys.argv) != 2:
         print(f"{sys.argv[0]} csv filename")
@@ -71,7 +64,6 @@ if __name__ == '__main__':
                 # are read in as strings from the CSV file), otherwise they get output with leading
                 # zeros, which rose edit doesn't like.
                 outfile.write(f"[namelist:umstash_streq({iaddress})]\n")
-                # outfile.write(f"[namelist:umstash_streq({addresses[iaddress].strip()})]\n")
                 outfile.write(f"dom_name='{u[1]}'\n")
                 outfile.write(f"isec={int(u[2])}\n")
                 outfile.write(f"item={int(u[3])}\n")
@@ -85,6 +77,3 @@ if __name__ == '__main__':
                 outfile.write(f"\n")
 
                 iaddress += 1
-                #if iaddress >= naddresses:
-                #    print(f"*** Warning: Ran out of addresses after {iaddress} entries")
-                #    break
