@@ -359,10 +359,10 @@ UKESM1-3,rsus_tavg-u-hxy-si,day,m01s00i031,0,031,TMONMN,DIAG,UP5,False,True,True
 UKESM1-3,rsus_tavg-u-hxy-si,day,m01s01i503,1,503,TMONMN,DIAG,UP5,False,True,True
 HadGEM3-GC5,rsus_tavg-u-hxy-si,day,m01s00i031,0,031,TMONMN,DIAG,UP5,False,True,True
 HadGEM3-GC5,rsus_tavg-u-hxy-si,day,m01s01i503,1,503,TMONMN,DIAG,UP5,False,True,True
-UKESM1-3,rsds_tavg-u-hxy-si,day,m01s00i031,0,031,TMONMN,DIAG,UP5,False,True,True
-UKESM1-3,rsds_tavg-u-hxy-si,day,m01s01i501,1,501,TMONMN,DIAG,UP5,False,True,True
-HadGEM3-GC5,rsds_tavg-u-hxy-si,day,m01s00i031,0,031,TMONMN,DIAG,UP5,False,True,True
-HadGEM3-GC5,rsds_tavg-u-hxy-si,day,m01s01i501,1,501,TMONMN,DIAG,UP5,False,True,True
+UKESM1-3,rsds_tavg-u-hxy-si,day,m01s00i031,0,031,TDAYM,DIAG,UP5,False,True,True
+UKESM1-3,rsds_tavg-u-hxy-si,day,m01s01i501,1,501,TDAYM,DIAG,UP5,False,True,True
+HadGEM3-GC5,rsds_tavg-u-hxy-si,day,m01s00i031,0,031,TDAYM,DIAG,UP5,False,True,True
+HadGEM3-GC5,rsds_tavg-u-hxy-si,day,m01s01i501,1,501,TDAYM,DIAG,UP5,False,True,True
 UKESM1-3,siflsenstop_tavg-u-hxy-si,day,m01s00i031,0,031,TMONMN,DIAG,UP5,False,True,True
 UKESM1-3,siflsenstop_tavg-u-hxy-si,day,m01s03i533,3,533,TMONMN,DIAG,UP5,False,True,True
 HadGEM3-GC5,siflsenstop_tavg-u-hxy-si,day,m01s00i031,0,031,TMONMN,DIAG,UP5,False,True,True
