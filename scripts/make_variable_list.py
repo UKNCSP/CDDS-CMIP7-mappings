@@ -2,6 +2,13 @@
 import sys
 import re
 
+streamDict = {
+    "UP4": "ap4",
+    "UP5": "ap5",
+    "UP6": "ap6",
+    "UP7": "ap7",
+    "UP8": "ap8",
+}
 if __name__ == '__main__':
 
     if len(sys.argv) <= 1:
@@ -44,5 +51,6 @@ if __name__ == '__main__':
                 if not streamFound:
                     if f"| {m} |" in line:
                         streamFound = True
-                        stream = line.split("|")[6].strip()
-                        print(f"{var}/{mip}:{stream}")
+                        usage = line.split("|")[6].strip()
+                        stream = streamDict.get(usage, usage)
+                        print(f"{mip}/{var}:{stream}")
