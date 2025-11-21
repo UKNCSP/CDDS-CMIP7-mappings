@@ -40,8 +40,8 @@ if __name__ == '__main__':
 
                 # Is this entry approved?  Note that some entries have 'TRUE' in lower case.
                 if d['approved'].upper() == 'TRUE' \
-                    or d['approved_UKESM'].upper() == 'TRUE' \
-                    or d['approved_HadGEM'].upper() == 'TRUE':
+                    or ('UKESM' in d['Model'] and d['approved_UKESM'].upper() == 'TRUE') \
+                    or ('HadGEM3' in d['Model'] and d['approved_HadGEM'].upper() == 'TRUE'):
                     iapproved += 1
 
                     # Add the variables we're interested in to the set of unique entries.
@@ -67,11 +67,14 @@ if __name__ == '__main__':
                 outfile.write(f"dom_name='{u[1]}'\n")
                 outfile.write(f"isec={int(u[2])}\n")
                 outfile.write(f"item={int(u[3])}\n")
-                # Distinguish between subdaily and supradaily CMIP7 diagnostics.
+                # Distinguish between subdaily, daily and supradaily CMIP7 diagnostics.
                 if u[4] in ['EVERYTS', 'T1HRMAX', 'T1HRMN', 'T3HR', 'T3HRMN', 'T6HR', 'T6HRMN']:
                     outfile.write(f"package='CMIP7 subdaily diagnostics'\n")
                 else:
-                    outfile.write(f"package='CMIP7 supradaily diagnostics'\n")
+                    if 'DAY' in u[4]:
+                        outfile.write(f"package='CMIP7 daily diagnostics'\n")
+                    else:
+                        outfile.write(f"package='CMIP7 supradaily diagnostics'\n")
                 outfile.write(f"tim_name='{u[4]}'\n")
                 outfile.write(f"use_name='{u[5]}'\n")
                 outfile.write(f"\n")
