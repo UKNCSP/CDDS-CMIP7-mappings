@@ -73,25 +73,25 @@
     "UKESM1": "onm/grid-T`: `<field field_ref=\"runoffs\" name=\"friver\" />",
     "UKESM1-3": "onm/grid-T`: `<field field_ref=\"runoffs\" name=\"friver\" />"
   },
-  "Variable ocean.hfbasin.tavg-u-hys-sea.mon.GLB (Omon.hfbasin)": {
+  "Variable ocean.hfbasin.tavg-u-hyb-sea.mon.GLB (Omon.hfbasin)": {
     "HadGEM3-GC31": "onm/diaptr`: `<field field_ref=\"sophtadv\" name=\"hfbasin_global\" detect_missing_value=\"true\"> @sophtadv + @sophtldf + @sophteiv </field>` <br>  `onm/diaptr`: `<field field_ref=\"sophtadv\" name=\"hfbasin_atlantic\" detect_missing_value=\"true\"> @sophtadv_atl + @sophtldf_atl + @sophteiv_atl </field>` <br>  `onm/diaptr`: `<field field_ref=\"sophtadv\" name=\"hfbasin_indopacific\" detect_missing_value=\"true\"> @sophtadv_ipc + @sophtldf_ipc + @sophteiv_ipc </field>",
     "HadGEM3-GC5": "onm/diaptr`: `<field field_ref=\"sophtadv\" name=\"hfbasin\" grid_ref=\"grid_ptr_T_2D\" detect_missing_value=\"true\" > @sophtadv + @sophtldf + @sophteiv </field>",
     "UKESM1": "onm/diaptr`: `<field field_ref=\"sophtadv\" name=\"hfbasin_global\" detect_missing_value=\"true\"> @sophtadv + @sophtldf + @sophteiv </field>` <br>  `onm/diaptr`: `<field field_ref=\"sophtadv\" name=\"hfbasin_atlantic\" detect_missing_value=\"true\"> @sophtadv_atl + @sophtldf_atl + @sophteiv_atl </field>` <br>  `onm/diaptr`: `<field field_ref=\"sophtadv\" name=\"hfbasin_indopacific\" detect_missing_value=\"true\"> @sophtadv_ipc + @sophtldf_ipc + @sophteiv_ipc </field>",
     "UKESM1-3": "onm/diaptr`: `<field field_ref=\"sophtadv\" name=\"hfbasin_global\" grid_ref=\"grid_ptr_T_2D\" detect_missing_value=\"true\"> @sophtadv + @sophtldf + @sophteiv </field>` <br>  `onm/diaptr`: `<field field_ref=\"sophtadv\" name=\"hfbasin_atlantic\" grid_ref=\"grid_ptr_T_2D\" detect_missing_value=\"true\"> @sophtadv_atl + @sophtldf_atl + @sophteiv_atl </field>` <br>  `onm/diaptr`: `<field field_ref=\"sophtadv\" name=\"hfbasin_indopacific\" grid_ref=\"grid_ptr_T_2D\" detect_missing_value=\"true\"> @sophtadv_ipc + @sophtldf_ipc + @sophteiv_ipc </field>"
   },
-  "Variable ocean.hfbasinpadv.tavg-u-hys-sea.mon.GLB (Omon.hfbasinpadv)": {
+  "Variable ocean.hfbasinpadv.tavg-u-hyb-sea.mon.GLB (Omon.hfbasinpadv)": {
     "HadGEM3-GC31": "onm/diaptr`: `<field field_ref=\"sophteiv\" name=\"hfbasinpadv_global\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophteiv_atl\" name=\"hfbasinpadv_atlantic\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophteiv_ipc\" name=\"hfbasinpadv_indopacific\" />",
     "HadGEM3-GC5": "onm/diaptr`: `<field field_ref=\"sophteiv\" name=\"hfbasinpadv\" grid_ref=\"grid_ptr_T_2D\" />",
     "UKESM1": "onm/diaptr`: `<field field_ref=\"sophteiv\" name=\"hfbasinpadv_global\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophteiv_atl\" name=\"hfbasinpadv_atlantic\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophteiv_ipc\" name=\"hfbasinpadv_indopacific\" />",
     "UKESM1-3": "onm/diaptr`: `<field field_ref=\"sophteiv\" name=\"hfbasinpadv_global\" grid_ref=\"grid_ptr_T_2D\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophteiv_atl\" name=\"hfbasinpadv_atlantic\" grid_ref=\"grid_ptr_T_2D\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophteiv_ipc\" name=\"hfbasinpadv_indopacific\" grid_ref=\"grid_ptr_T_2D\" />"
   },
-  "Variable ocean.hfbasinpmadv.tavg-u-hys-sea.mon.GLB (Omon.hfbasinpmadv)": {
+  "Variable ocean.hfbasinpmadv.tavg-u-hyb-sea.mon.GLB (Omon.hfbasinpmadv)": {
     "HadGEM3-GC31": "onm/diaptr`: `<field field_ref=\"sophteiv\" name=\"hfbasinpadv_global\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophteiv_atl\" name=\"hfbasinpadv_atlantic\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophteiv_ipc\" name=\"hfbasinpadv_indopacific\" />",
     "HadGEM3-GC5": "onm/diaptr`: `<field field_ref=\"sophteiv\" name=\"hfbasinpadv\" grid_ref=\"grid_ptr_T_2D\" />",
     "UKESM1": "onm/diaptr`: `<field field_ref=\"sophteiv\" name=\"hfbasinpadv_global\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophteiv_atl\" name=\"hfbasinpadv_atlantic\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophteiv_ipc\" name=\"hfbasinpadv_indopacific\" />",
     "UKESM1-3": "onm/diaptr`: `<field field_ref=\"sophteiv\" name=\"hfbasinpadv_global\" grid_ref=\"grid_ptr_T_2D\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophteiv_atl\" name=\"hfbasinpadv_atlantic\" grid_ref=\"grid_ptr_T_2D\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophteiv_ipc\" name=\"hfbasinpadv_indopacific\" grid_ref=\"grid_ptr_T_2D\" />"
   },
-  "Variable ocean.hfbasinpmdiff.tavg-u-hys-sea.mon.GLB (Omon.hfbasinpmdiff)": {
+  "Variable ocean.hfbasinpmdiff.tavg-u-hyb-sea.mon.GLB (Omon.hfbasinpmdiff)": {
     "HadGEM3-GC31": "onm/diaptr`: `<field field_ref=\"sophtldf\" name=\"hfbasinpmdiff_global\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophtldf_atl\" name=\"hfbasinpmdiff_atlantic\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophtldf_ipc\" name=\"hfbasinpmdiff_indopacific\" />",
     "HadGEM3-GC5": "onm/diaptr`: `<field field_ref=\"sophtldf\" name=\"hfbasinpmdiff\" grid_ref=\"grid_ptr_T_2D\" />",
     "UKESM1": "onm/diaptr`: `<field field_ref=\"sophtldf\" name=\"hfbasinpmdiff_global\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophtldf_atl\" name=\"hfbasinpmdiff_atlantic\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophtldf_ipc\" name=\"hfbasinpmdiff_indopacific\" />",
@@ -166,13 +166,13 @@
     "UKESM1": "onm/grid-V`: `<field field_ref=\"v_heattr\" name=\"hfyint\" detect_missing_value=\"true\" > @vadv_heattr + @vdiff_heattr + @veiv_heattr </field>",
     "UKESM1-3": "onm/grid-V`: `<field field_ref=\"v_heattr\" name=\"hfyint\" detect_missing_value=\"true\" > @vadv_heattr + @vdiff_heattr + @veiv_heattr </field>"
   },
-  "Variable ocean.htovgyre.tavg-u-hys-sea.mon.GLB (Omon.htovgyre)": {
+  "Variable ocean.htovgyre.tavg-u-hyb-sea.mon.GLB (Omon.htovgyre)": {
     "HadGEM3-GC31": "onm/diaptr`: `<field field_ref=\"sophtove\" name=\"htovgyre_global\" > @sophtadv - @sophtove </field>` <br>  `onm/diaptr`: `<field field_ref=\"sophtove_atl\" name=\"htovgyre_atlantic\" > @sophtadv_atl - @sophtove_atl </field>` <br>  `onm/diaptr`: `<field field_ref=\"sophtove_ipc\" name=\"htovgyre_indopacific\" > @sophtadv_ipc - @sophtove_ipc </field>",
     "HadGEM3-GC5": "onm/diaptr`: `<field field_ref=\"sophtove\" name=\"htovgyre\" grid_ref=\"grid_ptr_T_2D\" > @sophtadv - @sophtove </field>",
     "UKESM1": "onm/diaptr`: `<field field_ref=\"sophtove\" name=\"htovgyre_global\" > @sophtadv - @sophtove </field>` <br>  `onm/diaptr`: `<field field_ref=\"sophtove_atl\" name=\"htovgyre_atlantic\" > @sophtadv_atl - @sophtove_atl </field>` <br>  `onm/diaptr`: `<field field_ref=\"sophtove_ipc\" name=\"htovgyre_indopacific\" > @sophtadv_ipc - @sophtove_ipc </field>",
     "UKESM1-3": "onm/diaptr`: `<field field_ref=\"sophtove\" name=\"htovgyre_global\" grid_ref=\"grid_ptr_T_2D\" > @sophtadv - @sophtove </field>` <br>  `onm/diaptr`: `<field field_ref=\"sophtove_atl\" name=\"htovgyre_atlantic\" grid_ref=\"grid_ptr_T_2D\" > @sophtadv_atl - @sophtove_atl </field>` <br>  `onm/diaptr`: `<field field_ref=\"sophtove_ipc\" name=\"htovgyre_indopacific\" grid_ref=\"grid_ptr_T_2D\" > @sophtadv_ipc - @sophtove_ipc </field>"
   },
-  "Variable ocean.htovovrt.tavg-u-hys-sea.mon.GLB (Omon.htovovrt)": {
+  "Variable ocean.htovovrt.tavg-u-hyb-sea.mon.GLB (Omon.htovovrt)": {
     "HadGEM3-GC31": "onm/diaptr`: `<field field_ref=\"sophtove\" name=\"htovovrt_global\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophtove_atl\" name=\"htovovrt_atlantic\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophtove_ipc\" name=\"htovovrt_indopacific\" />",
     "HadGEM3-GC5": "onm/diaptr`: `<field field_ref=\"sophtove\" name=\"htovovrt\" grid_ref=\"grid_ptr_T_2D\" />",
     "UKESM1": "onm/diaptr`: `<field field_ref=\"sophtove\" name=\"htovovrt_global\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophtove_atl\" name=\"htovovrt_atlantic\" />` <br>  `onm/diaptr`: `<field field_ref=\"sophtove_ipc\" name=\"htovovrt_indopacific\" />",
@@ -202,13 +202,13 @@
     "UKESM1": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotst\" />",
     "UKESM1-3": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotst\" />"
   },
-  "Variable ocean.mlotstmax.tmax-u-hxy-sea.mon.GLB (Omon.mlotstmax)": {
+  "Variable ocean.mlotst.tmax-u-hxy-sea.mon.GLB (Omon.mlotstmax)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotstmax\" operation=\"maximum\" />",
     "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotstmax\" operation=\"maximum\" />",
     "UKESM1": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotstmax\" operation=\"maximum\" />",
     "UKESM1-3": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotstmax\" operation=\"maximum\" />"
   },
-  "Variable ocean.mlotstmin.tmin-u-hxy-sea.mon.GLB (Omon.mlotstmin)": {
+  "Variable ocean.mlotst.tmin-u-hxy-sea.mon.GLB (Omon.mlotstmin)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotstmin\" operation=\"minimum\" />",
     "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotstmin\" operation=\"minimum\" />",
     "UKESM1": "onm/grid-T`: `<field field_ref=\"mldzint_1\" name=\"mlotstmin\" operation=\"minimum\" />",
@@ -226,13 +226,13 @@
     "UKESM1": "onm/grid-U`: `<field field_ref=\"u_masstr_vint\" />",
     "UKESM1-3": "onm/grid-U`: `<field field_ref=\"u_masstr_vint\" />"
   },
-  "Variable ocean.msfty.tavg-ol-hys-sea.mon.GLB (Omon.msftyz)": {
+  "Variable ocean.msfty.tavg-ol-ht-sea.mon.GLB (Omon.msftyz)": {
     "HadGEM3-GC31": "onm/diaptr`: `<field field_ref=\"zomsfglo\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfatl\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfipc\" />",
     "HadGEM3-GC5": "onm/diaptr`: `<field field_ref=\"zomsf\" grid_ref=\"grid_ptr_W_3D\" />",
     "UKESM1": "onm/diaptr`: `<field field_ref=\"zomsfglo\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfatl\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfipc\" />",
     "UKESM1-3": "onm/diaptr`: `<field field_ref=\"zomsfglo\" grid_ref=\"grid_ptr_W_3D\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfatl\" grid_ref=\"grid_ptr_W_3D\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfipc\" grid_ref=\"grid_ptr_W_3D\" />"
   },
-  "Variable ocean.msftypa.tavg-ol-hys-sea.mon.GLB (Omon.msftyzmpa)": {
+  "Variable ocean.msftypa.tavg-ol-ht-sea.mon.GLB (Omon.msftyzmpa)": {
     "HadGEM3-GC31": "onm/diaptr`: `<field field_ref=\"zomsfeivglo\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfeivatl\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfeivipc\" />",
     "UKESM1": "onm/diaptr`: `<field field_ref=\"zomsfeivglo\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfeivatl\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfeivipc\" />",
     "UKESM1-3": "onm/diaptr`: `<field field_ref=\"zomsfeivglo\" grid_ref=\"grid_ptr_W_3D\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfeivatl\" grid_ref=\"grid_ptr_W_3D\" />` <br>  `onm/diaptr`: `<field field_ref=\"zomsfeivipc\" grid_ref=\"grid_ptr_W_3D\" />"
@@ -349,19 +349,19 @@
     "UKESM1": "onm/grid-T`: `<field field_ref=\"fmmflx\" name=\"fsitherm\" />",
     "UKESM1-3": "onm/grid-T`: `<field field_ref=\"fmmflx\" name=\"fsitherm\" />"
   },
-  "Variable ocean.sltbasin.tavg-u-hys-sea.mon.GLB (Omon.sltbasin)": {
+  "Variable ocean.sltbasin.tavg-u-hyb-sea.mon.GLB (Omon.sltbasin)": {
     "HadGEM3-GC31": "onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_global\" detect_missing_value=\"true\"> 1026 * 1000 * (@sopstadv + @sopstldf + @sopsteiv) </field>` <br>  `onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_atlantic\" detect_missing_value=\"true\"> 1026 * 1000 * (@sopstadv_atl + @sopstldf_atl + @sopsteiv_atl) </field>` <br> `onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_indopacific\" detect_missing_value=\"true\"> 1026 * 1000 * (@sopstadv_ipc + @sopstldf_ipc + @sopsteiv_ipc) </field>",
     "HadGEM3-GC5": "onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin\" grid_ref=\"grid_ptr_T_2D\" detect_missing_value=\"true\" > 1000 * 1000 * (@sopstadv + @sopstldf + @sopsteiv) </field>",
     "UKESM1": "onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_global\" detect_missing_value=\"true\"> 1026 * 1000 * (@sopstadv + @sopstldf + @sopsteiv) </field>` <br>  `onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_atlantic\" detect_missing_value=\"true\"> 1026 * 1000 * (@sopstadv_atl + @sopstldf_atl + @sopsteiv_atl) </field>` <br> `onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_indopacific\" detect_missing_value=\"true\"> 1026 * 1000 * (@sopstadv_ipc + @sopstldf_ipc + @sopsteiv_ipc) </field>",
     "UKESM1-3": "onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_global\" grid_ref=\"grid_ptr_T_2D\" detect_missing_value=\"true\"> 1026 * 1000 * (@sopstadv + @sopstldf + @sopsteiv) </field>` <br> `onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_atlantic\" grid_ref=\"grid_ptr_T_2D\" detect_missing_value=\"true\"> 1026 * 1000 * (@sopstadv_atl + @sopstldf_atl + @sopsteiv_atl) </field>` <br> `onm/diaptr`: `<field field_ref=\"sopstadv\" name=\"sltbasin_indopacific\" grid_ref=\"grid_ptr_T_2D\" detect_missing_value=\"true\"> 1026 * 1000 * (@sopstadv_ipc + @sopstldf_ipc + @sopsteiv_ipc) </field>"
   },
-  "Variable ocean.sltovgyre.tavg-u-hys-sea.mon.GLB (Omon.sltovgyre)": {
+  "Variable ocean.sltovgyre.tavg-u-hyb-sea.mon.GLB (Omon.sltovgyre)": {
     "HadGEM3-GC31": "onm/diaptr`: `<field field_ref=\"sopstove\" name=\"sltovgyre_global\" > 1026 * 1000 * (@sopstadv - @sopstove) </field>` <br>  `onm/diaptr`: `<field field_ref=\"sopstove\" name=\"sltovgyre_atlantic\" > 1026 * 1000 * (@sopstadv_atl - @sopstove_atl) </field>` <br> `onm/diaptr`: `<field field_ref=\"sopstove\" name=\"sltovgyre_indopacific\" > 1026 * 1000 * (@sopstadv_ipc - @sopstove_ipc) </field>",
     "HadGEM3-GC5": "onm/diaptr`: `<field field_ref=\"sopstove\" name=\"sltovgyre\" grid_ref=\"grid_ptr_T_2D\" > 1000 * 1000 * (@sopstadv - @sopstove) </field>",
     "UKESM1": "onm/diaptr`: `<field field_ref=\"sopstove\" name=\"sltovgyre_global\" > 1026 * 1000 * (@sopstadv - @sopstove) </field>` <br>  `onm/diaptr`: `<field field_ref=\"sopstove\" name=\"sltovgyre_atlantic\" > 1026 * 1000 * (@sopstadv_atl - @sopstove_atl) </field>` <br> `onm/diaptr`: `<field field_ref=\"sopstove\" name=\"sltovgyre_indopacific\" > 1026 * 1000 * (@sopstadv_ipc - @sopstove_ipc) </field>",
     "UKESM1-3": "onm/diaptr`: `<field field_ref=\"sopstove\" name=\"sltovgyre_global\" grid_ref=\"grid_ptr_T_2D\" > 1026 * 1000 * (@sopstadv - @sopstove) </field>` <br>  `onm/diaptr`: `<field field_ref=\"sopstove\" name=\"sltovgyre_atlantic\" grid_ref=\"grid_ptr_T_2D\" > 1026 * 1000 * (@sopstadv_atl - @sopstove_atl) </field>` <br> `onm/diaptr`: `<field field_ref=\"sopstove\" name=\"sltovgyre_indopacific\" grid_ref=\"grid_ptr_T_2D\" > 1026 * 1000 * (@sopstadv_ipc - @sopstove_ipc) </field>"
   },
-  "Variable ocean.sltovovrt.tavg-u-hys-sea.mon.GLB (Omon.sltovovrt)": {
+  "Variable ocean.sltovovrt.tavg-u-hyb-sea.mon.GLB (Omon.sltovovrt)": {
     "HadGEM3-GC31": "onm/diaptr`: `<field field_ref=\"sopstove\" name=\"sltovovrt_global\" > 1026 * 1000 * @sopstove </field>` <br>  `onm/diaptr`: `<field field_ref=\"sopstove\" name=\"sltovovrt_atlantic\" > 1026 * 1000 * @sopstove_atl </field>` <br> `onm/diaptr`: `<field field_ref=\"sopstove\" name=\"sltovovrt_indopacific\" > 1026 * 1000 * @sopstove_ipc </field>",
     "HadGEM3-GC5": "onm/diaptr`: `<field field_ref=\"sopstove\" name=\"sltovovrt\" grid_ref=\"grid_ptr_T_2D\" > 1000 * 1000 * @sopstove </field>",
     "UKESM1": "onm/diaptr`: `<field field_ref=\"sopstove\" name=\"sltovovrt_global\" > 1026 * 1000 * @sopstove </field>` <br>  `onm/diaptr`: `<field field_ref=\"sopstove\" name=\"sltovovrt_atlantic\" > 1026 * 1000 * @sopstove_atl </field>` <br> `onm/diaptr`: `<field field_ref=\"sopstove\" name=\"sltovovrt_indopacific\" > 1026 * 1000 * @sopstove_ipc </field>",
