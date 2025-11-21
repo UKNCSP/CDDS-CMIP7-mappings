@@ -1,13 +1,9 @@
 [![Update data files](https://github.com/UKNCSP/CDDS-CMIP7-mappings/actions/workflows/update_data_csv_json.yml/badge.svg)](https://github.com/UKNCSP/CDDS-CMIP7-mappings/actions/workflows/update_data_csv_json.yml)
 
-# **⚠️ $${\color{red}WARNING \space\space DATA \space\space REQUEST \space\space UPDATE \space\space IN \space\space PROGRESS}$$**
-
-I'm updating issues to match Data Request version v1.2.2.2. This message will be removed when it is complete -- Matt Mizielinski.
-
 # UKNCSP CDDS-CMIP7-mappings 
-**UPDATE 23/10/25: I've altered the gitub action to run as a "cron" job rather than after every update. CSV files in the data directory should be updated roughly every hour (see [here](https://github.com/UKNCSP/CDDS-CMIP7-mappings/actions/workflows/update_data_csv_json.yml) for the last run time) **
+**UPDATE 21/11/25: I've updated the issues to match version 1.2.2.2 of the Data Request**. Most changes are cosmetic, but there are some variables that have been removed (issues will be closed) and some variables where there might be an impact on what data is needed from the model. I'll be contacting experts on these variables in the next few days.  Note: there will be another update to match version v1.2.2.3 of the data request, but this is expected to be far smaller in scope.
 
-**IMPORTANT: All issues were updated for version 1.2.2 of the Data Request at the end of August. All CSV files will have changed as part of this update**
+**UPDATE 23/10/25**: I've altered the gitub action to run as a "cron" job rather than after every update. CSV files in the data directory should be updated roughly every hour (see [here](https://github.com/UKNCSP/CDDS-CMIP7-mappings/actions/workflows/update_data_csv_json.yml) for the last run time).
 
 This repository is being used for collection and review of model configuration for the UKESM1-3 and HadGEM3-GC5 based models being prepared for CMIP7 submission in 2026.
 
