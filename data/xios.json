@@ -688,5 +688,8 @@
     "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"toce_con\" name=\"bigthetao\" operation=\"average\" freq_op=\"1mo\" > @toce_con_e3t / @e3t </field>` <br> `onm/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
     "UKESM1": "onm/grid-T`: `<field field_ref=\"toce\" name=\"thetao\" operation=\"average\" freq_op=\"1mo\" > @toce_e3t / @e3t </field>` <br> `onm/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
     "UKESM1-3": "onm/grid-T`: `<field field_ref=\"toce\" name=\"thetao\" operation=\"average\" freq_op=\"1mo\" > @toce_e3t / @e3t </field>` <br> `onm/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />"
+  },
+  "Variable seaIce.siconc.tavg-u-hxy-u.day.GLB (SIday.siconc)": {
+    "HadGEM3-GC5": "ind/grid-T`: `<field field_ref=\"iceconc\" name=\"siconc\" />"
   }
 }
