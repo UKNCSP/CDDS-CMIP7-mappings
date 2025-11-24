@@ -1,5 +1,8 @@
 [![Update data files](https://github.com/UKNCSP/CDDS-CMIP7-mappings/actions/workflows/update_data_csv_json.yml/badge.svg)](https://github.com/UKNCSP/CDDS-CMIP7-mappings/actions/workflows/update_data_csv_json.yml)
 
+# **⚠️ $${\color{red}WARNING \space\space DATA \space\space REQUEST \space\space UPDATE \space\space IN \space\space PROGRESS}$$**
+The update from last week appears to be incomplete, so I'm currently fixing this.
+
 # UKNCSP CDDS-CMIP7-mappings 
 **UPDATE 21/11/25: I've updated the issues to match version 1.2.2.2 of the Data Request**. Most changes are cosmetic, but there are some variables that have been removed (issues will be closed) and some variables where there might be an impact on what data is needed from the model. I'll be contacting experts on these variables in the next few days.  Note: there will be another update to match version v1.2.2.3 of the data request, but this is expected to be far smaller in scope.
 
