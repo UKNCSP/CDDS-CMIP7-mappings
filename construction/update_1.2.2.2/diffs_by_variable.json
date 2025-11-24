@@ -1,0 +1,1880 @@
+{
+    "Header": {
+        "Description": "Comparison of variable metadata between 1220.json and 1222.json, arranged by variable",
+        "No. of variables in 1220.json": 1991,
+        "No. of variables in 1222.json": 1974,
+        "No. of variables with differences": 274,
+        "No. of variables with differences in each metadata attribute": {
+            "cell_measures": 18,
+            "cell_methods": 37,
+            "comment": 32,
+            "dimensions": 187,
+            "long_name": 22,
+            "positive": 1,
+            "standard_name": 15,
+            "units": 16
+        }
+    },
+    "Compound Name": {
+        "aerosol.co.tavg-h2m-hxy-u.day.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time lowerModelLayer",
+                "1222.json": "longitude latitude time height2m"
+            }
+        },
+        "aerosol.emianox.tavg-u-hxy-u.mon.GLB": {
+            "standard_name": {
+                "1220.json": "tendency_of_atmosphere_mass_content_of_nox_expressed_as_nitrogen_due_to_emission",
+                "1222.json": "tendency_of_atmosphere_mole_concentration_of_nox_expressed_as_nitrogen"
+            }
+        },
+        "aerosol.emilnox.tavg-al-hxy-u.mon.GLB": {
+            "comment": {
+                "1220.json": "Integrate the NOx production for lightning over model layer. proposed name: tendency_of_atmosphere_mass_content_of_nox_from_lightning",
+                "1222.json": "Integrate the NOx production for lightning over model layer."
+            },
+            "standard_name": {
+                "1220.json": "tendency_of_atmosphere_moles_of_nox_expressed_as_nitrogen",
+                "1222.json": "tendency_of_atmosphere_mole_concentration_of_nox_expressed_as_nitrogen"
+            }
+        },
+        "aerosol.mmraerh2o.tavg-h2m-hxy-u.day.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time lowerModelLayer",
+                "1222.json": "longitude latitude time height2m"
+            }
+        },
+        "aerosol.mmrbc.tavg-h2m-hxy-u.day.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time lowerModelLayer",
+                "1222.json": "longitude latitude time height2m"
+            }
+        },
+        "aerosol.mmrdust.tavg-h2m-hxy-u.day.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time lowerModelLayer",
+                "1222.json": "longitude latitude time height2m"
+            }
+        },
+        "aerosol.mmrnh4.tavg-h2m-hxy-u.day.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time lowerModelLayer",
+                "1222.json": "longitude latitude time height2m"
+            }
+        },
+        "aerosol.mmrno3.tavg-h2m-hxy-u.day.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time lowerModelLayer",
+                "1222.json": "longitude latitude time height2m"
+            }
+        },
+        "aerosol.mmroa.tavg-h2m-hxy-u.day.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time lowerModelLayer",
+                "1222.json": "longitude latitude time height2m"
+            }
+        },
+        "aerosol.mmrso4.tavg-h2m-hxy-u.day.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time lowerModelLayer",
+                "1222.json": "longitude latitude time height2m"
+            }
+        },
+        "aerosol.mmrsoa.tavg-h2m-hxy-u.day.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time lowerModelLayer",
+                "1222.json": "longitude latitude time height2m"
+            }
+        },
+        "aerosol.mmrss.tavg-h2m-hxy-u.day.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time lowerModelLayer",
+                "1222.json": "longitude latitude time height2m"
+            }
+        },
+        "aerosol.no2.tavg-h2m-hxy-u.1hr.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time lowerModelLayer",
+                "1222.json": "longitude latitude time height2m"
+            }
+        },
+        "aerosol.o3.tavg-h2m-hxy-u.1hr.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time lowerModelLayer",
+                "1222.json": "longitude latitude time height2m"
+            }
+        },
+        "aerosol.o3.tmax-h2m-hxy-u.day.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time lowerModelLayer",
+                "1222.json": "longitude latitude time height2m"
+            }
+        },
+        "aerosol.sfpm1.tavg-h2m-hxy-u.1hr.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time lowerModelLayer",
+                "1222.json": "longitude latitude time height2m"
+            }
+        },
+        "aerosol.sfpm1.tavg-h2m-hxy-u.day.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time lowerModelLayer",
+                "1222.json": "longitude latitude time height2m"
+            }
+        },
+        "aerosol.sfpm10.tavg-h2m-hxy-u.1hr.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time lowerModelLayer",
+                "1222.json": "longitude latitude time height2m"
+            }
+        },
+        "aerosol.sfpm10.tavg-h2m-hxy-u.day.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time lowerModelLayer",
+                "1222.json": "longitude latitude time height2m"
+            }
+        },
+        "aerosol.sfpm25.tavg-h2m-hxy-u.1hr.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time lowerModelLayer",
+                "1222.json": "longitude latitude time height2m"
+            }
+        },
+        "aerosol.sfpm25.tavg-h2m-hxy-u.day.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time lowerModelLayer",
+                "1222.json": "longitude latitude time height2m"
+            }
+        },
+        "aerosol.so2.tavg-h2m-hxy-u.day.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time lowerModelLayer",
+                "1222.json": "longitude latitude time height2m"
+            }
+        },
+        "aerosol.tropoz.tavg-u-hxy-u.mon.GLB": {
+            "standard_name": {
+                "1220.json": "equivalent_thickness_at_stp_of_atmosphere_ozone_content",
+                "1222.json": "equivalent_thickness_at_stp_of_troposphere_ozone_content"
+            }
+        },
+        "atmos.albisccp.tavg-u-hxy-cl.day.GLB": {
+            "cell_methods": {
+                "1220.json": "area: time: mean where cloud",
+                "1222.json": "area: time: mean where cloud (weighted by ISCCP total cloud area)"
+            },
+            "comment": {
+                "1220.json": "time-means are weighted by the ISCCP Total Cloud Fraction - see  <https://www.cfmip.org/tools-and-data/cosp>",
+                "1222.json": "Time-means are weighted by the ISCCP Total Cloud Fraction - see  <https://www.cfmip.org/tools-and-data/cosp>. Values will be missing where there are no clouds or no sunlight."
+            }
+        },
+        "atmos.albisccp.tavg-u-hxy-cl.mon.30S-90S": {
+            "cell_methods": {
+                "1220.json": "area: time: mean where cloud",
+                "1222.json": "area: time: mean where cloud (weighted by ISCCP total cloud area)"
+            },
+            "comment": {
+                "1220.json": "time-means weighted by the ISCCP Total Cloud Fraction - see <https://www.cfmip.org/tools-and-data/cosp>",
+                "1222.json": "Time-means are weighted by the ISCCP Total Cloud Fraction - see  <https://www.cfmip.org/tools-and-data/cosp>. Values will be missing where there are no clouds or no sunlight."
+            }
+        },
+        "atmos.albisccp.tavg-u-hxy-cl.mon.GLB": {
+            "cell_methods": {
+                "1220.json": "area: time: mean where cloud",
+                "1222.json": "area: time: mean where cloud (weighted by ISCCP total cloud area)"
+            },
+            "comment": {
+                "1220.json": "time-means weighted by the ISCCP Total Cloud Fraction - see <https://www.cfmip.org/tools-and-data/cosp>",
+                "1222.json": "Time-means are weighted by the ISCCP Total Cloud Fraction - see  <https://www.cfmip.org/tools-and-data/cosp>. Values will be missing where there are no clouds or no sunlight."
+            }
+        },
+        "atmos.ci.tavg-u-hxy-u.mon.GLB": {
+            "comment": {
+                "1220.json": "Fraction of time that convection occurs in the grid cell .",
+                "1222.json": "Fraction of time that convection occurs in the grid cell. If native cell data is regridded, the area-weighted mean of the contributing cells should be reported."
+            }
+        },
+        "atmos.clmodis.tavg-p7c-hxy-air.mon.30S-90S": {
+            "long_name": {
+                "1220.json": "MODIS Cloud Area Fraction",
+                "1222.json": "MODIS Cloud Area Percentage"
+            },
+            "units": {
+                "1220.json": "1",
+                "1222.json": "%"
+            }
+        },
+        "atmos.clmodis.tavg-p7c-hxy-air.mon.GLB": {
+            "long_name": {
+                "1220.json": "MODIS Cloud Area Fraction",
+                "1222.json": "MODIS Cloud Area Percentage"
+            },
+            "units": {
+                "1220.json": "1",
+                "1222.json": "%"
+            }
+        },
+        "atmos.clmodisice.tavg-p7c-hxy-air.mon.30S-90S": {
+            "long_name": {
+                "1220.json": "MODIS Ice Topped Cloud Area Fraction",
+                "1222.json": "MODIS Ice Topped Cloud Area Percentage"
+            },
+            "units": {
+                "1220.json": "1",
+                "1222.json": "%"
+            }
+        },
+        "atmos.clmodisice.tavg-p7c-hxy-air.mon.GLB": {
+            "long_name": {
+                "1220.json": "MODIS Ice Topped Cloud Area Fraction",
+                "1222.json": "MODIS Ice Topped Cloud Area Percentage"
+            },
+            "units": {
+                "1220.json": "1",
+                "1222.json": "%"
+            }
+        },
+        "atmos.clmodisiceReff.tavg-u-hxy-u.mon.GLB": {
+            "long_name": {
+                "1220.json": "MODIS Ice Topped Cloud Area Fraction",
+                "1222.json": "MODIS Ice Topped Cloud Area Percentage"
+            },
+            "units": {
+                "1220.json": "1",
+                "1222.json": "%"
+            }
+        },
+        "atmos.clmodisliquid.tavg-p7c-hxy-air.mon.30S-90S": {
+            "long_name": {
+                "1220.json": "MODIS Liquid Topped Cloud Area Fraction",
+                "1222.json": "MODIS Liquid Topped Cloud Area Percentage"
+            },
+            "units": {
+                "1220.json": "1",
+                "1222.json": "%"
+            }
+        },
+        "atmos.clmodisliquid.tavg-p7c-hxy-air.mon.GLB": {
+            "long_name": {
+                "1220.json": "MODIS Liquid Topped Cloud Area Fraction",
+                "1222.json": "MODIS Liquid Topped Cloud Area Percentage"
+            },
+            "units": {
+                "1220.json": "1",
+                "1222.json": "%"
+            }
+        },
+        "atmos.clmodisliquidReff.tavg-u-hxy-u.mon.GLB": {
+            "long_name": {
+                "1220.json": "MODIS Liquid Topped Cloud Area Fraction",
+                "1222.json": "MODIS Liquid Topped Cloud Area Percentage"
+            },
+            "units": {
+                "1220.json": "1",
+                "1222.json": "%"
+            }
+        },
+        "atmos.cltmodis.tavg-u-hxy-u.mon.30S-90S": {
+            "long_name": {
+                "1220.json": "MODIS Total Cloud Area Fraction",
+                "1222.json": "MODIS Total Cloud Area Percentage"
+            }
+        },
+        "atmos.co2.tavg-h2m-hxy-u.mon.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time lowerModelLayer",
+                "1222.json": "longitude latitude time height2m"
+            }
+        },
+        "atmos.hfls.tavg-u-hxy-is.mon.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "atmos.hfls.tavg-u-hxy-is.mon.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "atmos.hfss.tavg-u-hxy-is.mon.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "atmos.hfss.tavg-u-hxy-is.mon.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "atmos.prra.tavg-u-hxy-is.mon.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "atmos.prra.tavg-u-hxy-is.mon.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "atmos.prsn.tavg-u-hxy-is.mon.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "atmos.prsn.tavg-u-hxy-is.mon.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "atmos.prsn.tavg-u-hxy-u.6hr.GLB": {
+            "positive": {
+                "1220.json": "down",
+                "1222.json": ""
+            }
+        },
+        "atmos.prw.tavg-u-hxy-u.3hr.GLB": {
+            "comment": {
+                "1220.json": "Column-integrated water vapour",
+                "1222.json": "Vertically integrated mass of water vapour through the atmospheric column"
+            }
+        },
+        "atmos.prw.tavg-u-hxy-u.day.GLB": {
+            "comment": {
+                "1220.json": "vertically integrated through the atmospheric column",
+                "1222.json": "Vertically integrated mass of water vapour through the atmospheric column"
+            }
+        },
+        "atmos.prw.tavg-u-hxy-u.mon.30S-90S": {
+            "comment": {
+                "1220.json": "vertically integrated through the atmospheric column",
+                "1222.json": "Vertically integrated mass of water vapour through the atmospheric column"
+            }
+        },
+        "atmos.prw.tavg-u-hxy-u.mon.GLB": {
+            "comment": {
+                "1220.json": "vertically integrated through the atmospheric column",
+                "1222.json": "Vertically integrated mass of water vapour through the atmospheric column"
+            }
+        },
+        "atmos.prw.tpt-u-hxy-u.3hr.GLB": {
+            "comment": {
+                "1220.json": "vertically integrated through the atmospheric column",
+                "1222.json": "Vertically integrated mass of water vapour through the atmospheric column"
+            }
+        },
+        "atmos.prw.tpt-u-hxy-u.6hr.GLB": {
+            "cell_methods": {
+                "1220.json": "time: point",
+                "1222.json": "area: mean time: point"
+            },
+            "comment": {
+                "1220.json": "Vertically integrated mass of water vapour",
+                "1222.json": "Vertically integrated mass of water vapour through the atmospheric column"
+            },
+            "long_name": {
+                "1220.json": "6 hourly instantaneous vertically integrated water vapor",
+                "1222.json": "Water Vapor Path"
+            }
+        },
+        "atmos.reffcclwtop.tavg-u-hxy-ccl.day.GLB": {
+            "cell_methods": {
+                "1220.json": "area: time: mean where convective_cloud",
+                "1222.json": "area: time: mean where convective_cloud (weighted by area of upper-most convective liquid water cloud layer)"
+            }
+        },
+        "atmos.reffcclwtop.tavg-u-hxy-ccl.mon.GLB": {
+            "cell_methods": {
+                "1220.json": "area: time: mean where convective_cloud",
+                "1222.json": "area: time: mean where convective_cloud (weighted by area of upper-most convective liquid water cloud layer)"
+            }
+        },
+        "atmos.reffsclwtop.tavg-u-hxy-scl.day.GLB": {
+            "cell_methods": {
+                "1220.json": "area: time: mean where stratiform_cloud",
+                "1222.json": "area: time: mean where stratiform_cloud (weighted by area of upper-most stratiform liquid water layer)"
+            }
+        },
+        "atmos.reffsclwtop.tavg-u-hxy-scl.mon.GLB": {
+            "cell_methods": {
+                "1220.json": "area: time: mean where stratiform_cloud",
+                "1222.json": "area: time: mean where stratiform_cloud (weighted by area of upper-most stratiform liquid water layer)"
+            }
+        },
+        "atmos.rlds.tavg-u-hxy-is.mon.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "atmos.rlds.tavg-u-hxy-is.mon.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "atmos.rlus.tavg-u-hxy-is.mon.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "atmos.rlus.tavg-u-hxy-is.mon.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "atmos.rsds.tavg-u-hxy-is.mon.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "atmos.rsds.tavg-u-hxy-is.mon.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "atmos.rsus.tavg-u-hxy-is.mon.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "atmos.rsus.tavg-u-hxy-is.mon.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "atmos.sci.tavg-u-hxy-u.mon.GLB": {
+            "comment": {
+                "1220.json": "Fraction of time that shallow convection occurs in the grid cell.",
+                "1222.json": "Fraction of time that convection occurs in the grid cell. If native cell data is regridded, the area-weighted mean of the contributing cells should be reported."
+            }
+        },
+        "atmos.ta.tavg-p39-hy-air.day.GLB": {
+            "cell_measures": {
+                "1220.json": "area: areacella",
+                "1222.json": ""
+            }
+        },
+        "atmos.ts.tavg-u-hxy-is.mon.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "atmos.ts.tavg-u-hxy-is.mon.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "atmos.ts.tavg-u-hxy-sn.day.GLB": {
+            "cell_methods": {
+                "1220.json": "area: mean where land time: mean (weighted by snow area)",
+                "1222.json": "area: time: mean where snow (on land)"
+            }
+        },
+        "atmos.va.tpt-al-hxy-u.6hr.GLB": {
+            "cell_methods": {
+                "1220.json": "time: point",
+                "1222.json": "area: mean time: point"
+            }
+        },
+        "atmosChem.emiavnox.tavg-al-hxy-u.mon.GLB": {
+            "standard_name": {
+                "1220.json": "tendency_of_atmosphere_moles_of_nox_expressed_as_nitrogen",
+                "1222.json": "tendency_of_atmosphere_mole_concentration_of_nox_expressed_as_nitrogen"
+            }
+        },
+        "atmosChem.o3ref.tclm-al-hxy-u.fx.GLB": {
+            "cell_methods": {
+                "1220.json": "area: time: mean (monthly mean fixed annual cycle)",
+                "1222.json": "area: mean time: mean within years time: mean over years"
+            },
+            "dimensions": {
+                "1220.json": "longitude latitude alevel timefxc",
+                "1222.json": "longitude latitude alevel time2"
+            }
+        },
+        "land.albc.tavg-u-hxy-veg.mon.GLB": {
+            "cell_methods": {
+                "1220.json": "area: mean where land time: mean",
+                "1222.json": "area: time: mean where vegetation (weighted by canopy area and by downwelling shortwave radiation at the surface)"
+            }
+        },
+        "land.cnc.tavg-u-hxy-u.mon.GLB": {
+            "cell_methods": {
+                "1220.json": "area: mean where land time: mean",
+                "1222.json": "area: time: mean"
+            }
+        },
+        "land.cSoil.tavg-d100cm-hxy-lnd.mon.GLB": {
+            "standard_name": {
+                "1220.json": "soil_mass_content_of_carbon",
+                "1222.json": "carbon_mass_content_of_soil_layer"
+            }
+        },
+        "land.cSoil.tavg-sl-hxy-lnd.mon.GLB": {
+            "standard_name": {
+                "1220.json": "soil_mass_content_of_carbon",
+                "1222.json": "carbon_mass_content_of_soil_layer"
+            }
+        },
+        "land.esn.tavg-u-hxy-sn.day.GLB": {
+            "cell_methods": {
+                "1220.json": "area: mean where land time: mean",
+                "1222.json": "area: mean where snow (on land only) time: mean"
+            },
+            "comment": {
+                "1220.json": "liquid_water_evaporation_flux_from_surface_snow",
+                "1222.json": "The flux due to conversion of liquid or solid water into vapor at the surface where there is snow on land"
+            }
+        },
+        "land.fAnthDisturb.tavg-u-hxy-lnd.mon.GLB": {
+            "standard_name": {
+                "1220.json": "tendency_of_atmosphere_mass_content_of_carbon_dioxide_expressed_as_carbon_due_to_anthropogenic_emission",
+                "1222.json": "surface_upward_mass_flux_of_carbon_dioxide_expressed_as_carbon_due_to_anthropogenic_land_use_or_land_cover_change_excluding_forestry_and_agricultural_products"
+            }
+        },
+        "land.orog.tavg-u-hxy-is.mon.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "land.orog.tavg-u-hxy-is.mon.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "land.orog.tavg-u-hxy-is.yr.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "land.orog.tavg-u-hxy-is.yr.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "land.rsds.tavg-u-hxy-sn.mon.GLB": {
+            "cell_measures": {
+                "1220.json": "area: areacella area: areacello",
+                "1222.json": "area: areacella"
+            }
+        },
+        "land.rsus.tavg-u-hxy-sn.mon.GLB": {
+            "cell_measures": {
+                "1220.json": "area: areacella area: areacello",
+                "1222.json": "area: areacella"
+            }
+        },
+        "land.sftgif.tavg-u-hxy-u.yr.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "land.sftgif.tavg-u-hxy-u.yr.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.acabf.tavg-u-hxy-is.mon.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.acabf.tavg-u-hxy-is.mon.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.acabf.tavg-u-hxy-is.yr.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.acabf.tavg-u-hxy-is.yr.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.hfgeoubed.tavg-u-hxy-gis.yr.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.hfgeoubed.tavg-u-hxy-gis.yr.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.hfgeoubed.ti-u-hxy-gis.fx.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant",
+                "1222.json": "longitude latitude"
+            }
+        },
+        "landIce.hfgeoubed.ti-u-hxy-gis.fx.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre",
+                "1222.json": "longitude latitude"
+            }
+        },
+        "landIce.icem.tavg-u-hxy-is.mon.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.icem.tavg-u-hxy-is.mon.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.libmassbf.tavg-u-hxy-fis.mon.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.libmassbf.tavg-u-hxy-fis.mon.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.libmassbf.tavg-u-hxy-fis.yr.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.libmassbf.tavg-u-hxy-fis.yr.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.libmassbf.tavg-u-hxy-gis.mon.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.libmassbf.tavg-u-hxy-gis.mon.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.libmassbf.tavg-u-hxy-gis.yr.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.libmassbf.tavg-u-hxy-gis.yr.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.licalvf.tavg-u-hxy-is.mon.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.licalvf.tavg-u-hxy-is.mon.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.licalvf.tavg-u-hxy-is.yr.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.licalvf.tavg-u-hxy-is.yr.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.lifmassbf.tavg-u-hxy-is.mon.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.lifmassbf.tavg-u-hxy-is.mon.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.lifmassbf.tavg-u-hxy-is.yr.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.lifmassbf.tavg-u-hxy-is.yr.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.litempbot.tavg-u-hxy-fis.mon.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.litempbot.tavg-u-hxy-fis.mon.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.litempbot.tavg-u-hxy-fis.yr.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.litempbot.tavg-u-hxy-fis.yr.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.litempbot.tavg-u-hxy-gis.mon.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.litempbot.tavg-u-hxy-gis.mon.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.litempbot.tavg-u-hxy-gis.yr.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.litempbot.tavg-u-hxy-gis.yr.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.litemptop.tavg-u-hxy-is.mon.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.litemptop.tavg-u-hxy-is.mon.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.litemptop.tavg-u-hxy-is.yr.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.litemptop.tavg-u-hxy-is.yr.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.lithk.tavg-u-hxy-is.yr.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.lithk.tavg-u-hxy-is.yr.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.lithk.ti-u-hxy-is.fx.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant",
+                "1222.json": "longitude latitude"
+            }
+        },
+        "landIce.lithk.ti-u-hxy-is.fx.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre",
+                "1222.json": "longitude latitude"
+            }
+        },
+        "landIce.mrroLi.tavg-u-hxy-is.mon.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.mrroLi.tavg-u-hxy-is.mon.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.sbl.tavg-u-hxy-is.mon.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.sbl.tavg-u-hxy-is.mon.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.sftflf.tavg-u-hxy-u.yr.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.sftflf.tavg-u-hxy-u.yr.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.sftgrf.tavg-u-hxy-u.yr.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.sftgrf.tavg-u-hxy-u.yr.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.snc.tavg-u-hxy-is.mon.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.snc.tavg-u-hxy-is.mon.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.snc.tavg-u-hxy-is.yr.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.snc.tavg-u-hxy-is.yr.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.snc.tavg-u-hxy-lnd.mon.GLB": {
+            "cell_methods": {
+                "1220.json": "area: time: mean",
+                "1222.json": "area: mean where land time: mean"
+            }
+        },
+        "landIce.snicem.tavg-u-hxy-is.mon.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.snicem.tavg-u-hxy-is.mon.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.snm.tavg-u-hxy-is.mon.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.snm.tavg-u-hxy-is.mon.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.snrefr.tavg-u-hxy-is.mon.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.snrefr.tavg-u-hxy-is.mon.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.strbasemag.tavg-u-hxy-is.yr.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.strbasemag.tavg-u-hxy-is.yr.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.topg.tavg-u-hxy-gis.yr.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.topg.tavg-u-hxy-gis.yr.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.topg.ti-u-hxy-gis.fx.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant",
+                "1222.json": "longitude latitude"
+            }
+        },
+        "landIce.topg.ti-u-hxy-gis.fx.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre",
+                "1222.json": "longitude latitude"
+            }
+        },
+        "landIce.tsn.tavg-u-hxy-is.mon.ATA": {
+            "cell_methods": {
+                "1220.json": "depth: mean area: time: mean where ice_sheet",
+                "1222.json": "depth: area: time: mean where ice_sheet (weighted by snow mass on ice_sheet)"
+            },
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.tsn.tavg-u-hxy-is.mon.GLB": {
+            "cell_methods": {
+                "1220.json": "area: time: mean where ice_sheet",
+                "1222.json": "depth: area: time: mean where ice_sheet (weighted by snow mass on ice_sheet)"
+            }
+        },
+        "landIce.tsn.tavg-u-hxy-is.mon.GRL": {
+            "cell_methods": {
+                "1220.json": "depth: mean area: time: mean where ice_sheet",
+                "1222.json": "depth: area: time: mean where ice_sheet (weighted by snow mass on ice_sheet)"
+            },
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.tsn.tavg-u-hxy-lnd.day.GLB": {
+            "cell_methods": {
+                "1220.json": "depth: mean area: mean where land time: mean (weighted by snow mass on land)",
+                "1222.json": "depth: area: time: mean where land (weighted by snow mass on land)"
+            }
+        },
+        "landIce.tsn.tavg-u-hxy-lnd.mon.GLB": {
+            "cell_methods": {
+                "1220.json": "area: mean where land time: mean (weighted by snow mass on land)",
+                "1222.json": "depth: area: time: mean where land (weighted by snow mass on land)"
+            }
+        },
+        "landIce.xvelbase.tavg-u-hxy-is.yr.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.xvelbase.tavg-u-hxy-is.yr.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.xvelmean.tavg-u-hxy-is.yr.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.xvelmean.tavg-u-hxy-is.yr.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.xvelsurf.tavg-u-hxy-is.yr.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.xvelsurf.tavg-u-hxy-is.yr.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.yvelbase.tavg-u-hxy-is.yr.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.yvelbase.tavg-u-hxy-is.yr.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.yvelmean.tavg-u-hxy-is.yr.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.yvelmean.tavg-u-hxy-is.yr.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.yvelsurf.tavg-u-hxy-is.yr.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.yvelsurf.tavg-u-hxy-is.yr.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.zvelbase.tavg-u-hxy-is.yr.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.zvelbase.tavg-u-hxy-is.yr.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.zvelsurf.tavg-u-hxy-is.yr.ATA": {
+            "dimensions": {
+                "1220.json": "xant yant time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "landIce.zvelsurf.tavg-u-hxy-is.yr.GRL": {
+            "dimensions": {
+                "1220.json": "xgre ygre time",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "ocean.hfacrossline.tavg-u-ht-sea.mon.GLB": {
+            "cell_measures": {
+                "1220.json": "area: areacello",
+                "1222.json": ""
+            }
+        },
+        "ocean.hfgeou.tavg-u-hxy-sea.mon.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time seafloor",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "ocean.hfgeou.ti-u-hxy-sea.fx.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude seafloor",
+                "1222.json": "longitude latitude"
+            }
+        },
+        "ocean.mlotst.tavg-u-hxy-sea.day.GLB": {
+            "long_name": {
+                "1220.json": "Ocean Mixed Layer Thickness Defined by Sigma T",
+                "1222.json": "Ocean Mixed Layer Thickness Defined by Delta Sigma T of 0.03 kg m-3 referenced to the model level closest to 10 m depth"
+            }
+        },
+        "ocean.mlotst.tavg-u-hxy-sea.mon.30S-90S": {
+            "long_name": {
+                "1220.json": "Ocean Mixed Layer Thickness Defined by Sigma T",
+                "1222.json": "Ocean Mixed Layer Thickness Defined by Delta Sigma T of 0.03 kg m-3 referenced to the model level closest to 10 m depth"
+            }
+        },
+        "ocean.mlotst.tavg-u-hxy-sea.mon.GLB": {
+            "long_name": {
+                "1220.json": "Ocean Mixed Layer Thickness Defined by Sigma T",
+                "1222.json": "Ocean Mixed Layer Thickness Defined by Delta Sigma T of 0.03 kg m-3 referenced to the model level closest to 10 m depth"
+            }
+        },
+        "ocean.mlotstsq.tavg-u-hxy-sea.mon.GLB": {
+            "comment": {
+                "1220.json": "The phrase \"square_of_X\" means X\\*X. The ocean mixed layer is the upper part of the ocean, regarded as being well-mixed. The base of the mixed layer defined by \"temperature\", \"sigma\", \"sigma_theta\", \"sigma_t\" or vertical diffusivity is the level at which the quantity indicated differs from its surface value by a certain amount. A coordinate variable or scalar coordinate variable with standard name sea_water_sigma_t_difference can be used to specify the sigma_t criterion that determines the layer thickness. Sigma-t of sea water is the density of water at atmospheric pressure (i.e. the surface) having the same temperature and salinity, minus 1000 kg m-3. \"Thickness\" means the vertical extent of a layer.",
+                "1222.json": "Sigma T is potential density referenced to ocean surface. The phrase \"square_of_X\" means X\\*X. The ocean mixed layer is the upper part of the ocean, regarded as being well-mixed. The base of the mixed layer defined by \"temperature\", \"sigma\", \"sigma_theta\", \"sigma_t\" or vertical diffusivity is the level at which the quantity indicated differs from its surface value by a certain amount. A coordinate variable or scalar coordinate variable with standard name sea_water_sigma_t_difference can be used to specify the sigma_t criterion that determines the layer thickness. Sigma-t of sea water is the density of water at atmospheric pressure (i.e. the surface) having the same temperature and salinity, minus 1000 kg m-3. \"Thickness\" means the vertical extent of a layer."
+            },
+            "long_name": {
+                "1220.json": "Square of Ocean Mixed Layer Thickness Defined by Sigma T",
+                "1222.json": "Square of Ocean Mixed Layer Thickness Defined by Delta Sigma T of 0.03 kg m-3 referenced to the model level closest to 10 m depth"
+            }
+        },
+        "ocean.pbo.tavg-u-hxy-sea.mon.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time seafloor",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "ocean.pso.tavg-u-hxy-sea.mon.GLB": {
+            "comment": {
+                "1220.json": "The surface called \"surface\" means the lower boundary of the atmosphere.  \"Sea water pressure\" is the pressure that exists in the medium of sea water.  It includes the pressure due to overlying sea water, sea ice, air and any other medium that may be present.",
+                "1222.json": "The phrase \"sea water surface\" means the upper boundary of the liquid portion of an ocean or sea, including the boundary to floating ice if present. \"Sea water pressure\" is the pressure that exists in the medium of sea water. It includes the pressure due to overlying sea water, sea ice, air and any other medium that may be present."
+            }
+        },
+        "ocean.sfacrossline.tavg-u-ht-sea.mon.GLB": {
+            "cell_measures": {
+                "1220.json": "area: areacello",
+                "1222.json": ""
+            }
+        },
+        "ocean.sob.tavg-u-hxy-sea.mon.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time seafloor",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "ocean.tob.tavg-u-hxy-sea.mon.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time seafloor",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "ocean.uos.tavg-u-hxy-sea.day.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time depth0m",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "ocean.volcello.tavg-ol-hxy-sea.dec.GLB": {
+            "cell_measures": {
+                "1220.json": "area: areacello volume: volcello",
+                "1222.json": "area: areacello"
+            }
+        },
+        "ocean.volcello.tavg-ol-hxy-sea.mon.GLB": {
+            "cell_measures": {
+                "1220.json": "area: areacello volume: volcello",
+                "1222.json": "area: areacello"
+            }
+        },
+        "ocean.volcello.tavg-ol-hxy-sea.yr.GLB": {
+            "cell_measures": {
+                "1220.json": "area: areacello volume: volcello",
+                "1222.json": "area: areacello"
+            }
+        },
+        "ocean.volcello.ti-ol-hxy-sea.fx.GLB": {
+            "cell_measures": {
+                "1220.json": "area: areacello volume: volcello",
+                "1222.json": "area: areacello"
+            }
+        },
+        "ocean.vos.tavg-u-hxy-sea.day.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time depth0m",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "ocnBgchem.arag.tavg-d0m-hxy-sea.mon.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.bacc.tavg-d0m-hxy-sea.mon.30S-90S": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.calc.tavg-d0m-hxy-sea.mon.30S-90S": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.calc.tavg-d0m-hxy-sea.mon.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.chl.tavg-d0m-hxy-sea.mon.30S-90S": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.chl.tavg-d0m-hxy-sea.mon.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.chlcalc.tavg-d0m-hxy-sea.mon.30S-90S": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.chldiat.tavg-d0m-hxy-sea.mon.30S-90S": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.chldiaz.tavg-d0m-hxy-sea.mon.30S-90S": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.chlmisc.tavg-d0m-hxy-sea.mon.30S-90S": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.chlpico.tavg-d0m-hxy-sea.mon.30S-90S": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.co3.tavg-d0m-hxy-sea.day.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.co3satarag.tavg-d0m-hxy-sea.day.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.dfe.tavg-d0m-hxy-sea.mon.30S-90S": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.dfe.tavg-d0m-hxy-sea.mon.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.dissi13c.tavg-d0m-hxy-sea.mon.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.dissi14cabio.tavg-d0m-hxy-sea.mon.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.dissic.tavg-d0m-hxy-sea.mon.30S-90S": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.dmso.tavg-d0m-hxy-sea.mon.30S-90S": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.dmso.tavg-d0m-hxy-sea.mon.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.dpco2.tavg-u-hxy-sea.mon.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time depth0m",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "ocnBgchem.exparagob.tavg-u-hxy-sea.mon.GLB": {
+            "comment": {
+                "1220.json": "Downward sinking flux of aragonite at seafloor",
+                "1222.json": "Downward sinking flux of aragonite at sea floor"
+            },
+            "standard_name": {
+                "1220.json": "sinking_mole_flux_of_aragonite_expressed_as_carbon_in_sea_water",
+                "1222.json": "sinking_mole_flux_at_the_sea_floor_of_aragonite_expressed_as_carbon_in_sea_water"
+            }
+        },
+        "ocnBgchem.expcalcob.tavg-u-hxy-sea.mon.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time seafloor",
+                "1222.json": "longitude latitude time"
+            },
+            "standard_name": {
+                "1220.json": "sinking_mole_flux_of_calcite_expressed_as_carbon_in_sea_water",
+                "1222.json": "sinking_mole_flux_at_sea_floor_of_calcite_expressed_as_carbon_in_sea_water"
+            }
+        },
+        "ocnBgchem.expcob.tavg-u-hxy-sea.day.GLB": {
+            "comment": {
+                "1220.json": "Downward sinking flux of particulate organic carbon at seafloor. Reported at the sea floor depth for present day relative to z=0 geoid. Reported as missing for land grid cells.",
+                "1222.json": "Downward sinking flux of particulate organic carbon at sea floor. Reported at the sea floor depth for present day relative to z=0 geoid. Reported as missing for land grid cells."
+            },
+            "dimensions": {
+                "1220.json": "longitude latitude time seafloor",
+                "1222.json": "longitude latitude time"
+            },
+            "standard_name": {
+                "1220.json": "sinking_mole_flux_of_particulate_organic_matter_expressed_as_carbon_in_sea_water",
+                "1222.json": "sinking_mole_flux_at_sea_floor_of_particulate_organic_matter_expressed_as_carbon_in_sea_water"
+            }
+        },
+        "ocnBgchem.expcob.tavg-u-hxy-sea.mon.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time seafloor",
+                "1222.json": "longitude latitude time"
+            },
+            "standard_name": {
+                "1220.json": "sinking_mole_flux_of_particulate_organic_matter_expressed_as_carbon_in_sea_water",
+                "1222.json": "sinking_mole_flux_at_sea_floor_of_particulate_organic_matter_expressed_as_carbon_in_sea_water"
+            }
+        },
+        "ocnBgchem.expfeob.tavg-u-hxy-sea.mon.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time seafloor",
+                "1222.json": "longitude latitude time"
+            },
+            "standard_name": {
+                "1220.json": "sinking_mole_flux_of_particulate_iron_in_sea_water",
+                "1222.json": "sinking_mole_flux_at_sea_floor_of_particulate_iron_in_sea_water"
+            }
+        },
+        "ocnBgchem.expnob.tavg-u-hxy-sea.mon.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time seafloor",
+                "1222.json": "longitude latitude time"
+            },
+            "standard_name": {
+                "1220.json": "sinking_mole_flux_of_particulate_organic_nitrogen_in_sea_water",
+                "1222.json": "sinking_mole_flux_at_sea_floor_of_particulate_organic_nitrogen_in_sea_water"
+            }
+        },
+        "ocnBgchem.exppob.tavg-u-hxy-sea.mon.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time seafloor",
+                "1222.json": "longitude latitude time"
+            },
+            "standard_name": {
+                "1220.json": "sinking_mole_flux_of_particulate_organic_phosphorus_in_sea_water",
+                "1222.json": "sinking_mole_flux_at_sea_floor_of_particulate_organic_phosphorus_in_sea_water"
+            }
+        },
+        "ocnBgchem.expsiob.tavg-u-hxy-sea.mon.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time seafloor",
+                "1222.json": "longitude latitude time"
+            },
+            "standard_name": {
+                "1220.json": "sinking_mole_flux_of_particulate_silicon_in_sea_water",
+                "1222.json": "sinking_mole_flux_at_sea_floor_of_particulate_silicon_in_sea_water"
+            }
+        },
+        "ocnBgchem.nh4.tavg-d0m-hxy-sea.mon.30S-90S": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.no3.tavg-d0m-hxy-sea.mon.30S-90S": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.no3.tavg-d0m-hxy-sea.mon.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.o2.tavg-d0m-hxy-sea.day.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.o2.tavg-d0m-hxy-sea.mon.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.ph.tavg-d0m-hxy-sea.day.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.ph.tavg-d0m-hxy-sea.mon.30S-90S": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.phyc.tavg-d0m-hxy-sea.day.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.phyc.tavg-d0m-hxy-sea.mon.30S-90S": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.phyc.tavg-d0m-hxy-sea.mon.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.phycalc.tavg-d0m-hxy-sea.mon.30S-90S": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.phydiat.tavg-d0m-hxy-sea.day.GLB": {
+            "cell_measures": {
+                "1220.json": "area: areacello volume: volcello",
+                "1222.json": "area: areacello"
+            },
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.phydiat.tavg-d0m-hxy-sea.mon.30S-90S": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.phydiaz.tavg-d0m-hxy-sea.day.GLB": {
+            "cell_measures": {
+                "1220.json": "area: areacello volume: volcello",
+                "1222.json": "area: areacello"
+            },
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.phydiaz.tavg-d0m-hxy-sea.mon.30S-90S": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.phymisc.tavg-d0m-hxy-sea.day.GLB": {
+            "cell_measures": {
+                "1220.json": "area: areacello volume: volcello",
+                "1222.json": "area: areacello"
+            },
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.phymisc.tavg-d0m-hxy-sea.mon.30S-90S": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.phypico.tavg-d0m-hxy-sea.mon.30S-90S": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.si.tavg-d0m-hxy-sea.mon.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time depth0m"
+            }
+        },
+        "ocnBgchem.spco2.tavg-u-hxy-sea.mon.30S-90S": {
+            "dimensions": {
+                "1220.json": "longitude latitude time depth0m",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "ocnBgchem.spco2.tavg-u-hxy-sea.mon.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time depth0m",
+                "1222.json": "longitude latitude time"
+            }
+        },
+        "seaIce.evspsbl.tavg-u-hxy-si.mon.GLB": {
+            "cell_methods": {
+                "1220.json": "area: mean where sea time: mean",
+                "1222.json": "area: time: mean where sea_ice over all_area_types"
+            }
+        },
+        "seaIce.rlds.tavg-u-hxy-si.day.GLB": {
+            "cell_measures": {
+                "1220.json": "area: areacello",
+                "1222.json": "area: areacella"
+            },
+            "cell_methods": {
+                "1220.json": "area: time: mean where sea_ice (mask=siconc)",
+                "1222.json": "area: time: mean where sea_ice (mask=siconca)"
+            }
+        },
+        "seaIce.rlus.tavg-u-hxy-si.day.GLB": {
+            "cell_measures": {
+                "1220.json": "area: areacello",
+                "1222.json": "area: areacella"
+            },
+            "cell_methods": {
+                "1220.json": "area: time: mean where sea_ice (mask=siconc)",
+                "1222.json": "area: time: mean where sea_ice (mask=siconca)"
+            }
+        },
+        "seaIce.rsds.tavg-u-hxy-si.day.GLB": {
+            "cell_measures": {
+                "1220.json": "area: areacello",
+                "1222.json": "area: areacella"
+            },
+            "cell_methods": {
+                "1220.json": "area: time: mean where sea_ice (mask=siconc)",
+                "1222.json": "area: time: mean where sea_ice (mask=siconca)"
+            }
+        },
+        "seaIce.rsus.tavg-u-hxy-si.day.GLB": {
+            "cell_measures": {
+                "1220.json": "area: areacello",
+                "1222.json": "area: areacella"
+            },
+            "cell_methods": {
+                "1220.json": "area: time: mean where sea_ice (mask=siconc)",
+                "1222.json": "area: time: mean where sea_ice (mask=siconca)"
+            }
+        },
+        "seaIce.sfdsi.tavg-u-hxy-si.mon.GLB": {
+            "comment": {
+                "1220.json": "Total flux of salt from water into sea ice divided by grid-cell area. This flux is upward (negative) during ice growth when salt is embedded into the ice and downward (positive) during melt when salt from sea ice is again released to the ocean.",
+                "1222.json": "Total flux of salt from water into sea ice. This flux is upward (negative) during ice growth when salt is embedded into the ice and downward (positive) during melt when salt from sea ice is again released to the ocean."
+            }
+        },
+        "seaIce.siconc.tavg-u-hxy-u.day.GLB": {
+            "comment": {
+                "1220.json": "Areal fraction of a given grid cell that is covered by sea ice on the ocean grid, independent of the thickness of that ice.",
+                "1222.json": "Percentage of a given grid cell that is covered by sea ice on the ocean grid, independent of the thickness of that ice."
+            },
+            "long_name": {
+                "1220.json": "Sea-Ice Area Fraction (Ocean Grid)",
+                "1222.json": "Sea-Ice Area Percentage (Ocean Grid)"
+            },
+            "units": {
+                "1220.json": "1",
+                "1222.json": "%"
+            }
+        },
+        "seaIce.siconc.tavg-u-hxy-u.mon.30S-90S": {
+            "comment": {
+                "1220.json": "Areal fraction of a given grid cell that is covered by sea ice on the ocean grid, independent of the thickness of that ice.",
+                "1222.json": "Percentage of a given grid cell that is covered by sea ice on the ocean grid, independent of the thickness of that ice."
+            },
+            "long_name": {
+                "1220.json": "Sea-Ice Area Fraction (Ocean Grid)",
+                "1222.json": "Sea-Ice Area Percentage (Ocean Grid)"
+            },
+            "units": {
+                "1220.json": "1",
+                "1222.json": "%"
+            }
+        },
+        "seaIce.siconc.tavg-u-hxy-u.mon.GLB": {
+            "comment": {
+                "1220.json": "Areal fraction of a given grid cell that is covered by sea ice on the ocean grid, independent of the thickness of that ice.",
+                "1222.json": "Percentage of a given grid cell that is covered by sea ice on the ocean grid, independent of the thickness of that ice."
+            },
+            "long_name": {
+                "1220.json": "Sea-Ice Area Fraction (Ocean Grid)",
+                "1222.json": "Sea-Ice Area Percentage (Ocean Grid)(Ocean Grid)"
+            },
+            "units": {
+                "1220.json": "1",
+                "1222.json": "%"
+            }
+        },
+        "seaIce.siconca.tavg-u-hxy-u.day.GLB": {
+            "comment": {
+                "1220.json": "Areal fraction of a given grid cell that is covered by sea ice on the atmosphere grid, independent of the thickness of that ice.",
+                "1222.json": "Percentage of a given grid cell that is covered by sea ice on the atmosphere grid, independent of the thickness of that ice."
+            },
+            "long_name": {
+                "1220.json": "Sea-Ice Area Fraction (Atmospheric Grid)",
+                "1222.json": "Sea-Ice Area Percentage (Atmospheric Grid)"
+            },
+            "units": {
+                "1220.json": "1",
+                "1222.json": "%"
+            }
+        },
+        "seaIce.siconca.tavg-u-hxy-u.mon.GLB": {
+            "comment": {
+                "1220.json": "Areal fraction of a given grid cell that is covered by sea ice on the atmosphere grid, independent of the thickness of that ice.",
+                "1222.json": "Percentage of a given grid cell that is covered by sea ice on the atmosphere grid, independent of the thickness of that ice."
+            },
+            "long_name": {
+                "1220.json": "Sea-Ice Area Fraction (Atmospheric Grid)",
+                "1222.json": "Sea-Ice Area Percentage (Atmospheric Grid)"
+            },
+            "units": {
+                "1220.json": "1",
+                "1222.json": "%"
+            }
+        },
+        "seaIce.siextent.tavg-u-hm-u.day.NH": {
+            "comment": {
+                "1220.json": "Total integrated area of all Northern Hemisphere grid cells that are covered by at least 15% areal fraction of sea ice (siconc >= 0.15). Does not include grid cells partially covered by land.",
+                "1222.json": "Total integrated area of all Northern Hemisphere grid cells that are covered by at least 15% areal fraction of sea ice (siconc >= 15). Does not include grid cells partially covered by land."
+            }
+        },
+        "seaIce.siextent.tavg-u-hm-u.day.SH": {
+            "comment": {
+                "1220.json": "Total integrated area of all Southern Hemisphere grid cells that are covered by at least 15% areal fraction of sea ice (siconc >= 0.15). Does not include grid cells partially covered by land.",
+                "1222.json": "Total integrated area of all Southern Hemisphere grid cells that are covered by at least 15% areal fraction of sea ice (siconc >= 15). Does not include grid cells partially covered by land."
+            }
+        },
+        "seaIce.siextent.tavg-u-hm-u.mon.NH": {
+            "comment": {
+                "1220.json": "Total integrated area of all Northern Hemisphere grid cells that are covered by at least 15% areal fraction of sea ice (siconc >= 0.15). Does not include grid cells partially covered by land.",
+                "1222.json": "Total integrated area of all Northern Hemisphere grid cells that are covered by at least 15% areal fraction of sea ice (siconc >= 15). Does not include grid cells partially covered by land."
+            }
+        },
+        "seaIce.siextent.tavg-u-hm-u.mon.SH": {
+            "comment": {
+                "1220.json": "Total integrated area of all Southern Hemisphere grid cells that are covered by at least 15% areal fraction of sea ice (siconc >= 0.15). Does not include grid cells partially covered by land.",
+                "1222.json": "Total integrated area of all Southern Hemisphere grid cells that are covered by at least 15% areal fraction of sea ice (siconc >= 15). Does not include grid cells partially covered by land."
+            }
+        },
+        "seaIce.siflfwbot.tavg-u-hxy-si.mon.GLB": {
+            "comment": {
+                "1220.json": "Total flux of fresh water from water into sea ice divided by grid-cell area. This flux is positive when fresh water enters the ocean, and is therefore negative during ice growth and positive during ice melt.",
+                "1222.json": "Total flux of fresh water from water into sea ice. This flux is positive when fresh water enters the ocean, and is therefore negative during ice growth and positive during ice melt."
+            }
+        },
+        "seaIce.siflfwdrain.tavg-u-hxy-si.mon.GLB": {
+            "comment": {
+                "1220.json": "Total flux of fresh water from sea-ice surface into underlying ocean divided by grid-cell area. This combines both surface meltwater that drains directly into the ocean and the drainage of surface melt ponds. By definition, this flux is always positive.",
+                "1222.json": "Total flux of fresh water from sea-ice surface into underlying ocean. This combines both surface meltwater that drains directly into the ocean and the drainage of surface melt ponds. By definition, this flux is always positive."
+            }
+        },
+        "seaIce.sifllattop.tavg-u-hxy-si.day.GLB": {
+            "cell_measures": {
+                "1220.json": "area: areacello",
+                "1222.json": "area: areacella"
+            },
+            "cell_methods": {
+                "1220.json": "area: time: mean where sea_ice (mask=siconc)",
+                "1222.json": "area: time: mean where sea_ice (mask=siconca)"
+            }
+        },
+        "seaIce.siflsenstop.tavg-u-hxy-si.day.GLB": {
+            "cell_measures": {
+                "1220.json": "area: areacello",
+                "1222.json": "area: areacella"
+            },
+            "cell_methods": {
+                "1220.json": "area: time: mean where sea_ice (mask=siconc)",
+                "1222.json": "area: time: mean where sea_ice (mask=siconca)"
+            }
+        },
+        "seaIce.siforcecoriolx.tavg-u-hxy-si.mon.GLB": {
+            "cell_methods": {
+                "1220.json": "area: time: mean where sea_ice (mask=siconc)",
+                "1222.json": "area: time: mean where sea_ice over all_area_types"
+            }
+        },
+        "seaIce.siforcecorioly.tavg-u-hxy-si.mon.GLB": {
+            "cell_methods": {
+                "1220.json": "area: time: mean where sea_ice (mask=siconc)",
+                "1222.json": "area: time: mean where sea_ice over all_area_types"
+            }
+        },
+        "seaIce.siforceintstrx.tavg-u-hxy-si.mon.GLB": {
+            "cell_methods": {
+                "1220.json": "area: time: mean where sea_ice (mask=siconc)",
+                "1222.json": "area: time: mean where sea_ice over all_area_types"
+            }
+        },
+        "seaIce.siforceintstry.tavg-u-hxy-si.mon.GLB": {
+            "cell_methods": {
+                "1220.json": "area: time: mean where sea_ice (mask=siconc)",
+                "1222.json": "area: time: mean where sea_ice over all_area_types"
+            }
+        },
+        "seaIce.siforcetiltx.tavg-u-hxy-si.mon.GLB": {
+            "cell_methods": {
+                "1220.json": "area: time: mean where sea_ice (mask=siconc)",
+                "1222.json": "area: time: mean where sea_ice over all_area_types"
+            }
+        },
+        "seaIce.siforcetilty.tavg-u-hxy-si.mon.GLB": {
+            "cell_methods": {
+                "1220.json": "area: time: mean where sea_ice (mask=siconc)",
+                "1222.json": "area: time: mean where sea_ice over all_area_types"
+            }
+        },
+        "seaIce.siitdsnconc.tavg-u-hxy-si.day.GLB": {
+            "cell_methods": {
+                "1220.json": "area: time: mean where sea_ice (mask=siconc)",
+                "1222.json": "area: time: mean where sea_ice (mask=siitdconc)"
+            },
+            "comment": {
+                "1220.json": "Area fraction of grid cell covered by snow in each ice thickness category (vector with one entry for each ice thickness category starting from the thinnest category, netcdf file should use thickness bounds of the categories as third coordinate axis).",
+                "1222.json": "Percentage of grid cell covered by snow in each ice thickness category (vector with one entry for each ice thickness category starting from the thinnest category, netcdf file should use thickness bounds of the categories as third coordinate axis)."
+            },
+            "long_name": {
+                "1220.json": "Snow Area Fractions in Ice Thickness Categories",
+                "1222.json": "Snow Area Percentages in Ice Thickness Categories"
+            },
+            "units": {
+                "1220.json": "1",
+                "1222.json": "%"
+            }
+        },
+        "seaIce.siitdsnconc.tavg-u-hxy-si.mon.GLB": {
+            "comment": {
+                "1220.json": "Area fraction of grid cell covered by snow in each ice thickness category (vector with one entry for each ice thickness category starting from the thinnest category, netcdf file should use thickness bounds of the categories as third coordinate axis).",
+                "1222.json": "Percentage of grid cell covered by snow in each ice thickness category (vector with one entry for each ice thickness category starting from the thinnest category, netcdf file should use thickness bounds of the categories as third coordinate axis)."
+            },
+            "long_name": {
+                "1220.json": "Snow Area Fractions in Ice Thickness Categories",
+                "1222.json": "Snow Area Percentages in Ice Thickness Categories"
+            },
+            "units": {
+                "1220.json": "1",
+                "1222.json": "%"
+            }
+        },
+        "seaIce.siitdsnthick.tavg-u-hxy-si.day.GLB": {
+            "cell_methods": {
+                "1220.json": "area: time: mean where sea_ice (mask=siconc)",
+                "1222.json": "area: time: mean where sea_ice (mask=siitdconc)"
+            }
+        },
+        "seaIce.siitdthick.tavg-u-hxy-si.day.GLB": {
+            "cell_methods": {
+                "1220.json": "area: time: mean where sea_ice (mask=siconc)",
+                "1222.json": "area: time: mean where sea_ice (mask=siitdconc)"
+            }
+        },
+        "seaIce.sirdgconc.tavg-u-hxy-si.day.GLB": {
+            "dimensions": {
+                "1220.json": "longitude latitude time",
+                "1222.json": "longitude latitude time typesirdg"
+            }
+        },
+        "seaIce.snc.tavg-u-hxy-si.mon.GLB": {
+            "comment": {
+                "1220.json": "Area fraction of the sea-ice surface that is covered by snow. In many models that do not explicitly resolve an areal fraction of snow, this variable will always be either 0 or 1.",
+                "1222.json": "Percentage of the sea-ice surface that is covered by snow. In many models that do not explicitly resolve an areal fraction of snow, this variable will always be either 0 or 1."
+            },
+            "long_name": {
+                "1220.json": "Snow Area Fraction",
+                "1222.json": "Snow Area Percentage"
+            },
+            "units": {
+                "1220.json": "1",
+                "1222.json": "%"
+            }
+        },
+        "seaIce.snw.tavg-u-hxy-si.mon.GLB": {
+            "cell_methods": {
+                "1220.json": "area: time: mean where sea_ice (mask=siconc)",
+                "1222.json": "area: time: mean where sea_ice over all_area_types"
+            }
+        }
+    }
+}
