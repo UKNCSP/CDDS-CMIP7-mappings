@@ -691,5 +691,8 @@
   },
   "Variable seaIce.siconc.tavg-u-hxy-u.day.GLB (SIday.siconc)": {
     "HadGEM3-GC5": "ind/grid-T`: `<field field_ref=\"iceconc\" name=\"siconc\" />"
+  },
+  "Variable seaIce.siflcondbot.tavg-u-hxy-si.day.GLB (SIday.siflcondbot)": {
+    "HadGEM3-GC5": "ind/grid-T`: `<field field_ref=\"hfxcndtop\" name=\"hfxcndtop\"  />"
   }
 }
