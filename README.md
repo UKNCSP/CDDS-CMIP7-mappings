@@ -102,11 +102,13 @@ CMIP6 can current be found [here](https://github.com/MetOffice/CDDS/blob/main/mi
 If post-processing of data is required for a variable and a processor does not already exist please add the `processor` label to the issue. 
 Additional information on processors should be added as a comment to the issue.
 
-### STASH entries update
+### STASH / XIOS entries update
 
-To support configuration of the UM atmosphere output each issue also tabulates the corresponding entries
-to be included in the STASH setup. If possible this table should be extended in a similar fashion to the
-one for the mappings, but with a row for each STASH code required.
+To support configuration of the UM atmosphere and NEMO/MEDUSA/SI3 diagnostic output, each issue also tabulates the entries to be included in their respective I/O setup.
+
+#### STASH (UM only)
+
+If possible this table should be extended in a similar fashion to the one for the mappings, but with a row for each STASH code required.
 
 For example Amon.zg (geopotential height on pressure levels) in [#78](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/78) has the expression 
 `m01s30i297[blev=PLEV19, lbproc=128] / m01s30i304[blev=PLEV19, lbproc=128]` for both models so requires *two* lines 
@@ -131,6 +133,42 @@ To extend the same STASH requirements to the HadGEM3-GC5 and UKESM1-3 models ext
 | UKESM1-3 | m01s30i304 | 30,304 | TMONMN | PLEV19 | UP5 |
 | HadGEM3-GC5 | m01s30i297 | 30,297 | TMONMN | PLEV19 | UP5 |
 | HadGEM3-GC5 | m01s30i304 | 30,304 | TMONMN | PLEV19 | UP5 |
+
+#### XIOS (NEMO/MEDUSA/SI3 only)
+
+This table should have one row per model as for the mappings table, with one or more XML entries per model. An XML entry has the format:
+
+`stream`: `xml`
+
+where:
+
+* `stream` is a [CDDS stream](https://code.metoffice.gov.uk/trac/cdds/browser/main/trunk/hadsdk/hadsdk/streams.cfg?rev=10432) determining which file type the diagnostic should be output to (e.g. `onm/grid-U` for monthly ocean U grid files, `ind` or `ind/grid-T` for daily sea ice files).
+* `xml` is an XML line as it should appear in a `<file>...</file>` section of the XIOS diagnostic configuration file
+
+Multiple XML entries for a single model should be separated by a `<br>` HTML tag- this makes the table more readable and provides a recognisable separator for parsers.
+
+The following table row:
+
+| Model | xml entry | 
+| --- | --- |
+| HadGEM3-GC31 | `onm/grid-T`: `<field field_ref="toce" name="thetao" operation="average" freq_op="1mo" > @toce_e3t / @e3t </field>` <br> `onm/grid-T`: `<field field_ref="e3t" name="thkcello" />` |
+
+would be implemented in an XIOS diagnostic configuration file (only the relevant XML is shown) for HadGEM3-GC31 as:
+
+```xml
+<file_definition>
+    <file_group id="1mo" output_freq="1mo">
+        <file id="file1" name_suffix="_grid_T">
+            <field field_ref="toce" name="thetao" operation="average" freq_op="1mo" > @toce_e3t / @e3t </field>
+            <field field_ref="e3t" name="thkcello" />
+        </file>
+    </file_group>
+</file_definition>
+```
+
+The `name` XML attribute should be used to rename diagnostics that have a direct correspondance to a CMIP variable- e.g. `thetao` and `thkcello` in the example above.
+
+Note that the XML line for a particular diagnostic should be consistently defined across CMIP variables to avoid duplicating diagnostic output. One way to ensure this is to search the [xios.json](https://github.com/UKNCSP/CDDS-CMIP7-mappings/blob/main/data/xios.json) file to see if the diagnostic has already been added to an issue table.
 
 ### Diagnostic review
 
