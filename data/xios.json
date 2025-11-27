@@ -27,7 +27,6 @@
   },
   "Variable ocean.dispkexyfo.tavg-u-hxy-sea.yr.GLB (Oyr.dispkexyfo)": {
     "HadGEM3-GC31": "onm/grid-T`: `<field field_ref=\"ketrd_ldf_vsum\" name=\"dispkexyfo\" />",
-    "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"ketrd_ldf_vsum\" name=\"dispkexyfo\" />",
     "UKESM1": "onm/grid-T`: `<field field_ref=\"ketrd_ldf_vsum\" name=\"dispkexyfo\" />",
     "UKESM1-3": "onm/grid-T`: `<field field_ref=\"ketrd_ldf_vsum\" name=\"dispkexyfo\" />"
   },
