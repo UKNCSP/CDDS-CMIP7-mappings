@@ -6230,6 +6230,10 @@ UKESM1,ec550aer_tpt-u-hxy-u,6hr,m01s00i033,0,033,T6HR,DIAG,UP7,True,False,False
 UKESM1-3,ec550aer_tpt-u-hxy-u,6hr,m01s02i530,2,530,T6HR,DALLTHAOT,UP7,True,False,False
 UKESM1-3,ec550aer_tpt-u-hxy-u,6hr,m01s02i540,2,540,T6HR,DALLTHAOT,UP7,True,False,False
 UKESM1-3,ec550aer_tpt-u-hxy-u,6hr,m01s00i033,0,033,T6HR,DIAG,UP7,True,False,False
+HadGEM3-GC31,uas_tpt-h10m-hxy-u,3hr,m01s03i209,3,209,T3HR,DIAG,UP8,False,False,False
+HadGEM3-GC5,uas_tpt-h10m-hxy-u,3hr,m01s03i209,3,209,T3HR,DIAG,UP8,False,False,False
+UKESM1,uas_tpt-h10m-hxy-u,3hr,m01s03i209,3,209,T3HR,DIAG,UP8,False,False,False
+UKESM1-3,uas_tpt-h10m-hxy-u,3hr,m01s03i209,3,209,T3HR,DIAG,UP8,False,False,False
 HadGEM3-GC31,tran_tavg-u-hxy-u,3hr,m01s03i539,3,539,T3HRMN,DIAG,UP8,False,False,False
 HadGEM3-GC5,tran_tavg-u-hxy-u,3hr,m01s03i539,3,539,T3HRMN,DIAG,UP8,False,False,False
 UKESM1,tran_tavg-u-hxy-u,3hr,m01s03i539,3,539,T3HRMN,DIAG,UP8,False,False,False

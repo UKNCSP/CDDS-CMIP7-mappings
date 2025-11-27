@@ -708,5 +708,8 @@
   },
   "Variable seaIce.sihc.tavg-u-hxy-sea.day.GLB (SIday.sihc)": {
     "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"icehc_cmip\"       name=\"sihc\"         />"
+  },
+  "Variable seaIce.siitdconc.tavg-u-hxy-si.day.GLB (SIday.siitdconc)": {
+    "HadGEM3-GC5": "ind/grid-T`: `<field field_ref=\"iceconc_cat_pct_cmip\" name=\"siitdconc\"    />"
   }
 }
