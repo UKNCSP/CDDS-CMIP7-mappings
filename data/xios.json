@@ -711,5 +711,17 @@
   },
   "Variable seaIce.siitdconc.tavg-u-hxy-si.day.GLB (SIday.siitdconc)": {
     "HadGEM3-GC5": "ind/grid-T`: `<field field_ref=\"ieconc_cat_pct_cmip\" name=\"siitdconc\"    />"
+  },
+  "Variable seaIce.siitdsnthick.tavg-u-hxy-si.day.GLB (SIday.siitdsnthick)": {
+    "HadGEM3-GC5": "ind:grid-T` : `<field field_ref=\"snwthic_cat\"      name=\"snthicat\"/>"
+  },
+  "Variable seaIce.siitdthick.tavg-u-hxy-si.day.GLB (SIday.siitdthick)": {
+    "HadGEM3-GC5": "ind:grid-T` : `<field field_ref=\"icethic_cat\"      name=\"sithicat\"/>"
+  },
+  "Variable seaIce.simpconc.tavg-u-hxy-si.day.GLB (SIday.simpconc)": {
+    "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"iceapnd\"          name=\"siapnd\" />` <br> `ind/grid-T` : `<field field_ref=\"iceconc\"          name=\"siconc\" />"
+  },
+  "Variable seaIce.simpeffconc.tavg-u-hxy-si.day.GLB (SIday.simpeffconc)": {
+    "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"iceepnd\"          name=\"siepnd\" />' <br>  `ind/grid-T` : `<field field_ref=\"iceconc\"          name=\"siconc\" />"
   }
 }
