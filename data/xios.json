@@ -737,7 +737,7 @@
     "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"sisnhc\" name=\"sisnhc\" />"
   },
   "Variable seaIce.sispeed.tavg-u-hxy-si.day.GLB (SIday.sispeed)": {
-    "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"icevel_cmip\" name=\"sispeed\" operation=\"average\" freq_op=\"1mo\" detect_missing_value=\"true\"> (@iceconc==0) ? $missval : (@icevel_siconc_cmip / @iceconc) </field>"
+    "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"icevel_siconc_cmip\" name=\"sispeed\" operation=\"average\" freq_op=\"1mo\" detect_missing_value=\"true\"> (@iceconc==0) ? $missval : (@icevel_siconc_cmip / @iceconc) </field>"
   },
   "Variable seaIce.sitempbot.tavg-u-hxy-si.day.GLB (SIday.sitempbot)": {
     "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"icetbot_iceconc_cmip\" name=\"sitempbot\" operation=\"average\" freq_op=\"1mo\" detect_missing_value=\"true\"> (@iceconc==0) ? $missval : (@icetbot_siconc_cmip / @iceconc) </field>"
