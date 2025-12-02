@@ -763,6 +763,9 @@
   "Variable seaIce.simprefrozen.tavg-u-hxy-simp.day.GLB (SIday.simprefrozen)": {
     "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"icehlid\" name=\"sihlid\" />"
   },
+  "Variable seaIce.simprefrozen.tavg-u-hxy-simp.mon.GLB (SImon.simprefrozen)": {
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"icehlid\" name=\"sihlid\" />"
+  },
   "Variable seaIce.simpthick.tavg-u-hxy-si.day.GLB (SIday.simpthick)": {
     "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"icehpnd\"          name=\"sihpnd\" />"
   },
