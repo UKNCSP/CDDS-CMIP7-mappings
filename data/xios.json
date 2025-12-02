@@ -745,6 +745,9 @@
   "Variable seaIce.siitdconc.tavg-u-hxy-si.day.GLB (SIday.siitdconc)": {
     "HadGEM3-GC5": "ind/grid-T`: `<field field_ref=\"ieconc_cat_pct_cmip\" name=\"siitdconc\"    />"
   },
+  "Variable seaIce.siitdsnconc.tavg-u-hxy-si.day.GLB (SIday.siitdsnconc)": {
+    "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"snwfrac_cat_pct\"      name=\"siitdsnconc\"/>"
+  },
   "Variable seaIce.siitdsnthick.tavg-u-hxy-si.day.GLB (SIday.siitdsnthick)": {
     "HadGEM3-GC5": "ind:grid-T` : `<field field_ref=\"snwthic_cat\"      name=\"snthicat\"/>"
   },
