@@ -746,7 +746,7 @@
     "HadGEM3-GC5": "ind/grid-T`: `<field field_ref=\"ieconc_cat_pct_cmip\" name=\"siitdconc\"    />"
   },
   "Variable seaIce.siitdsnconc.tavg-u-hxy-si.day.GLB (SIday.siitdsnconc)": {
-    "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"snwfrac_cat_pct\"      name=\"siitdsnconc\"/>"
+    "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"snwfrac_cat_pct_siitdconc\" name=\"siitdsnconc\" operation=\"average\" freq_op=\"1mo\" detect_missing_value=\"true\"> (@iceconc_cat==0) ? (@snwfrac_cat_pct_siitdconc / @iceconc_cat) </field>"
   },
   "Variable seaIce.siitdsnthick.tavg-u-hxy-si.day.GLB (SIday.siitdsnthick)": {
     "HadGEM3-GC5": "ind:grid-T` : `<field field_ref=\"snwthic_cat\"      name=\"snthicat\"/>"
@@ -761,13 +761,13 @@
     "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"iceepnd\"          name=\"siepnd\" />' <br>  `ind/grid-T` : `<field field_ref=\"iceconc\"          name=\"siconc\" />"
   },
   "Variable seaIce.simprefrozen.tavg-u-hxy-simp.day.GLB (SIday.simprefrozen)": {
-    "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"icehlid\" name=\"sihlid\" />"
+    "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"icehlid\" name=\"simprefrozen\" operation=\"average\" freq_op=\"1mo\" detect_missing_value=\"true\"> (@iceapnd==0) ? $missval : (@icevlid / @iceapnd) </field>"
   },
   "Variable seaIce.simprefrozen.tavg-u-hxy-simp.mon.GLB (SImon.simprefrozen)": {
     "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"icehlid\" name=\"sihlid\" />"
   },
   "Variable seaIce.simpthick.tavg-u-hxy-si.day.GLB (SIday.simpthick)": {
-    "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"icehpnd\"          name=\"sihpnd\" />"
+    "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"icehpnd\" name=\"simpthick\" operation=\"average\" freq_op=\"1mo\" detect_missing_value=\"true\"> (@iceapnd==0) ? $missval : (@icevpnd / @iceapnd) </field>"
   },
   "Variable seaIce.sisali.tavg-u-hxy-si.day.GLB (SIday.sisali)": {
     "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"sisali_siconc_cmip\" name=\"sisali\" operation=\"average\" freq_op=\"1d\" detect_missing_value=\"true\"> (@iceconc==0) ? $missval : (@sisali_siconc_cmip / @iceconc) </field>"
