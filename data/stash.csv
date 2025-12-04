@@ -5273,6 +5273,10 @@ UKESM1,emico_tavg-u-hxy-u,mon,m01s50i158,50,158,TMONMN,DIAG,UP4,True,False,False
 UKESM1-3,emico_tavg-u-hxy-u,mon,m01s50i158,50,158,TMONMN,DIAG,UP4,True,False,False
 UKESM1,emich4_tavg-u-hxy-u,mon,m01s50i427,50,427,TMONMN,DIAG,UP4,False,True,False
 UKESM1-3,emich4_tavg-u-hxy-u,mon,m01s50i427,50,427,TMONMN,DIAG,UP4,False,True,False
+UKESM1,emic3h8_tavg-u-hxy-u,mon,m01s50i161,50,161,TMONMN,DIAG,UP4,False,True,False
+UKESM1-3,emic3h8_tavg-u-hxy-u,mon,m01s50i161,50,161,TMONMN,DIAG,UP4,False,True,False
+UKESM1,emic2h6_tavg-u-hxy-u,mon,m01s50i160,50,160,TMONMN,DIAG,UP4,False,True,False
+UKESM1-3,emic2h6_tavg-u-hxy-u,mon,m01s50i160,50,160,TMONMN,DIAG,UP4,False,True,False
 HadGEM3-GC31,emibvoc_tavg-u-hxy-u,mon,m01s03i495,3,495,TMONMN,DIAG,UP4,True,False,False
 HadGEM3-GC31,emibvoc_tavg-u-hxy-u,mon,m01s03i496,3,496,TMONMN,DIAG,UP4,True,False,False
 HadGEM3-GC31,emibvoc_tavg-u-hxy-u,mon,m01s00i505,0,505,TMONMN,DIAG,UP4,True,False,False
