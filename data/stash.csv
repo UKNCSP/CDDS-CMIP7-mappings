@@ -4483,6 +4483,8 @@ UKESM1-3,wetoa_tavg-u-hxy-u,mon,m01s38i274,38,274,TMONMN,DALLTH,UP4,True,False,F
 UKESM1-3,wetoa_tavg-u-hxy-u,mon,m01s38i275,38,275,TMONMN,DALLTH,UP4,True,False,False
 UKESM1-3,wetoa_tavg-u-hxy-u,mon,m01s38i907,38,907,TMONMN,DIAG,UP4,True,False,False
 UKESM1-3,wetoa_tavg-u-hxy-u,mon,m01s38i913,38,913,TMONMN,DIAG,UP4,True,False,False
+UKESM1,wetnoy_tavg-u-hxy-u,mon,m01s50i241,50,241,TMONMN,DALLTH,UP4,False,True,False
+UKESM1-3,wetnoy_tavg-u-hxy-u,mon,m01s50i241,50,241,TMONMN,DALLTH,UP4,False,True,False
 UKESM1,wethno3_tavg-al-hxy-u,mon,m01s50i190,50,190,TMONMN,DALLTH,UP4,False,True,False
 UKESM1-3,wethno3_tavg-al-hxy-u,mon,m01s50i190,50,190,TMONMN,DALLTH,UP4,False,True,False
 HadGEM3-GC31,wetdust_tavg-u-hxy-u,mon,m01s04i231,4,231,TMONMN,DIAG,UP4,True,False,False
@@ -5716,6 +5718,8 @@ UKESM1,zg_tavg-10hPa-hxy-air,day,m01s30i297,30,297,TDAYMN,DP10,UP6,True,False,Fa
 UKESM1,zg_tavg-10hPa-hxy-air,day,m01s30i304,30,304,TDAYMN,DP10,UP6,True,False,False
 UKESM1-3,zg_tavg-10hPa-hxy-air,day,m01s30i297,30,297,TDAYMN,DP10,UP6,True,False,False
 UKESM1-3,zg_tavg-10hPa-hxy-air,day,m01s30i304,30,304,TDAYMN,DP10,UP6,True,False,False
+UKESM1,wetnoy_tavg-u-hxy-u,day,m01s50i241,50,241,TDAYMN,DALLTH,UP6,False,True,False
+UKESM1-3,wetnoy_tavg-u-hxy-u,day,m01s50i241,50,241,TDAYMN,DALLTH,UP6,False,True,False
 HadGEM3-GC31,ua_tavg-10hPa-hxy-air,day,m01s30i201,30,201,TDAYMN,DP10,UP6,True,False,False
 HadGEM3-GC31,ua_tavg-10hPa-hxy-air,day,m01s30i301,30,301,TDAYMN,DP10,UP6,True,False,False
 HadGEM3-GC5,ua_tavg-10hPa-hxy-air,day,m01s30i201,30,201,TDAYMN,DP10,UP6,True,False,False
@@ -5956,6 +5960,8 @@ HadGEM3-GC31,bldep_tmax-u-hxy-u,day,m01s03i304,3,304,TDAYMAX,DIAG,UP6,True,False
 HadGEM3-GC5,bldep_tmax-u-hxy-u,day,m01s03i304,3,304,TDAYMAX,DIAG,UP6,True,False,False
 UKESM1,bldep_tmax-u-hxy-u,day,m01s03i304,3,304,TDAYMAX,DIAG,UP6,True,False,False
 UKESM1-3,bldep_tmax-u-hxy-u,day,m01s03i304,3,304,TDAYMAX,DIAG,UP6,True,False,False
+UKESM1,drynoy_tavg-u-hxy-u,day,m01s50i242,50,242,TDAYMN,DALLTH,UP6,False,True,False
+UKESM1-3,drynoy_tavg-u-hxy-u,day,m01s50i242,50,242,TDAYMN,DALLTH,UP6,False,True,False
 HadGEM3-GC31,cod_tavg-u-hxy-u,day,m01s02i332,2,332,TDAYMN,DIAG,UP6,True,False,False
 HadGEM3-GC31,cod_tavg-u-hxy-u,day,m01s02i334,2,334,TDAYMN,DIAG,UP6,True,False,False
 HadGEM3-GC5,cod_tavg-u-hxy-u,day,m01s02i332,2,332,TDAYMN,DIAG,UP6,True,False,False
