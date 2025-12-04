@@ -688,6 +688,9 @@
     "UKESM1": "onm/grid-T`: `<field field_ref=\"toce\" name=\"thetao\" operation=\"average\" freq_op=\"1mo\" > @toce_e3t / @e3t </field>` <br> `onm/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
     "UKESM1-3": "onm/grid-T`: `<field field_ref=\"toce\" name=\"thetao\" operation=\"average\" freq_op=\"1mo\" > @toce_e3t / @e3t </field>` <br> `onm/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />"
   },
+  "Variable seaIce.evspsbl.tavg-u-hxy-si.mon.GLB (SImon.sidmassevapsubl)": {
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmisub\"           name=\"sidmassevapsubl\"  />"
+  },
   "Variable seaIce.siage.tavg-u-hxy-si.day.GLB (SIday.siage)": {
     "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"siage_siconc_cmip\" name=\"siage\" operation=\"average\" freq_op=\"1d\" detect_missing_value=\"true\"> (@iceconc==0) ? $missval : (@siage_siconc_cmip / @iceconc) </field>"
   },
@@ -699,6 +702,21 @@
   },
   "Variable seaIce.siconc.tavg-u-hxy-u.day.GLB (SIday.siconc)": {
     "HadGEM3-GC5": "ind/grid-T`: `<field field_ref=\"iceconc_pct\" name=\"siconc\" />"
+  },
+  "Variable seaIce.siconc.tavg-u-hxy-u.mon.GLB (SImon.siconc)": {
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"iceconc_pct\"          name=\"siconc\" />"
+  },
+  "Variable seaIce.sidconcdyn.tavg-u-hxy-sea.mon.GLB (SImon.sidconcdyn)": {
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"afxdyn\" name=\"sidconcdyn\" />"
+  },
+  "Variable seaIce.sidconcth.tavg-u-hxy-sea.mon.GLB (SImon.sidconcth)": {
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"afxthd\" name=\"sidconcth\" />"
+  },
+  "Variable seaIce.sidivvel.tpt-u-hxy-si.mon.GLB (SImon.sidivvel)": {
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"icediv\" name=\"sidivvel\" operation=\"instant\" />"
+  },
+  "Variable seaIce.sidmassdyn.tavg-u-hxy-si.mon.GLB (SImon.sidmassdyn)": {
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmidyn\"           name=\"sidmassdyn\"       />"
   },
   "Variable seaIce.sifb.tavg-u-hxy-si.day.GLB (SIday.sifb)": {
     "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"icefrb_siconc_cmip\" name=\"sifb\" operation=\"average\" freq_op=\"1d\" detect_missing_value=\"true\"> (@iceconc==0) ? $missval : (@icefrb_siconc_cmip / @iceconc) </field>"
