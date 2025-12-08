@@ -805,6 +805,9 @@
   "Variable seaIce.sisaltmass.tavg-u-hxy-si.day.GLB (SIday.sisaltmass)": {
     "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"sisaltmass\" name=\"sisaltmass\" />"
   },
+  "Variable seaIce.sishearvel.tpt-u-hxy-si.mon.GLB (SImon.sishearvel)": {
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"iceshe\" name=\"sishearvel\" operation=\"instant\" />"
+  },
   "Variable seaIce.sisndmassdyn.tavg-u-hxy-si.mon.GLB (SImon.sisndmassdyn)": {
     "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmsdyn\"           name=\"sndmassdyn\"       />"
   },
