@@ -134,7 +134,7 @@ if __name__ == '__main__':
         for row in csv_output:
             writer.writerow(row)
 
-    # per realm csvs
+    # per realm csvs and BCV
     per_realm_csv = defaultdict(list)
     per_realm_csv_cmip6 = defaultdict(list)
     per_realm_csv_new = defaultdict(list)
@@ -146,12 +146,13 @@ if __name__ == '__main__':
             per_realm_csv_cmip6[realm].append(entry)
         else:
             per_realm_csv_new[realm].append(entry)
+        if 'BCV' in str(entry):
+            per_realm_csv['BCV'].append(entry)
 
     
     write_csv(output_dir, title_list, per_realm_csv, 'mappings')
     write_csv(output_dir, title_list, per_realm_csv_cmip6, 'mappings_CMIP6')
     write_csv(output_dir, title_list, per_realm_csv_new, 'mappings_new')
-
 
     # prepare stash csv
     stash_headings = [
