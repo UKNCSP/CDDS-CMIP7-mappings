@@ -727,6 +727,27 @@
   "Variable seaIce.sidmassdyn.tavg-u-hxy-si.mon.GLB (SImon.sidmassdyn)": {
     "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmidyn\"           name=\"sidmassdyn\"       />"
   },
+  "Variable seaIce.sidmassgrowthbot.tavg-u-hxy-si.mon.GLB (SImon.sidmassgrowthbot)": {
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmibog\"           name=\"sidmassgrowthbot\" />"
+  },
+  "Variable seaIce.sidmassgrowthsi.tavg-u-hxy-si.mon.GLB (SImon.sidmassgrowthsi)": {
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmisni\"           name=\"sidmasssi\"        />"
+  },
+  "Variable seaIce.sidmassgrowthwat.tavg-u-hxy-si.mon.GLB (SImon.sidmassgrowthwat)": {
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmiopw\"           name=\"sidmassgrowthwat\" />"
+  },
+  "Variable seaIce.sidmassmeltbot.tavg-u-hxy-si.mon.GLB (SImon.sidmassmeltbot)": {
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmibom\"           name=\"sidmassmeltbot\"   />"
+  },
+  "Variable seaIce.sidmassmeltlat.tavg-u-hxy-si.mon.GLB (SImon.sidmassmeltlat)": {
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmilam\"           name=\"sidmassmeltlat\"   />"
+  },
+  "Variable seaIce.sidmassmelttop.tavg-u-hxy-si.mon.GLB (SImon.sidmassmelttop)": {
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmisum\"           name=\"sidmassmelttop\"   />"
+  },
+  "Variable seaIce.sidmassth.tavg-u-hxy-si.mon.GLB (SImon.sidmassth)": {
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmithd\"           name=\"sidmassth\"        />"
+  },
   "Variable seaIce.sidmasstranx.tavg-u-hxy-u.mon.GLB (SImon.sidmasstranx)": {
     "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"xmtrptot\" name=\"sidmasstranx\" />"
   },
