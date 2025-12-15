@@ -857,7 +857,7 @@
     "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"iceapnd\"          name=\"siapnd\" />` <br> `inm/grid-T` : `<field field_ref=\"iceconc_pct\"          name=\"siconc\" />"
   },
   "Variable seaIce.simpeffconc.tavg-u-hxy-si.day.GLB (SIday.simpeffconc)": {
-    "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"iceepnd\"          name=\"siepnd\" />' <br>  `ind/grid-T` : `<field field_ref=\"iceconc_pct\"          name=\"siconc\" />"
+    "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"iceepnd\"          name=\"siepnd\" />` <br>  `ind/grid-T` : `<field field_ref=\"iceconc_pct\"          name=\"siconc\" />"
   },
   "Variable seaIce.simpeffconc.tavg-u-hxy-si.mon.GLB (SImon.simpeffconc)": {
     "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"iceepnd\"          name=\"siepnd\" />` <br> `inm/grid-T` : `<field field_ref=\"iceconc_pct\"          name=\"siconc\" />"
