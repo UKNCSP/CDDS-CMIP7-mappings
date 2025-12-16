@@ -83,9 +83,6 @@ def condense_dict(results: dict) -> list[dict]:
         title = mapping.get("title", "")
         branded_variable = re.search(r"Variable\s+([^\s(]+)", title).group(1)
 
-        # Determine if the variable is tagged as 'do-not-produce'.
-        do_not_produce = True if "do-not-produce" in mapping.get("labels", []) else False
-
         # Get the usage profile and model from stash to generate the associated stream.
         stash_entries = mapping.get("STASH entries", {})
         for stash in stash_entries:
@@ -97,7 +94,7 @@ def condense_dict(results: dict) -> list[dict]:
                 "model": model,
                 "branded_variable": branded_variable,
                 "stream": stream,
-                "do_not_produce": do_not_produce
+                "labels": mapping.get("labels", [])
             }
 
             condensed_mappings.append(condensed_mapping)
