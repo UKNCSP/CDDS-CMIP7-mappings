@@ -16,12 +16,12 @@ def tables_to_dict(text):
     """
     Extract information from tables and return as a dictionary
     """
-    
+
     section = None
     key = None
-    
+
     results = {}
-    
+
     for line in text.split("\n"):
         match = re.search('## (.*)', line)
         if match:
@@ -61,7 +61,46 @@ def tables_to_dict(text):
                         'usage_profile': usage
                         })
     return results
-                
+
+
+def condense_dict(results: dict) -> list[dict]:
+    """Creates a condensed list of dictionaries containing only the model, variable name, stream and production status.
+
+    Parameters
+    ----------
+    results: dict
+        The full mappings.json dictionary containing all mapping information for every variable.
+
+    Returns
+    -------
+    list[dict]
+        A condensed list of dictionaries containing the model, variable name, stream and production status of all
+        variables.
+    """
+    condensed_mappings = []
+    for mapping in results:
+        # Get and reformat the variable title to include only the realm, variable, branding and region.
+        title = mapping.get("title", "")
+        branded_variable = re.search(r"Variable\s+([^\s(]+)", title).group(1)
+
+        # Get the usage profile and model from stash to generate the associated stream.
+        stash_entries = mapping.get("STASH entries", {})
+        for stash in stash_entries:
+            model = stash.get("model")
+            usage_profile = stash.get("usage_profile") if stash["usage_profile"] else ""
+            stream = usage_profile.replace("UP", "ap") if usage_profile else ""
+
+            condensed_mapping = {
+                "model": model,
+                "branded_variable": branded_variable,
+                "stream": stream,
+                "labels": mapping.get("labels", [])
+            }
+
+            condensed_mappings.append(condensed_mapping)
+
+    return condensed_mappings
+
 
 def write_csv(output_dir, title_list, per_realm_csv, suffix):
     for realm, realm_csv in per_realm_csv.items():
@@ -76,7 +115,7 @@ if __name__ == '__main__':
 
     # location for result files
     output_dir = sys.argv[1]
-    
+
     # obtain results NOTE LIMIT TO 2000
     result = subprocess.check_output('gh issue list -L 2000 --json number,title,body,labels'.split())
 
@@ -100,6 +139,12 @@ if __name__ == '__main__':
     with open(os.path.join(output_dir, 'mappings.json'), 'w') as fh:
         json.dump(results, fh, indent=2, sort_keys=True)
 
+    # prepare a condensed version of mappings.json for use in CDDS-simulation-metadata
+    condensed_results = condense_dict(results)
+
+    with open(os.path.join(output_dir, 'condensed_mappings.json'), 'w') as fh:
+        json.dump(condensed_results, fh, indent=2, sort_keys=True)
+
     # prepare mappings.csv
     all_mapping_keys = set()
     for entry in results:
@@ -110,13 +155,14 @@ if __name__ == '__main__':
     order_link = ['link']
     order_labels = ['labels']
     order_dr = sorted(list(results[0]['Data Request information'].keys()))
-    
-    order_mapping = ['Expression HadGEM3-GC31', 'Expression HadGEM3-GC5', 'Expression UKESM1', 'Expression UKESM1-3', 'Expression UKESM2', 'Model units']
+
+    order_mapping = ['Expression HadGEM3-GC31', 'Expression HadGEM3-GC5', 'Expression UKESM1', 'Expression UKESM1-3',
+                     'Expression UKESM2', 'Model units']
     found_order_mapping = [i for i in sorted(list(all_mapping_keys)) if ('Expression' in i or 'units' in i)]
     for i in found_order_mapping:
         if i not in order_mapping:
             print(f"found unexpected expression field {i}")
-    
+
     title_list = order_first + order_link + order_labels + order_dr + order_mapping
     csv_output = []
     for entry in results:
@@ -125,7 +171,7 @@ if __name__ == '__main__':
         record += [' '.join(entry['labels'])]
         record += [entry['Data Request information'].get(i, "") for i in order_dr]
         record += [entry['Mapping information'].get(i, "") for i in order_mapping]
-        #record.append(','.join(entry['labels']))
+        # record.append(','.join(entry['labels']))
         csv_output.append(record)
 
     with open(os.path.join(output_dir, 'mappings.csv'), 'w') as fh:
@@ -149,7 +195,6 @@ if __name__ == '__main__':
         if 'BCV' in str(entry):
             per_realm_csv['BCV'].append(entry)
 
-    
     write_csv(output_dir, title_list, per_realm_csv, 'mappings')
     write_csv(output_dir, title_list, per_realm_csv_cmip6, 'mappings_CMIP6')
     write_csv(output_dir, title_list, per_realm_csv_new, 'mappings_new')
@@ -171,7 +216,7 @@ if __name__ == '__main__':
     ]
     stash_csv = [stash_headings]
     for entry in results:
-        stash_data = entry["STASH entries"] # (relevant for UM only)"]
+        stash_data = entry["STASH entries"]  # (relevant for UM only)"]
         if not stash_data:
             continue
         for i in stash_data:
@@ -187,24 +232,21 @@ if __name__ == '__main__':
                 line += [0, i['stash_number']]
             line += [i[j] for j in stash_headings[-6:-3]]
             line += [
-                'approved' in entry['labels'], 
-                'approved_UKESM' in entry['labels'], 
+                'approved' in entry['labels'],
+                'approved_UKESM' in entry['labels'],
                 'approved_HadGEM' in entry['labels']]
             stash_csv.append(line)
-     
+
     with open(os.path.join(output_dir, 'stash.csv'), 'w') as fh:
         writer = csv.writer(fh, dialect='excel')
         for row in stash_csv:
-            writer.writerow(row)  
-    
-    
+            writer.writerow(row)
+
     xios_data = {}
     for entry in results:
         xios_entry = entry.get("XIOS entries", [])
         if xios_entry:
             xios_data[entry['title']] = xios_entry
-    
+
     with open(os.path.join(output_dir, "xios.json"), 'w') as fh:
         json.dump(xios_data, fh, indent=2, sort_keys=True)
-
-
