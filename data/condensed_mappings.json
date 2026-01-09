@@ -1,6 +1,6 @@
 [
   {
-    "branded_variable": "aerosol.rsdcsaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rsdcsaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -12,7 +12,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rsdcsaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rsdcsaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -24,7 +24,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rsdcsaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rsdcsaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -36,7 +36,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rsdcsaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rsdcsaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -48,7 +48,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rsdcsaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rsdcsaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -60,7 +60,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rsdcsaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rsdcsaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -72,7 +72,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rsdcsaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rsdcsaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -84,7 +84,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rsdcsaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rsdcsaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -96,7 +96,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rsdaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rsdaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -108,7 +108,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rsdaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rsdaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -120,7 +120,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rsdaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rsdaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -132,7 +132,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rsdaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rsdaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -144,7 +144,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rsdaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rsdaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -156,7 +156,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rsdaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rsdaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -168,7 +168,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rsdaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rsdaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -180,7 +180,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rsdaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rsdaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -192,7 +192,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rldcsaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rldcsaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -204,7 +204,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rldcsaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rldcsaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -216,7 +216,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rldcsaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rldcsaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -228,7 +228,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rldcsaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rldcsaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -240,7 +240,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rldcsaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rldcsaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -252,7 +252,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rldcsaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rldcsaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -264,7 +264,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rldcsaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rldcsaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -276,7 +276,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rldcsaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rldcsaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -288,7 +288,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rldaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rldaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -300,7 +300,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rldaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rldaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -312,7 +312,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rldaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rldaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -324,7 +324,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rldaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rldaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -336,7 +336,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rldaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rldaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -348,7 +348,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rldaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rldaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -360,7 +360,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rldaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rldaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -372,7 +372,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.rldaf.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "aerosol.rldaf.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -384,7 +384,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.mon.GLB",
+    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.mon.glb",
     "labels": [
       "mon",
       "landIce",
@@ -398,7 +398,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.mon.GLB",
+    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.mon.glb",
     "labels": [
       "mon",
       "landIce",
@@ -412,7 +412,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.mon.GLB",
+    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.mon.glb",
     "labels": [
       "mon",
       "landIce",
@@ -426,7 +426,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.mon.GLB",
+    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.mon.glb",
     "labels": [
       "mon",
       "landIce",
@@ -440,7 +440,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.mon.GLB",
+    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.mon.glb",
     "labels": [
       "mon",
       "landIce",
@@ -454,7 +454,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.mon.GLB",
+    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.mon.glb",
     "labels": [
       "mon",
       "landIce",
@@ -468,7 +468,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.mon.GLB",
+    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.mon.glb",
     "labels": [
       "mon",
       "landIce",
@@ -482,7 +482,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.mon.GLB",
+    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.mon.glb",
     "labels": [
       "mon",
       "landIce",
@@ -496,7 +496,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.mon.GLB",
+    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.mon.glb",
     "labels": [
       "mon",
       "landIce",
@@ -510,7 +510,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.mon.GLB",
+    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.mon.glb",
     "labels": [
       "mon",
       "landIce",
@@ -524,7 +524,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.mon.GLB",
+    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.mon.glb",
     "labels": [
       "mon",
       "landIce",
@@ -538,7 +538,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.mon.GLB",
+    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.mon.glb",
     "labels": [
       "mon",
       "landIce",
@@ -552,7 +552,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "land.raLut.tavg-u-hxy-multi.mon.GLB",
+    "branded_variable": "land.raLut.tavg-u-hxy-multi.mon.glb",
     "labels": [
       "mon",
       "land",
@@ -564,7 +564,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "land.raLut.tavg-u-hxy-multi.mon.GLB",
+    "branded_variable": "land.raLut.tavg-u-hxy-multi.mon.glb",
     "labels": [
       "mon",
       "land",
@@ -576,7 +576,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "land.raLut.tavg-u-hxy-multi.mon.GLB",
+    "branded_variable": "land.raLut.tavg-u-hxy-multi.mon.glb",
     "labels": [
       "mon",
       "land",
@@ -588,7 +588,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "land.raLut.tavg-u-hxy-multi.mon.GLB",
+    "branded_variable": "land.raLut.tavg-u-hxy-multi.mon.glb",
     "labels": [
       "mon",
       "land",
@@ -600,7 +600,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.vtem.tavg-p39-hy-air.day.GLB",
+    "branded_variable": "atmos.vtem.tavg-p39-hy-air.day.glb",
     "labels": [
       "question",
       "day",
@@ -614,7 +614,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.vtem.tavg-p39-hy-air.day.GLB",
+    "branded_variable": "atmos.vtem.tavg-p39-hy-air.day.glb",
     "labels": [
       "question",
       "day",
@@ -628,7 +628,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.vtem.tavg-p39-hy-air.day.GLB",
+    "branded_variable": "atmos.vtem.tavg-p39-hy-air.day.glb",
     "labels": [
       "question",
       "day",
@@ -642,7 +642,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.vtem.tavg-p39-hy-air.day.GLB",
+    "branded_variable": "atmos.vtem.tavg-p39-hy-air.day.glb",
     "labels": [
       "question",
       "day",
@@ -656,7 +656,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.vtem.tavg-p39-hy-air.day.GLB",
+    "branded_variable": "atmos.vtem.tavg-p39-hy-air.day.glb",
     "labels": [
       "question",
       "day",
@@ -670,7 +670,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.vtem.tavg-p39-hy-air.day.GLB",
+    "branded_variable": "atmos.vtem.tavg-p39-hy-air.day.glb",
     "labels": [
       "question",
       "day",
@@ -684,7 +684,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.vtem.tavg-p39-hy-air.day.GLB",
+    "branded_variable": "atmos.vtem.tavg-p39-hy-air.day.glb",
     "labels": [
       "question",
       "day",
@@ -698,7 +698,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.vtem.tavg-p39-hy-air.day.GLB",
+    "branded_variable": "atmos.vtem.tavg-p39-hy-air.day.glb",
     "labels": [
       "question",
       "day",
@@ -712,7 +712,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.zg.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.zg.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -726,7 +726,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.zg.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.zg.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -740,7 +740,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.zg.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.zg.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -754,7 +754,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.zg.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.zg.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -768,7 +768,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.zg.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.zg.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -782,7 +782,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.zg.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.zg.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -796,7 +796,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.zg.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.zg.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -810,7 +810,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.zg.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.zg.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -824,7 +824,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.wap.tavg-p19-hxy-u.day.GLB",
+    "branded_variable": "atmos.wap.tavg-p19-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -838,7 +838,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.wap.tavg-p19-hxy-u.day.GLB",
+    "branded_variable": "atmos.wap.tavg-p19-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -852,7 +852,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.wap.tavg-p19-hxy-u.day.GLB",
+    "branded_variable": "atmos.wap.tavg-p19-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -866,7 +866,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.wap.tavg-p19-hxy-u.day.GLB",
+    "branded_variable": "atmos.wap.tavg-p19-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -880,7 +880,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.wap.tavg-p19-hxy-u.day.GLB",
+    "branded_variable": "atmos.wap.tavg-p19-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -894,7 +894,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.wap.tavg-p19-hxy-u.day.GLB",
+    "branded_variable": "atmos.wap.tavg-p19-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -908,7 +908,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.wap.tavg-p19-hxy-u.day.GLB",
+    "branded_variable": "atmos.wap.tavg-p19-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -922,7 +922,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.wap.tavg-p19-hxy-u.day.GLB",
+    "branded_variable": "atmos.wap.tavg-p19-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -936,7 +936,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.vas.tavg-h10m-hxy-u.day.GLB",
+    "branded_variable": "atmos.vas.tavg-h10m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -950,7 +950,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.vas.tavg-h10m-hxy-u.day.GLB",
+    "branded_variable": "atmos.vas.tavg-h10m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -964,7 +964,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.vas.tavg-h10m-hxy-u.day.GLB",
+    "branded_variable": "atmos.vas.tavg-h10m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -978,7 +978,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.vas.tavg-h10m-hxy-u.day.GLB",
+    "branded_variable": "atmos.vas.tavg-h10m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -992,7 +992,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.va.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.va.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1006,7 +1006,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.va.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.va.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1020,7 +1020,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.va.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.va.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1034,7 +1034,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.va.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.va.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1048,7 +1048,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.va.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.va.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1062,7 +1062,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.va.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.va.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1076,7 +1076,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.va.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.va.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1090,7 +1090,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.va.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.va.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1104,7 +1104,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.uas.tavg-h10m-hxy-u.day.GLB",
+    "branded_variable": "atmos.uas.tavg-h10m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1118,7 +1118,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.uas.tavg-h10m-hxy-u.day.GLB",
+    "branded_variable": "atmos.uas.tavg-h10m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1132,7 +1132,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.uas.tavg-h10m-hxy-u.day.GLB",
+    "branded_variable": "atmos.uas.tavg-h10m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1146,7 +1146,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.uas.tavg-h10m-hxy-u.day.GLB",
+    "branded_variable": "atmos.uas.tavg-h10m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1160,7 +1160,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.ua.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.ua.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1174,7 +1174,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.ua.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.ua.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1188,7 +1188,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.ua.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.ua.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1202,7 +1202,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.ua.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.ua.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1216,7 +1216,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.ua.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.ua.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1230,7 +1230,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.ua.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.ua.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1244,7 +1244,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.ua.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.ua.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1258,7 +1258,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.ua.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.ua.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1272,7 +1272,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.tas.tmin-h2m-hxy-u.day.GLB",
+    "branded_variable": "atmos.tas.tmin-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1286,7 +1286,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.tas.tmin-h2m-hxy-u.day.GLB",
+    "branded_variable": "atmos.tas.tmin-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1300,7 +1300,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.tas.tmin-h2m-hxy-u.day.GLB",
+    "branded_variable": "atmos.tas.tmin-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1314,7 +1314,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.tas.tmin-h2m-hxy-u.day.GLB",
+    "branded_variable": "atmos.tas.tmin-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1328,7 +1328,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.tas.tmax-h2m-hxy-u.day.GLB",
+    "branded_variable": "atmos.tas.tmax-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1342,7 +1342,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.tas.tmax-h2m-hxy-u.day.GLB",
+    "branded_variable": "atmos.tas.tmax-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1356,7 +1356,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.tas.tmax-h2m-hxy-u.day.GLB",
+    "branded_variable": "atmos.tas.tmax-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1370,7 +1370,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.tas.tmax-h2m-hxy-u.day.GLB",
+    "branded_variable": "atmos.tas.tmax-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1384,7 +1384,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.tas.tavg-h2m-hxy-u.day.GLB",
+    "branded_variable": "atmos.tas.tavg-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1398,7 +1398,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.tas.tavg-h2m-hxy-u.day.GLB",
+    "branded_variable": "atmos.tas.tavg-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1412,7 +1412,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.tas.tavg-h2m-hxy-u.day.GLB",
+    "branded_variable": "atmos.tas.tavg-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1426,7 +1426,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.tas.tavg-h2m-hxy-u.day.GLB",
+    "branded_variable": "atmos.tas.tavg-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1440,7 +1440,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.ta.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.ta.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1454,7 +1454,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.ta.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.ta.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1468,7 +1468,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.ta.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.ta.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1482,7 +1482,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.ta.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.ta.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1496,7 +1496,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.ta.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.ta.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1510,7 +1510,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.ta.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.ta.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1524,7 +1524,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.ta.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.ta.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1538,7 +1538,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.ta.tavg-p19-hxy-air.day.GLB",
+    "branded_variable": "atmos.ta.tavg-p19-hxy-air.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1552,7 +1552,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "landIce.snw.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "landIce.snw.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "landIce",
@@ -1565,7 +1565,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "landIce.snw.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "landIce.snw.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "landIce",
@@ -1578,7 +1578,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "landIce.snw.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "landIce.snw.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "landIce",
@@ -1591,7 +1591,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "landIce.snw.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "landIce.snw.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "landIce",
@@ -1604,7 +1604,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "landIce.snw.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "landIce.snw.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "landIce",
@@ -1617,7 +1617,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "landIce.snw.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "landIce.snw.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "landIce",
@@ -1630,7 +1630,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "landIce.snw.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "landIce.snw.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "landIce",
@@ -1643,7 +1643,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "landIce.snw.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "landIce.snw.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "landIce",
@@ -1656,7 +1656,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "landIce",
@@ -1669,7 +1669,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "landIce",
@@ -1682,7 +1682,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "landIce",
@@ -1695,7 +1695,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "landIce",
@@ -1708,7 +1708,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "landIce",
@@ -1721,7 +1721,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "landIce",
@@ -1734,7 +1734,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "landIce",
@@ -1747,7 +1747,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "landIce",
@@ -1760,7 +1760,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "landIce",
@@ -1773,7 +1773,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "landIce",
@@ -1786,7 +1786,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "landIce",
@@ -1799,7 +1799,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "landIce.snc.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "landIce",
@@ -1812,7 +1812,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.sfcWind.tmax-h10m-hxy-u.day.GLB",
+    "branded_variable": "atmos.sfcWind.tmax-h10m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1825,7 +1825,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.sfcWind.tmax-h10m-hxy-u.day.GLB",
+    "branded_variable": "atmos.sfcWind.tmax-h10m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1838,7 +1838,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.sfcWind.tmax-h10m-hxy-u.day.GLB",
+    "branded_variable": "atmos.sfcWind.tmax-h10m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1851,7 +1851,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.sfcWind.tmax-h10m-hxy-u.day.GLB",
+    "branded_variable": "atmos.sfcWind.tmax-h10m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1864,7 +1864,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.sfcWind.tavg-h10m-hxy-u.day.GLB",
+    "branded_variable": "atmos.sfcWind.tavg-h10m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1878,7 +1878,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.sfcWind.tavg-h10m-hxy-u.day.GLB",
+    "branded_variable": "atmos.sfcWind.tavg-h10m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1892,7 +1892,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.sfcWind.tavg-h10m-hxy-u.day.GLB",
+    "branded_variable": "atmos.sfcWind.tavg-h10m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1906,7 +1906,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.sfcWind.tavg-h10m-hxy-u.day.GLB",
+    "branded_variable": "atmos.sfcWind.tavg-h10m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1920,7 +1920,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rsus.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rsus.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1933,7 +1933,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rsus.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rsus.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1946,7 +1946,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rsus.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rsus.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1959,7 +1959,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rsus.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rsus.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1972,7 +1972,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rsus.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rsus.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1985,7 +1985,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rsus.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rsus.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -1998,7 +1998,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rsus.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rsus.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2011,7 +2011,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rsus.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rsus.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2024,7 +2024,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rss.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rss.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2037,7 +2037,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rss.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rss.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2050,7 +2050,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rss.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rss.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2063,7 +2063,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rss.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rss.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2076,7 +2076,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rsds.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rsds.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2090,7 +2090,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rsds.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rsds.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2104,7 +2104,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rsds.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rsds.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2118,7 +2118,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rsds.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rsds.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2132,7 +2132,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rlut.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rlut.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2145,7 +2145,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rlut.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rlut.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2158,7 +2158,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rlut.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rlut.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2171,7 +2171,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rlut.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rlut.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2184,7 +2184,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2196,7 +2196,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2208,7 +2208,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2220,7 +2220,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2232,7 +2232,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2244,7 +2244,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2256,7 +2256,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2268,7 +2268,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2280,7 +2280,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2292,7 +2292,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2304,7 +2304,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2316,7 +2316,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2328,20 +2328,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2354,7 +2341,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2367,7 +2354,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2380,163 +2367,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.rls.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2549,7 +2380,163 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rls.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.rls.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2562,7 +2549,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rls.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rls.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2575,124 +2562,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rls.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.rls.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.rls.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.rls.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.rls.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.rls.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.rls.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.rls.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.rls.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.rlds.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rls.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2705,7 +2575,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rlds.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rls.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2718,7 +2588,33 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rlds.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rls.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.rls.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.rls.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2731,7 +2627,33 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.rlds.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rls.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.rls.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.rls.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2744,7 +2666,85 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.psl.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.rls.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.rls.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.rlds.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "HadGEM3-GC31",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.rlds.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.rlds.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.rlds.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.psl.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2758,7 +2758,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.psl.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.psl.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2772,7 +2772,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.psl.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.psl.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2786,7 +2786,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.psl.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.psl.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2800,7 +2800,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.prsn.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.prsn.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2813,7 +2813,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.prsn.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.prsn.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2826,7 +2826,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.prsn.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.prsn.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2839,7 +2839,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.prsn.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.prsn.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2852,7 +2852,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.prc.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.prc.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2865,7 +2865,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.prc.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.prc.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2878,7 +2878,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.prc.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.prc.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2891,7 +2891,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.prc.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.prc.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2904,7 +2904,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.prc.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.prc.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2917,7 +2917,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.prc.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.prc.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2930,7 +2930,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.prc.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.prc.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2943,7 +2943,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.prc.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.prc.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2956,7 +2956,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.pr.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.pr.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2970,7 +2970,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.pr.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.pr.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2984,7 +2984,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.pr.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.pr.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -2998,7 +2998,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.pr.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.pr.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3012,7 +3012,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "land.mrsol.tavg-d10cm-hxy-lnd.day.GLB",
+    "branded_variable": "land.mrsol.tavg-d10cm-hxy-lnd.day.glb",
     "labels": [
       "day",
       "land",
@@ -3025,7 +3025,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "land.mrsol.tavg-d10cm-hxy-lnd.day.GLB",
+    "branded_variable": "land.mrsol.tavg-d10cm-hxy-lnd.day.glb",
     "labels": [
       "day",
       "land",
@@ -3038,7 +3038,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "land.mrsol.tavg-d10cm-hxy-lnd.day.GLB",
+    "branded_variable": "land.mrsol.tavg-d10cm-hxy-lnd.day.glb",
     "labels": [
       "day",
       "land",
@@ -3051,7 +3051,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "land.mrsol.tavg-d10cm-hxy-lnd.day.GLB",
+    "branded_variable": "land.mrsol.tavg-d10cm-hxy-lnd.day.glb",
     "labels": [
       "day",
       "land",
@@ -3064,7 +3064,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "land.mrso.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "land.mrso.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "land",
@@ -3077,7 +3077,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "land.mrso.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "land.mrso.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "land",
@@ -3090,7 +3090,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "land.mrso.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "land.mrso.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "land",
@@ -3103,7 +3103,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "land.mrso.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "land.mrso.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "land",
@@ -3116,7 +3116,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "land.mrro.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "land.mrro.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "land",
@@ -3129,7 +3129,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "land.mrro.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "land.mrro.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "land",
@@ -3142,7 +3142,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "land.mrro.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "land.mrro.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "land",
@@ -3155,7 +3155,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "land.mrro.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "land.mrro.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "land",
@@ -3168,7 +3168,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "land.mrro.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "land.mrro.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "land",
@@ -3181,7 +3181,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "land.mrro.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "land.mrro.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "land",
@@ -3194,7 +3194,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "land.mrro.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "land.mrro.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "land",
@@ -3207,7 +3207,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "land.mrro.tavg-u-hxy-lnd.day.GLB",
+    "branded_variable": "land.mrro.tavg-u-hxy-lnd.day.glb",
     "labels": [
       "day",
       "land",
@@ -3220,7 +3220,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.huss.tavg-h2m-hxy-u.day.GLB",
+    "branded_variable": "atmos.huss.tavg-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3234,7 +3234,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.huss.tavg-h2m-hxy-u.day.GLB",
+    "branded_variable": "atmos.huss.tavg-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3248,7 +3248,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.huss.tavg-h2m-hxy-u.day.GLB",
+    "branded_variable": "atmos.huss.tavg-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3262,7 +3262,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.huss.tavg-h2m-hxy-u.day.GLB",
+    "branded_variable": "atmos.huss.tavg-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3276,7 +3276,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.hus.tavg-p19-hxy-u.day.GLB",
+    "branded_variable": "atmos.hus.tavg-p19-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3290,7 +3290,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.hus.tavg-p19-hxy-u.day.GLB",
+    "branded_variable": "atmos.hus.tavg-p19-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3304,7 +3304,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.hus.tavg-p19-hxy-u.day.GLB",
+    "branded_variable": "atmos.hus.tavg-p19-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3318,7 +3318,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.hus.tavg-p19-hxy-u.day.GLB",
+    "branded_variable": "atmos.hus.tavg-p19-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3332,7 +3332,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.hus.tavg-p19-hxy-u.day.GLB",
+    "branded_variable": "atmos.hus.tavg-p19-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3346,7 +3346,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.hus.tavg-p19-hxy-u.day.GLB",
+    "branded_variable": "atmos.hus.tavg-p19-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3360,7 +3360,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.hus.tavg-p19-hxy-u.day.GLB",
+    "branded_variable": "atmos.hus.tavg-p19-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3374,7 +3374,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.hus.tavg-p19-hxy-u.day.GLB",
+    "branded_variable": "atmos.hus.tavg-p19-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3388,7 +3388,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.hurs.tmin-h2m-hxy-u.day.GLB",
+    "branded_variable": "atmos.hurs.tmin-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3401,7 +3401,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.hurs.tmin-h2m-hxy-u.day.GLB",
+    "branded_variable": "atmos.hurs.tmin-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3414,7 +3414,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.hurs.tmin-h2m-hxy-u.day.GLB",
+    "branded_variable": "atmos.hurs.tmin-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3427,7 +3427,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.hurs.tmin-h2m-hxy-u.day.GLB",
+    "branded_variable": "atmos.hurs.tmin-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3440,7 +3440,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.hurs.tmax-h2m-hxy-u.day.GLB",
+    "branded_variable": "atmos.hurs.tmax-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3453,7 +3453,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.hurs.tmax-h2m-hxy-u.day.GLB",
+    "branded_variable": "atmos.hurs.tmax-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3466,7 +3466,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.hurs.tmax-h2m-hxy-u.day.GLB",
+    "branded_variable": "atmos.hurs.tmax-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3479,7 +3479,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.hurs.tmax-h2m-hxy-u.day.GLB",
+    "branded_variable": "atmos.hurs.tmax-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3492,63 +3492,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.hurs.tavg-h2m-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.hurs.tavg-h2m-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.hurs.tavg-h2m-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.hurs.tavg-h2m-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.hur.tavg-p19-hxy-u.day.GLB",
+    "branded_variable": "atmos.hurs.tavg-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3562,21 +3506,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.hur.tavg-p19-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.hur.tavg-p19-hxy-u.day.GLB",
+    "branded_variable": "atmos.hurs.tavg-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3590,21 +3520,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.hur.tavg-p19-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.hur.tavg-p19-hxy-u.day.GLB",
+    "branded_variable": "atmos.hurs.tavg-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3618,21 +3534,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.hur.tavg-p19-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.hur.tavg-p19-hxy-u.day.GLB",
+    "branded_variable": "atmos.hurs.tavg-h2m-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3646,125 +3548,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.hur.tavg-p19-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.hfss.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.hfss.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.hfss.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.hfss.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.hfls.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.hfls.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.hfls.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.hfls.tavg-u-hxy-u.day.GLB",
-    "labels": [
-      "day",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap6"
-  },
-  {
-    "branded_variable": "atmos.clt.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.hur.tavg-p19-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3778,7 +3562,21 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.clt.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.hur.tavg-p19-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC31",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.hur.tavg-p19-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3792,7 +3590,21 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.clt.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.hur.tavg-p19-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.hur.tavg-p19-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3806,7 +3618,21 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.clt.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "atmos.hur.tavg-p19-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.hur.tavg-p19-hxy-u.day.glb",
     "labels": [
       "day",
       "atmos",
@@ -3820,7 +3646,181 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "seaIce.ts.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "atmos.hur.tavg-p19-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.hfss.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "HadGEM3-GC31",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.hfss.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.hfss.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.hfss.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.hfls.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "HadGEM3-GC31",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.hfls.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.hfls.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.hfls.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.clt.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC31",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.clt.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.clt.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "atmos.clt.tavg-u-hxy-u.day.glb",
+    "labels": [
+      "day",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap6"
+  },
+  {
+    "branded_variable": "seaIce.ts.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -3834,7 +3834,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.ts.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.ts.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -3848,7 +3848,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.ts.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.ts.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -3862,7 +3862,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.ts.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.ts.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -3876,7 +3876,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.ts.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.ts.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -3890,7 +3890,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.ts.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.ts.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -3904,7 +3904,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.ts.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.ts.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -3918,7 +3918,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.ts.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.ts.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -3932,7 +3932,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rsus.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rsus.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -3945,7 +3945,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rsus.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rsus.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -3958,7 +3958,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rsus.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rsus.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -3971,7 +3971,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rsus.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rsus.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -3984,7 +3984,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rsus.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rsus.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -3997,7 +3997,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rsus.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rsus.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4010,7 +4010,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rsus.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rsus.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4023,7 +4023,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rsus.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rsus.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4036,7 +4036,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rsds.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rsds.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4049,7 +4049,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rsds.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rsds.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4062,7 +4062,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rsds.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rsds.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4075,7 +4075,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rsds.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rsds.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4088,7 +4088,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rsds.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rsds.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4101,7 +4101,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rsds.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rsds.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4114,7 +4114,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rsds.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rsds.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4127,7 +4127,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rsds.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rsds.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4140,7 +4140,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.siflsenstop.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.siflsenstop.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4153,7 +4153,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.siflsenstop.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.siflsenstop.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4166,7 +4166,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.siflsenstop.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.siflsenstop.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4179,7 +4179,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.siflsenstop.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.siflsenstop.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4192,7 +4192,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.siflsenstop.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.siflsenstop.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4205,7 +4205,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.siflsenstop.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.siflsenstop.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4218,7 +4218,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.siflsenstop.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.siflsenstop.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4231,7 +4231,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.siflsenstop.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.siflsenstop.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4244,7 +4244,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rlus.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rlus.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4257,7 +4257,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rlus.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rlus.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4270,7 +4270,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rlus.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rlus.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4283,7 +4283,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rlus.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rlus.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4296,7 +4296,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rlus.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rlus.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4309,7 +4309,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rlus.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rlus.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4322,7 +4322,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rlus.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rlus.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4335,7 +4335,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rlus.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rlus.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4348,7 +4348,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rlds.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rlds.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4361,7 +4361,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rlds.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rlds.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4374,7 +4374,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rlds.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rlds.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4387,7 +4387,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rlds.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rlds.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4400,7 +4400,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rlds.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rlds.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4413,7 +4413,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rlds.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rlds.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4426,7 +4426,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rlds.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rlds.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4439,7 +4439,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rlds.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.rlds.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4452,7 +4452,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.sidragtop.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.sidragtop.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4465,7 +4465,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.sidragtop.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.sidragtop.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4478,7 +4478,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.sidragtop.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.sidragtop.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4491,7 +4491,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.sidragtop.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.sidragtop.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4504,7 +4504,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.sidragtop.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.sidragtop.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4517,7 +4517,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.sidragtop.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.sidragtop.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4530,7 +4530,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.sidragtop.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.sidragtop.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4543,7 +4543,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.sidragtop.tavg-u-hxy-si.mon.GLB",
+    "branded_variable": "seaIce.sidragtop.tavg-u-hxy-si.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4556,7 +4556,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.siconca.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "seaIce.siconca.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4569,7 +4569,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.siconca.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "seaIce.siconca.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4582,7 +4582,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.siconca.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "seaIce.siconca.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4595,7 +4595,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.siconca.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "seaIce.siconca.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "seaIce",
@@ -4608,7 +4608,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.ts.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.ts.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4621,7 +4621,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "seaIce.ts.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.ts.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4634,7 +4634,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "seaIce.ts.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.ts.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4647,7 +4647,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "seaIce.ts.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.ts.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4660,7 +4660,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "seaIce.ts.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.ts.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4673,7 +4673,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "seaIce.ts.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.ts.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4686,7 +4686,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "seaIce.ts.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.ts.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4699,7 +4699,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "seaIce.ts.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.ts.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4712,7 +4712,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "seaIce.rsus.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.rsus.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4723,7 +4723,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rsus.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.rsus.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4734,7 +4734,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rsus.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.rsus.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4745,7 +4745,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rsus.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.rsus.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4756,7 +4756,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rsds.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.rsds.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4767,7 +4767,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rsds.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.rsds.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4778,7 +4778,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rsds.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.rsds.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4789,7 +4789,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rsds.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.rsds.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4800,7 +4800,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.siflsenstop.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.siflsenstop.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4811,7 +4811,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.siflsenstop.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.siflsenstop.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4822,7 +4822,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.siflsenstop.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.siflsenstop.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4833,7 +4833,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.siflsenstop.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.siflsenstop.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4844,7 +4844,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rlus.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.rlus.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4854,7 +4854,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rlus.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.rlus.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4864,7 +4864,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rlus.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.rlus.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4874,7 +4874,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rlus.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.rlus.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4884,18 +4884,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rlds.tavg-u-hxy-si.day.GLB",
-    "labels": [
-      "day",
-      "seaIce",
-      "approved_UKESM",
-      "approved_HadGEM"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "seaIce.rlds.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.rlds.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4906,7 +4895,18 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rlds.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.rlds.tavg-u-hxy-si.day.glb",
+    "labels": [
+      "day",
+      "seaIce",
+      "approved_UKESM",
+      "approved_HadGEM"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "seaIce.rlds.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4917,7 +4917,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.rlds.tavg-u-hxy-si.day.GLB",
+    "branded_variable": "seaIce.rlds.tavg-u-hxy-si.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4928,7 +4928,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "seaIce.siconca.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "seaIce.siconca.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4941,7 +4941,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "seaIce.siconca.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "seaIce.siconca.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4954,7 +4954,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "seaIce.siconca.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "seaIce.siconca.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "seaIce",
@@ -4967,7 +4967,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "seaIce.siconca.tavg-u-hxy-u.day.GLB",
+    "branded_variable": "seaIce.siconca.tavg-u-hxy-u.day.glb",
     "labels": [
       "day",
       "seaIce",
