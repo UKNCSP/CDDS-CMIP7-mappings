@@ -2,6 +2,8 @@
 
 # UKNCSP CDDS-CMIP7-mappings 
 
+**UPDATE 09/01/2026: Update to Data Request v1.2.2.3 in progress, please do not edit until this message has been cleared**
+
 **UPDATE 24/11/25: Some changes were missed in last weeks update. I've now fixed this and confirmed consistency with the data request**
 
 **UPDATE 21/11/25: I've updated the issues to match version 1.2.2.2 of the Data Request**. Most changes are cosmetic, but there are some variables that have been removed (issues will be closed) and some variables where there might be an impact on what data is needed from the model. I'll be contacting experts on these variables in the next few days.  Note: there will be another update to match version v1.2.2.3 of the data request, but this is expected to be far smaller in scope.
