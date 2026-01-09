@@ -6036,16 +6036,6 @@
       "land",
       "CMIP6"
     ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "land.landCoverFrac.tavg-u-hxy-u.mon.glb",
-    "labels": [
-      "mon",
-      "land",
-      "CMIP6"
-    ],
     "model": "HadGEM3-GC31",
     "stream": "ap5"
   },
@@ -6066,6 +6056,26 @@
       "land",
       "CMIP6"
     ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "land.landCoverFrac.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "land",
+      "CMIP6"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "land.landCoverFrac.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "land",
+      "CMIP6"
+    ],
     "model": "UKESM1",
     "stream": "ap5"
   },
@@ -6077,16 +6087,6 @@
       "CMIP6"
     ],
     "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "land.landCoverFrac.tavg-u-hxy-u.mon.glb",
-    "labels": [
-      "mon",
-      "land",
-      "CMIP6"
-    ],
-    "model": "UKESM1",
     "stream": "ap5"
   },
   {
@@ -27317,7 +27317,7 @@
       "land",
       "approved"
     ],
-    "model": "HadGEM3-GC5",
+    "model": "HadGEM3-GC31",
     "stream": "ap6"
   },
   {
@@ -27347,7 +27347,7 @@
       "land",
       "approved"
     ],
-    "model": "HadGEM3-GC31",
+    "model": "HadGEM3-GC5",
     "stream": "ap6"
   },
   {
@@ -27377,7 +27377,7 @@
       "land",
       "approved"
     ],
-    "model": "UKESM1-3",
+    "model": "UKESM1",
     "stream": "ap6"
   },
   {
@@ -27407,7 +27407,7 @@
       "land",
       "approved"
     ],
-    "model": "UKESM1",
+    "model": "UKESM1-3",
     "stream": "ap6"
   },
   {

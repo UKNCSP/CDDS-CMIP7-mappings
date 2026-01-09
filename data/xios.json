@@ -689,16 +689,16 @@
     "UKESM1-3": "onm/grid-T`: `<field field_ref=\"toce\" name=\"thetao\" operation=\"average\" freq_op=\"1mo\" > @toce_e3t / @e3t </field>` <br> `onm/grid-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />"
   },
   "Variable seaIce.evspsbl.tavg-u-hxy-si.mon.glb (SImon.sidmassevapsubl)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmisub\"           name=\"sidmassevapsubl\"  />"
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmisub\"      name=\"sidmassevapsubl\" />"
   },
   "Variable seaIce.prsn.tavg-u-hxy-si.mon.glb (SImon.sisndmasssnf)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmsspr\"           name=\"sndmasssnf\"       />"
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmsspr\"      name=\"sndmasssnf\"    />"
   },
   "Variable seaIce.sbl.tavg-u-hxy-si.mon.glb (SImon.sisndmasssubl)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmssub\"           name=\"sndmasssubl\"      />"
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmssub\"      name=\"sndmasssubl\"   />"
   },
   "Variable seaIce.sfdsi.tavg-u-hxy-si.mon.glb (SImon.siflsaltbot)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"sfxice\"           name=\"sfxice\" />"
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"sfxice\"      name=\"sfxice\" />"
   },
   "Variable seaIce.siage.tavg-u-hxy-si.day.glb (SIday.siage)": {
     "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"siage_siconc_cmip\" name=\"siage\" operation=\"average\" freq_op=\"1d\" detect_missing_value=\"true\"> (@iceconc==0) ? $missval : (@siage_siconc_cmip / @iceconc) </field>"
@@ -713,7 +713,7 @@
     "HadGEM3-GC5": "ind/grid-T`: `<field field_ref=\"iceconc_pct\" name=\"siconc\" />"
   },
   "Variable seaIce.siconc.tavg-u-hxy-u.mon.glb (SImon.siconc)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"iceconc_pct\"          name=\"siconc\" />"
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"iceconc_pct\"     name=\"siconc\" />"
   },
   "Variable seaIce.sidconcdyn.tavg-u-hxy-sea.mon.glb (SImon.sidconcdyn)": {
     "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"afxdyn\" name=\"sidconcdyn\" />"
@@ -725,28 +725,28 @@
     "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"icediv\" name=\"sidivvel\" operation=\"instant\" />"
   },
   "Variable seaIce.sidmassdyn.tavg-u-hxy-si.mon.glb (SImon.sidmassdyn)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmidyn\"           name=\"sidmassdyn\"       />"
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmidyn\"      name=\"sidmassdyn\"    />"
   },
   "Variable seaIce.sidmassgrowthbot.tavg-u-hxy-si.mon.glb (SImon.sidmassgrowthbot)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmibog\"           name=\"sidmassgrowthbot\" />"
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmibog\"      name=\"sidmassgrowthbot\" />"
   },
   "Variable seaIce.sidmassgrowthsi.tavg-u-hxy-si.mon.glb (SImon.sidmassgrowthsi)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmisni\"           name=\"sidmasssi\"        />"
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmisni\"      name=\"sidmasssi\"    />"
   },
   "Variable seaIce.sidmassgrowthwat.tavg-u-hxy-si.mon.glb (SImon.sidmassgrowthwat)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmiopw\"           name=\"sidmassgrowthwat\" />"
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmiopw\"      name=\"sidmassgrowthwat\" />"
   },
   "Variable seaIce.sidmassmeltbot.tavg-u-hxy-si.mon.glb (SImon.sidmassmeltbot)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmibom\"           name=\"sidmassmeltbot\"   />"
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmibom\"      name=\"sidmassmeltbot\"  />"
   },
   "Variable seaIce.sidmassmeltlat.tavg-u-hxy-si.mon.glb (SImon.sidmassmeltlat)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmilam\"           name=\"sidmassmeltlat\"   />"
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmilam\"      name=\"sidmassmeltlat\"  />"
   },
   "Variable seaIce.sidmassmelttop.tavg-u-hxy-si.mon.glb (SImon.sidmassmelttop)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmisum\"           name=\"sidmassmelttop\"   />"
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmisum\"      name=\"sidmassmelttop\"  />"
   },
   "Variable seaIce.sidmassth.tavg-u-hxy-si.mon.glb (SImon.sidmassth)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmithd\"           name=\"sidmassth\"        />"
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmithd\"      name=\"sidmassth\"    />"
   },
   "Variable seaIce.sidmasstranx.tavg-u-hxy-u.mon.glb (SImon.sidmasstranx)": {
     "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"xmtrptot\" name=\"sidmasstranx\" />"
@@ -764,40 +764,40 @@
     "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"icefrb_siconc_cmip\" name=\"sifb\" operation=\"average\" freq_op=\"1mo\" detect_missing_value=\"true\"> (@iceconc==0) ? $missval : (@icefrb_siconc_cmip / @iceconc) </field>"
   },
   "Variable seaIce.siflcondbot.tavg-u-hxy-si.day.glb (SIday.siflcondbot)": {
-    "HadGEM3-GC5": "ind/grid-T`: `<field field_ref=\"iceconc_pct\"          name=\"siconc\" />` <br> `ind/grid-T`: `<field field_ref=\"hfxcndbot\"  name=\"hfxcndbot\"  />"
+    "HadGEM3-GC5": "ind/grid-T`: `<field field_ref=\"iceconc_pct\"     name=\"siconc\" />` <br> `ind/grid-T`: `<field field_ref=\"hfxcndbot\" name=\"hfxcndbot\" />"
   },
   "Variable seaIce.siflcondbot.tavg-u-hxy-si.mon.glb (SImon.siflcondbot)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"hfxcndbot\"        name=\"hfxcndbot\"  />` <br> `inm/grid-T` : `<field field_ref=\"iceconc_pct\"          name=\"siconc\" />"
+    "HadGEM3-GC5": ""
   },
   "Variable seaIce.siflcondtop.tavg-u-hxy-si.day.glb (SIday.siflcondtop)": {
-    "HadGEM3-GC5": "ind/grid-T`: `<field field_ref=\"iceconc_pct\"          name=\"siconc\" />` <br> `ind/grid-T`: `<field field_ref=\"hfxcndtop\" name=\"hfxcndtop\" />"
+    "HadGEM3-GC5": "ind/grid-T`: `<field field_ref=\"iceconc_pct\"     name=\"siconc\" />` <br> `ind/grid-T`: `<field field_ref=\"hfxcndtop\" name=\"hfxcndtop\" />"
   },
   "Variable seaIce.siflcondtop.tavg-u-hxy-si.mon.glb (SImon.siflcondtop)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"hfxcndtop\"        name=\"hfxcndtop\"  />` <br> `inm/grid-T` : `<field field_ref=\"iceconc_pct\"          name=\"siconc\" />"
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"hfxcndtop\"    name=\"hfxcndtop\" />` <br> `inm/grid-T` : `<field field_ref=\"iceconc_pct\"     name=\"siconc\" />"
   },
   "Variable seaIce.siflfwbot.tavg-u-hxy-si.mon.glb (SImon.siflfwbot)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"vfxice\"           name=\"vfxice\" />"
+    "HadGEM3-GC5": ""
   },
   "Variable seaIce.siflfwdrain.tavg-u-hxy-si.mon.glb (SImon.siflfwdrain)": {
     "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"vfxsum\" name=\"vfxsum\" />"
   },
   "Variable seaIce.sifllattop.tavg-u-hxy-si.day.glb (SIday.sifllattop)": {
-    "HadGEM3-GC5": "ind/grid-T`: `<field field_ref=\"iceconc_pct\"          name=\"siconc\" />` <br> `ind/grid-T`: `<field field_ref=\"hfxsub\" name=\"hfxsub\"  />"
+    "HadGEM3-GC5": "ind/grid-T`: `<field field_ref=\"iceconc_pct\"     name=\"siconc\" />` <br> `ind/grid-T`: `<field field_ref=\"hfxsub\" name=\"hfxsub\" />"
   },
   "Variable seaIce.sifllattop.tavg-u-hxy-si.mon.glb (SImon.sifllattop)": {
-    "HadGEM3-GC5": "'inm/grid-T` : `<field field_ref=\"hfxsub\" name=\"hfxsub\" />` <br> 'inm/grid-T` : `<field field_ref=\"iceconc_pct\"          name=\"siconc\" />"
+    "HadGEM3-GC5": "'inm/grid-T` : `<field field_ref=\"hfxsub\" name=\"hfxsub\" />` <br> 'inm/grid-T` : `<field field_ref=\"iceconc_pct\"     name=\"siconc\" />"
   },
   "Variable seaIce.siflsensbot.tavg-u-hxy-si.day.glb (SIday.siflsensbot)": {
-    "HadGEM3-GC5": "ind/grid-T`: `<field field_ref=\"iceconc_pct\"          name=\"siconc\" />` <br> `ind/grid-T`: `<field field_ref=\"hfxsensib\" name=\"hfxsensib\" />"
+    "HadGEM3-GC5": "ind/grid-T`: `<field field_ref=\"iceconc_pct\"     name=\"siconc\" />` <br> `ind/grid-T`: `<field field_ref=\"hfxsensib\" name=\"hfxsensib\" />"
   },
   "Variable seaIce.siflsensbot.tavg-u-hxy-si.mon.glb (SImon.siflsensbot)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"hfxsensib\"        name=\"hfxsensib\"  />` <br> `inm/grid-T` : `<field field_ref=\"iceconc_pct\"          name=\"siconc\" />"
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"hfxsensib\"    name=\"hfxsensib\" />` <br> `inm/grid-T` : `<field field_ref=\"iceconc_pct\"     name=\"siconc\" />"
   },
   "Variable seaIce.siflswdbot.tavg-u-hxy-si.day.glb (SIday.siflswdbot)": {
     "HadGEM3-GC5": "ind/grid-T`: `<field field_ref=\"iceconc_pct\" name=\"siconc\" />` <br> `ind/grid-T`: `<field field_ref=\"qtr_ice_bot\" name=\"qtr_ice_bot\" />"
   },
   "Variable seaIce.siflswdbot.tavg-u-hxy-si.mon.glb (SImon.siflswdbot)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"qtr_ice_bot\"      name=\"qtr_ice_bot\"/>` <br> `inm/grid-T` : `<field field_ref=\"iceconc_pct\"          name=\"siconc\" />"
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"qtr_ice_bot\"   name=\"qtr_ice_bot\"/>` <br> `inm/grid-T` : `<field field_ref=\"iceconc_pct\"     name=\"siconc\" />"
   },
   "Variable seaIce.siforcecoriolx.tavg-u-hxy-si.mon.glb (SImon.siforcecoriolx)": {
     "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"corstrx_siconc\" name=\"siforcecoriolx\" operation=\"average\" freq_op=\"1mo\" detect_missing_value=\"true\"> (@iceconc==0) ? $missval : (@corstrx_siconc / @iceconc) </field>"
@@ -824,7 +824,7 @@
     "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"icehc_cmip\" name=\"sihc\" />"
   },
   "Variable seaIce.siitdconc.tavg-u-hxy-si.day.glb (SIday.siitdconc)": {
-    "HadGEM3-GC5": "ind/grid-T`: `<field field_ref=\"ieconc_cat_pct_cmip\" name=\"siitdconc\"    />"
+    "HadGEM3-GC5": "ind/grid-T`: `<field field_ref=\"ieconc_cat_pct_cmip\" name=\"siitdconc\"  />"
   },
   "Variable seaIce.siitdconc.tavg-u-hxy-si.mon.glb (SImon.siitdconc)": {
     "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"iceconc_cat_pct_cmip\" name=\"siitdconc\" />"
@@ -845,22 +845,22 @@
     "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"icethic_cat_cmip_siitdconc\" name=\"siitdthick\" operation=\"average\" freq_op=\"1mo\" detect_missing_value=\"true\"> (@iceconc_cat==0) ? $missval : (@icethic_cat_cmip_siitdconc / @iceconc_cat) </field>"
   },
   "Variable seaIce.siitdthick.tavg-u-hxy-si.mon.glb (SImon.siitdthick)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"icethic_cat_cmip_siitdconc\" name=\"siitdthick\" operation=\"average\" freq_op=\"1mo\" detect_missing_value=\"true\"> (@iceconc_cat==0) ? $missval : (@icethic_cat_cmip_siitdconc / @iceconc_cat) "
+    "HadGEM3-GC5": "</field>"
   },
   "Variable seaIce.simass.tavg-u-hxy-si.mon.glb (SImon.simass)": {
     "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"icemass_cmip\" name=\"simass\" />"
   },
   "Variable seaIce.simpconc.tavg-u-hxy-si.day.glb (SIday.simpconc)": {
-    "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"iceapnd\"          name=\"siapnd\" />` <br> `ind/grid-T` : `<field field_ref=\"iceconc_pct\"          name=\"siconc\" />"
+    "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"iceapnd\"     name=\"siapnd\" />` <br> `ind/grid-T` : `<field field_ref=\"iceconc_pct\"     name=\"siconc\" />"
   },
   "Variable seaIce.simpconc.tavg-u-hxy-si.mon.glb (SImon.simpconc)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"iceapnd\"          name=\"siapnd\" />` <br> `inm/grid-T` : `<field field_ref=\"iceconc_pct\"          name=\"siconc\" />"
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"iceapnd\"     name=\"siapnd\" />` <br> `inm/grid-T` : `<field field_ref=\"iceconc_pct\"     name=\"siconc\" />"
   },
   "Variable seaIce.simpeffconc.tavg-u-hxy-si.day.glb (SIday.simpeffconc)": {
-    "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"iceepnd\"          name=\"siepnd\" />` <br>  `ind/grid-T` : `<field field_ref=\"iceconc_pct\"          name=\"siconc\" />"
+    "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"iceepnd\"     name=\"siepnd\" />` <br> `ind/grid-T` : `<field field_ref=\"iceconc_pct\"     name=\"siconc\" />"
   },
   "Variable seaIce.simpeffconc.tavg-u-hxy-si.mon.glb (SImon.simpeffconc)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"iceepnd\"          name=\"siepnd\" />` <br> `inm/grid-T` : `<field field_ref=\"iceconc_pct\"          name=\"siconc\" />"
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"iceepnd\"     name=\"siepnd\" />` <br> `inm/grid-T` : `<field field_ref=\"iceconc_pct\"     name=\"siconc\" />"
   },
   "Variable seaIce.simprefrozen.tavg-u-hxy-simp.day.glb (SIday.simprefrozen)": {
     "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"icehlid\" name=\"simprefrozen\" operation=\"average\" freq_op=\"1mo\" detect_missing_value=\"true\"> (@iceapnd==0) ? $missval : (@icevlid / @iceapnd) </field>"
@@ -890,10 +890,10 @@
     "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"iceshe\" name=\"sishearvel\" operation=\"instant\" />"
   },
   "Variable seaIce.sisndmassdyn.tavg-u-hxy-si.mon.glb (SImon.sisndmassdyn)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmsdyn\"           name=\"sndmassdyn\"       />"
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmsdyn\"      name=\"sndmassdyn\"    />"
   },
   "Variable seaIce.sisndmasssi.tavg-u-hxy-si.mon.glb (SImon.sisndmasssi)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmsssi\"           name=\"sndmasssi\"        />"
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmsssi\"      name=\"sndmasssi\"    />"
   },
   "Variable seaIce.sisnhc.tavg-u-hxy-si.day.glb (SIday.sisnhc)": {
     "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"sisnhc\" name=\"sisnhc\" />"
@@ -914,7 +914,7 @@
     "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"utau_ai_siconc_cmip\" name=\"sistrxdtop\" operation=\"average\" freq_op=\"1mo\" detect_missing_value=\"true\"> (@iceconc==0) ? $missval : (@utau_ai_siconc_cmip / @iceconc) </field>"
   },
   "Variable seaIce.sistrxubot.tavg-u-hxy-si.mon.glb (SImon.sistrxubot)": {
-    "HadGEM3-GC5": "inm/grid-T"
+    "HadGEM3-GC5": "<field field_ref=\"utau_oi_siconc_cmip\" name=\"sistrxubot\" operation=\"average\" freq_op=\"1mo\" detect_missing_value=\"true\"> (@iceconc==0) ? $missval : (@utau_oi_siconc_cmip / @iceconc) </field>"
   },
   "Variable seaIce.sistrydtop.tavg-u-hxy-si.mon.glb (SImon.sistrydtop)": {
     "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"vtau_ai_siconc_cmip\" name=\"sistrydtop\" operation=\"average\" freq_op=\"1mo\" detect_missing_value=\"true\"> (@iceconc==0) ? $missval : (@vtau_ai_siconc_cmip / @iceconc) </field>"
@@ -938,7 +938,7 @@
     "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"sithick\" name=\"sithick\" />"
   },
   "Variable seaIce.sithick.tavg-u-hxy-si.mon.glb (SImon.sithick)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"icethic_cmip\" name=\"sithick\" operation=\"average\" freq_op=\"1mo\"  detect_missing_value=\"true\"> (@iceconc==0) ? $missval : @icethic_cmip </field>"
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"icethic_cmip\" name=\"sithick\" operation=\"average\" freq_op=\"1mo\" detect_missing_value=\"true\"> (@iceconc==0) ? $missval : @icethic_cmip </field>"
   },
   "Variable seaIce.sitimefrac.tavg-u-hxy-sea.day.glb (SIday.sitimefrac)": {
     "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"sitimefrac\" name=\"sitimefrac\" />"
@@ -959,7 +959,7 @@
     "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"vice_siconc_cmip\" name=\"siv\" operation=\"average\" freq_op=\"1mo\" detect_missing_value=\"true\"> (@iceconc==0) ? $missval : (@vice_siconc_cmip / @iceconc) </field>"
   },
   "Variable seaIce.snc.tavg-u-hxy-si.mon.glb (SImon.sisnconc)": {
-    "HadGEM3-GC5": "inm/grid-T"
+    "HadGEM3-GC5": "<field field_ref=\"snwfrac_pct\"    name=\"sisnconc\" />"
   },
   "Variable seaIce.snd.tavg-u-hxy-sn.day.glb (SIday.sisnthick)": {
     "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"sisnthick\" name=\"sisnthick\" />"
@@ -968,7 +968,7 @@
     "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"snwthic_cmip\" name=\"sisnthick\" />"
   },
   "Variable seaIce.snm.tavg-u-hxy-si.mon.glb (SImon.sisndmassmelt)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmsmel\"           name=\"sndmassmelt\"      />"
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"dmsmel\"      name=\"sndmassmelt\"   />"
   },
   "Variable seaIce.snw.tavg-u-hxy-si.mon.glb (SImon.sisnmass)": {
     "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"snwmass_cmip\" name=\"sisnmass\" />"
