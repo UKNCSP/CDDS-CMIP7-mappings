@@ -77864,7 +77864,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.rsds.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.rsds.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -77876,7 +77876,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.rsds.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.rsds.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -77888,7 +77888,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.rsds.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.rsds.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -77900,7 +77900,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.rsds.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.rsds.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -77912,7 +77912,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.rlds.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.rlds.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -77924,7 +77924,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.rlds.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.rlds.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -77936,7 +77936,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.rlds.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.rlds.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -77948,7 +77948,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.rlds.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.rlds.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -77960,7 +77960,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.psl.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.psl.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -77973,7 +77973,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.psl.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.psl.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -77986,7 +77986,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.psl.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.psl.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -77999,7 +77999,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.psl.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.psl.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78012,7 +78012,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.ps.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.ps.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78024,7 +78024,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.ps.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.ps.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78036,7 +78036,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.ps.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.ps.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78048,7 +78048,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.ps.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.ps.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78060,7 +78060,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.prsn.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.prsn.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78072,7 +78072,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.prsn.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.prsn.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78084,7 +78084,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.prsn.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.prsn.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78096,7 +78096,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.prsn.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.prsn.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78108,7 +78108,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.prra.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.prra.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78120,7 +78120,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.prra.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.prra.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78132,7 +78132,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.prra.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.prra.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78144,7 +78144,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.prra.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.prra.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78156,7 +78156,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.pr.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.pr.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78169,7 +78169,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.pr.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.pr.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78182,7 +78182,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.pr.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.pr.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78195,7 +78195,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.pr.tavg-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.pr.tavg-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78208,7 +78208,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.huss.tavg-h2m-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.huss.tavg-h2m-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78220,7 +78220,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.huss.tavg-h2m-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.huss.tavg-h2m-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78232,7 +78232,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.huss.tavg-h2m-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.huss.tavg-h2m-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78244,7 +78244,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.huss.tavg-h2m-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.huss.tavg-h2m-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78256,7 +78256,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.hurs.tavg-h2m-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.hurs.tavg-h2m-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78270,7 +78270,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.hurs.tavg-h2m-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.hurs.tavg-h2m-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78284,7 +78284,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.hurs.tavg-h2m-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.hurs.tavg-h2m-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78298,7 +78298,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.hurs.tavg-h2m-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.hurs.tavg-h2m-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78312,7 +78312,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.va.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.va.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78325,7 +78325,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.va.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.va.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78338,7 +78338,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.va.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.va.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78351,7 +78351,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.va.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.va.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78364,7 +78364,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.va.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.va.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78377,7 +78377,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.va.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.va.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78390,7 +78390,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.va.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.va.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78403,7 +78403,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.va.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.va.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78416,7 +78416,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.ua.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.ua.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78429,7 +78429,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.ua.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.ua.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78442,7 +78442,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.ua.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.ua.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78455,7 +78455,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.ua.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.ua.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78468,7 +78468,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.ua.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.ua.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78481,7 +78481,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.ua.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.ua.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78494,7 +78494,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.ua.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.ua.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78507,7 +78507,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.ua.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.ua.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78520,7 +78520,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.ta.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.ta.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78533,7 +78533,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.ta.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.ta.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78546,7 +78546,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.ta.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.ta.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78559,7 +78559,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.ta.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.ta.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78572,7 +78572,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.ta.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.ta.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78585,7 +78585,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.ta.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.ta.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78598,7 +78598,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.ta.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.ta.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78611,7 +78611,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.ta.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.ta.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78624,7 +78624,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.ps.tpt-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.ps.tpt-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78637,7 +78637,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.ps.tpt-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.ps.tpt-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78650,7 +78650,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.ps.tpt-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.ps.tpt-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78663,7 +78663,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.ps.tpt-u-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.ps.tpt-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78676,7 +78676,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.hus.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.hus.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78689,7 +78689,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.hus.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.hus.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78702,7 +78702,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.hus.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.hus.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78715,7 +78715,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.hus.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.hus.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78728,7 +78728,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.hus.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.hus.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78741,7 +78741,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.hus.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.hus.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78754,7 +78754,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.hus.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.hus.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78767,7 +78767,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.hus.tpt-al-hxy-u.6hr.GLB",
+    "branded_variable": "atmos.hus.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "atmos",
@@ -78780,7 +78780,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.GLB",
+    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "aerosol",
@@ -78793,7 +78793,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.GLB",
+    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "aerosol",
@@ -78806,7 +78806,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.GLB",
+    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "aerosol",
@@ -78819,7 +78819,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.GLB",
+    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "aerosol",
@@ -78832,7 +78832,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.GLB",
+    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "aerosol",
@@ -78845,7 +78845,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.GLB",
+    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "aerosol",
@@ -78858,7 +78858,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.GLB",
+    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "aerosol",
@@ -78871,7 +78871,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.GLB",
+    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "aerosol",
@@ -78884,7 +78884,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.GLB",
+    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "aerosol",
@@ -78897,7 +78897,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.GLB",
+    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "aerosol",
@@ -78910,7 +78910,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.GLB",
+    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "aerosol",
@@ -78923,7 +78923,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.GLB",
+    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "aerosol",
@@ -78936,7 +78936,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "atmos.vas.tpt-h10m-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.vas.tpt-h10m-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -78950,7 +78950,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.vas.tpt-h10m-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.vas.tpt-h10m-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -78964,7 +78964,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.vas.tpt-h10m-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.vas.tpt-h10m-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -78978,7 +78978,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.vas.tpt-h10m-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.vas.tpt-h10m-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -78992,7 +78992,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.uas.tpt-h10m-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.uas.tpt-h10m-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79006,7 +79006,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.uas.tpt-h10m-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.uas.tpt-h10m-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79020,7 +79020,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.uas.tpt-h10m-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.uas.tpt-h10m-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79034,7 +79034,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.uas.tpt-h10m-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.uas.tpt-h10m-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79048,7 +79048,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.tran.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.tran.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -79057,7 +79057,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.tran.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.tran.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -79066,7 +79066,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.tran.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.tran.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -79075,7 +79075,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.tran.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.tran.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -79084,7 +79084,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.tas.tpt-h2m-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.tas.tpt-h2m-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79098,7 +79098,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.tas.tpt-h2m-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.tas.tpt-h2m-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79112,7 +79112,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.tas.tpt-h2m-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.tas.tpt-h2m-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79126,7 +79126,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.tas.tpt-h2m-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.tas.tpt-h2m-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79140,16 +79140,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.srfrad.tavg-u-hxy-u.3hr.GLB",
-    "labels": [
-      "3hr",
-      "land"
-    ],
-    "model": "HadGEM3-GC31",
-    "stream": ""
-  },
-  {
-    "branded_variable": "land.srfrad.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.srfrad.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -79158,7 +79149,16 @@
     "stream": ""
   },
   {
-    "branded_variable": "land.srfrad.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.srfrad.tavg-u-hxy-u.3hr.glb",
+    "labels": [
+      "3hr",
+      "land"
+    ],
+    "model": "HadGEM3-GC31",
+    "stream": ""
+  },
+  {
+    "branded_variable": "land.srfrad.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -79167,7 +79167,7 @@
     "stream": ""
   },
   {
-    "branded_variable": "land.srfrad.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.srfrad.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -79176,7 +79176,7 @@
     "stream": ""
   },
   {
-    "branded_variable": "land.srfrad.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.srfrad.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -79185,7 +79185,7 @@
     "stream": ""
   },
   {
-    "branded_variable": "land.srfrad.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.srfrad.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -79194,7 +79194,7 @@
     "stream": ""
   },
   {
-    "branded_variable": "land.srfrad.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.srfrad.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -79203,7 +79203,7 @@
     "stream": ""
   },
   {
-    "branded_variable": "land.srfrad.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.srfrad.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -79212,7 +79212,7 @@
     "stream": ""
   },
   {
-    "branded_variable": "atmos.rsus.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rsus.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79225,7 +79225,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rsus.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rsus.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79238,7 +79238,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rsus.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rsus.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79251,7 +79251,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rsus.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rsus.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79264,7 +79264,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rsus.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rsus.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79277,7 +79277,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rsus.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rsus.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79290,7 +79290,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rsus.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rsus.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79303,7 +79303,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rsus.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rsus.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79316,7 +79316,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rsds.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rsds.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79329,7 +79329,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rsds.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rsds.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79342,7 +79342,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rsds.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rsds.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79355,7 +79355,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rsds.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rsds.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79368,7 +79368,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79381,7 +79381,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79394,7 +79394,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79407,7 +79407,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79420,7 +79420,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79433,7 +79433,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79446,7 +79446,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79459,7 +79459,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79472,7 +79472,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79485,7 +79485,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79498,7 +79498,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79511,7 +79511,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79524,7 +79524,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79537,7 +79537,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79550,7 +79550,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79563,7 +79563,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79576,7 +79576,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rlds.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rlds.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79589,7 +79589,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rlds.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rlds.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79602,7 +79602,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rlds.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rlds.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79615,7 +79615,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.rlds.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.rlds.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79628,7 +79628,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.ps.tpt-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.ps.tpt-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79641,7 +79641,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.ps.tpt-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.ps.tpt-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79654,7 +79654,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.ps.tpt-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.ps.tpt-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79667,7 +79667,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.ps.tpt-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.ps.tpt-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79680,7 +79680,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.prsn.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.prsn.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79693,7 +79693,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.prsn.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.prsn.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79706,7 +79706,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.prsn.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.prsn.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79719,7 +79719,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.prsn.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.prsn.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79732,7 +79732,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.pr.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.pr.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79746,7 +79746,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.pr.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.pr.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79760,7 +79760,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.pr.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.pr.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79774,7 +79774,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.pr.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.pr.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -79788,7 +79788,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.mrsol.tpt-d10cm-hxy-lnd.3hr.GLB",
+    "branded_variable": "land.mrsol.tpt-d10cm-hxy-lnd.3hr.glb",
     "labels": [
       "3hr",
       "land",
@@ -79801,7 +79801,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.mrsol.tpt-d10cm-hxy-lnd.3hr.GLB",
+    "branded_variable": "land.mrsol.tpt-d10cm-hxy-lnd.3hr.glb",
     "labels": [
       "3hr",
       "land",
@@ -79814,7 +79814,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.mrsol.tpt-d10cm-hxy-lnd.3hr.GLB",
+    "branded_variable": "land.mrsol.tpt-d10cm-hxy-lnd.3hr.glb",
     "labels": [
       "3hr",
       "land",
@@ -79827,7 +79827,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.mrsol.tpt-d10cm-hxy-lnd.3hr.GLB",
+    "branded_variable": "land.mrsol.tpt-d10cm-hxy-lnd.3hr.glb",
     "labels": [
       "3hr",
       "land",
@@ -79840,7 +79840,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.mrsol.tavg-d100cm-hxy-lnd.3hr.GLB",
+    "branded_variable": "land.mrsol.tavg-d100cm-hxy-lnd.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -79849,7 +79849,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.mrsol.tavg-d100cm-hxy-lnd.3hr.GLB",
+    "branded_variable": "land.mrsol.tavg-d100cm-hxy-lnd.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -79858,7 +79858,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.mrsol.tavg-d100cm-hxy-lnd.3hr.GLB",
+    "branded_variable": "land.mrsol.tavg-d100cm-hxy-lnd.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -79867,7 +79867,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.mrsol.tavg-d100cm-hxy-lnd.3hr.GLB",
+    "branded_variable": "land.mrsol.tavg-d100cm-hxy-lnd.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -79876,7 +79876,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.mrros.tavg-u-hxy-lnd.3hr.GLB",
+    "branded_variable": "land.mrros.tavg-u-hxy-lnd.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -79885,7 +79885,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.mrros.tavg-u-hxy-lnd.3hr.GLB",
+    "branded_variable": "land.mrros.tavg-u-hxy-lnd.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -79894,7 +79894,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.mrros.tavg-u-hxy-lnd.3hr.GLB",
+    "branded_variable": "land.mrros.tavg-u-hxy-lnd.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -79903,7 +79903,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.mrros.tavg-u-hxy-lnd.3hr.GLB",
+    "branded_variable": "land.mrros.tavg-u-hxy-lnd.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -79912,7 +79912,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.mrro.tavg-u-hxy-lnd.3hr.GLB",
+    "branded_variable": "land.mrro.tavg-u-hxy-lnd.3hr.glb",
     "labels": [
       "3hr",
       "land",
@@ -79925,7 +79925,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.mrro.tavg-u-hxy-lnd.3hr.GLB",
+    "branded_variable": "land.mrro.tavg-u-hxy-lnd.3hr.glb",
     "labels": [
       "3hr",
       "land",
@@ -79938,7 +79938,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.mrro.tavg-u-hxy-lnd.3hr.GLB",
+    "branded_variable": "land.mrro.tavg-u-hxy-lnd.3hr.glb",
     "labels": [
       "3hr",
       "land",
@@ -79951,7 +79951,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.mrro.tavg-u-hxy-lnd.3hr.GLB",
+    "branded_variable": "land.mrro.tavg-u-hxy-lnd.3hr.glb",
     "labels": [
       "3hr",
       "land",
@@ -79964,7 +79964,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.mrro.tavg-u-hxy-lnd.3hr.GLB",
+    "branded_variable": "land.mrro.tavg-u-hxy-lnd.3hr.glb",
     "labels": [
       "3hr",
       "land",
@@ -79977,7 +79977,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.mrro.tavg-u-hxy-lnd.3hr.GLB",
+    "branded_variable": "land.mrro.tavg-u-hxy-lnd.3hr.glb",
     "labels": [
       "3hr",
       "land",
@@ -79990,7 +79990,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.mrro.tavg-u-hxy-lnd.3hr.GLB",
+    "branded_variable": "land.mrro.tavg-u-hxy-lnd.3hr.glb",
     "labels": [
       "3hr",
       "land",
@@ -80003,7 +80003,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.mrro.tavg-u-hxy-lnd.3hr.GLB",
+    "branded_variable": "land.mrro.tavg-u-hxy-lnd.3hr.glb",
     "labels": [
       "3hr",
       "land",
@@ -80016,7 +80016,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.huss.tpt-h2m-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.huss.tpt-h2m-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -80030,7 +80030,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.huss.tpt-h2m-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.huss.tpt-h2m-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -80044,7 +80044,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.huss.tpt-h2m-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.huss.tpt-h2m-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -80058,7 +80058,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.huss.tpt-h2m-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.huss.tpt-h2m-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -80072,7 +80072,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.hfss.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.hfss.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -80085,7 +80085,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.hfss.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.hfss.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -80098,7 +80098,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.hfss.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.hfss.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -80111,7 +80111,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.hfss.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.hfss.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -80124,7 +80124,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.hfls.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.hfls.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -80137,7 +80137,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.hfls.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.hfls.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -80150,7 +80150,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.hfls.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.hfls.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -80163,7 +80163,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.hfls.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.hfls.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -80176,7 +80176,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.hfdsl.tavg-u-hxy-lnd.3hr.GLB",
+    "branded_variable": "land.hfdsl.tavg-u-hxy-lnd.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -80185,7 +80185,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.hfdsl.tavg-u-hxy-lnd.3hr.GLB",
+    "branded_variable": "land.hfdsl.tavg-u-hxy-lnd.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -80194,7 +80194,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.hfdsl.tavg-u-hxy-lnd.3hr.GLB",
+    "branded_variable": "land.hfdsl.tavg-u-hxy-lnd.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -80203,7 +80203,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.hfdsl.tavg-u-hxy-lnd.3hr.GLB",
+    "branded_variable": "land.hfdsl.tavg-u-hxy-lnd.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -80212,7 +80212,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.evspsblveg.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.evspsblveg.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -80221,7 +80221,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.evspsblveg.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.evspsblveg.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -80230,7 +80230,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.evspsblveg.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.evspsblveg.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -80239,7 +80239,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.evspsblveg.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.evspsblveg.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -80248,7 +80248,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.evspsblsoi.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.evspsblsoi.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -80257,7 +80257,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.evspsblsoi.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.evspsblsoi.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -80266,7 +80266,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.evspsblsoi.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.evspsblsoi.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -80275,7 +80275,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.evspsblsoi.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.evspsblsoi.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -80284,7 +80284,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.evspsblsoi.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.evspsblsoi.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -80293,7 +80293,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.evspsblsoi.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.evspsblsoi.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -80302,7 +80302,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.evspsblsoi.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.evspsblsoi.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -80311,7 +80311,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.evspsblsoi.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.evspsblsoi.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -80320,7 +80320,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.evspsblsoi.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.evspsblsoi.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -80329,7 +80329,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.evspsblsoi.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.evspsblsoi.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -80338,7 +80338,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.evspsblsoi.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.evspsblsoi.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -80347,7 +80347,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "land.evspsblsoi.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "land.evspsblsoi.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "land"
@@ -80356,7 +80356,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.clt.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.clt.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -80369,7 +80369,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.clt.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.clt.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -80382,7 +80382,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.clt.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.clt.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -80395,7 +80395,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.clt.tavg-u-hxy-u.3hr.GLB",
+    "branded_variable": "atmos.clt.tavg-u-hxy-u.3hr.glb",
     "labels": [
       "3hr",
       "atmos",
@@ -80408,21 +80408,7 @@
     "stream": "ap8"
   },
   {
-    "branded_variable": "atmos.zg.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.zg.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmos.zg.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -80436,91 +80422,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.zg.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.zg.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.zg.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.zg.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.zg.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.zg.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.wap.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmos.zg.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -80534,7 +80436,91 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.wap.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmos.zg.tavg-p19-hxy-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.zg.tavg-p19-hxy-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.zg.tavg-p19-hxy-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.zg.tavg-p19-hxy-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.zg.tavg-p19-hxy-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.zg.tavg-p19-hxy-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.wap.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -80548,91 +80534,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.wap.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.wap.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.wap.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.wap.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.wap.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.wap.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.vas.tavg-h10m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.wap.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -80646,7 +80548,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.vas.tavg-h10m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.wap.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -80660,7 +80562,21 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.vas.tavg-h10m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.wap.tavg-p19-hxy-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.wap.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -80674,7 +80590,21 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.vas.tavg-h10m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.wap.tavg-p19-hxy-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.wap.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -80688,7 +80618,21 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.va.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmos.wap.tavg-p19-hxy-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.vas.tavg-h10m-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -80702,7 +80646,49 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.va.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmos.vas.tavg-h10m-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.vas.tavg-h10m-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.vas.tavg-h10m-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.va.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -80716,91 +80702,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.va.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.va.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.va.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.va.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.va.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.va.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.uas.tavg-h10m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.va.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -80814,7 +80716,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.uas.tavg-h10m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.va.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -80828,7 +80730,21 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.uas.tavg-h10m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.va.tavg-p19-hxy-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.va.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -80842,7 +80758,21 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.uas.tavg-h10m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.va.tavg-p19-hxy-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.va.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -80856,7 +80786,21 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.ua.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmos.va.tavg-p19-hxy-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.uas.tavg-h10m-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -80870,7 +80814,49 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.ua.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmos.uas.tavg-h10m-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.uas.tavg-h10m-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.uas.tavg-h10m-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.ua.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -80884,91 +80870,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.ua.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.ua.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.ua.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.ua.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.ua.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.ua.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.ts.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.ua.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -80982,7 +80884,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.ts.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.ua.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -80996,7 +80898,21 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.ts.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.ua.tavg-p19-hxy-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.ua.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81010,7 +80926,21 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.ts.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.ua.tavg-p19-hxy-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.ua.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81024,7 +80954,21 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.tauv.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.ua.tavg-p19-hxy-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.ts.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81038,7 +80982,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.tauv.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.ts.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81052,7 +80996,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.tauv.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.ts.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81066,7 +81010,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.tauv.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.ts.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81080,7 +81024,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.tauu.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.tauv.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81094,7 +81038,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.tauu.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.tauv.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81108,7 +81052,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.tauu.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.tauv.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81122,7 +81066,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.tauu.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.tauv.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81136,7 +81080,63 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.tas.tminavg-h2m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.tauu.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC31",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.tauu.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.tauu.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.tauu.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.tas.tminavg-h2m-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81150,7 +81150,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.tas.tminavg-h2m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.tas.tminavg-h2m-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81164,7 +81164,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.tas.tminavg-h2m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.tas.tminavg-h2m-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81178,7 +81178,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.tas.tminavg-h2m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.tas.tminavg-h2m-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81192,7 +81192,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.tas.tmaxavg-h2m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.tas.tmaxavg-h2m-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81206,7 +81206,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.tas.tmaxavg-h2m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.tas.tmaxavg-h2m-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81220,7 +81220,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.tas.tmaxavg-h2m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.tas.tmaxavg-h2m-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81234,7 +81234,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.tas.tmaxavg-h2m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.tas.tmaxavg-h2m-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81248,7 +81248,7 @@
     "stream": "ap6"
   },
   {
-    "branded_variable": "atmos.tas.tavg-h2m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.tas.tavg-h2m-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81262,7 +81262,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.tas.tavg-h2m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.tas.tavg-h2m-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81276,7 +81276,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.tas.tavg-h2m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.tas.tavg-h2m-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81290,7 +81290,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.tas.tavg-h2m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.tas.tavg-h2m-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81304,7 +81304,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.ta.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmos.ta.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81318,7 +81318,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.ta.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmos.ta.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81332,7 +81332,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.ta.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmos.ta.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81346,7 +81346,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.ta.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmos.ta.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81360,7 +81360,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.ta.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmos.ta.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81374,7 +81374,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.ta.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmos.ta.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81388,7 +81388,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.ta.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmos.ta.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81402,7 +81402,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.ta.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmos.ta.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81416,7 +81416,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.sfcWind.tavg-h10m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.sfcWind.tavg-h10m-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81430,7 +81430,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.sfcWind.tavg-h10m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.sfcWind.tavg-h10m-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81444,7 +81444,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.sfcWind.tavg-h10m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.sfcWind.tavg-h10m-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81458,7 +81458,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.sfcWind.tavg-h10m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.sfcWind.tavg-h10m-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81472,7 +81472,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.sci.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.sci.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81485,7 +81485,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.sci.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.sci.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81498,7 +81498,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.sci.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.sci.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81511,7 +81511,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.sci.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.sci.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81524,7 +81524,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "landIce.sbl.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "landIce.sbl.tavg-u-hxy-u.mon.glb",
     "labels": [
       "question",
       "mon",
@@ -81538,7 +81538,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "landIce.sbl.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "landIce.sbl.tavg-u-hxy-u.mon.glb",
     "labels": [
       "question",
       "mon",
@@ -81552,7 +81552,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "landIce.sbl.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "landIce.sbl.tavg-u-hxy-u.mon.glb",
     "labels": [
       "question",
       "mon",
@@ -81566,7 +81566,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "landIce.sbl.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "landIce.sbl.tavg-u-hxy-u.mon.glb",
     "labels": [
       "question",
       "mon",
@@ -81580,7 +81580,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rtmt.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rtmt.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81593,7 +81593,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rtmt.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rtmt.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81606,7 +81606,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rtmt.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rtmt.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81619,7 +81619,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rtmt.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rtmt.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81632,7 +81632,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rtmt.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rtmt.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81645,7 +81645,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rtmt.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rtmt.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81658,7 +81658,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rtmt.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rtmt.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81671,7 +81671,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rtmt.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rtmt.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81684,7 +81684,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rtmt.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rtmt.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81697,7 +81697,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rtmt.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rtmt.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81710,7 +81710,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rtmt.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rtmt.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81723,7 +81723,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rtmt.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rtmt.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81736,63 +81736,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rsutcs.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rsutcs.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rsutcs.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rsutcs.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rsut.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rsutcs.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81806,7 +81750,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rsut.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rsutcs.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81820,7 +81764,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rsut.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rsutcs.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81834,7 +81778,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rsut.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rsutcs.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81848,7 +81792,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rsuscs.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rsut.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81862,7 +81806,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rsuscs.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rsut.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81876,7 +81820,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rsuscs.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rsut.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81890,7 +81834,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rsuscs.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rsut.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81904,7 +81848,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rsus.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rsuscs.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81918,7 +81862,49 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rsus.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rsuscs.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rsuscs.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rsuscs.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rsus.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -81932,91 +81918,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rsus.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rsus.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rsus.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rsus.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rsus.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rsus.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rsdt.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rsus.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82030,7 +81932,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rsdt.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rsus.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82044,7 +81946,21 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rsdt.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rsus.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rsus.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82058,7 +81974,21 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rsdt.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rsus.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rsus.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82072,7 +82002,21 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rsdscs.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rsus.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rsdt.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82086,7 +82030,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rsdscs.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rsdt.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82100,7 +82044,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rsdscs.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rsdt.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82114,7 +82058,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rsdscs.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rsdt.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82128,7 +82072,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rsds.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rsdscs.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82142,7 +82086,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rsds.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rsdscs.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82156,7 +82100,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rsds.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rsdscs.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82170,7 +82114,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rsds.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rsdscs.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82184,7 +82128,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rlutcs.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rsds.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82198,7 +82142,49 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rlutcs.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rsds.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rsds.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rsds.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rlutcs.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82212,7 +82198,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rlutcs.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rlutcs.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82226,133 +82212,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rlutcs.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rlutcs.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rlutcs.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rlutcs.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rlutcs.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rlutcs.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rlutcs.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rlutcs.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rlutcs.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rlut.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rlutcs.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82366,7 +82226,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rlut.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rlutcs.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82380,7 +82240,35 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rlut.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rlutcs.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rlutcs.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rlutcs.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82394,7 +82282,35 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rlut.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rlutcs.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rlutcs.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rlutcs.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82408,127 +82324,11 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rlutcs.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
+      "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
       "BCV",
@@ -82538,10 +82338,11 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rlutcs.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
+      "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
       "BCV",
@@ -82551,20 +82352,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rlut.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82578,7 +82366,205 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rlut.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rlut.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rlut.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC31",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC31",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC31",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rluscs.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82592,7 +82578,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82606,7 +82592,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82620,175 +82606,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.rldscs.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82802,7 +82620,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rldscs.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82816,7 +82634,49 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rldscs.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82830,7 +82690,49 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rldscs.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82844,7 +82746,49 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rlds.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rlus.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.rldscs.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82858,7 +82802,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rlds.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rldscs.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82872,7 +82816,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rlds.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rldscs.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82886,7 +82830,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.rlds.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rldscs.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82900,7 +82844,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.psl.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rlds.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82914,7 +82858,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.psl.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rlds.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82928,7 +82872,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.psl.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rlds.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82942,7 +82886,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.psl.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.rlds.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82956,7 +82900,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.ps.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.psl.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82970,7 +82914,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.ps.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.psl.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82984,7 +82928,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.ps.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.psl.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -82998,7 +82942,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.ps.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.psl.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83012,7 +82956,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.prw.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.ps.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83026,7 +82970,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.prw.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.ps.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83040,7 +82984,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.prw.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.ps.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83054,7 +82998,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.prw.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.ps.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83068,7 +83012,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.prsn.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.prw.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83082,7 +83026,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.prsn.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.prw.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83096,7 +83040,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.prsn.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.prw.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83110,7 +83054,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.prsn.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.prw.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83124,55 +83068,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.prra.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.prra.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.prra.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.prra.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.prc.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.prsn.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83186,7 +83082,97 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.prc.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.prsn.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.prsn.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.prsn.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.prra.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "HadGEM3-GC31",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.prra.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.prra.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.prra.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.prc.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83200,91 +83186,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.prc.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.prc.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.prc.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.prc.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.prc.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.prc.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.pr.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.prc.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83298,7 +83200,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.pr.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.prc.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83312,7 +83214,21 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.pr.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.prc.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.prc.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83326,7 +83242,21 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.pr.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.prc.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.prc.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83340,7 +83270,77 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.o3.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmos.prc.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.pr.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC31",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.pr.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.pr.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.pr.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmosChem.o3.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83353,7 +83353,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.o3.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmosChem.o3.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83366,7 +83366,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.o3.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmosChem.o3.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83379,7 +83379,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.o3.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmosChem.o3.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83392,7 +83392,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.o3.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmosChem.o3.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83405,7 +83405,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.o3.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmosChem.o3.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83418,7 +83418,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.o3.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmosChem.o3.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83431,7 +83431,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.o3.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmosChem.o3.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83444,7 +83444,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.n2o.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.n2o.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83457,7 +83457,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.n2o.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.n2o.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83470,7 +83470,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.n2o.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.n2o.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83483,7 +83483,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.n2o.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.n2o.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83496,7 +83496,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.n2o.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.n2o.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83509,7 +83509,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.n2o.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.n2o.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83522,7 +83522,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.n2o.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.n2o.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83535,7 +83535,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.n2o.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.n2o.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83548,7 +83548,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.n2o.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmosChem.n2o.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83561,7 +83561,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.n2o.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmosChem.n2o.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83574,7 +83574,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.n2o.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmosChem.n2o.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83587,7 +83587,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.n2o.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmosChem.n2o.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83600,7 +83600,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.n2o.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmosChem.n2o.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83613,7 +83613,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.n2o.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmosChem.n2o.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83626,7 +83626,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.n2o.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmosChem.n2o.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83639,7 +83639,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.n2o.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmosChem.n2o.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83652,7 +83652,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.mc.tavg-alh-hxy-u.mon.GLB",
+    "branded_variable": "atmos.mc.tavg-alh-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83665,7 +83665,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.mc.tavg-alh-hxy-u.mon.GLB",
+    "branded_variable": "atmos.mc.tavg-alh-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83678,7 +83678,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.mc.tavg-alh-hxy-u.mon.GLB",
+    "branded_variable": "atmos.mc.tavg-alh-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83691,7 +83691,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.mc.tavg-alh-hxy-u.mon.GLB",
+    "branded_variable": "atmos.mc.tavg-alh-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83704,7 +83704,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.mc.tavg-alh-hxy-u.mon.GLB",
+    "branded_variable": "atmos.mc.tavg-alh-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83717,7 +83717,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.mc.tavg-alh-hxy-u.mon.GLB",
+    "branded_variable": "atmos.mc.tavg-alh-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83730,7 +83730,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.mc.tavg-alh-hxy-u.mon.GLB",
+    "branded_variable": "atmos.mc.tavg-alh-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83743,7 +83743,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.mc.tavg-alh-hxy-u.mon.GLB",
+    "branded_variable": "atmos.mc.tavg-alh-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83756,7 +83756,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.mc.tavg-alh-hxy-u.mon.GLB",
+    "branded_variable": "atmos.mc.tavg-alh-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83769,7 +83769,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.mc.tavg-alh-hxy-u.mon.GLB",
+    "branded_variable": "atmos.mc.tavg-alh-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83782,7 +83782,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.mc.tavg-alh-hxy-u.mon.GLB",
+    "branded_variable": "atmos.mc.tavg-alh-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83795,7 +83795,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.mc.tavg-alh-hxy-u.mon.GLB",
+    "branded_variable": "atmos.mc.tavg-alh-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83808,63 +83808,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.huss.tavg-h2m-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.huss.tavg-h2m-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.huss.tavg-h2m-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.huss.tavg-h2m-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.hus.tavg-p19-hxy-u.mon.GLB",
+    "branded_variable": "atmos.huss.tavg-h2m-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83878,7 +83822,49 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.hus.tavg-p19-hxy-u.mon.GLB",
+    "branded_variable": "atmos.huss.tavg-h2m-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.huss.tavg-h2m-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.huss.tavg-h2m-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.hus.tavg-p19-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83892,91 +83878,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.hus.tavg-p19-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.hus.tavg-p19-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.hus.tavg-p19-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.hus.tavg-p19-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.hus.tavg-p19-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.hus.tavg-p19-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.hurs.tavg-h2m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.hus.tavg-p19-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -83990,7 +83892,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.hurs.tavg-h2m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.hus.tavg-p19-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -84004,7 +83906,21 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.hurs.tavg-h2m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.hus.tavg-p19-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.hus.tavg-p19-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -84018,7 +83934,21 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.hurs.tavg-h2m-hxy-u.mon.GLB",
+    "branded_variable": "atmos.hus.tavg-p19-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.hus.tavg-p19-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -84032,7 +83962,21 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.hur.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmos.hus.tavg-p19-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.hurs.tavg-h2m-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -84046,7 +83990,49 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.hur.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmos.hurs.tavg-h2m-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.hurs.tavg-h2m-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.hurs.tavg-h2m-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.hur.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -84060,91 +84046,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.hur.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.hur.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.hur.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.hur.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.hur.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.hur.tavg-p19-hxy-air.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.hfss.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.hur.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -84158,7 +84060,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.hfss.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.hur.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -84172,7 +84074,21 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.hfss.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.hur.tavg-p19-hxy-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.hur.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -84186,7 +84102,21 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.hfss.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.hur.tavg-p19-hxy-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.hur.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -84200,7 +84130,21 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.hfls.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.hur.tavg-p19-hxy-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.hfss.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -84214,7 +84158,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.hfls.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.hfss.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -84228,7 +84172,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.hfls.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.hfss.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -84242,7 +84186,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.hfls.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.hfss.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -84256,247 +84200,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.fco2nat.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.fco2nat.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.fco2nat.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.fco2nat.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.fco2nat.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.fco2nat.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.fco2nat.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.fco2nat.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.fco2nat.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.fco2nat.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.fco2fos.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.fco2fos.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.fco2antt.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.fco2antt.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.fco2antt.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.fco2antt.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.fco2antt.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.fco2antt.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.fco2antt.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.fco2antt.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.evspsbl.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.hfls.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -84510,7 +84214,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.evspsbl.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.hfls.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -84524,7 +84228,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.evspsbl.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.hfls.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -84538,7 +84242,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.evspsbl.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.hfls.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -84552,171 +84256,247 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.co2mass.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmos.fco2nat.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.co2mass.tavg-u-hm-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.co2mass.tavg-u-hm-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
       "approved"
     ],
     "model": "UKESM1",
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.co2mass.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmos.fco2nat.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.fco2nat.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.fco2nat.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.fco2nat.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.fco2nat.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
       "approved"
     ],
     "model": "UKESM1-3",
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.clwvi.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.fco2nat.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.clwvi.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.clwvi.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.clwvi.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.clwvi.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.clwvi.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.clwvi.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
       "approved"
     ],
     "model": "UKESM1-3",
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.clwvi.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.fco2nat.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
       "approved"
     ],
     "model": "UKESM1-3",
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.clw.tavg-al-hxy-u.mon.GLB",
+    "branded_variable": "atmos.fco2nat.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.fco2nat.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.fco2fos.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.fco2fos.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.fco2antt.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.fco2antt.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.fco2antt.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.fco2antt.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.fco2antt.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.fco2antt.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.fco2antt.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.fco2antt.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.evspsbl.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -84730,21 +84510,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.clw.tavg-al-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.clw.tavg-al-hxy-u.mon.GLB",
+    "branded_variable": "atmos.evspsbl.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -84758,21 +84524,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.clw.tavg-al-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.clw.tavg-al-hxy-u.mon.GLB",
+    "branded_variable": "atmos.evspsbl.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -84786,91 +84538,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.clw.tavg-al-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.clw.tavg-al-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.clw.tavg-al-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.clt.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.clt.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.clt.tavg-u-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.clt.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.evspsbl.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -84884,7 +84552,59 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.clivi.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.co2mass.tavg-u-hm-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "HadGEM3-GC31",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.co2mass.tavg-u-hm-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.co2mass.tavg-u-hm-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.co2mass.tavg-u-hm-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.clwvi.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -84898,7 +84618,21 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.clivi.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.clwvi.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC31",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.clwvi.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -84912,7 +84646,21 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.clivi.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.clwvi.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.clwvi.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -84926,7 +84674,21 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.clivi.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.clwvi.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.clwvi.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -84940,91 +84702,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.cli.tavg-al-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.cli.tavg-al-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.cli.tavg-al-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.cli.tavg-al-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.cli.tavg-al-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.cli.tavg-al-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.cli.tavg-al-hxy-u.mon.GLB",
+    "branded_variable": "atmos.clwvi.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -85038,21 +84716,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.cli.tavg-al-hxy-u.mon.GLB",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "BCV",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmos.cl.tavg-al-hxy-u.mon.GLB",
+    "branded_variable": "atmos.clw.tavg-al-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -85066,7 +84730,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.cl.tavg-al-hxy-u.mon.GLB",
+    "branded_variable": "atmos.clw.tavg-al-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -85080,7 +84744,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.cl.tavg-al-hxy-u.mon.GLB",
+    "branded_variable": "atmos.clw.tavg-al-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -85094,7 +84758,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.cl.tavg-al-hxy-u.mon.GLB",
+    "branded_variable": "atmos.clw.tavg-al-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -85108,7 +84772,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.cl.tavg-al-hxy-u.mon.GLB",
+    "branded_variable": "atmos.clw.tavg-al-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -85122,7 +84786,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.cl.tavg-al-hxy-u.mon.GLB",
+    "branded_variable": "atmos.clw.tavg-al-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -85136,7 +84800,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.cl.tavg-al-hxy-u.mon.GLB",
+    "branded_variable": "atmos.clw.tavg-al-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -85150,7 +84814,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.cl.tavg-al-hxy-u.mon.GLB",
+    "branded_variable": "atmos.clw.tavg-al-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -85164,7 +84828,343 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.ci.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.clt.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC31",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.clt.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.clt.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.clt.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.clivi.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC31",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.clivi.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.clivi.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.clivi.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.cli.tavg-al-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC31",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.cli.tavg-al-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC31",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.cli.tavg-al-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.cli.tavg-al-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.cli.tavg-al-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.cli.tavg-al-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.cli.tavg-al-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.cli.tavg-al-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.cl.tavg-al-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC31",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.cl.tavg-al-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC31",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.cl.tavg-al-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.cl.tavg-al-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.cl.tavg-al-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.cl.tavg-al-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.cl.tavg-al-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.cl.tavg-al-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "BCV",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmos.ci.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -85177,7 +85177,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.ci.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.ci.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -85190,7 +85190,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.ci.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.ci.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -85203,7 +85203,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmos.ci.tavg-u-hxy-u.mon.GLB",
+    "branded_variable": "atmos.ci.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmos",
@@ -85216,7 +85216,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.ch4.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.ch4.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85229,7 +85229,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.ch4.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.ch4.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85242,7 +85242,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.ch4.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.ch4.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85255,7 +85255,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.ch4.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.ch4.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85268,7 +85268,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.ch4.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.ch4.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85281,7 +85281,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.ch4.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.ch4.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85294,7 +85294,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.ch4.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.ch4.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85307,7 +85307,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.ch4.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.ch4.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85320,7 +85320,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85333,7 +85333,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85346,7 +85346,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85359,7 +85359,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85372,7 +85372,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85385,7 +85385,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85398,7 +85398,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85411,7 +85411,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.GLB",
+    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85424,7 +85424,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc12.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.cfc12.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85437,7 +85437,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc12.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.cfc12.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85450,7 +85450,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc12.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.cfc12.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85463,7 +85463,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc12.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.cfc12.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85476,7 +85476,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc12.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.cfc12.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85489,7 +85489,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc12.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.cfc12.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85502,7 +85502,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc12.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.cfc12.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85515,7 +85515,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc12.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.cfc12.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85528,7 +85528,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc11.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.cfc11.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85541,7 +85541,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc11.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.cfc11.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85554,7 +85554,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc11.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.cfc11.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85567,7 +85567,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc11.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.cfc11.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85580,7 +85580,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc11.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.cfc11.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85593,7 +85593,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc11.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.cfc11.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85606,7 +85606,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc11.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.cfc11.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85619,7 +85619,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc11.tavg-u-hm-u.mon.GLB",
+    "branded_variable": "atmosChem.cfc11.tavg-u-hm-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
