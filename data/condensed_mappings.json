@@ -8,18 +8,6 @@
       "HadGEM3-GC31",
       "beyond-AFT"
     ],
-    "model": "HadGEM3-GC3.1",
-    "stream": "ap4"
-  },
-  {
-    "branded_variable": "aerosol.rsdcsaf.tavg-u-hxy-u.mon.glb",
-    "labels": [
-      "mon",
-      "aerosol",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "beyond-AFT"
-    ],
     "model": "HadGEM3-GC31",
     "stream": "ap4"
   },
@@ -44,18 +32,6 @@
       "HadGEM3-GC31",
       "beyond-AFT"
     ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap4"
-  },
-  {
-    "branded_variable": "aerosol.rsdcsaf.tavg-u-hxy-u.mon.glb",
-    "labels": [
-      "mon",
-      "aerosol",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "beyond-AFT"
-    ],
     "model": "UKESM1",
     "stream": "ap4"
   },
@@ -69,18 +45,6 @@
       "beyond-AFT"
     ],
     "model": "UKESM1",
-    "stream": "ap4"
-  },
-  {
-    "branded_variable": "aerosol.rsdcsaf.tavg-u-hxy-u.mon.glb",
-    "labels": [
-      "mon",
-      "aerosol",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "beyond-AFT"
-    ],
-    "model": "UKESM1.3",
     "stream": "ap4"
   },
   {
@@ -104,18 +68,6 @@
       "HadGEM3-GC31",
       "beyond-AFT"
     ],
-    "model": "HadGEM3-GC3.1",
-    "stream": "ap4"
-  },
-  {
-    "branded_variable": "aerosol.rsdaf.tavg-u-hxy-u.mon.glb",
-    "labels": [
-      "mon",
-      "aerosol",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "beyond-AFT"
-    ],
     "model": "HadGEM3-GC31",
     "stream": "ap4"
   },
@@ -140,18 +92,6 @@
       "HadGEM3-GC31",
       "beyond-AFT"
     ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap4"
-  },
-  {
-    "branded_variable": "aerosol.rsdaf.tavg-u-hxy-u.mon.glb",
-    "labels": [
-      "mon",
-      "aerosol",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "beyond-AFT"
-    ],
     "model": "UKESM1",
     "stream": "ap4"
   },
@@ -165,18 +105,6 @@
       "beyond-AFT"
     ],
     "model": "UKESM1",
-    "stream": "ap4"
-  },
-  {
-    "branded_variable": "aerosol.rsdaf.tavg-u-hxy-u.mon.glb",
-    "labels": [
-      "mon",
-      "aerosol",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "beyond-AFT"
-    ],
-    "model": "UKESM1.3",
     "stream": "ap4"
   },
   {
@@ -200,18 +128,6 @@
       "HadGEM3-GC31",
       "beyond-AFT"
     ],
-    "model": "HadGEM3-GC3.1",
-    "stream": "ap4"
-  },
-  {
-    "branded_variable": "aerosol.rldcsaf.tavg-u-hxy-u.mon.glb",
-    "labels": [
-      "mon",
-      "aerosol",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "beyond-AFT"
-    ],
     "model": "HadGEM3-GC31",
     "stream": "ap4"
   },
@@ -236,18 +152,6 @@
       "HadGEM3-GC31",
       "beyond-AFT"
     ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap4"
-  },
-  {
-    "branded_variable": "aerosol.rldcsaf.tavg-u-hxy-u.mon.glb",
-    "labels": [
-      "mon",
-      "aerosol",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "beyond-AFT"
-    ],
     "model": "UKESM1",
     "stream": "ap4"
   },
@@ -261,18 +165,6 @@
       "beyond-AFT"
     ],
     "model": "UKESM1",
-    "stream": "ap4"
-  },
-  {
-    "branded_variable": "aerosol.rldcsaf.tavg-u-hxy-u.mon.glb",
-    "labels": [
-      "mon",
-      "aerosol",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "beyond-AFT"
-    ],
-    "model": "UKESM1.3",
     "stream": "ap4"
   },
   {
@@ -296,18 +188,6 @@
       "HadGEM3-GC31",
       "beyond-AFT"
     ],
-    "model": "HadGEM3-GC3.1",
-    "stream": "ap4"
-  },
-  {
-    "branded_variable": "aerosol.rldaf.tavg-u-hxy-u.mon.glb",
-    "labels": [
-      "mon",
-      "aerosol",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "beyond-AFT"
-    ],
     "model": "HadGEM3-GC31",
     "stream": "ap4"
   },
@@ -332,18 +212,6 @@
       "HadGEM3-GC31",
       "beyond-AFT"
     ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap4"
-  },
-  {
-    "branded_variable": "aerosol.rldaf.tavg-u-hxy-u.mon.glb",
-    "labels": [
-      "mon",
-      "aerosol",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "beyond-AFT"
-    ],
     "model": "UKESM1",
     "stream": "ap4"
   },
@@ -357,18 +225,6 @@
       "beyond-AFT"
     ],
     "model": "UKESM1",
-    "stream": "ap4"
-  },
-  {
-    "branded_variable": "aerosol.rldaf.tavg-u-hxy-u.mon.glb",
-    "labels": [
-      "mon",
-      "aerosol",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "beyond-AFT"
-    ],
-    "model": "UKESM1.3",
     "stream": "ap4"
   },
   {
@@ -28624,7 +28480,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3.1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -28635,7 +28491,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3.1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -28712,7 +28568,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3.1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -28723,7 +28579,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3.1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -28734,7 +28590,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3.1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -28745,7 +28601,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3.1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -28888,7 +28744,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3.1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -28899,7 +28755,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3.1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -28910,7 +28766,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3.1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -28921,7 +28777,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3.1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -29064,7 +28920,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3.1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -29075,7 +28931,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3.1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -29086,7 +28942,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3.1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -29097,7 +28953,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3.1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -29108,7 +28964,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3.1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -29119,7 +28975,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3.1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -29328,7 +29184,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3.1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -29339,7 +29195,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3.1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -29350,7 +29206,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3.1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -29361,7 +29217,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3.1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -29504,7 +29360,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3.1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -29748,7 +29604,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3-1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -29759,7 +29615,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3-1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -29770,7 +29626,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3-1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -29781,7 +29637,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3-1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -29792,7 +29648,7 @@
       "processor",
       "approved"
     ],
-    "model": "HadGEM3-GC3-1",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -79164,15 +79020,6 @@
       "land"
     ],
     "model": "HadGEM3-GC5",
-    "stream": ""
-  },
-  {
-    "branded_variable": "land.srfrad.tavg-u-hxy-u.3hr.glb",
-    "labels": [
-      "3hr",
-      "land"
-    ],
-    "model": "HadgEM3-GC5",
     "stream": ""
   },
   {
