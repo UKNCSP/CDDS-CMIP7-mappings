@@ -1,0 +1,858 @@
+{
+    "Header": {
+        "Description": "Comparison of variable metadata between v1222.json and v1223.json, arranged by metadata attribute",
+        "No. of variables in v1222.json": 1974,
+        "No. of variables in v1223.json": 1974,
+        "No. of variables with differences": 157,
+        "No. of variables with differences in each metadata attribute": {
+            "cell_measures": 38,
+            "cell_methods": 6,
+            "comment": 36,
+            "long_name": 120,
+            "modeling_realm": 6,
+            "standard_name": 1
+        }
+    },
+    "Attribute": {
+        "cell_measures": {
+            "aerosol.conccn.tpt-u-hs-u.3hr.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "aerosol.mmraerh2o.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "aerosol.mmrbc.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "aerosol.mmrdust.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "aerosol.mmrnh4.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "aerosol.mmrno3.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "aerosol.mmroa.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "aerosol.mmrso4.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "aerosol.mmrss.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "aerosol.so2.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "atmos.ua.tpt-al-hxy-u.6hr.glb": {
+                "v1222.json": "::OPT",
+                "v1223.json": "area: areacella"
+            },
+            "atmos.va.tpt-al-hxy-u.6hr.glb": {
+                "v1222.json": "::OPT",
+                "v1223.json": "area: areacella"
+            },
+            "ocean.dxto.ti-u-hxy-u.fx.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "ocean.dxuo.ti-u-hxy-u.fx.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "ocean.dxvo.ti-u-hxy-u.fx.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "ocean.dyto.ti-u-hxy-u.fx.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "ocean.dyuo.ti-u-hxy-u.fx.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "ocean.dyvo.ti-u-hxy-u.fx.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "ocean.tauuo.tavg-u-hxy-sea.3hr.glb": {
+                "v1222.json": "::OPT",
+                "v1223.json": "area: areacello"
+            },
+            "ocean.tauuo.tavg-u-hxy-sea.mon.glb": {
+                "v1222.json": "::OPT",
+                "v1223.json": "area: areacello"
+            },
+            "ocean.tauvo.tavg-u-hxy-sea.3hr.glb": {
+                "v1222.json": "::OPT",
+                "v1223.json": "area: areacello"
+            },
+            "ocean.tauvo.tavg-u-hxy-sea.mon.glb": {
+                "v1222.json": "::OPT",
+                "v1223.json": "area: areacello"
+            },
+            "seaIce.sidmasstranx.tavg-u-hxy-u.mon.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "seaIce.sidmasstrany.tavg-u-hxy-u.mon.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "seaIce.siforcecoriolx.tavg-u-hxy-si.mon.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "seaIce.siforcecorioly.tavg-u-hxy-si.mon.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "seaIce.siforceintstrx.tavg-u-hxy-si.mon.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "seaIce.siforceintstry.tavg-u-hxy-si.mon.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "seaIce.siforcetiltx.tavg-u-hxy-si.mon.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "seaIce.siforcetilty.tavg-u-hxy-si.mon.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "seaIce.sistrxdtop.tavg-u-hxy-si.mon.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "seaIce.sistrydtop.tavg-u-hxy-si.mon.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "seaIce.siu.tavg-u-hxy-si.day.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "seaIce.siu.tavg-u-hxy-si.mon.30S-90S": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "seaIce.siu.tavg-u-hxy-si.mon.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "seaIce.siv.tavg-u-hxy-si.day.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "seaIce.siv.tavg-u-hxy-si.mon.30S-90S": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            },
+            "seaIce.siv.tavg-u-hxy-si.mon.glb": {
+                "v1222.json": "::MODEL",
+                "v1223.json": "--MODEL"
+            }
+        },
+        "cell_methods": {
+            "seaIce.siforcecoriolx.tavg-u-hxy-si.mon.glb": {
+                "v1222.json": "area: time: mean where sea_ice over all_area_types",
+                "v1223.json": "area: time: mean where sea_ice (mask=siconc)"
+            },
+            "seaIce.siforcecorioly.tavg-u-hxy-si.mon.glb": {
+                "v1222.json": "area: time: mean where sea_ice over all_area_types",
+                "v1223.json": "area: time: mean where sea_ice (mask=siconc)"
+            },
+            "seaIce.siforceintstrx.tavg-u-hxy-si.mon.glb": {
+                "v1222.json": "area: time: mean where sea_ice over all_area_types",
+                "v1223.json": "area: time: mean where sea_ice (mask=siconc)"
+            },
+            "seaIce.siforceintstry.tavg-u-hxy-si.mon.glb": {
+                "v1222.json": "area: time: mean where sea_ice over all_area_types",
+                "v1223.json": "area: time: mean where sea_ice (mask=siconc)"
+            },
+            "seaIce.siforcetiltx.tavg-u-hxy-si.mon.glb": {
+                "v1222.json": "area: time: mean where sea_ice over all_area_types",
+                "v1223.json": "area: time: mean where sea_ice (mask=siconc)"
+            },
+            "seaIce.siforcetilty.tavg-u-hxy-si.mon.glb": {
+                "v1222.json": "area: time: mean where sea_ice over all_area_types",
+                "v1223.json": "area: time: mean where sea_ice (mask=siconc)"
+            }
+        },
+        "comment": {
+            "aerosol.co.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "This is the daily mean for CO volume mixing ratio in lowest model layer",
+                "v1223.json": "This is the daily mean for CO volume mixing ratio near surface."
+            },
+            "aerosol.mmraerh2o.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Daily mean Aerosol water mass mixing ratio in lowest model layer",
+                "v1223.json": "Daily mean Aerosol water mass mixing ratio near surface."
+            },
+            "aerosol.mmraerh2o.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "This variable represents the instantaneous surface aerosol water\u00a0Mass Mixing Ratio at CF sites, sampled every 3 hours",
+                "v1223.json": "This variable represents the instantaneous near surface aerosol water\u00a0Mass Mixing Ratio at CF sites, sampled every 3 hours"
+            },
+            "aerosol.mmrbc.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Daily mean elemental carbon mass mixing ratio in lowest model layer",
+                "v1223.json": "Daily mean elemental carbon mass mixing ratio near surface."
+            },
+            "aerosol.mmrbc.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "This variable represents the instantaneous surface elemental carbon Aerosol Mass Mixing Ratio at CF sites, sampled every 3 hours",
+                "v1223.json": "This variable represents the instantaneous near surface elemental carbon Aerosol Mass Mixing Ratio at CF sites, sampled every 3 hours"
+            },
+            "aerosol.mmrdust.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Daily mean dust aerosol mass mixing ratio in lowest model layer",
+                "v1223.json": "Daily mean dust aerosol mass mixing ratio near surface."
+            },
+            "aerosol.mmrdust.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "This variable represents the instantaneous surface Dust Aerosol Mass Mixing Ratio at CF sites, sampled every 3 hours",
+                "v1223.json": "This variable represents the instantaneous near surface Dust Aerosol Mass Mixing Ratio at CF sites, sampled every 3 hours"
+            },
+            "aerosol.mmrnh4.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Daily mean NH4 mass mixing ratio in lowest model layer",
+                "v1223.json": "Daily mean NH4 mass mixing ratio near surface."
+            },
+            "aerosol.mmrnh4.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "This variable represents the instantaneous surface NH4 Aerosol Mass Mixing Ratio at CF sites, sampled every 3 hours",
+                "v1223.json": "This variable represents the instantaneous near surface NH4 Aerosol Mass Mixing Ratio at CF sites, sampled every 3 hours"
+            },
+            "aerosol.mmrno3.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Daily mean NO3 aerosol mass mixing ratio in lowest model layer",
+                "v1223.json": "Daily mean NO3 aerosol mass mixing ratio near surface."
+            },
+            "aerosol.mmrno3.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "This variable represents the instantaneous surface NO3 Aerosol Mass Mixing Ratio at CF sites, sampled every 3 hours",
+                "v1223.json": "This variable represents the instantaneous near surface NO3 Aerosol Mass Mixing Ratio at CF sites, sampled every 3 hours"
+            },
+            "aerosol.mmroa.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Daily mean total organic aerosol mass mixing ratio in lowest model layer",
+                "v1223.json": "Daily mean total organic aerosol mass mixing ratio near surface."
+            },
+            "aerosol.mmroa.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "This variable represents the instantaneous surface organic aerosol\u00a0Mass Mixing Ratio at CF sites, sampled every 3 hours.",
+                "v1223.json": "This variable represents the instantaneous near surface organic aerosol\u00a0Mass Mixing Ratio at CF sites, sampled every 3 hours."
+            },
+            "aerosol.mmrso4.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Daily mean sulfate aerosol mass mixing ratio in lowest model layer",
+                "v1223.json": "Daily mean sulfate aerosol mass mixing ratio near surface."
+            },
+            "aerosol.mmrso4.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "This variable is for instantaneous surface mass mixing ratio of sulfate aerosol at CF sites, sampled every 3 hours",
+                "v1223.json": "This variable is for instantaneous near surface mass mixing ratio of sulfate aerosol at CF sites, sampled every 3 hours"
+            },
+            "aerosol.mmrsoa.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Daily mean secondary organic aerosol mass mixing ratio in lowest model layer",
+                "v1223.json": "Daily mean secondary organic aerosol mass mixing ratio near surface."
+            },
+            "aerosol.mmrss.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Daily mean Sea Salt mass mixing ratio in lowest model layer",
+                "v1223.json": "Daily mean Sea Salt mass mixing ratio near surface."
+            },
+            "aerosol.mmrss.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "This variable represents instantaneous surface sea salt aerosol mass mixing ratio at CF sites, sampled every 3 hours",
+                "v1223.json": "This variable represents instantaneous near surface sea salt aerosol mass mixing ratio at CF sites, sampled every 3 hours"
+            },
+            "aerosol.sfpm1.tavg-h2m-hxy-u.1hr.glb": {
+                "v1222.json": "Hourly PM1.0 Mass Mixing Ratio in Lowest Model Layer",
+                "v1223.json": "Hourly PM1.0 Mass Mixing Ratio near surface."
+            },
+            "aerosol.sfpm1.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Daily mean PM1.0 mass mixing ratio in lowest model layer",
+                "v1223.json": "Daily mean PM1.0 mass mixing ratio near surface."
+            },
+            "aerosol.sfpm10.tavg-h2m-hxy-u.1hr.glb": {
+                "v1222.json": "Hourly PM10 Mass Mixing Ratio in Lowest Model Layer",
+                "v1223.json": "Hourly PM10 Mass Mixing Ratio near surface."
+            },
+            "aerosol.sfpm10.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Daily mean PM10 mass mixing ratio in lowest model layer",
+                "v1223.json": "Daily mean PM10 mass mixing ratio near surface."
+            },
+            "aerosol.sfpm25.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Daily mean PM2.5 mass mixing ratio in lowest model layer",
+                "v1223.json": "Daily mean PM2.5 mass mixing ratio near surface."
+            },
+            "aerosol.so2.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Daily mean SO2 volume mixing ratio in lowest model layer",
+                "v1223.json": "Daily mean SO2 volume mixing ratio near surface."
+            },
+            "aerosol.so2.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "This variable represents the instantaneous surface so2 volume mixing ration at CF sites, sampled every 3 hours",
+                "v1223.json": "This variable represents the instantaneous near surface so2 volume mixing ration at CF sites, sampled every 3 hours"
+            },
+            "atmos.co2.tavg-h2m-hxy-u.mon.glb": {
+                "v1222.json": "As co2, but only at the surface",
+                "v1223.json": "As co2, but only near the surface"
+            },
+            "atmos.rlus.tavg-u-hxy-u.1hr.glb": {
+                "v1222.json": "Hourly surface upwelling shortwave radiation",
+                "v1223.json": "Hourly surface upwelling longwave radiation"
+            },
+            "atmos.tas.tavg-h2m-hxy-u.1hr.glb": {
+                "v1222.json": "Temperature at surface",
+                "v1223.json": "Temperature near surface."
+            },
+            "ocean.zos.tavg-u-hxy-sea.day.glb": {
+                "v1222.json": "This is the dynamic sea level, so should have zero global area mean. zos is the effective sea level as if sea ice (and snow) at a grid cell were converted to liquid seawater (Campin et al., 2008). For OMIP, do _not _record inverse barometer responses from sea-ice (and snow) loading in zos. See (Griffies et al, 2016, https://doi.org/10.5194/gmd-9-3231-2016).",
+                "v1223.json": "This is the effective dynamic sea level, so should have zero global area mean. zos is the effective sea level as if sea ice (and snow) at a grid cell were converted to liquid seawater (Campin et al., 2008). For OMIP, do _not _record inverse barometer responses from sea-ice (and snow) loading in zos. See (Griffies et al, 2016, https://doi.org/10.5194/gmd-9-3231-2016)."
+            },
+            "ocean.zos.tavg-u-hxy-sea.mon.glb": {
+                "v1222.json": "This is the dynamic sea level, so should have zero global area mean. It should not include inverse barometer depressions from sea ice.",
+                "v1223.json": "This is the effective dynamic sea level, so should have zero global area mean. It should not include inverse barometer depressions from sea ice."
+            },
+            "seaIce.siforcecoriolx.tavg-u-hxy-si.mon.glb": {
+                "v1222.json": "X-component of the force on sea ice caused by the Coriolis force divided by grid-cell area.",
+                "v1223.json": "X-component of the force on sea ice caused by the Coriolis force divided by sea ice area."
+            },
+            "seaIce.siforcecorioly.tavg-u-hxy-si.mon.glb": {
+                "v1222.json": "Y-component of the force on sea ice caused by the Coriolis force divided by grid-cell area.",
+                "v1223.json": "Y-component of the force on sea ice caused by the Coriolis force divided by sea ice area."
+            },
+            "seaIce.siforceintstrx.tavg-u-hxy-si.mon.glb": {
+                "v1222.json": "X-component of the force on sea ice caused by internal stress (divergence of sigma) divided by grid-cell area.",
+                "v1223.json": "X-component of the force on sea ice caused by internal stress (divergence of sigma) divided by sea ice area."
+            },
+            "seaIce.siforceintstry.tavg-u-hxy-si.mon.glb": {
+                "v1222.json": "Y-component of the force on sea ice caused by internal stress (divergence of sigma) divided by grid-cell area.",
+                "v1223.json": "Y-component of the force on sea ice caused by internal stress (divergence of sigma) divided by sea ice area."
+            },
+            "seaIce.siforcetiltx.tavg-u-hxy-si.mon.glb": {
+                "v1222.json": "X-component of the force on sea ice caused by sea-surface tilt divided by grid-cell area.",
+                "v1223.json": "X-component of the force on sea ice caused by sea-surface tilt divided by sea ice area."
+            },
+            "seaIce.siforcetilty.tavg-u-hxy-si.mon.glb": {
+                "v1222.json": "Y-component of the force on sea ice caused by sea-surface tilt divided by grid-cell area.",
+                "v1223.json": "Y-component of the force on sea ice caused by sea-surface tilt divided by sea ice area."
+            }
+        },
+        "long_name": {
+            "aerosol.co.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Daily mean surface CO",
+                "v1223.json": "Daily mean near-surface CO"
+            },
+            "aerosol.mmraerh2o.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Daily mean surface Aerosol water mass mixing ratio in lowest model layer",
+                "v1223.json": "Daily mean near-surface Aerosol water mass mixing ratio"
+            },
+            "aerosol.mmraerh2o.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "Instantaneous surface aerosol water mass mixing ratio at CF sites",
+                "v1223.json": "Instantaneous near-surface aerosol water mass mixing ratio at CF sites"
+            },
+            "aerosol.mmrbc.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Daily mean surface BC",
+                "v1223.json": "Daily mean near-surface BC"
+            },
+            "aerosol.mmrdust.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Daily mean surface dust aerosol",
+                "v1223.json": "Daily mean near-surface dust aerosol"
+            },
+            "aerosol.mmrdust.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "Instantaneous surface Dust Aerosol Mass Mixing Ratio at CF sites",
+                "v1223.json": "Instantaneous near-surface Dust Aerosol Mass Mixing Ratio at CF sites"
+            },
+            "aerosol.mmrnh4.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Daily mean surface NH4",
+                "v1223.json": "Daily mean near-surface NH4"
+            },
+            "aerosol.mmrnh4.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "Instantaneous surface NH4 aerosol mass mixing ratio at CF sites",
+                "v1223.json": "Instantaneous near-surface NH4 aerosol mass mixing ratio at CF sites"
+            },
+            "aerosol.mmrno3.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Daily mean surface NO3 aerosol",
+                "v1223.json": "Daily mean near-surface NO3 aerosol"
+            },
+            "aerosol.mmrno3.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "Instantaneous surface NO3 aerosol mass mixing ratio at CF sites",
+                "v1223.json": "Instantaneous near-surface NO3 aerosol mass mixing ratio at CF sites"
+            },
+            "aerosol.mmroa.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Total surface organic aerosol",
+                "v1223.json": "Total near-surface organic aerosol"
+            },
+            "aerosol.mmroa.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "Instantaneous surface total organic aerosol mass mixing ratio at CF sites",
+                "v1223.json": "Instantaneous near-surface total organic aerosol mass mixing ratio at CF sites"
+            },
+            "aerosol.mmrso4.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Daily mean surface sulfate aerosol",
+                "v1223.json": "Daily mean near-surface sulfate aerosol"
+            },
+            "aerosol.mmrso4.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "Instantaneous Aerosol Sulfate Mass Mixing Ratio at CF sites",
+                "v1223.json": "Instantaneous near-surface Aerosol Sulfate Mass Mixing Ratio at CF sites"
+            },
+            "aerosol.mmrsoa.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Daily mean surface SOA",
+                "v1223.json": "Daily mean near-surface SOA"
+            },
+            "aerosol.mmrss.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Daily mean surface Sea Salt",
+                "v1223.json": "Daily mean near-surface Sea Salt"
+            },
+            "aerosol.mmrss.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "Sea salt Aerosol Mass Mixing Ratio at CF sites",
+                "v1223.json": "Sea salt Aerosol Mass Mixing Ratio at CF sites near-surface"
+            },
+            "aerosol.no2.tavg-h2m-hxy-u.1hr.glb": {
+                "v1222.json": "NO2 Volume Mixing Ratio in Lowest Model Layer",
+                "v1223.json": "NO2 Volume Mixing Ratio near surface"
+            },
+            "aerosol.o3.tavg-h2m-hxy-u.1hr.glb": {
+                "v1222.json": "O3 Volume Mixing Ratio in Lowest Model Layer",
+                "v1223.json": "O3 Volume Mixing Ratio near surface"
+            },
+            "aerosol.o3.tmax-h2m-hxy-u.day.glb": {
+                "v1222.json": "Daily Maximum O3 Volume Mixing Ratio in Lowest Model Layer",
+                "v1223.json": "Daily Maximum O3 Volume Mixing Ratio near-surface"
+            },
+            "aerosol.sfpm1.tavg-h2m-hxy-u.1hr.glb": {
+                "v1222.json": "Hourly Surface PM1.0 Mixing Ratio",
+                "v1223.json": "Near-surface PM1.0 Mixing Ratio"
+            },
+            "aerosol.sfpm1.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Surface daily mean PM1.0",
+                "v1223.json": "Near-surface PM1.0 Mixing Ratio"
+            },
+            "aerosol.sfpm10.tavg-h2m-hxy-u.1hr.glb": {
+                "v1222.json": "Hourly Surface PM10 Mixing Ratio",
+                "v1223.json": "Near-surface PM10 Mixing Ratio"
+            },
+            "aerosol.sfpm10.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Daily mean surface PM10",
+                "v1223.json": "Near-surface PM10 Mixing Ratio"
+            },
+            "aerosol.sfpm25.tavg-h2m-hxy-u.1hr.glb": {
+                "v1222.json": "PM2.5 Mass Mixing Ratio in Lowest Model Layer",
+                "v1223.json": "Near-surface PM2.5 Mixing Ratio"
+            },
+            "aerosol.sfpm25.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Daily mean surface PM2.5",
+                "v1223.json": "Near-surface PM2.5 Mixing Ratio"
+            },
+            "aerosol.so2.tavg-h2m-hxy-u.day.glb": {
+                "v1222.json": "Surface daily mean SO2",
+                "v1223.json": "Near-surface daily mean SO2"
+            },
+            "aerosol.so2.tpt-h2m-hs-u.3hr.glb": {
+                "v1222.json": "Surface SO2 volume mixing ratio at CF sites",
+                "v1223.json": "Surface SO2 volume mixing ratio at CF sites near-surface"
+            },
+            "atmos.bldep.tavg-u-hxy-u.1hr.glb": {
+                "v1222.json": "Boundary layer depth",
+                "v1223.json": "Boundary Layer Depth"
+            },
+            "atmos.cltmodis.tavg-u-hxy-u.mon.glb": {
+                "v1222.json": "MODIS Total Cloud Cover Percentage",
+                "v1223.json": "MODIS Total Cloud Area Percentage"
+            },
+            "atmos.co2.tavg-h2m-hxy-u.mon.glb": {
+                "v1222.json": "Atmosphere CO2",
+                "v1223.json": "Near-surface atmosphere CO2"
+            },
+            "atmos.hfls.tavg-u-hxy-is.mon.ata": {
+                "v1222.json": "Surface Upward Latent Heat Flux",
+                "v1223.json": "Ice Sheet Surface Upward Latent Heat Flux"
+            },
+            "atmos.hfls.tavg-u-hxy-is.mon.grl": {
+                "v1222.json": "Surface Upward Latent Heat Flux",
+                "v1223.json": "Ice Sheet Surface Upward Latent Heat Flux"
+            },
+            "atmos.hfls.tavg-u-hxy-u.1hr.glb": {
+                "v1222.json": "Surface upward latent heat flux",
+                "v1223.json": "Surface Upward Latent Heat Flux"
+            },
+            "atmos.hfss.tavg-u-hxy-is.mon.ata": {
+                "v1222.json": "Surface Upward Sensible Heat Flux",
+                "v1223.json": "Ice Sheet Surface Upward Sensible Heat Flux"
+            },
+            "atmos.hfss.tavg-u-hxy-is.mon.grl": {
+                "v1222.json": "Surface Upward Sensible Heat Flux",
+                "v1223.json": "Ice Sheet Surface Upward Sensible Heat Flux"
+            },
+            "atmos.hfss.tavg-u-hxy-u.1hr.glb": {
+                "v1222.json": "Surface upward sensible heat flux",
+                "v1223.json": "Surface Upward Sensible Heat Flux"
+            },
+            "atmos.hurs.tavg-h2m-hxy-u.1hr.30S-90S": {
+                "v1222.json": "Hourly relative humidity at the surface",
+                "v1223.json": "Near-Surface Relative Humidity"
+            },
+            "atmos.hurs.tavg-h2m-hxy-u.1hr.glb": {
+                "v1222.json": "Hourly relative humidity at the surface",
+                "v1223.json": "Near-Surface Relative Humidity"
+            },
+            "atmos.pr.tpt-u-hxy-u.6hr.glb": {
+                "v1222.json": "surface precipitation",
+                "v1223.json": "Precipitation"
+            },
+            "atmos.prra.tavg-u-hxy-is.mon.ata": {
+                "v1222.json": "Rainfall Flux over Land Ice",
+                "v1223.json": "Ice Sheet Rainfall Flux"
+            },
+            "atmos.prra.tavg-u-hxy-is.mon.grl": {
+                "v1222.json": "Rainfall Flux over Land Ice",
+                "v1223.json": "Ice Sheet Rainfall Flux"
+            },
+            "atmos.prsn.tavg-u-hxy-is.mon.ata": {
+                "v1222.json": "Snowfall Flux",
+                "v1223.json": "Ice Sheet Snowfall Flux"
+            },
+            "atmos.prsn.tavg-u-hxy-is.mon.grl": {
+                "v1222.json": "Snowfall Flux",
+                "v1223.json": "Ice Sheet Snowfall Flux"
+            },
+            "atmos.prsn.tavg-u-hxy-u.6hr.glb": {
+                "v1222.json": "Snowfall Rate",
+                "v1223.json": "Snowfall Flux"
+            },
+            "atmos.rlds.tavg-u-hxy-is.mon.ata": {
+                "v1222.json": "Surface Downwelling Longwave Radiation",
+                "v1223.json": "Ice Sheet Surface Downwelling Longwave Radiation"
+            },
+            "atmos.rlds.tavg-u-hxy-is.mon.grl": {
+                "v1222.json": "Surface Downwelling Longwave Radiation",
+                "v1223.json": "Ice Sheet Surface Downwelling Longwave Radiation"
+            },
+            "atmos.rlus.tavg-u-hxy-is.mon.ata": {
+                "v1222.json": "Surface Upwelling Longwave Radiation",
+                "v1223.json": "Ice Sheet Surface Upwelling Longwave Radiation"
+            },
+            "atmos.rlus.tavg-u-hxy-is.mon.grl": {
+                "v1222.json": "Surface Upwelling Longwave Radiation",
+                "v1223.json": "Ice Sheet Surface Upwelling Longwave Radiation"
+            },
+            "atmos.rlus.tavg-u-hxy-u.1hr.glb": {
+                "v1222.json": "Surface upwelling shortwave radiation",
+                "v1223.json": "Surface Upwelling Longwave Radiation"
+            },
+            "atmos.rsds.tavg-u-hxy-is.mon.ata": {
+                "v1222.json": "Surface Downwelling Shortwave Radiation",
+                "v1223.json": "Ice Sheet Surface Downwelling Shortwave Radiation"
+            },
+            "atmos.rsds.tavg-u-hxy-is.mon.grl": {
+                "v1222.json": "Surface Downwelling Shortwave Radiation",
+                "v1223.json": "Ice Sheet Surface Downwelling Shortwave Radiation"
+            },
+            "atmos.rsds.tavg-u-hxy-u.1hr.30S-90S": {
+                "v1222.json": "Hourly downward solar radiation flux at the surface",
+                "v1223.json": "Surface Downwelling Shortwave Radiation"
+            },
+            "atmos.rsds.tavg-u-hxy-u.1hr.glb": {
+                "v1222.json": "Hourly downward solar radiation flux at the surface",
+                "v1223.json": "Surface Downwelling Shortwave Radiation"
+            },
+            "atmos.rsus.tavg-u-hxy-is.mon.ata": {
+                "v1222.json": "Surface Upwelling Shortwave Radiation",
+                "v1223.json": "Ice Sheet Surface Upwelling Shortwave Radiation"
+            },
+            "atmos.rsus.tavg-u-hxy-is.mon.grl": {
+                "v1222.json": "Surface Upwelling Shortwave Radiation",
+                "v1223.json": "Ice Sheet Surface Upwelling Shortwave Radiation"
+            },
+            "atmos.rsus.tavg-u-hxy-u.1hr.glb": {
+                "v1222.json": "Surface upwelling shortwave radiation",
+                "v1223.json": "Surface Upwelling Shortwave Radiation"
+            },
+            "atmos.sfcWind.tavg-h10m-hxy-u.1hr.30S-90S": {
+                "v1222.json": "Hourly surface wind speed",
+                "v1223.json": "Near-Surface Wind Speed"
+            },
+            "atmos.sfcWind.tavg-h10m-hxy-u.1hr.glb": {
+                "v1222.json": "Hourly surface wind speed",
+                "v1223.json": "Near-Surface Wind Speed"
+            },
+            "atmos.sfcWind.tavg-h10m-hxy-u.day.glb": {
+                "v1222.json": "Daily-Mean Near-Surface Wind Speed",
+                "v1223.json": "Near-Surface Wind Speed"
+            },
+            "atmos.ta.tavg-p39-hy-air.day.glb": {
+                "v1222.json": "Zonal mean air temperature",
+                "v1223.json": "Zonal Mean Air Temperature"
+            },
+            "atmos.ta.tavg-p39-hy-air.mon.glb": {
+                "v1222.json": "Air Temperature",
+                "v1223.json": "Zonal Mean Air Temperature"
+            },
+            "atmos.tntmp.tavg-p39-hy-air.day.glb": {
+                "v1222.json": "Zonal mean tendency of air temperature due to model physics",
+                "v1223.json": "Zonal Mean Tendency of Air Temperature Due to Model Physics"
+            },
+            "atmos.tntmp.tavg-p39-hy-air.mon.glb": {
+                "v1222.json": "Tendency of Air Temperature Due to Model Physics",
+                "v1223.json": "Zonal Mean Tendency of Air Temperature Due to Model Physics"
+            },
+            "atmos.tntrl.tavg-p39-hy-air.day.glb": {
+                "v1222.json": "Zonal mean tendency of air temperature due to longwave heating, all sky",
+                "v1223.json": "Zonal Mean Tendency of Air Temperature Due to Longwave Radiative Heating"
+            },
+            "atmos.tntrl.tavg-p39-hy-air.mon.glb": {
+                "v1222.json": "Tendency of Air Temperature Due to Longwave Radiative Heating",
+                "v1223.json": "Zonal Mean Tendency of Air Temperature Due to Longwave Radiative Heating"
+            },
+            "atmos.tntrs.tavg-p39-hy-air.day.glb": {
+                "v1222.json": "Zonal mean tendency of air temperature due to shortwave heating, all sky",
+                "v1223.json": "Zonal Mean Tendency of Air Temperature Due to Shortwave Radiative Heating"
+            },
+            "atmos.tntrs.tavg-p39-hy-air.mon.glb": {
+                "v1222.json": "Tendency of Air Temperature Due to Shortwave Radiative Heating",
+                "v1223.json": "Zonal Mean Tendency of Air Temperature Due to Shortwave Radiative Heating"
+            },
+            "atmos.ts.tavg-u-hxy-is.mon.ata": {
+                "v1222.json": "Surface Temperature",
+                "v1223.json": "Ice Sheet Surface Temperature"
+            },
+            "atmos.ts.tavg-u-hxy-is.mon.grl": {
+                "v1222.json": "Surface Temperature",
+                "v1223.json": "Ice Sheet Surface Temperature"
+            },
+            "atmos.ts.tavg-u-hxy-u.6hr.glb": {
+                "v1222.json": "Surface temperature",
+                "v1223.json": "Surface Temperature"
+            },
+            "atmos.uas.tpt-h10m-hxy-u.1hr.glb": {
+                "v1222.json": "Surface wind speed Eastward Components",
+                "v1223.json": "Eastward Near-Surface Wind"
+            },
+            "atmos.utendnogw.tavg-p19-hxy-air.mon.glb": {
+                "v1222.json": "Eastward Acceleration Due to Non-Orographic Gravity Wave Drag",
+                "v1223.json": "Tendency of eastward wind due to non-orographic gravity waves"
+            },
+            "atmos.utendogw.tavg-p19-hxy-air.mon.glb": {
+                "v1222.json": "Eastward Acceleration Due to Orographic Gravity Wave Drag",
+                "v1223.json": "Tendency of eastward wind due to orographic gravity waves"
+            },
+            "atmos.vas.tpt-h10m-hxy-u.1hr.glb": {
+                "v1222.json": "Surface wind speed Northward Component",
+                "v1223.json": "Northward Near-Surface Wind"
+            },
+            "atmos.vtendnogw.tavg-p19-hxy-air.mon.glb": {
+                "v1222.json": "Northward Acceleration Due to Non-Orographic Gravity Wave Drag",
+                "v1223.json": "Tendency of northward wind due to non-orographic gravity waves"
+            },
+            "atmos.vtendogw.tavg-p19-hxy-air.mon.glb": {
+                "v1222.json": "Northward Acceleration Due to Orographic Gravity Wave Drag",
+                "v1223.json": "Tendency of northward wind due to orographic gravity waves"
+            },
+            "atmos.wsg.tmax-h10m-hxy-u.1hr.glb": {
+                "v1222.json": "Maximum Speed of Wind Gust at 10m",
+                "v1223.json": "Maximum Wind Speed of Gust at 10m"
+            },
+            "atmosChem.drynh3.tavg-u-hxy-u.day.glb": {
+                "v1222.json": "Daily Dry Deposition Rate of NH3",
+                "v1223.json": "Dry Deposition Rate of NH3"
+            },
+            "atmosChem.drynh4.tavg-u-hxy-u.day.glb": {
+                "v1222.json": "Daily Dry Deposition Rate of NH4",
+                "v1223.json": "Dry Deposition Rate of NH4"
+            },
+            "atmosChem.drynoy.tavg-u-hxy-u.day.glb": {
+                "v1222.json": "Daily Dry Deposition Rate of NOy",
+                "v1223.json": "Dry Deposition Rate of NOy"
+            },
+            "atmosChem.wetnh3.tavg-u-hxy-u.day.glb": {
+                "v1222.json": "Daily Wet Deposition Rate of NH3",
+                "v1223.json": "Wet Deposition Rate of NH3"
+            },
+            "atmosChem.wetnh4.tavg-u-hxy-u.day.glb": {
+                "v1222.json": "Daily Wet Deposition Rate of NH4",
+                "v1223.json": "Wet Deposition Rate of NH4"
+            },
+            "atmosChem.wetnoy.tavg-u-hxy-u.day.glb": {
+                "v1222.json": "Daily Wet Deposition Rate of NOy",
+                "v1223.json": "Wet Deposition Rate of NOy Including Aerosol Nitrate"
+            },
+            "land.evspsblsoi.tavg-u-hxy-u.3hr.glb": {
+                "v1222.json": "Water evaporation from soil",
+                "v1223.json": "Water Evaporation from Soil"
+            },
+            "land.evspsblsoi.tavg-u-hxy-u.day.glb": {
+                "v1222.json": "Daily water evaporation flux from soil",
+                "v1223.json": "Water Evaporation from Soil"
+            },
+            "land.evspsblveg.tavg-u-hxy-u.3hr.glb": {
+                "v1222.json": "Evaporation from canopy",
+                "v1223.json": "Water evaporation from canopy"
+            },
+            "land.evspsblveg.tavg-u-hxy-u.day.glb": {
+                "v1222.json": "Daily water evaporation flux from canopy",
+                "v1223.json": "Water evaporation from canopy"
+            },
+            "landIce.acabf.tavg-u-hxy-is.mon.ata": {
+                "v1222.json": "Surface Mass Balance Flux",
+                "v1223.json": "Ice Sheet Surface Mass Balance Flux"
+            },
+            "landIce.acabf.tavg-u-hxy-is.mon.grl": {
+                "v1222.json": "Surface Mass Balance Flux",
+                "v1223.json": "Ice Sheet Surface Mass Balance Flux"
+            },
+            "landIce.acabf.tavg-u-hxy-is.yr.ata": {
+                "v1222.json": "Surface Mass Balance Flux",
+                "v1223.json": "Ice Sheet Surface Mass Balance Flux"
+            },
+            "landIce.acabf.tavg-u-hxy-is.yr.grl": {
+                "v1222.json": "Surface Mass Balance Flux",
+                "v1223.json": "Ice Sheet Surface Mass Balance Flux"
+            },
+            "landIce.icem.tavg-u-hxy-is.mon.ata": {
+                "v1222.json": "Surface Ice Melt Flux",
+                "v1223.json": "Ice Sheet Surface Ice Melt Flux"
+            },
+            "landIce.icem.tavg-u-hxy-is.mon.grl": {
+                "v1222.json": "Surface Ice Melt Flux",
+                "v1223.json": "Ice Sheet Surface Ice Melt Flux"
+            },
+            "landIce.litemptop.tavg-u-hxy-is.mon.ata": {
+                "v1222.json": "Temperature at Top of Ice Sheet Model",
+                "v1223.json": "Ice Sheet Temperature at Top of Ice Sheet Model"
+            },
+            "landIce.litemptop.tavg-u-hxy-is.mon.grl": {
+                "v1222.json": "Temperature at Top of Ice Sheet Model",
+                "v1223.json": "Ice Sheet Temperature at Top of Ice Sheet Model"
+            },
+            "landIce.litemptop.tavg-u-hxy-is.yr.ata": {
+                "v1222.json": "Temperature at Top of Ice Sheet Model",
+                "v1223.json": "Ice Sheet Temperature at Top of Ice Sheet Model"
+            },
+            "landIce.litemptop.tavg-u-hxy-is.yr.grl": {
+                "v1222.json": "Temperature at Top of Ice Sheet Model",
+                "v1223.json": "Ice Sheet Temperature at Top of Ice Sheet Model"
+            },
+            "landIce.orog.tavg-u-hxy-is.mon.glb": {
+                "v1222.json": "Ice Sheet Surface Altitude",
+                "v1223.json": "Surface Altitude"
+            },
+            "landIce.prra.tavg-u-hxy-is.mon.glb": {
+                "v1222.json": "Ice Sheet Rainfall Rate",
+                "v1223.json": "Ice Sheet Rainfall Flux"
+            },
+            "landIce.sbl.tavg-u-hxy-is.mon.ata": {
+                "v1222.json": "Surface Snow and Ice Sublimation Flux",
+                "v1223.json": "Ice Sheet Surface Snow and Ice Sublimation Flux"
+            },
+            "landIce.sbl.tavg-u-hxy-is.mon.grl": {
+                "v1222.json": "Surface Snow and Ice Sublimation Flux",
+                "v1223.json": "Ice Sheet Surface Snow and Ice Sublimation Flux"
+            },
+            "landIce.snc.tavg-u-hxy-is.mon.ata": {
+                "v1222.json": "Snow Area Percentage",
+                "v1223.json": "Ice Sheet Snow Cover Percentage"
+            },
+            "landIce.snc.tavg-u-hxy-is.mon.grl": {
+                "v1222.json": "Snow Area Percentage",
+                "v1223.json": "Ice Sheet Snow Cover Percentage"
+            },
+            "landIce.snc.tavg-u-hxy-is.yr.ata": {
+                "v1222.json": "Snow Area Percentage",
+                "v1223.json": "Ice Sheet Snow Cover Percentage"
+            },
+            "landIce.snc.tavg-u-hxy-is.yr.grl": {
+                "v1222.json": "Snow Area Percentage",
+                "v1223.json": "Ice Sheet Snow Cover Percentage"
+            },
+            "landIce.snicem.tavg-u-hxy-is.mon.ata": {
+                "v1222.json": "Surface Snow and Ice Melt Flux",
+                "v1223.json": "Ice Sheet Surface Snow and Ice Melt Flux"
+            },
+            "landIce.snicem.tavg-u-hxy-is.mon.grl": {
+                "v1222.json": "Surface Snow and Ice Melt Flux",
+                "v1223.json": "Ice Sheet Surface Snow and Ice Melt Flux"
+            },
+            "landIce.snm.tavg-u-hxy-is.mon.ata": {
+                "v1222.json": "Surface Snow Melt",
+                "v1223.json": "Ice Sheet Surface Snow Melt"
+            },
+            "landIce.snm.tavg-u-hxy-is.mon.grl": {
+                "v1222.json": "Surface Snow Melt",
+                "v1223.json": "Ice Sheet Surface Snow Melt"
+            },
+            "landIce.snrefr.tavg-u-hxy-is.mon.ata": {
+                "v1222.json": "Surface Snow and Ice Refreeze Flux",
+                "v1223.json": "Ice Sheet Surface Snow and Ice Refreeze Flux"
+            },
+            "landIce.snrefr.tavg-u-hxy-is.mon.grl": {
+                "v1222.json": "Surface Snow and Ice Refreeze Flux",
+                "v1223.json": "Ice Sheet Surface Snow and Ice Refreeze Flux"
+            },
+            "landIce.tsn.tavg-u-hxy-is.mon.ata": {
+                "v1222.json": "Snow Internal Temperature on Land Ice",
+                "v1223.json": "Ice Sheet Snow Internal Temperature"
+            },
+            "landIce.tsn.tavg-u-hxy-is.mon.grl": {
+                "v1222.json": "Snow Internal Temperature on Land Ice",
+                "v1223.json": "Ice Sheet Snow Internal Temperature"
+            },
+            "ocean.so.tavg-ol-hxy-sea.day.glb": {
+                "v1222.json": "Sea water salinity",
+                "v1223.json": "Sea Water Salinity"
+            },
+            "ocean.zos.tavg-u-hxy-sea.day.glb": {
+                "v1222.json": "Sea Surface Height above Geoid",
+                "v1223.json": "Sea Surface Height Above Geoid"
+            },
+            "ocean.zostoga.tavg-u-hm-sea.day.glb": {
+                "v1222.json": "global_average_thermosteric_sea_level_change",
+                "v1223.json": "Global Average Thermosteric Sea Level Change"
+            },
+            "ocnBgchem.phypico.tavg-ol-hxy-sea.day.glb": {
+                "v1222.json": "Carbon concentration of picophytoplankton",
+                "v1223.json": "Mole Concentration of Picophytoplankton Expressed as Carbon in Sea Water"
+            },
+            "ocnBgchem.zmicro.tavg-ol-hxy-sea.day.glb": {
+                "v1222.json": "Mole Concentration of microzooplankton Expressed as Carbon in Sea Water",
+                "v1223.json": "Mole Concentration of Microzooplankton Expressed as Carbon in Sea Water"
+            },
+            "seaIce.siconc.tavg-u-hxy-u.mon.glb": {
+                "v1222.json": "Sea-Ice Area Percentage (Ocean Grid)(Ocean Grid)",
+                "v1223.json": "Sea-Ice Area Percentage (Ocean Grid)"
+            }
+        },
+        "modeling_realm": {
+            "aerosol.sfpm25.tavg-h2m-hxy-u.1hr.glb": {
+                "v1222.json": "aerosol",
+                "v1223.json": "aerosol atmosChem"
+            },
+            "landIce.snc.tavg-u-hxy-is.mon.glb": {
+                "v1222.json": "landIce",
+                "v1223.json": "landIce land"
+            },
+            "landIce.snc.tavg-u-hxy-is.yr.ata": {
+                "v1222.json": "landIce",
+                "v1223.json": "landIce land"
+            },
+            "landIce.snm.tavg-u-hxy-is.mon.glb": {
+                "v1222.json": "landIce",
+                "v1223.json": "landIce land"
+            },
+            "landIce.tsn.tavg-u-hxy-is.mon.glb": {
+                "v1222.json": "landIce",
+                "v1223.json": "landIce land"
+            },
+            "ocean.sfdsi.tavg-u-hxy-sea.3hr.glb": {
+                "v1222.json": "ocean",
+                "v1223.json": "ocean seaIce"
+            }
+        },
+        "standard_name": {
+            "aerosol.emianox.tavg-u-hxy-u.mon.glb": {
+                "v1222.json": "tendency_of_atmosphere_mole_concentration_of_nox_expressed_as_nitrogen",
+                "v1223.json": "tendency_of_atmosphere_mass_content_of_nox_expressed_as_nitrogen_due_to_emission"
+            }
+        }
+    }
+}

@@ -120,21 +120,26 @@ class DRIssue:
             linedata = [i.strip() for i in line.strip('|').split('|')]
 
             if section in ['DR', 'M']:
-                try:
-                    while len(linedata) < 3:
-                        self.ammended = True
-                        skip_count += 1
-                        line = line + "; " + lines[linenum + skip_count]
-                        line = re.sub(r"||", "| |", line)
-                        linedata = [i.strip() for i in line.strip('|').split('|')]
-                        
+                while len(linedata) < 3:
+                    self.ammended = True
+                    skip_count += 1
+                    line = line + "; " + lines[linenum + skip_count]
+                    line = re.sub(r"||", "| |", line)
+                    linedata = [i.strip() for i in line.strip('|').split('|')]
+                
+                if len(linedata) == 3:
                     key, value, note = linedata
+                elif len(linedata) == 2: # common error -- lost notes
+                    key, value = linedata
+                    note = ""
+                else:
+                    continue
                     
-                except ValueError as err:
-                    breakpoint()
-                    print(linedata)
-                    print(line)
-                    raise
+                # except ValueError as err:
+                    
+                #     print(linedata)
+                #     print(line)
+                #     raise
                 if section == 'DR':
                     self.dr_info[key] = value
                     self.dr_notes[key] = note
