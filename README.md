@@ -2,7 +2,7 @@
 
 # UKNCSP CDDS-CMIP7-mappings 
 
-**UPDATE 13/01/2026: Update to Data Request v1.2.2.3 Completed. Most changes minor, see #1888 for full details**
+**UPDATE 13/01/26: Update to Data Request v1.2.2.3 Completed. Most changes minor, see #1888 for full details**
 
 **UPDATE 24/11/25: Some changes were missed in last weeks update. I've now fixed this and confirmed consistency with the data request**
 
