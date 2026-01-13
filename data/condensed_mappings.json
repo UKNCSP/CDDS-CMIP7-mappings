@@ -7196,7 +7196,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "landIce.tas.tavg-u-hxy-is.mon.glb",
+    "branded_variable": "landIce.tas.tavg-h2m-hxy-is.mon.glb",
     "labels": [
       "mon",
       "landIce",
@@ -7209,7 +7209,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "landIce.tas.tavg-u-hxy-is.mon.glb",
+    "branded_variable": "landIce.tas.tavg-h2m-hxy-is.mon.glb",
     "labels": [
       "mon",
       "landIce",
@@ -7222,7 +7222,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "landIce.tas.tavg-u-hxy-is.mon.glb",
+    "branded_variable": "landIce.tas.tavg-h2m-hxy-is.mon.glb",
     "labels": [
       "mon",
       "landIce",
@@ -7235,7 +7235,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "landIce.tas.tavg-u-hxy-is.mon.glb",
+    "branded_variable": "landIce.tas.tavg-h2m-hxy-is.mon.glb",
     "labels": [
       "mon",
       "landIce",
@@ -7248,7 +7248,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "landIce.tas.tavg-u-hxy-is.mon.glb",
+    "branded_variable": "landIce.tas.tavg-h2m-hxy-is.mon.glb",
     "labels": [
       "mon",
       "landIce",
@@ -7261,7 +7261,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "landIce.tas.tavg-u-hxy-is.mon.glb",
+    "branded_variable": "landIce.tas.tavg-h2m-hxy-is.mon.glb",
     "labels": [
       "mon",
       "landIce",
@@ -7274,7 +7274,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "landIce.tas.tavg-u-hxy-is.mon.glb",
+    "branded_variable": "landIce.tas.tavg-h2m-hxy-is.mon.glb",
     "labels": [
       "mon",
       "landIce",
@@ -7287,7 +7287,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "landIce.tas.tavg-u-hxy-is.mon.glb",
+    "branded_variable": "landIce.tas.tavg-h2m-hxy-is.mon.glb",
     "labels": [
       "mon",
       "landIce",
@@ -66354,7 +66354,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.emilnox.tavg-al-hxy-u.mon.glb",
+    "branded_variable": "aerosol.emilnox.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -66367,7 +66367,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.emilnox.tavg-al-hxy-u.mon.glb",
+    "branded_variable": "aerosol.emilnox.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -66380,7 +66380,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.emilnox.tavg-al-hxy-u.mon.glb",
+    "branded_variable": "aerosol.emilnox.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -66393,7 +66393,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.emilnox.tavg-al-hxy-u.mon.glb",
+    "branded_variable": "aerosol.emilnox.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -66406,7 +66406,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.emilnox.tavg-al-hxy-u.mon.glb",
+    "branded_variable": "aerosol.emilnox.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -66419,7 +66419,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.emilnox.tavg-al-hxy-u.mon.glb",
+    "branded_variable": "aerosol.emilnox.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -66432,7 +66432,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.emilnox.tavg-al-hxy-u.mon.glb",
+    "branded_variable": "aerosol.emilnox.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -66445,7 +66445,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "aerosol.emilnox.tavg-al-hxy-u.mon.glb",
+    "branded_variable": "aerosol.emilnox.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "aerosol",
@@ -67238,7 +67238,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "atmosChem.emiavnox.tavg-al-hxy-u.mon.glb",
+    "branded_variable": "atmosChem.emiavnox.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -67248,7 +67248,7 @@
     "stream": "ap4"
   },
   {
-    "branded_variable": "atmosChem.emiavnox.tavg-al-hxy-u.mon.glb",
+    "branded_variable": "atmosChem.emiavnox.tavg-u-hxy-u.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -78636,7 +78636,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.glb",
+    "branded_variable": "aerosol.ec550aer.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "aerosol",
@@ -78649,7 +78649,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.glb",
+    "branded_variable": "aerosol.ec550aer.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "aerosol",
@@ -78662,7 +78662,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.glb",
+    "branded_variable": "aerosol.ec550aer.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "aerosol",
@@ -78675,7 +78675,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.glb",
+    "branded_variable": "aerosol.ec550aer.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "aerosol",
@@ -78688,7 +78688,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.glb",
+    "branded_variable": "aerosol.ec550aer.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "aerosol",
@@ -78701,7 +78701,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.glb",
+    "branded_variable": "aerosol.ec550aer.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "aerosol",
@@ -78714,7 +78714,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.glb",
+    "branded_variable": "aerosol.ec550aer.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "aerosol",
@@ -78727,7 +78727,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.glb",
+    "branded_variable": "aerosol.ec550aer.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "aerosol",
@@ -78740,7 +78740,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.glb",
+    "branded_variable": "aerosol.ec550aer.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "aerosol",
@@ -78753,7 +78753,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.glb",
+    "branded_variable": "aerosol.ec550aer.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "aerosol",
@@ -78766,7 +78766,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.glb",
+    "branded_variable": "aerosol.ec550aer.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "aerosol",
@@ -78779,7 +78779,7 @@
     "stream": "ap7"
   },
   {
-    "branded_variable": "aerosol.ec550aer.tpt-u-hxy-u.6hr.glb",
+    "branded_variable": "aerosol.ec550aer.tpt-al-hxy-u.6hr.glb",
     "labels": [
       "6hr",
       "aerosol",
@@ -83291,7 +83291,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.n2o.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.n2o.tavg-u-hm-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83304,7 +83304,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.n2o.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.n2o.tavg-u-hm-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83317,7 +83317,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.n2o.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.n2o.tavg-u-hm-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83330,7 +83330,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.n2o.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.n2o.tavg-u-hm-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83343,7 +83343,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.n2o.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.n2o.tavg-u-hm-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83356,7 +83356,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.n2o.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.n2o.tavg-u-hm-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83369,7 +83369,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.n2o.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.n2o.tavg-u-hm-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -83382,7 +83382,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.n2o.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.n2o.tavg-u-hm-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85063,7 +85063,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.ch4.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.ch4.tavg-u-hm-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85076,7 +85076,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.ch4.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.ch4.tavg-u-hm-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85089,7 +85089,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.ch4.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.ch4.tavg-u-hm-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85102,7 +85102,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.ch4.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.ch4.tavg-u-hm-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85115,7 +85115,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.ch4.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.ch4.tavg-u-hm-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85128,7 +85128,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.ch4.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.ch4.tavg-u-hm-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85141,7 +85141,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.ch4.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.ch4.tavg-u-hm-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85154,98 +85154,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.ch4.tavg-u-hm-u.mon.glb",
-    "labels": [
-      "mon",
-      "atmosChem",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.glb",
-    "labels": [
-      "mon",
-      "atmosChem",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.glb",
-    "labels": [
-      "mon",
-      "atmosChem",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.glb",
-    "labels": [
-      "mon",
-      "atmosChem",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.glb",
-    "labels": [
-      "mon",
-      "atmosChem",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.glb",
-    "labels": [
-      "mon",
-      "atmosChem",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.glb",
-    "labels": [
-      "mon",
-      "atmosChem",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "UKESM1",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.glb",
+    "branded_variable": "atmosChem.ch4.tavg-u-hm-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85267,11 +85176,11 @@
       "HadGEM3-GC31",
       "approved"
     ],
-    "model": "UKESM1-3",
+    "model": "HadGEM3-GC31",
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc12.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85284,20 +85193,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc12.tavg-u-hm-u.mon.glb",
-    "labels": [
-      "mon",
-      "atmosChem",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap5"
-  },
-  {
-    "branded_variable": "atmosChem.cfc12.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85310,7 +85206,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc12.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85323,7 +85219,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc12.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85336,7 +85232,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc12.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85349,7 +85245,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc12.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85362,7 +85258,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc12.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.ch4.tavg-p19-hxy-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85375,7 +85271,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc11.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.cfc12.tavg-u-hm-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85388,7 +85284,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc11.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.cfc12.tavg-u-hm-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85401,7 +85297,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc11.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.cfc12.tavg-u-hm-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85414,7 +85310,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc11.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.cfc12.tavg-u-hm-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85427,7 +85323,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc11.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.cfc12.tavg-u-hm-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85440,7 +85336,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc11.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.cfc12.tavg-u-hm-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85453,7 +85349,7 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc11.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.cfc12.tavg-u-hm-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
@@ -85466,7 +85362,111 @@
     "stream": "ap5"
   },
   {
-    "branded_variable": "atmosChem.cfc11.tavg-u-hm-u.mon.glb",
+    "branded_variable": "atmosChem.cfc12.tavg-u-hm-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmosChem",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmosChem.cfc11.tavg-u-hm-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmosChem",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "HadGEM3-GC31",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmosChem.cfc11.tavg-u-hm-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmosChem",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "HadGEM3-GC31",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmosChem.cfc11.tavg-u-hm-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmosChem",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmosChem.cfc11.tavg-u-hm-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmosChem",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmosChem.cfc11.tavg-u-hm-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmosChem",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmosChem.cfc11.tavg-u-hm-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmosChem",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmosChem.cfc11.tavg-u-hm-air.mon.glb",
+    "labels": [
+      "mon",
+      "atmosChem",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "ap5"
+  },
+  {
+    "branded_variable": "atmosChem.cfc11.tavg-u-hm-air.mon.glb",
     "labels": [
       "mon",
       "atmosChem",
