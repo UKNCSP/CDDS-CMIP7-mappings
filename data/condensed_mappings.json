@@ -22415,8 +22415,7 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
+      "HadGEM3-GC31"
     ],
     "model": "HadGEM3-GC31",
     "stream": "ap6"
@@ -22428,8 +22427,7 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
+      "HadGEM3-GC31"
     ],
     "model": "HadGEM3-GC31",
     "stream": "ap6"
@@ -22441,8 +22439,7 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
+      "HadGEM3-GC31"
     ],
     "model": "HadGEM3-GC5",
     "stream": "ap6"
@@ -22454,8 +22451,7 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
+      "HadGEM3-GC31"
     ],
     "model": "HadGEM3-GC5",
     "stream": "ap6"
@@ -22467,8 +22463,7 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
+      "HadGEM3-GC31"
     ],
     "model": "UKESM1",
     "stream": "ap6"
@@ -22480,8 +22475,7 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
+      "HadGEM3-GC31"
     ],
     "model": "UKESM1",
     "stream": "ap6"
@@ -22493,8 +22487,7 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
+      "HadGEM3-GC31"
     ],
     "model": "UKESM1-3",
     "stream": "ap6"
@@ -22506,8 +22499,7 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
+      "HadGEM3-GC31"
     ],
     "model": "UKESM1-3",
     "stream": "ap6"
