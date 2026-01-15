@@ -339,6 +339,9 @@
   "Variable ocean.sfdsi.tavg-u-hxy-sea.3hr.glb (3hr.sfdsi)": {
     "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"sfxice\"      name=\"sfxice\" />"
   },
+  "Variable ocean.sfdsi.tavg-u-hxy-sea.mon.glb (Omon.sfdsi)": {
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"sfxice\"      name=\"sfxice\" />"
+  },
   "Variable ocean.sfx.tavg-u-hxy-sea.mon.glb (Omon.sfxint)": {
     "HadGEM3-GC5": "onm/grid-U`: `<field field_ref=\"u_salttr\" name=\"sfxint\" detect_missing_value=\"true\" > @uadv_salttr + @udiff_salttr + @ueiv_salttr </field>"
   },
