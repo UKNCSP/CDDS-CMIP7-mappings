@@ -66360,62 +66360,6 @@
       "HadGEM3-GC31",
       "approved"
     ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap4"
-  },
-  {
-    "branded_variable": "aerosol.emilnox.tavg-u-hxy-u.mon.glb",
-    "labels": [
-      "question",
-      "mon",
-      "aerosol",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "HadGEM3-GC31",
-    "stream": "ap4"
-  },
-  {
-    "branded_variable": "aerosol.emilnox.tavg-u-hxy-u.mon.glb",
-    "labels": [
-      "question",
-      "mon",
-      "aerosol",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap4"
-  },
-  {
-    "branded_variable": "aerosol.emilnox.tavg-u-hxy-u.mon.glb",
-    "labels": [
-      "question",
-      "mon",
-      "aerosol",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "HadGEM3-GC5",
-    "stream": "ap4"
-  },
-  {
-    "branded_variable": "aerosol.emilnox.tavg-u-hxy-u.mon.glb",
-    "labels": [
-      "question",
-      "mon",
-      "aerosol",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
     "model": "UKESM1",
     "stream": "ap4"
   },
@@ -67249,6 +67193,26 @@
       "approved_UKESM"
     ],
     "model": "UKESM1",
+    "stream": "ap4"
+  },
+  {
+    "branded_variable": "atmosChem.emiavnox.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmosChem",
+      "approved_UKESM"
+    ],
+    "model": "UKESM1",
+    "stream": "ap4"
+  },
+  {
+    "branded_variable": "atmosChem.emiavnox.tavg-u-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmosChem",
+      "approved_UKESM"
+    ],
+    "model": "UKESM1-3",
     "stream": "ap4"
   },
   {
