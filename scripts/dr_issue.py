@@ -163,17 +163,18 @@ class DRIssue:
         bv_name = self.dr_info['Branded variable name']
         dimensions = self.dr_info['Dimensions']
         positive = self.dr_info['Positive']
-        if positive == "":
-            positive = "none"
+        # if positive == "":
+        #     positive = "none"
         realm = self.dr_info['Modeling realm']
         
         expression = self.mapping_info.get(f'Expression {model}', None)
         if expression is not None:
             expression = expression.replace("`","")
         
-        comment = self.mapping_notes.get(f'Expression {model}', None)
-        if comment == "---":
-            comment = ""
+        comment = ""
+        # comment = self.mapping_notes.get(f'Expression {model}', None)
+        #if comment == "---":
+        #    comment = ""
         units = self.mapping_info.get('Model units', 'MISSING_MODEL_UNITS')
 
         if match := re.match(r'(\d+)[Ee]([+-])(\d+)', units):
@@ -186,7 +187,7 @@ class DRIssue:
             [{bv_name}]
             comment = {comment}
             component = {realm}
-            dimensions = {dimensions}
+            dimension = {dimensions}
             expression = {expression}
             mip_table_id = {realm}
             positive = {positive}

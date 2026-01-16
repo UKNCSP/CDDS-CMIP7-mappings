@@ -3,7 +3,7 @@ import sys
 import json
 import subprocess
 from collections import defaultdict
-
+from textwrap import dedent
 
 from dr_issue import DRIssue
 
@@ -15,7 +15,6 @@ def main():
     location = sys.argv[2]
 
 
-    model = 'UKESM1-3'
     result = subprocess.check_output('gh issue list -L 2000 --json number,title,body,labels'.split())
 
     data = json.loads(result)
@@ -37,7 +36,7 @@ def main():
                     
         if x.dr_info['Frequency'] == 'yr':
             continue
-        realm = x.dr_info['Modeling realm']
+        realm = x.dr_info['Modeling realm'].split()[0]
         check[realm][x.dr_info['Branded variable name']].append(mapping)
         issuecheck[realm][x.dr_info['Branded variable name']].append(d['number'])
     
@@ -63,6 +62,14 @@ def main():
 
     for realm in mappings_by_realm:
         with open(f"{location}/{model}_{realm}_mappings.cfg", "w") as fh:
+            fh.write(dedent(f'''
+                # (C) British Crown Copyright 2025, Met Office.
+                # Please see LICENSE.md for license details.
+                #
+                # This 'model to MIP mappings' configuration file contains sections
+                # for each 'MIP requested variable name' for the {realm} realm
+                ''').lstrip()
+            )
             for entry in sorted(mappings_by_realm[realm]):
                 fh.write(entry)
                 fh.write("\n")
