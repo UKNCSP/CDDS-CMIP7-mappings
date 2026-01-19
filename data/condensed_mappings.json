@@ -67596,7 +67596,7 @@
       "aerosol",
       "do-not-produce"
     ],
-    "model": "UKESM1",
+    "model": "UKESM2",
     "stream": "ap4"
   },
   {
@@ -67606,7 +67606,7 @@
       "aerosol",
       "do-not-produce"
     ],
-    "model": "UKESM1",
+    "model": "UKESM2",
     "stream": "ap4"
   },
   {
@@ -67616,7 +67616,7 @@
       "aerosol",
       "do-not-produce"
     ],
-    "model": "UKESM1",
+    "model": "UKESM2",
     "stream": "ap4"
   },
   {
@@ -67626,47 +67626,7 @@
       "aerosol",
       "do-not-produce"
     ],
-    "model": "UKESM1",
-    "stream": "ap4"
-  },
-  {
-    "branded_variable": "aerosol.dryno3.tavg-u-hxy-u.mon.glb",
-    "labels": [
-      "mon",
-      "aerosol",
-      "do-not-produce"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap4"
-  },
-  {
-    "branded_variable": "aerosol.dryno3.tavg-u-hxy-u.mon.glb",
-    "labels": [
-      "mon",
-      "aerosol",
-      "do-not-produce"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap4"
-  },
-  {
-    "branded_variable": "aerosol.dryno3.tavg-u-hxy-u.mon.glb",
-    "labels": [
-      "mon",
-      "aerosol",
-      "do-not-produce"
-    ],
-    "model": "UKESM1-3",
-    "stream": "ap4"
-  },
-  {
-    "branded_variable": "aerosol.dryno3.tavg-u-hxy-u.mon.glb",
-    "labels": [
-      "mon",
-      "aerosol",
-      "do-not-produce"
-    ],
-    "model": "UKESM1-3",
+    "model": "UKESM2",
     "stream": "ap4"
   },
   {
