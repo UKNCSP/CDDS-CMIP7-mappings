@@ -35007,7 +35007,7 @@
       "HadGEM3-GC31",
       "approved"
     ],
-    "model": "HadGEM3-GC5",
+    "model": "HadGEM3-GC31",
     "stream": "apT"
   },
   {
@@ -35112,6 +35112,45 @@
       "approved"
     ],
     "model": "HadGEM3-GC5",
+    "stream": "apT"
+  },
+  {
+    "branded_variable": "atmos.tnhusmp.tpt-al-hs-u.subhr.glb",
+    "labels": [
+      "subhr",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "apT"
+  },
+  {
+    "branded_variable": "atmos.tnhusmp.tpt-al-hs-u.subhr.glb",
+    "labels": [
+      "subhr",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "HadGEM3-GC5",
+    "stream": "apT"
+  },
+  {
+    "branded_variable": "atmos.tnhusmp.tpt-al-hs-u.subhr.glb",
+    "labels": [
+      "subhr",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1",
     "stream": "apT"
   },
   {
