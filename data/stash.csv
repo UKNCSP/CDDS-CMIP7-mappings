@@ -95,12 +95,12 @@ HadGEM3-GC31,tas_tavg-h2m-hxy-u,day,m01s03i236,3,236,TDAYMN,DIAG,UP6,True,False,
 HadGEM3-GC5,tas_tavg-h2m-hxy-u,day,m01s03i236,3,236,TDAYMN,DIAG,UP6,True,False,False
 UKESM1,tas_tavg-h2m-hxy-u,day,m01s03i236,3,236,TDAYMN,DIAG,UP6,True,False,False
 UKESM1-3,tas_tavg-h2m-hxy-u,day,m01s03i236,3,236,TDAYMN,DIAG,UP6,True,False,False
-HadGEM3-GC31,ta_tavg-p19-hxy-air,day,m01s30i294,30,294,TDAYMN,PLEV8,UP6,True,False,False
-HadGEM3-GC31,ta_tavg-p19-hxy-air,day,m01s30i304,30,304,TDAYMN,PLEV8,UP6,True,False,False
+HadGEM3-GC31,ta_tavg-p19-hxy-air,day,m01s30i294,30,294,TDAYMN,PLEV19,UP6,True,False,False
+HadGEM3-GC31,ta_tavg-p19-hxy-air,day,m01s30i304,30,304,TDAYMN,PLEV19,UP6,True,False,False
 HadGEM3-GC5,ta_tavg-p19-hxy-air,day,m01s30i294,30,294,TDAYMN,PLEV19,UP6,True,False,False
 HadGEM3-GC5,ta_tavg-p19-hxy-air,day,m01s30i304,30,304,TDAYMN,PLEV19,UP6,True,False,False
-UKESM1,ta_tavg-p19-hxy-air,day,m01s30i294,30,294,TDAYMN,PLEV8,UP6,True,False,False
-UKESM1,ta_tavg-p19-hxy-air,day,m01s30i304,30,304,TDAYMN,PLEV8,UP6,True,False,False
+UKESM1,ta_tavg-p19-hxy-air,day,m01s30i294,30,294,TDAYMN,PLEV19,UP6,True,False,False
+UKESM1,ta_tavg-p19-hxy-air,day,m01s30i304,30,304,TDAYMN,PLEV19,UP6,True,False,False
 UKESM1-3,ta_tavg-p19-hxy-air,day,m01s30i294,30,294,TDAYMN,PLEV19,UP6,True,False,False
 UKESM1-3,ta_tavg-p19-hxy-air,day,m01s30i304,30,304,TDAYMN,PLEV19,UP6,True,False,False
 HadGEM3-GC31,snw_tavg-u-hxy-lnd,day,m01s03i317,3,317,TDAYMN,DTILE,UP6,True,False,False
