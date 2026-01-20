@@ -35388,6 +35388,45 @@
     "stream": "apT"
   },
   {
+    "branded_variable": "atmos.tnhusmp.tpt-al-hs-u.subhr.glb",
+    "labels": [
+      "subhr",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "apT"
+  },
+  {
+    "branded_variable": "atmos.tnhusmp.tpt-al-hs-u.subhr.glb",
+    "labels": [
+      "subhr",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "apT"
+  },
+  {
+    "branded_variable": "atmos.tnhusmp.tpt-al-hs-u.subhr.glb",
+    "labels": [
+      "subhr",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "apT"
+  },
+  {
     "branded_variable": "atmos.tnhusc.tpt-al-hs-u.subhr.glb",
     "labels": [
       "subhr",
@@ -41903,6 +41942,45 @@
       "approved"
     ],
     "model": "UKESM1",
+    "stream": "apU"
+  },
+  {
+    "branded_variable": "atmos.tnhusmp.tavg-al-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "apU"
+  },
+  {
+    "branded_variable": "atmos.tnhusmp.tavg-al-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1-3",
+    "stream": "apU"
+  },
+  {
+    "branded_variable": "atmos.tnhusmp.tavg-al-hxy-u.mon.glb",
+    "labels": [
+      "mon",
+      "atmos",
+      "CMIP6",
+      "UKESM1",
+      "HadGEM3-GC31",
+      "approved"
+    ],
+    "model": "UKESM1-3",
     "stream": "apU"
   },
   {
