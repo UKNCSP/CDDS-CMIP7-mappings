@@ -197,3 +197,25 @@ class DRIssue:
         else:
             raise RuntimeError(f'No information for model "{model}"')
         return result
+    
+    def cdds_stream(self, model) -> str:
+        if model in self.stash:
+            collected_stash = []
+            for entry in self.stash[model]:
+                try:
+                    stream = "ap" + entry[4][-1].lower()
+                except:
+                    stream='UNKNOWN'
+                collected_stash.append(stream)
+            if len(set(collected_stash)) != 1:
+                breakpoint()
+                raise RuntimeError('Multiple possible streams')
+            return collected_stash[0]
+        elif model in self.xios_info:
+            for entry in self.xios_info[model]:
+                match = re.search(r'([oi]n[md]/[a-zA-Z-]{5,6})', entry)
+                if match:
+                    return match.groups()[0]
+        else:
+            return "UNKNOWN"
+

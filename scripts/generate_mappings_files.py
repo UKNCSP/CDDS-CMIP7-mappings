@@ -21,6 +21,7 @@ def main():
 
     check = defaultdict(lambda: defaultdict(list))
     issuecheck = defaultdict(lambda: defaultdict(list))
+    stream = defaultdict(dict)
 
     for d in data:
         if 'do-not-produce' in [i['name'] for i in d['labels']]:
@@ -33,14 +34,20 @@ def main():
             mapping = x.cdds_mapping(model)
         except (RuntimeError): # no info for model
             continue
-                    
-        if x.dr_info['Frequency'] == 'yr':
+        frequency = x.dr_info['Frequency']
+        if frequency == 'yr':
             continue
         realm = x.dr_info['Modeling realm'].split()[0]
-        check[realm][x.dr_info['Branded variable name']].append(mapping)
-        issuecheck[realm][x.dr_info['Branded variable name']].append(d['number'])
+        bv = x.dr_info['Branded variable name']
+        check[realm][bv].append(mapping)
+        issuecheck[realm][bv].append(d['number'])
+
+        stream[realm][f'{bv}@{frequency}'] = x.cdds_stream(model)
     
 
+    with open(f'{location}/streams.json', 'w') as fh:
+        json.dump({'default':{}, 'overrides': stream}, fh, indent=4, sort_keys=True)
+    
     counter = 0
 
     mappings_by_realm = defaultdict(list)
@@ -63,7 +70,7 @@ def main():
     for realm in mappings_by_realm:
         with open(f"{location}/{model}_{realm}_mappings.cfg", "w") as fh:
             fh.write(dedent(f'''
-                # (C) British Crown Copyright 2025, Met Office.
+                # (C) British Crown Copyright 2026, Met Office.
                 # Please see LICENSE.md for license details.
                 #
                 # This 'model to MIP mappings' configuration file contains sections
