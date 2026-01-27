@@ -42166,19 +42166,6 @@
     "stream": "apU"
   },
   {
-    "branded_variable": "atmos.tnhusmp.tavg-al-hxy-u.mon.glb",
-    "labels": [
-      "mon",
-      "atmos",
-      "CMIP6",
-      "UKESM1",
-      "HadGEM3-GC31",
-      "approved"
-    ],
-    "model": "UKESM1-3",
-    "stream": "apU"
-  },
-  {
     "branded_variable": "atmos.tnhusc.tavg-al-hxy-u.mon.glb",
     "labels": [
       "mon",
