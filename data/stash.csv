@@ -2801,9 +2801,9 @@ UKESM1,tnhusmp_tpt-al-hs-u,subhr,m01s05i182,5,182,EVERYTS,DTSL85P126,UPT,True,Fa
 UKESM1,tnhusmp_tpt-al-hs-u,subhr,m01s16i162,16,162,EVERYTS,DTSL85P126,UPT,True,False,False
 UKESM1,tnhusmp_tpt-al-hs-u,subhr,m01s16i182,16,182,EVERYTS,DTSL85P126,UPT,True,False,False
 UKESM1,tnhusmp_tpt-al-hs-u,subhr,m01s35i025,35,025,EVERYTS,DTSL85P126,UPT,True,False,False
-UKESM1,tnhusmp_tpt-al-hs-u,subhr,m01s50i063,50,063,EVERYTS,DTSL85P126,UPT,True,False,False
-UKESM1,tnhusmp_tpt-al-hs-u,subhr,m01s50i238,50,238,EVERYTS,DTSL85P126,UPT,True,False,False
-UKESM1,tnhusmp_tpt-al-hs-u,subhr,m01s50i239,50,239,EVERYTS,DTSL85P126,UPT,True,False,False
+UKESM1,tnhusmp_tpt-al-hs-u,subhr,m01s50i063,50,063,EVERYTS,DTSLT85P126,UPT,True,False,False
+UKESM1,tnhusmp_tpt-al-hs-u,subhr,m01s50i238,50,238,EVERYTS,DTSLT85P126,UPT,True,False,False
+UKESM1,tnhusmp_tpt-al-hs-u,subhr,m01s50i239,50,239,EVERYTS,DTSLT85P126,UPT,True,False,False
 UKESM1-3,tnhusmp_tpt-al-hs-u,subhr,m01s01i182,1,182,EVERYTS,DTSL85P126,UPT,True,False,False
 UKESM1-3,tnhusmp_tpt-al-hs-u,subhr,m01s02i182,2,182,EVERYTS,DTSL85P126,UPT,True,False,False
 UKESM1-3,tnhusmp_tpt-al-hs-u,subhr,m01s03i182,3,182,EVERYTS,DTSL85P126,UPT,True,False,False
@@ -2813,9 +2813,9 @@ UKESM1-3,tnhusmp_tpt-al-hs-u,subhr,m01s05i182,5,182,EVERYTS,DTSL85P126,UPT,True,
 UKESM1-3,tnhusmp_tpt-al-hs-u,subhr,m01s16i162,16,162,EVERYTS,DTSL85P126,UPT,True,False,False
 UKESM1-3,tnhusmp_tpt-al-hs-u,subhr,m01s16i182,16,182,EVERYTS,DTSL85P126,UPT,True,False,False
 UKESM1-3,tnhusmp_tpt-al-hs-u,subhr,m01s35i025,35,025,EVERYTS,DTSL85P126,UPT,True,False,False
-UKESM1-3,tnhusmp_tpt-al-hs-u,subhr,m01s50i063,50,063,EVERYTS,DTSL85P126,UPT,True,False,False
-UKESM1-3,tnhusmp_tpt-al-hs-u,subhr,m01s50i238,50,238,EVERYTS,DTSL85P126,UPT,True,False,False
-UKESM1-3,tnhusmp_tpt-al-hs-u,subhr,m01s50i239,50,239,EVERYTS,DTSL85P126,UPT,True,False,False
+UKESM1-3,tnhusmp_tpt-al-hs-u,subhr,m01s50i063,50,063,EVERYTS,DTSLT85P126,UPT,True,False,False
+UKESM1-3,tnhusmp_tpt-al-hs-u,subhr,m01s50i238,50,238,EVERYTS,DTSLT85P126,UPT,True,False,False
+UKESM1-3,tnhusmp_tpt-al-hs-u,subhr,m01s50i239,50,239,EVERYTS,DTSLT85P126,UPT,True,False,False
 HadGEM3-GC31,tnhusc_tpt-al-hs-u,subhr,m01s05i162,5,162,EVERYTS,DTSL85P126,UPT,True,False,False
 HadGEM3-GC5,tnhusc_tpt-al-hs-u,subhr,m01s05i162,5,162,EVERYTS,DTSL85P126,UPT,True,False,False
 UKESM1,tnhusc_tpt-al-hs-u,subhr,m01s05i162,5,162,EVERYTS,DTSL85P126,UPT,True,False,False
