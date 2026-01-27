@@ -80,24 +80,25 @@ def condense_dict(results: dict) -> list[dict]:
     condensed_mappings = []
     for mapping in results:
         # Get and reformat the variable title to include only the realm, variable, branding and region.
-        title = mapping.get("title", "")
-        branded_variable = re.search(r"Variable\s+([^\s(]+)", title).group(1)
+        branded_variable = mapping["title"].split(" ")[1]
 
         # Get the usage profile and model from stash to generate the associated stream.
-        stash_entries = mapping.get("STASH entries", {})
-        for stash in stash_entries:
-            model = stash.get("model")
-            usage_profile = stash.get("usage_profile") if stash["usage_profile"] else ""
-            stream = usage_profile.replace("UP", "ap") if usage_profile else ""
+        models = set()
+        stash_entries = mapping["STASH entries"]
+        if stash_entries:
+            for stash in stash_entries:
+                models.add(stash["model"])
+                usage_profile = stash["usage_profile"]
+                stream = usage_profile.replace("UP", "ap")
 
-            condensed_mapping = {
-                "model": model,
-                "branded_variable": branded_variable,
-                "stream": stream,
-                "labels": mapping.get("labels", [])
-            }
+        condensed_mapping = {
+            "branded_variable": branded_variable,
+            "models_in_stash": list(models),
+            "stream": stream,
+            "labels": mapping.get("labels")
+        }
 
-            condensed_mappings.append(condensed_mapping)
+        condensed_mappings.append(condensed_mapping)
 
     return condensed_mappings
 
