@@ -90,6 +90,8 @@ def condense_dict(results: dict) -> list[dict]:
                 models.add(stash["model"])
                 usage_profile = stash["usage_profile"]
                 stream = usage_profile.replace("UP", "ap")
+        else:
+            stream = ""
 
         condensed_mapping = {
             "branded_variable": branded_variable,
