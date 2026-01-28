@@ -96,6 +96,7 @@ def condense_dict(results: dict) -> list[dict]:
         condensed_mapping = {
             "branded_variable": branded_variable,
             "models_in_stash": list(models),
+            "XIOS entries": mapping.get("XIOS entries"),
             "stream": stream,
             "labels": mapping.get("labels")
         }
