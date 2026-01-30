@@ -3135,8 +3135,8 @@
       "approved_HadGEM"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "HadGEM3-GC5"
+      "HadGEM3-GC5",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -3150,8 +3150,8 @@
       "approved_HadGEM"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "HadGEM3-GC5"
+      "HadGEM3-GC5",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -3179,8 +3179,8 @@
       "approved_HadGEM"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "HadGEM3-GC5"
+      "HadGEM3-GC5",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -3207,8 +3207,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "HadGEM3-GC5"
+      "HadGEM3-GC5",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -3222,8 +3222,8 @@
       "approved_HadGEM"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "HadGEM3-GC5"
+      "HadGEM3-GC5",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -23204,11 +23204,11 @@
       "comment needed"
     ],
     "models_in_stash": [
-      "UKESM2",
       "UKESM1",
       "HadGEM3-GC31",
+      "HadGEM3-GC5",
       "UKESM1-3",
-      "HadGEM3-GC5"
+      "UKESM2"
     ],
     "stream": "ap4"
   },
