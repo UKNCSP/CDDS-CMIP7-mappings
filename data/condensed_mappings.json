@@ -23207,11 +23207,11 @@
       "comment needed"
     ],
     "models_in_stash": [
+      "HadGEM3-GC5",
       "UKESM1",
-      "UKESM2",
-      "HadGEM3-GC31",
       "UKESM1-3",
-      "HadGEM3-GC5"
+      "UKESM2",
+      "HadGEM3-GC31"
     ],
     "stream": "ap4"
   },
