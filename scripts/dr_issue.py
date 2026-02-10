@@ -118,14 +118,15 @@ class DRIssue:
             
             line = re.sub(r"\|\|", "| |", line)
             linedata = [i.strip() for i in line.strip('|').split('|')]
-
+            
             if section in ['DR', 'M']:
-                while len(linedata) < 3:
-                    self.ammended = True
-                    skip_count += 1
-                    line = line + "; " + lines[linenum + skip_count]
-                    line = re.sub(r"||", "| |", line)
-                    linedata = [i.strip() for i in line.strip('|').split('|')]
+                
+                # while len(linedata) < 3:
+                #     self.ammended = True
+                #     skip_count += 1
+                #     line = line + "; " + lines[linenum + skip_count]
+                #     line = re.sub(r"||", "| |", line)
+                #     linedata = [i.strip() for i in line.strip('|').split('|')]
                 
                 if len(linedata) == 3:
                     key, value, note = linedata
