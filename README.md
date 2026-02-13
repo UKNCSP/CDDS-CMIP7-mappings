@@ -22,18 +22,30 @@ You'll need to be given access to this repository in order to interact with the 
 
 ## Diagnostic Review process
 
-Sample data and plots is advertised via https://ukncsp.github.io/CDDS-CMIP7-mappings/, please note the caveat at the top of the pages.
+To ensure that the data we publish is being correctly produced we require sample data to be approved before the corresponding variable can be published. 
+We are attempting to run a similar process to that run in CMIP6, but with some shortcuts.
+
+Variables with data available for review have the label `diagnostic_review_data_available` attached to their issue ([see here](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues?q=is%3Aissue%20state%3Aopen%20label%3Adiagnostic_review_data_available)).
+
+Sample summary data and plots is advertised via https://ukncsp.github.io/CDDS-CMIP7-mappings/, please note the caveat at the top of the pages.  
+Note that data for zonal means (`hy` in branded variable name) and global means (`hm` in branded variable name) will **NOT** have an entry in these summary tables as they are based on extracting the data from the model level closest to the surface and then computing summary statistics.
 
 If a diagnostic is acceptable, i.e. passes review:
- * Add the `diagnostic review ok` label to the corresponding github issue(s)
+ * Add the `diagnostic_review_ok` label to the corresponding github issue(s)
  * Add a comment noting which model the data was reviewed for to **every** corresponding github issue
+
 Automated processes will then pick up this status and allow us to prepare corresponding datasets for publication.
 
 If a diagnostic is not acceptable
- * Add the `diagnostic review failed` label to the corresponding github issue(s)
+ * Add the `diagnostic_review_failed` label to the corresponding github issue(s)
  * Add a comment describing the issue to **every** github issue affected
+
 We should be in touch to identify the problem and work out whether it can be fixed.
 
+Links:
+* [List of diagnostics with data available for review](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues?q=is%3Aissue%20state%3Aopen%20label%3Adiagnostic_review_data_available)
+* [List of approved diagnostics](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues?q=is%3Aissue%20state%3Aopen%20label%3Adiagnostic_review_ok)
+* [List of diagnostics that have failed review](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues?q=is%3Aissue%20state%3Aopen%20label%3Adiagnostic_review_failed)
 ## Mapping and STASH information 
 
 Information is being held for each mapping in the body of github issues, e.g. [#67](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/67) contains the information for 
