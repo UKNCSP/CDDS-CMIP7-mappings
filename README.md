@@ -20,6 +20,20 @@ This repository is being used for collection and review of model configuration f
 
 You'll need to be given access to this repository in order to interact with the issues. This can either be done by clicking on "issues", "New Issue" and selecting the "New Reviewer Request" or clicking [here](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/new?template=new_reviewer.yml).
 
+## Diagnostic Review process
+
+Sample data and plots is advertised via https://ukncsp.github.io/CDDS-CMIP7-mappings/, please note the caveat at the top of the pages.
+
+If a diagnostic is acceptable, i.e. passes review:
+ * Add the `diagnostic review ok` label to the corresponding github issue(s)
+ * Add a comment noting which model the data was reviewed for to **every** corresponding github issue
+Automated processes will then pick up this status and allow us to prepare corresponding datasets for publication.
+
+If a diagnostic is not acceptable
+ * Add the `diagnostic review failed` label to the corresponding github issue(s)
+ * Add a comment describing the issue to **every** github issue affected
+We should be in touch to identify the problem and work out whether it can be fixed.
+
 ## Mapping and STASH information 
 
 Information is being held for each mapping in the body of github issues, e.g. [#67](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/67) contains the information for 
