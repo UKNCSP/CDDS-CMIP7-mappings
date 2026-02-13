@@ -2,6 +2,8 @@
 
 # UKNCSP CDDS-CMIP7-mappings 
 
+**UPDATE 13/02/26: Initial Diagnostic Review data available via https://ukncsp.github.io/CDDS-CMIP7-mappings/**
+
 **UPDATE 28/01/26: UKESM only mappings: certain STASH variables are only produced by UKESM, e.g. those associated with the carbon cycle or atmospheric chemistry. I have removed the HadGEM entries from STASH dictionaries and mapping tables where we believe that the physical model HadGEM3/UKCM2 cannot produce them**
 
 **UPDATE 13/01/26: Update to Data Request v1.2.2.3 Completed. Most changes minor, see #1888 for full details**
