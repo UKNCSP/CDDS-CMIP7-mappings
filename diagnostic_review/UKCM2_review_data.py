@@ -8,9 +8,6 @@ import csv
 from iris.quickplot import pcolormesh
 from pathlib import Path
 
-UKCM2_IMAGE_DIR = "diagnostic_review/UKCM2-0-LL_images"
-UKCM2_SUMMARY_DATA_FILE_LOCATION = "diagnostic_review/summary-UKCM2.csv"
-
 
 def set_arg_parser() -> argparse.Namespace:
     """Creates an argument parser to take arguments from the command line.
@@ -24,6 +21,7 @@ def set_arg_parser() -> argparse.Namespace:
                                                   "example plots for any new data files found within the data_dir that "
                                                   "have not yet been processed."))
     parser.add_argument("data_dir", help="The full path to the directory containing the data ready for processing.")
+    parser.add_argument("model", help="The model to perform diagnostic review on.")
 
     return parser.parse_args()
 
@@ -273,7 +271,8 @@ def write_summary_csv_file(summary_file: Path, summary_data) -> None:
 def main():
     """Holds the main body of the script."""
     args = set_arg_parser()
-    summary_file = UKCM2_SUMMARY_DATA_FILE_LOCATION
+    image_dir = f"diagnostic_review/{args.model.strip()}_images"
+    summary_file = f"diagnostic_review/summary-{args.model.strip()}.csv"
     summary_data = read_summary_csv_file(summary_file)
 
     files_done = [i[0] for i in summary_data]
@@ -284,7 +283,7 @@ def main():
                 print(f"{datafile} already done")
                 continue
 
-            image_file = os.path.join(UKCM2_IMAGE_DIR, filename[:-3] + '.png')
+            image_file = os.path.join(image_dir, filename[:-3] + '.png')
             try:
                 cube = extract_cube_from_data(datafile)
                 generate_plots(cube, image_file)
@@ -292,7 +291,7 @@ def main():
             except ValueError:
                 print(f"ERROR: {datafile}")
 
-    # write_summary_csv_file(summary_file, summary_data)
+    write_summary_csv_file(summary_file, summary_data)
 
 
 if __name__ == "__main__":
