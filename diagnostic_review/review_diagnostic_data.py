@@ -291,7 +291,7 @@ def write_summary_csv_file(summary_file: Path, summary_data) -> None:
 def main():
     """Holds the main body of the script."""
     args = set_arg_parser()
-    image_dir = f"diagnostic_review/{args.model.strip()}_images"
+    image_dir = f"diagnostic_review/{args.model.strip()}_images"  # TEMPORARY PATH, UPDATE WHEN MORE INFO AVAILABLE
     summary_file = f"diagnostic_review/summary-{args.model.strip()}.csv"
     summary_data = read_summary_csv_file(summary_file)
 
