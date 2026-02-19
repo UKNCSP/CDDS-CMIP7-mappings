@@ -14,6 +14,7 @@ to avoid regenerating existing plots.
 Example command line usage:
 python diagnostic_review/review_diagnostic_data.py <full_data_directory_path> <model>
 """
+
 import argparse
 import iris
 import iris.cube
