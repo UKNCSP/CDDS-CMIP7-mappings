@@ -1,3 +1,13 @@
+# (C) British Crown Copyright 2026, Met Office.
+# Please see LICENSE.md for license details.
+"""This script is designed to generate a diagnostic review data table based off of data produced in the testing of new
+CMIP7 models and processed via review_diagnostic_data.py.
+
+Example command line usage:
+python diagnostic_review/review_diagnostic_table.py <model>
+"""
+
+import argparse
 import pandas as pd
 import os
 import json
@@ -5,8 +15,6 @@ import json
 from IPython.core.display import HTML
 
 MAPPINGS_FILE_LOCATION = "data/mappings.json"
-SUMMARY_CSV_FILE_LOCATION = "diagnostic_review/summary-UKCM2.csv"
-HTML_FILE_LOCATION = "docs/UKCM2-0-LL.html"
 TEMPLATE_HTML = """
 <!DOCTYPE html>
 <html>
@@ -139,6 +147,21 @@ you need this.
 """
 
 
+def set_arg_parser() -> argparse.Namespace:
+    """Creates an argument parser to take arguments from the command line.
+
+    Returns
+    -------
+    argparse.Namespace
+        The argument parser to handle command line arguments.
+    """
+    parser = argparse.ArgumentParser(description=("Reviews existing diagnostic data and generates a summary with links "
+                                                  "to example plots summary information about the data."))
+    parser.add_argument("model", help="The model to perform diagnostic review on.")
+
+    return parser.parse_args()
+
+
 def float_formatter(x) -> str:
     """Formats float values within the dataframe.
 
@@ -242,7 +265,7 @@ def generate_df_variable_lists(mappings: dict, df: pd.DataFrame) -> tuple[list, 
     """Creates individual lists using the individual dictionaries created by generate_mappings_dicts(). 3 lists are
     created, one holding a list of labels as each item, one holding an issue number as each item and one holding units
     as each item.
-
+model
     Parameters
     ----------
     mappings: dict
@@ -268,7 +291,7 @@ def generate_df_variable_lists(mappings: dict, df: pd.DataFrame) -> tuple[list, 
     return label_list, issue_list, units_list
 
 
-def process_dataframe_parameters(mappings: dict, df: pd.DataFrame) -> pd.DataFrame:
+def process_dataframe_parameters(mappings: dict, df: pd.DataFrame, model: str) -> pd.DataFrame:
     """Creates new and processes existing datarame parameters ready to format the html template. This funciton adds to
     the original dataframe created by create_dataframe_from_csv().
 
@@ -287,7 +310,7 @@ def process_dataframe_parameters(mappings: dict, df: pd.DataFrame) -> pd.DataFra
     df['variable'] = [i.replace('_', '.') for i in df['variable']]
     label_list, issue_list, units_list = generate_df_variable_lists(mappings, df)
 
-    links_list = [('<a href="https://gws-access.ceda.ac.uk/public/mohc_shared/cmip7_diagnostic_review/UKCM2-0-LL/'
+    links_list = [(f'<a href="https://gws-access.ceda.ac.uk/public/mohc_shared/cmip7_diagnostic_review/{model.strip()}/'
                    '{0}">{0}</a>'.format(os.path.basename(i).replace('.nc', '.png'))) for i in df['filename']]
     links = pd.DataFrame(links_list)
 
@@ -315,9 +338,13 @@ def write_html(html_filename: str, html: str) -> None:
 
 def main():
     """Holds the main body of the script."""
-    df = create_dataframe_from_csv(SUMMARY_CSV_FILE_LOCATION)
+    args = set_arg_parser()
+    summary_csv_file = f"diagnostic_review/summary-{args.model.strip()}.csv"
+    html_filename = f"docs/{args.model.strip()}.html"
+
+    df = create_dataframe_from_csv(summary_csv_file)
     mappings = read_mappings_file(MAPPINGS_FILE_LOCATION)
-    df = process_dataframe_parameters(mappings, df)
+    df = process_dataframe_parameters(mappings, df, args.model)
 
     a = HTML(df.to_html(escape=False, index=False))
     html = TEMPLATE_HTML
@@ -326,7 +353,7 @@ def main():
     html = html.replace('<table border="1" class="dataframe">',
                                           '<table border="1" class="dataframe" id="table_id">')
 
-    write_html(HTML_FILE_LOCATION, html)
+    write_html(html_filename, html)
 
 
 if __name__ == "__main__":
