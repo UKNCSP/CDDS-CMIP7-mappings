@@ -308,7 +308,7 @@ def main():
             except ValueError:
                 print(f"ERROR: {datafile}")
 
-    write_summary_csv_file(summary_file, summary_data)
+    # write_summary_csv_file(summary_file, summary_data)
 
 
 if __name__ == "__main__":
