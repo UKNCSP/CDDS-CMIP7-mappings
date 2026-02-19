@@ -1,3 +1,19 @@
+# (C) British Crown Copyright 2026, Met Office.
+# Please see LICENSE.md for license details.
+"""This script is designed to process diagnostic review data produced in the testing of new CMIP7 models.
+
+The script takes in the directory that holds the data to process (expected in the form ofa NetCDF or '.nc' file) and
+the model used to produce that data. The script is designed to be continuously re ran as new data is produced.
+Information about data that has already been reviewed is stored in a summary csv file named in the format
+'summary-<model>.csv'.
+Each time the script is run, any existing data files in the given data directory that are not referenced in the summary
+are processed.This processing generates plots and a summary string that gives information on mean, maximum and minimum
+values across the time series. This information is then appended to the summary file for reference at a later data and
+to avoid regenerating existing plots.
+
+Example command line usage:
+python diagnostic_review/review_diagnostic_data.py <full_data_directory_path> <model>
+"""
 import argparse
 import iris
 import iris.cube
