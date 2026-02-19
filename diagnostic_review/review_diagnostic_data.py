@@ -16,6 +16,7 @@ python diagnostic_review/review_diagnostic_data.py <full_data_directory_path> <m
 """
 
 import argparse
+import warnings
 import iris
 import iris.cube
 import matplotlib.pyplot as plt
@@ -86,6 +87,7 @@ def extract_cube_from_data(datafile: str) -> iris.cube.Cube:
         If no cube can be found in the datafile. In this case, the faulty datafile and the extracted cube list is
         printed to the user for debugging.
     """
+    warnings.simplefilter("ignore")
     cube_list = iris.load(datafile)
     cube = None
     for i in cube_list:
@@ -223,19 +225,20 @@ def generate_plots(cube: iris.cube.Cube, imgfile: str) -> None:
     min_result = get_cube_min(cube)
 
     cmap = 'RdBu_r'
+    fontsize = 11
     fig, axes = plt.subplots(1, 3, figsize=(18, 5))
 
     plt.sca(axes[0])
     pcolormesh(mean_result, cmap=cmap)
-    plt.title('Time mean\n' + summary_string(mean_result))
+    plt.title('Time mean\n' + summary_string(mean_result), wrap=True, fontsize=fontsize)
 
     plt.sca(axes[1])
     pcolormesh(max_result, cmap=cmap)
-    plt.title('Time max\n' + summary_string(max_result))
+    plt.title('Time max\n' + summary_string(max_result), wrap=True, fontsize=fontsize)
 
     plt.sca(axes[2])
     pcolormesh(min_result, cmap=cmap)
-    plt.title('Time min\n' + summary_string(min_result))
+    plt.title('Time min\n' + summary_string(min_result), wrap=True, fontsize=fontsize)
 
     # plt.savefig(imgfile)
     # plt.close(fig)
