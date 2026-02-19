@@ -289,7 +289,6 @@ def main():
                 cube = extract_cube_from_data(datafile)
                 generate_plots(cube, image_file)
                 summary_data = update_summary_data(cube, summary_data, filename)
-                breakpoint()
             except ValueError:
                 print(f"ERROR: {datafile}")
 
