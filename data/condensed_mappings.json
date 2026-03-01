@@ -23602,9 +23602,9 @@
     "models_in_stash": [
       "UKESM1-3",
       "UKESM1",
+      "HadGEM3-GC31",
       "HadGEM3-GC5",
-      "UKESM2",
-      "HadGEM3-GC31"
+      "UKESM2"
     ],
     "stream": "ap4"
   },
