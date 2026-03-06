@@ -39,6 +39,7 @@ def set_arg_parser() -> argparse.Namespace:
                                                   "example plots for any new data files found within the data_dir that "
                                                   "have not yet been processed."))
     parser.add_argument("data_dir", help="The full path to the directory containing the data ready for processing.")
+    parser.add_argument("output_dir", help="The root of the output directory where the generated images will be saved.")
     parser.add_argument("model", help="The model to perform diagnostic review on.")
 
     return parser.parse_args()
@@ -240,9 +241,7 @@ def generate_plots(cube: iris.cube.Cube, imgfile: str) -> None:
     pcolormesh(min_result, cmap=cmap)
     plt.title('Time min\n' + summary_string(min_result), wrap=True, fontsize=fontsize)
 
-    # plt.savefig(imgfile)
-    # plt.close(fig)
-    plt.show()
+    plt.savefig(imgfile)
 
 
 def update_summary_data(cube: iris.cube.Cube, summary_data: list, filename: str) -> list:
@@ -291,7 +290,7 @@ def write_summary_csv_file(summary_file: Path, summary_data) -> None:
 def main():
     """Holds the main body of the script."""
     args = set_arg_parser()
-    image_dir = f"diagnostic_review/{args.model.strip()}_images"  # TEMPORARY PATH, UPDATE WHEN MORE INFO AVAILABLE
+    image_dir = args.output_dir
     summary_file = f"diagnostic_review/summary-{args.model.strip()}.csv"
     summary_data = read_summary_csv_file(summary_file)
 
@@ -308,10 +307,11 @@ def main():
                 cube = extract_cube_from_data(datafile)
                 generate_plots(cube, image_file)
                 summary_data = update_summary_data(cube, summary_data, filename)
+                write_summary_csv_file(summary_file, summary_data)
             except ValueError:
-                print(f"ERROR: {datafile}")
-
-    # write_summary_csv_file(summary_file, summary_data)
+                print(f"VALUE ERROR: {datafile}")
+            except IndexError:
+                print(f"INDEX ERROR: {datafile}")
 
 
 if __name__ == "__main__":
