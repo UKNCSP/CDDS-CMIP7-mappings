@@ -14,6 +14,7 @@ import json
 
 from IPython.core.display import HTML
 
+VERSION = "2026/03/09"
 MAPPINGS_FILE_LOCATION = "data/mappings.json"
 TEMPLATE_HTML = """
 <!DOCTYPE html>
@@ -310,7 +311,7 @@ def process_dataframe_parameters(mappings: dict, df: pd.DataFrame, model: str) -
     df['variable'] = [i.replace('_', '.') for i in df['variable']]
     label_list, issue_list, units_list = generate_df_variable_lists(mappings, df)
 
-    links_list = [(f'<a href="https://gws-access.ceda.ac.uk/public/mohc_shared/cmip7_diagnostic_review/{model.strip()}/'
+    links_list = [(f'<a href="https://gws-access.ceda.ac.uk/public/mohc_shared/cmip7_diagnostic_review/{VERSION}/{model.strip()}/'
                    '{0}">{0}</a>'.format(os.path.basename(i).replace('.nc', '.png'))) for i in df['filename']]
     links = pd.DataFrame(links_list)
 
