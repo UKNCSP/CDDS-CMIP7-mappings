@@ -14,7 +14,7 @@ import json
 
 from IPython.core.display import HTML
 
-VERSION = "2026/03/09"
+VERSION = "2026-03-09"
 MAPPINGS_FILE_LOCATION = "data/mappings.json"
 TEMPLATE_HTML = """
 <!DOCTYPE html>
