@@ -28,6 +28,7 @@ jobs:
     
       - name: Install dependencies
         run: |
+          pip install pandas
           pip install ipython
 
       - name: run py script
