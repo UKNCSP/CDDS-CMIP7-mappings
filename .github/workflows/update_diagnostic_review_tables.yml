@@ -1,0 +1,46 @@
+# (C) British Crown Copyright 2026, Met Office.
+# Please see LICENSE.md for license details.
+
+# This action relies on the existence of diagnostic_review/summary-<model_name>.csv (where 'model_name' is each of the
+# args defined in the 'run py script' step of this workflow). Changes to the structure or naming convention of these
+# files may result in action failure.
+name: Update diagnostic review tables
+run-name: Update diagnostic review tables
+on:
+  schedule:
+    - cron: '30 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-tables:
+    runs-on: ubuntu-22.04
+    permissions:
+      contents: write
+
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v3
+
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+    
+      - name: Install dependencies
+        run: |
+          pip install ipython
+
+      - name: run py script
+        # Python script should run once for each argument. Each arg points to a file of the format
+        # 'diagnostic_review/summary-<model_name>.csv'.
+        # (e.g. arg 'UKCM2-0-LL' points to 'diagnostic_review/summary-UKCM2-0-LL.csv')
+        run: |
+          for arg in "UKCM2-0-LL" "UKCM2a-0-HH" "UKESM1-3-LL"; do python diagnostic_review/review_diagnostic_table.py "$arg"; done
+
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Update diagnostic review tables" || echo "No changes to commit"
+          git push
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
