@@ -23788,11 +23788,11 @@
       "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1",
       "HadGEM3-GC5",
-      "HadGEM3-GC31",
-      "UKESM2"
+      "UKESM2",
+      "UKESM1",
+      "UKESM1-3",
+      "HadGEM3-GC31"
     ],
     "stream": "ap4"
   },
@@ -28943,14 +28943,15 @@
     "XIOS entries": {},
     "branded_variable": "atmos.ci.tavg-u-hxy-u.mon.glb",
     "labels": [
+      "question",
       "mon",
       "atmos",
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
-      "diagnostic_review_data_available",
-      "diagnostic_review_inspection_required"
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1-3",
