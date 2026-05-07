@@ -6423,10 +6423,10 @@ UKESM1,cl_tavg-al-hxy-u,mon,m01s02i261,2,261,TMONMN,DALLTH,UP5,True,False,False
 UKESM1,cl_tavg-al-hxy-u,mon,m01s00i033,0,033,TMONMN,DIAG,UP5,True,False,False
 UKESM1-3,cl_tavg-al-hxy-u,mon,m01s02i261,2,261,TMONMN,DALLTH,UP5,True,False,False
 UKESM1-3,cl_tavg-al-hxy-u,mon,m01s00i033,0,033,TMONMN,DIAG,UP5,True,False,False
-HadGEM3-GC31,ci_tavg-u-hxy-u,mon,m01s05i269,5,269,TMONMN,DIAG,UP5,True,False,False
-HadGEM3-GC5,ci_tavg-u-hxy-u,mon,m01s05i269,5,269,TMONMN,DIAG,UP5,True,False,False
-UKESM1,ci_tavg-u-hxy-u,mon,m01s05i269,5,269,TMONMN,DIAG,UP5,True,False,False
-UKESM1-3,ci_tavg-u-hxy-u,mon,m01s05i269,5,269,TMONMN,DIAG,UP5,True,False,False
+HadGEM3-GC31,ci_tavg-u-hxy-u,mon,m01s05i269,5,269,TMONMN,DIAG,UP5,False,False,False
+HadGEM3-GC5,ci_tavg-u-hxy-u,mon,m01s05i269,5,269,TMONMN,DIAG,UP5,False,False,False
+UKESM1,ci_tavg-u-hxy-u,mon,m01s05i269,5,269,TMONMN,DIAG,UP5,False,False,False
+UKESM1-3,ci_tavg-u-hxy-u,mon,m01s05i269,5,269,TMONMN,DIAG,UP5,False,False,False
 UKESM1,ch4_tavg-u-hm-air,mon,m01s34i009,34,009,TMONMN,DALLTH,UP5,True,False,False
 UKESM1,ch4_tavg-u-hm-air,mon,m01s50i063,50,063,TMONMN,DALLTH,UP5,True,False,False
 UKESM1-3,ch4_tavg-u-hm-air,mon,m01s34i009,34,009,TMONMN,DALLTH,UP5,True,False,False
