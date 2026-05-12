@@ -93,12 +93,16 @@ def condense_dict(results: dict) -> list[dict]:
         else:
             stream = ""
 
+        labels = mapping.get("labels")
+        mapping_information = mapping.get("Mapping information") if "fx" in labels else {}
+
         condensed_mapping = {
             "branded_variable": branded_variable,
             "models_in_stash": list(models),
             "XIOS entries": mapping.get("XIOS entries"),
             "stream": stream,
-            "labels": mapping.get("labels")
+            "labels": labels,
+            "mapping_information": mapping_information
         }
 
         condensed_mappings.append(condensed_mapping)
