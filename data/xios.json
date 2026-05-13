@@ -918,16 +918,16 @@
     "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"sheastr\" name=\"sistressmax\" operation=\"instant\" />"
   },
   "Variable seaIce.sistrxdtop.tavg-u-hxy-si.mon.glb (SImon.sistrxdtop)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"utau_ai_siconc_cmip\" name=\"sistrxdtop\" operation=\"average\" freq_op=\"1mo\" detect_missing_value=\"true\"> (@iceconc==0) ? $missval : (@utau_ai_siconc_cmip / @iceconc) </field>"
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"utau_ai\"          name=\"utau_ai\" />` <br> `<field field_ref=\"iceconc_pct\"          name=\"siconc\" />"
   },
   "Variable seaIce.sistrxubot.tavg-u-hxy-si.mon.glb (SImon.sistrxubot)": {
-    "HadGEM3-GC5": "inm/grid-T`: `<field field_ref=\"utau_oi_siconc_cmip\" name=\"sistrxubot\" operation=\"average\" freq_op=\"1mo\" detect_missing_value=\"true\"> (@iceconc==0) ? $missval : (@utau_oi_siconc_cmip / @iceconc) </field>"
+    "HadGEM3-GC5": "inm/grid-T`: `<field field_ref=\"utau_oi\"          name=\"utau_oi\" />` <br> `<field field_ref=\"iceconc_pct\"          name=\"siconc\" />"
   },
   "Variable seaIce.sistrydtop.tavg-u-hxy-si.mon.glb (SImon.sistrydtop)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"vtau_ai_siconc_cmip\" name=\"sistrydtop\" operation=\"average\" freq_op=\"1mo\" detect_missing_value=\"true\"> (@iceconc==0) ? $missval : (@vtau_ai_siconc_cmip / @iceconc) </field>"
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"vtau_ai\"          name=\"vtau_ai\" />` <br> `<field field_ref=\"iceconc_pct\"          name=\"siconc\" />"
   },
   "Variable seaIce.sistryubot.tavg-u-hxy-si.mon.glb (SImon.sistryubot)": {
-    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"vtau_oi_siconc_cmip\" name=\"sistryubot\" operation=\"average\" freq_op=\"1mo\" detect_missing_value=\"true\"> (@iceconc==0) ? $missval : (@vtau_oi_siconc_cmip / @iceconc) </field>"
+    "HadGEM3-GC5": "inm/grid-T` : `<field field_ref=\"vtau_oi\"          name=\"vtau_oi\" />` <br> `<field field_ref=\"iceconc_pct\"          name=\"siconc\" />"
   },
   "Variable seaIce.sitempbot.tavg-u-hxy-si.day.glb (SIday.sitempbot)": {
     "HadGEM3-GC5": "ind/grid-T` : `<field field_ref=\"icetbot_iceconc_cmip\" name=\"sitempbot\" operation=\"average\" freq_op=\"1d\" detect_missing_value=\"true\"> (@iceconc==0) ? $missval : (@icetbot_siconc_cmip / @iceconc) </field>"
