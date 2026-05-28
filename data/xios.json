@@ -696,6 +696,30 @@
     "UKESM1": "onm/diad-T`: `<field field_ref= \"OCN_PCO2\"   name=\"OCN_PCO2\"   />` <br> `onm/diad-T`: `<field field_ref= \"ATM_PCO2\"   name=\"ATM_PCO2\"   />",
     "UKESM1-3": "onm/diad-T`: `<field field_ref= \"OCN_PCO2\"   name=\"OCN_PCO2\"   />` <br> `onm/diad-T`: `<field field_ref= \"ATM_PCO2\"   name=\"ATM_PCO2\"   />"
   },
+  "Variable ocnBgchem.o2.tavg-ol-hxy-sea.mon.glb (Omon.o2)": {
+    "UKESM1": "onm/ptrc-T`: `<field field_ref=\"OXY_E3T\"  name=\"OXY_E3T\"      />` <br> `onm/ptrc-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
+    "UKESM1-3": "onm/ptrc-T`: `<field field_ref=\"OXY_E3T\"  name=\"OXY_E3T\"      />` <br> `onm/ptrc-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />"
+  },
+  "Variable ocnBgchem.o2.tavg-ols-hxy-sea.mon.glb (Omon.o2os)": {
+    "UKESM1": "onm/ptrc-T`: `<field field_ref=\"OXY_E3T\"  name=\"OXY_E3T\"      />` <br> `onm/ptrc-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
+    "UKESM1-3": "onm/ptrc-T`: `<field field_ref=\"OXY_E3T\"  name=\"OXY_E3T\"      />` <br> `onm/ptrc-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />"
+  },
+  "Variable ocnBgchem.o2sat.tavg-ol-hxy-sea.mon.glb (Omon.o2sat)": {
+    "UKESM1": "onm/diad-T`: `<field field_ref= \"O2SAT3\"     name=\"O2SAT3\"     />",
+    "UKESM1-3": "onm/diad-T`: `<field field_ref= \"O2SAT3\"     name=\"O2SAT3\"     />"
+  },
+  "Variable ocnBgchem.ph.tavg-d0m-hxy-sea.mon.30S-90S (Omon.phos)": {
+    "UKESM1": "onm/diad-T`: `<field field_ref= \"OCN_PH\"     name=\"OCN_PH\"     />",
+    "UKESM1-3": "onm/diad-T`: `<field field_ref= \"OCN_PH\"     name=\"OCN_PH\"     />"
+  },
+  "Variable ocnBgchem.ph.tavg-ol-hxy-sea.mon.glb (Omon.ph)": {
+    "UKESM1": "onm/diad-T`: `<field field_ref= \"PH3\"        name=\"PH3\"        />",
+    "UKESM1-3": "onm/diad-T`: `<field field_ref= \"PH3\"        name=\"PH3\"        />"
+  },
+  "Variable ocnBgchem.phyc.tavg-ol-hxy-sea.mon.glb (Omon.phyc)": {
+    "UKESM1": "onm/ptrc-T`: `<field field_ref=\"PHN_E3T\"  name=\"PHN_E3T\"      />` <br> `onm/ptrc-T`: `<field field_ref=\"PHD_E3T\"  name=\"PHD_E3T\"      />` <br> `onm/ptrc-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
+    "UKESM1-3": "onm/ptrc-T`: `<field field_ref=\"PHN_E3T\"  name=\"PHN_E3T\"      />` <br> `onm/ptrc-T`: `<field field_ref=\"PHD_E3T\"  name=\"PHD_E3T\"      />` <br> `onm/ptrc-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />"
+  },
   "Variable ocnBgchem.phyc.tavg-ols-hxy-sea.mon.glb (Omon.phycos)": {
     "UKESM1": "onm/ptrc-T`: `<field field_ref=\"PHN_E3T\"  name=\"PHN_E3T\"      />` <br> `onm/ptrc-T`: `<field field_ref=\"PHD_E3T\"  name=\"PHD_E3T\"      />` <br> `onm/ptrc-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
     "UKESM1-3": "onm/ptrc-T`: `<field field_ref=\"PHN_E3T\"  name=\"PHN_E3T\"      />` <br> `onm/ptrc-T`: `<field field_ref=\"PHD_E3T\"  name=\"PHD_E3T\"      />` <br> `onm/ptrc-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />"
