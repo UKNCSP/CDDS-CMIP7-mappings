@@ -138,6 +138,11 @@ Additional information on processors should be added as a comment to the issue.
 
 To support configuration of the UM atmosphere and NEMO/MEDUSA/SI3 diagnostic output, each issue also tabulates the entries to be included in their respective I/O setup.
 
+**IMPORTANT: CDDS processing will not be able to handle variables where source data from multiple streams or different ocean files within a stream are combined**
+
+For STASH output this means that all input variables must have the same usage profile. 
+For XIOS output only a single stream/substream combination (e.g. `onm/grid-T`) should be used in each row in the XIOS table.
+
 #### STASH (UM only)
 
 If possible this table should be extended in a similar fashion to the one for the mappings, but with a row for each STASH code required.
