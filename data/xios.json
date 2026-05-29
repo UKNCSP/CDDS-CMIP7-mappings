@@ -696,6 +696,86 @@
     "UKESM1": "onm/diad-T`: `<field field_ref= \"OCN_PCO2\"   name=\"OCN_PCO2\"   />` <br> `onm/diad-T`: `<field field_ref= \"ATM_PCO2\"   name=\"ATM_PCO2\"   />",
     "UKESM1-3": "onm/diad-T`: `<field field_ref= \"OCN_PCO2\"   name=\"OCN_PCO2\"   />` <br> `onm/diad-T`: `<field field_ref= \"ATM_PCO2\"   name=\"ATM_PCO2\"   />"
   },
+  "Variable ocnBgchem.fsfe.tavg-u-hxy-sea.mon.glb (Omon.fsfe)": {
+    "UKESM1": "onm/diad-T`: `<field field_ref= \"AEOLIAN\"    name=\"AEOLIAN\"    />` <br> `onm/diad-T`: `<field field_ref= \"BENTHIC\"    name=\"BENTHIC\"    />",
+    "UKESM1-3": "onm/diad-T`: `<field field_ref= \"AEOLIAN\"    name=\"AEOLIAN\"    />` <br> `onm/diad-T`: `<field field_ref= \"BENTHIC\"    name=\"BENTHIC\"    />"
+  },
+  "Variable ocnBgchem.graz.tavg-ol-hxy-sea.mon.glb (Omon.graz)": {
+    "UKESM1": "onm/diad-T`: `<field field_ref= \"MIGRAZP3\"   name=\"MIGRAZP3\"   />` <br> `onm/diad-T`: `<field field_ref= \"MEGRAZP3\"   name=\"MEGRAZP3\"   />",
+    "UKESM1-3": "onm/diad-T`: `<field field_ref= \"MIGRAZP3\"   name=\"MIGRAZP3\"   />` <br> `onm/diad-T`: `<field field_ref= \"MEGRAZP3\"   name=\"MEGRAZP3\"   />"
+  },
+  "Variable ocnBgchem.intdic.tavg-u-hxy-sea.mon.30S-90S (Omon.intdic)": {
+    "UKESM1": "onm/diad-T`: `<field field_ref= \"INTDISSIC\"  name=\"INTDISSIC\"  />",
+    "UKESM1-3": "onm/diad-T`: `<field field_ref= \"INTDISSIC\"  name=\"INTDISSIC\"  />"
+  },
+  "Variable ocnBgchem.intpbfe.tavg-u-hxy-sea.mon.30S-90S (Omon.intpbfe)": {
+    "UKESM1": "onm/diad-T`: `<field field_ref= \"PRN\"        name=\"PRN\"        />` <br> `onm/diad-T`: `<field field_ref= \"PRD\"        name=\"PRD\"        />",
+    "UKESM1-3": "onm/diad-T`: `<field field_ref= \"PRN\"        name=\"PRN\"        />` <br> `onm/diad-T`: `<field field_ref= \"PRD\"        name=\"PRD\"        />"
+  },
+  "Variable ocnBgchem.intpbn.tavg-u-hxy-sea.mon.30S-90S (Omon.intpbn)": {
+    "UKESM1": "onm/diad-T`: `<field field_ref= \"PRN\"        name=\"PRN\"        />` <br> `onm/diad-T`: `<field field_ref= \"PRD\"        name=\"PRD\"        />",
+    "UKESM1-3": "onm/diad-T`: `<field field_ref= \"PRN\"        name=\"PRN\"        />` <br> `onm/diad-T`: `<field field_ref= \"PRD\"        name=\"PRD\"        />"
+  },
+  "Variable ocnBgchem.intpbp.tavg-u-hxy-sea.mon.30S-90S (Omon.intpbp)": {
+    "UKESM1": "onm/diad-T`: `<field field_ref= \"PRN\"        name=\"PRN\"        />` <br> `onm/diad-T`: `<field field_ref= \"PRD\"        name=\"PRD\"        />",
+    "UKESM1-3": "onm/diad-T`: `<field field_ref= \"PRN\"        name=\"PRN\"        />` <br> `onm/diad-T`: `<field field_ref= \"PRD\"        name=\"PRD\"        />"
+  },
+  "Variable ocnBgchem.intpbsi.tavg-u-hxy-sea.mon.30S-90S (Omon.intpbsi)": {
+    "UKESM1": "onm/diad-T`: `<field field_ref= \"OPAL\"       name=\"OPAL\"       />",
+    "UKESM1-3": "onm/diad-T`: `<field field_ref= \"OPAL\"       name=\"OPAL\"       />"
+  },
+  "Variable ocnBgchem.intpcalcite.tavg-u-hxy-sea.mon.30S-90S (Omon.intpcalcite)": {
+    "UKESM1": "onm/diad-T`: `<field field_ref= \"FASTCA\"     name=\"FASTCA\"     />",
+    "UKESM1-3": "onm/diad-T`: `<field field_ref= \"FASTCA\"     name=\"FASTCA\"     />"
+  },
+  "Variable ocnBgchem.intpoc.tavg-u-hxy-sea.mon.30S-90S (Omon.intpoc)": {
+    "UKESM1": "onm/diad-T`: `<field field_ref= \"INT_PN\"     name=\"INT_PN\"     />` <br> `onm/diad-T`: `<field field_ref= \"INT_PD\"     name=\"INT_PD\"     />` <br> `onm/diad-T`: `<field field_ref= \"INT_ZMI\"    name=\"INT_ZMI\"    />` <br> `onm/diad-T`: `<field field_ref= \"INT_ZME\"    name=\"INT_ZME\"    />` <br> `onm/diad-T`: `<field field_ref= \"INT_DTC\"    name=\"INT_DTC\"    />",
+    "UKESM1-3": "onm/diad-T`: `<field field_ref= \"INT_PN\"     name=\"INT_PN\"     />` <br> `onm/diad-T`: `<field field_ref= \"INT_PD\"     name=\"INT_PD\"     />` <br> `onm/diad-T`: `<field field_ref= \"INT_ZMI\"    name=\"INT_ZMI\"    />` <br> `onm/diad-T`: `<field field_ref= \"INT_ZME\"    name=\"INT_ZME\"    />` <br> `onm/diad-T`: `<field field_ref= \"INT_DTC\"    name=\"INT_DTC\"    />"
+  },
+  "Variable ocnBgchem.intpp.tavg-u-hxy-sea.mon.glb (Omon.intpp)": {
+    "UKESM1": "onm/diad-T`: `<field field_ref= \"PRN\"        name=\"PRN\"        />` <br> `onm/diad-T`: `<field field_ref= \"PRD\"        name=\"PRD\"        />",
+    "UKESM1-3": "onm/diad-T`: `<field field_ref= \"PRN\"        name=\"PRN\"        />` <br> `onm/diad-T`: `<field field_ref= \"PRD\"        name=\"PRD\"        />"
+  },
+  "Variable ocnBgchem.intppdiat.tavg-u-hxy-sea.mon.glb (Omon.intppdiat)": {
+    "UKESM1": "onm/diad-T`: `<field field_ref= \"PRD\"        name=\"PRD\"        />",
+    "UKESM1-3": "onm/diad-T`: `<field field_ref= \"PRD\"        name=\"PRD\"        />"
+  },
+  "Variable ocnBgchem.intppmisc.tavg-u-hxy-sea.mon.glb (Omon.intppmisc)": {
+    "UKESM1": "onm/diad-T`: `<field field_ref= \"PRN\"        name=\"PRN\"        />",
+    "UKESM1-3": "onm/diad-T`: `<field field_ref= \"PRN\"        name=\"PRN\"        />"
+  },
+  "Variable ocnBgchem.limfediat.tavg-u-hxy-sea.mon.glb (Omon.limfediat)": {
+    "UKESM1": "onm/diad-T`: `<field field_ref= \"PD_FELIM\"    name=\"PD_FELIM\"    />",
+    "UKESM1-3": "onm/diad-T`: `<field field_ref= \"PD_FELIM\"    name=\"PD_FELIM\"    />"
+  },
+  "Variable ocnBgchem.limfemisc.tavg-u-hxy-sea.mon.glb (Omon.limfemisc)": {
+    "UKESM1": "onm/diad-T`: `<field field_ref= \"PN_FELIM\"    name=\"PN_FELIM\"    />",
+    "UKESM1-3": "onm/diad-T`: `<field field_ref= \"PN_FELIM\"    name=\"PN_FELIM\"    />"
+  },
+  "Variable ocnBgchem.limirrdiat.tavg-u-hxy-sea.mon.glb (Omon.limirrdiat)": {
+    "UKESM1": "onm/diad-T`: `<field field_ref= \"PD_JLIM\"    name=\"PD_JLIM\"    />",
+    "UKESM1-3": "onm/diad-T`: `<field field_ref= \"PD_JLIM\"    name=\"PD_JLIM\"    />"
+  },
+  "Variable ocnBgchem.limirrmisc.tavg-u-hxy-sea.mon.glb (Omon.limirrmisc)": {
+    "UKESM1": "onm/diad-T`: `<field field_ref= \"PN_JLIM\"    name=\"PN_JLIM\"    />",
+    "UKESM1-3": "onm/diad-T`: `<field field_ref= \"PN_JLIM\"    name=\"PN_JLIM\"    />"
+  },
+  "Variable ocnBgchem.limndiat.tavg-u-hxy-sea.mon.glb (Omon.limndiat)": {
+    "UKESM1": "onm/diad-T`: `<field field_ref= \"PD_NLIM\"    name=\"PD_NLIM\"    />",
+    "UKESM1-3": "onm/diad-T`: `<field field_ref= \"PD_NLIM\"    name=\"PD_NLIM\"    />"
+  },
+  "Variable ocnBgchem.limnmisc.tavg-u-hxy-sea.mon.glb (Omon.limnmisc)": {
+    "UKESM1": "onm/diad-T`: `<field field_ref= \"PN_NLIM\"    name=\"PN_NLIM\"    />",
+    "UKESM1-3": "onm/diad-T`: `<field field_ref= \"PN_NLIM\"    name=\"PN_NLIM\"    />"
+  },
+  "Variable ocnBgchem.no3.tavg-ol-hxy-sea.mon.glb (Omon.no3)": {
+    "UKESM1": "onm/ptrc-T`: `<field field_ref=\"DIN_E3T\"  name=\"DIN_E3T\"      />` <br> `onm/ptrc-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
+    "UKESM1-3": "onm/ptrc-T`: `<field field_ref=\"DIN_E3T\"  name=\"DIN_E3T\"      />` <br> `onm/ptrc-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />"
+  },
+  "Variable ocnBgchem.no3.tavg-ols-hxy-sea.mon.glb (Omon.no3os)": {
+    "UKESM1": "onm/ptrc-T`: `<field field_ref=\"DIN_E3T\"  name=\"DIN_E3T\"      />` <br> `onm/ptrc-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
+    "UKESM1-3": "onm/ptrc-T`: `<field field_ref=\"DIN_E3T\"  name=\"DIN_E3T\"      />` <br> `onm/ptrc-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />"
+  },
   "Variable ocnBgchem.o2.tavg-ol-hxy-sea.mon.glb (Omon.o2)": {
     "UKESM1": "onm/ptrc-T`: `<field field_ref=\"OXY_E3T\"  name=\"OXY_E3T\"      />` <br> `onm/ptrc-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
     "UKESM1-3": "onm/ptrc-T`: `<field field_ref=\"OXY_E3T\"  name=\"OXY_E3T\"      />` <br> `onm/ptrc-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />"
