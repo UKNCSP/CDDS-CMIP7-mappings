@@ -138,7 +138,7 @@
     "UKESM1": "onm/grid-T`: `<field field_ref=\"hflx_rnf_cea\" />` <br> `onm/grid-T`: `<field field_ref=\"qhcisf3d\" />",
     "UKESM1-3": "onm/grid-T`: `<field field_ref=\"hflx_rnf_cea\" />` <br> `onm/grid-T`: `<field field_ref=\"qhcisf3d\" />"
   },
-  "Variable ocean.hfsnthermds.tavg-ol-hxy-sea.mon.glb (Omon.hfsnthermds)": {
+  "Variable ocean.hfsnthermds.tavg-u-hxy-sea.mon.glb (Omon.hfsnthermds2d)": {
     "HadGEM3-GC5": "onm/grid-T`: `<field field_ref=\"hflx_snow_ao_cea\" name=\"hfsnthermds\" />"
   },
   "Variable ocean.hfx.tavg-u-hxy-sea.day.glb (Oday.hfxint)": {
