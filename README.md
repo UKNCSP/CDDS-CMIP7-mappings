@@ -1,7 +1,5 @@
 [![Update data files](https://github.com/UKNCSP/CDDS-CMIP7-mappings/actions/workflows/update_data_csv_json.yml/badge.svg)](https://github.com/UKNCSP/CDDS-CMIP7-mappings/actions/workflows/update_data_csv_json.yml)
 
-** IMPORTANT : Please note that use of GitHub Actions is currently suspended until further notice.
-
 # UKNCSP CDDS-CMIP7-mappings 
 
 **UPDATE 13/02/26: Initial Diagnostic Review data available via https://ukncsp.github.io/CDDS-CMIP7-mappings/**
