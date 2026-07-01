@@ -1,4 +1,5 @@
 [![Update data files](https://github.com/UKNCSP/CDDS-CMIP7-mappings/actions/workflows/update_data_csv_json.yml/badge.svg)](https://github.com/UKNCSP/CDDS-CMIP7-mappings/actions/workflows/update_data_csv_json.yml)
+**WARNING: MAINTENANCE WORK IN PROGRESS**
 
 # UKNCSP CDDS-CMIP7-mappings 
 
