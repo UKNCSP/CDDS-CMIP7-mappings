@@ -144,6 +144,9 @@ workspace on JASMIN.
 <p>
 Images under the plot column require you to know the access username and password, contact the UKCMIP7 project team if
 you need this.
+<p>
+<a href="index.html">Main Menu</a>
+</p>
 
 """
 
