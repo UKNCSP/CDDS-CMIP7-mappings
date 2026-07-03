@@ -329,8 +329,6 @@ def process_dataframe_parameters(mappings: dict, df: pd.DataFrame, model: str) -
             links_list = [(f'<a href="https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/'
                         f'{VERSION}/{model_str.strip()}_images/'
                         '{0}">{0}</a>'.format(os.path.basename(i).replace('.nc', '.png'))) for i in df['filename']]
-    # links_list = [(f'<a href="https://https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/{VERSION}/{model.strip()}_images/'
-    #                 '{0}">{0}</a>'.format(os.path.basename(i).replace('.nc', '.png'))) for i in df['filename']]
 
     links = pd.DataFrame(links_list)
 
