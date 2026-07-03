@@ -14,7 +14,7 @@ import json
 
 from IPython.core.display import HTML
 
-VERSION = "2026-03-09"
+VERSION = "2026-06-25"
 MAPPINGS_FILE_LOCATION = "data/mappings.json"
 TEMPLATE_HTML = """
 <!DOCTYPE html>
@@ -311,8 +311,27 @@ def process_dataframe_parameters(mappings: dict, df: pd.DataFrame, model: str) -
     df['variable'] = [i.replace('_', '.') for i in df['variable']]
     label_list, issue_list, units_list = generate_df_variable_lists(mappings, df)
 
-    links_list = [(f'<a href="https://gws-access.jasmin.ac.uk/public/mohc_shared/cmip7_diagnostic_review/{VERSION}/{model.strip()}_images/'
-                   '{0}">{0}</a>'.format(os.path.basename(i).replace('.nc', '.png'))) for i in df['filename']]
+    model_str, experiment, timerange = model.split("_")
+    if "UKCM2-0-LL" in model:
+        links_list = [(f'<a href="https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/'
+                       f'{VERSION}/{model_str.strip()}_images/{experiment}/'
+                       '{0}">{0}</a>'.format(os.path.basename(i).replace('.nc', '.png'))) for i in df['filename']]
+    if "UKCM2a-0-HH" in model:
+        links_list = [(f'<a href="https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/'
+                       f'{VERSION}/{model_str.strip()}_images/'
+                       '{0}">{0}</a>'.format(os.path.basename(i).replace('.nc', '.png'))) for i in df['filename']]
+    if "UKESM1-3-LL" in model:
+        if timerange == "20000101-20100101":
+            links_list = [(f'<a href="https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/'
+                        f'{VERSION}/{model_str.strip()}_{timerange}_images/'
+                        '{0}">{0}</a>'.format(os.path.basename(i).replace('.nc', '.png'))) for i in df['filename']]
+        else:
+            links_list = [(f'<a href="https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/'
+                        f'{VERSION}/{model_str.strip()}_images/'
+                        '{0}">{0}</a>'.format(os.path.basename(i).replace('.nc', '.png'))) for i in df['filename']]
+    # links_list = [(f'<a href="https://https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/{VERSION}/{model.strip()}_images/'
+    #                 '{0}">{0}</a>'.format(os.path.basename(i).replace('.nc', '.png'))) for i in df['filename']]
+
     links = pd.DataFrame(links_list)
 
     df['units'] = units_list
@@ -340,7 +359,7 @@ def write_html(html_filename: str, html: str) -> None:
 def main():
     """Holds the main body of the script."""
     args = set_arg_parser()
-    summary_csv_file = f"diagnostic_review/summary-{args.model.strip()}.csv"
+    summary_csv_file = f"diagnostic_review/summary_{args.model.strip()}.csv"
     html_filename = f"docs/{args.model.strip()}.html"
 
     df = create_dataframe_from_csv(summary_csv_file)

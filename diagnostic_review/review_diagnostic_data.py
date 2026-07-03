@@ -100,7 +100,10 @@ def extract_cube_from_data(datafile: str) -> iris.cube.Cube:
         try:
             cube = cube.slices(['time', 'latitude', 'longitude']).next()
         except ValueError:
+            # siitdsnthick_tavg-u-hxy-si_mon_glb fails here and gives none probably since there is no depth axis
             cube = cube.extract(iris.Constraint(depth=0))
+            if cube is None:
+                raise RuntimeError
 
     cube.attributes['realm'] = cube.attributes['realm'].split(" ")[0]
 
@@ -312,6 +315,10 @@ def main():
                 print(f"VALUE ERROR: {datafile}")
             except IndexError:
                 print(f"INDEX ERROR: {datafile}")
+            except RuntimeError:
+                print(f"RUNTIME ERROR, cube is none, may be due to inability to constrain at depth = 0: {datafile}")
+            except iris.exceptions.CoordinateNotFoundError as e:
+                print(f"MISSING CUBE COORDINATE ({e}): {datafile}")
 
 
 if __name__ == "__main__":

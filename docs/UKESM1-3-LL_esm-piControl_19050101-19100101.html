@@ -1,0 +1,477 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" type="text/css" charset="UTF-8"
+href="https://cdn.datatables.net/2.3.2/css/dataTables.dataTables.min.css"/>
+<script type="text/javascript" charset="UTF-8" src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script type="text/javascript" charset="UTF-8" src="https://cdn.datatables.net/2.3.2/js/dataTables.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function () {
+var table = $('#table_id').DataTable({
+    orderCellsTop: true,
+    fixedHeader: true,
+    pageLength: 100,
+    initComplete: function () {
+    var api = this.api();
+
+    // Show the tables once DataTables has initialized
+    $('#table_id').css('visibility', 'visible');
+
+    // For each column, add a select filter to the second row
+    api.columns().eq(0).each(function (colIdx) {
+        var cell = $('.filters th').eq(colIdx);
+        if (cell.length) {
+        var select = $('<select><option value="">All</option></select>')
+            .appendTo(cell.empty())
+            .on('change', function () {
+            api.column(colIdx)
+                .search(this.value ? '^' + this.value + '$' : '', true, false)
+                .draw();
+            });
+
+        api.column(colIdx).data().unique().sort().each(function (d) {
+            if (d) select.append('<option value="' + d + '">' + d + '</option>');
+        });
+        }
+    });
+    }
+});
+});
+</script>
+<style>
+table, th, td {
+border: 1px solid black;
+border-collapse: collapse;
+}
+
+tr:nth-child(even) {
+background-color: rgba(150, 212, 212, 0.2);
+}
+
+th:nth-child(even),td:nth-child(even) {
+background-color: rgba(150, 212, 212, 0.2);
+}
+/* Hide table until DataTables has fully initialized */
+    #table_id {
+    visibility: hidden;
+}
+
+/* Format the datatables */
+table.dataTable {
+    table-layout: fixed;
+    width: 100%;
+}
+
+table.dataTable td {
+    max-width: 300px;
+    white-space: normal;
+    word-wrap: break-word;
+}
+
+pre, code {
+    white-space: pre-wrap;
+    word-break: break-word;
+}
+
+table.dataTable thead select {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 4px;
+    font-size: 0.9em;
+}
+
+/* Tooltip container */
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+    visibility: hidden;
+    bottom: 100%;
+    left: 50%;
+    width: 600px;
+    background-color: #FFFFFF;
+    color: black;
+    text-align: left;
+    padding: 18px;
+    border-radius: 4px;
+    border: 1px solid #000;
+
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+
+</style>
+</head>
+<body>
+<h1>Diagnostic review summary data</h1>
+Please note that this summary data is only for the first level in multilevel diagnostics.
+For more complete information please look at the complete file specified.
+The title of each column denotes the order in which calculations were made.
+<p>
+Files can be found either under the data directory of the cdds account within the Met Office or the mohc_shared
+workspace on JASMIN.
+<p>
+Images under the plot column require you to know the access username and password, contact the UKCMIP7 project team if
+you need this.
+<p>
+<a href="index.html">Main Menu</a>
+</p>
+<table border="1" class="dataframe" id="table_id">
+  <thead>
+    <tr style="text-align: right;">
+      <th>filename</th>
+      <th>variable</th>
+      <th>time: mean area: mean</th>
+      <th>time: mean area: max</th>
+      <th>time: mean area: min</th>
+      <th>time: max area: mean</th>
+      <th>time: max area: max</th>
+      <th>time: max area: min</th>
+      <th>time: min area: mean</th>
+      <th>time: min area: max</th>
+      <th>time: min area: min</th>
+      <th>units</th>
+      <th>plot</th>
+      <th>labels</th>
+      <th>Github link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>va_tavg-al-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.nc</td>
+      <td>atmos.va.tavg-al-hxy-u.mon.glb</td>
+      <td>0.163</td>
+      <td>10.182</td>
+      <td>-6.859e+00</td>
+      <td>3.237</td>
+      <td>15.410</td>
+      <td>-4.430e+00</td>
+      <td>-2.975e+00</td>
+      <td>4.955</td>
+      <td>-1.479e+01</td>
+      <td>m s-1</td>
+      <td><a href="https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/2026-06-25/UKESM1-3-LL_images/va_tavg-al-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png">va_tavg-al-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png</a></td>
+      <td>mon aerosol CMIP6 UKESM1 HadGEM3-GC31 approved diagnostic_review_data_available</td>
+      <td><a href="https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/416">416</a></td>
+    </tr>
+    <tr>
+      <td>ua_tavg-p39-hy-air_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.nc</td>
+      <td>atmos.ua.tavg-p39-hy-air.mon.glb</td>
+      <td>6.701</td>
+      <td>38.762</td>
+      <td>-2.082e+01</td>
+      <td>30.920</td>
+      <td>108.519</td>
+      <td>-4.551e+00</td>
+      <td>-1.732e+01</td>
+      <td>25.763</td>
+      <td>-8.634e+01</td>
+      <td>m s-1</td>
+      <td><a href="https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/2026-06-25/UKESM1-3-LL_images/ua_tavg-p39-hy-air_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png">ua_tavg-p39-hy-air_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png</a></td>
+      <td>mon atmos CMIP6 UKESM1 HadGEM3-GC31 approved diagnostic_review_data_available</td>
+      <td><a href="https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/444">444</a></td>
+    </tr>
+    <tr>
+      <td>bldep_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.nc</td>
+      <td>atmos.bldep.tavg-u-hxy-u.mon.glb</td>
+      <td>820.578</td>
+      <td>1903.067</td>
+      <td>119.296</td>
+      <td>1434.874</td>
+      <td>3725.909</td>
+      <td>360.636</td>
+      <td>436.473</td>
+      <td>1254.281</td>
+      <td>23.290</td>
+      <td>m</td>
+      <td><a href="https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/2026-06-25/UKESM1-3-LL_images/bldep_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png">bldep_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png</a></td>
+      <td>mon aerosol CMIP6 UKESM1 HadGEM3-GC31 approved diagnostic_review_data_available</td>
+      <td><a href="https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/248">248</a></td>
+    </tr>
+    <tr>
+      <td>phalf_tavg-alh-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.nc</td>
+      <td>atmos.phalf.tavg-alh-hxy-u.mon.glb</td>
+      <td>96694.130</td>
+      <td>103917.070</td>
+      <td>51426.633</td>
+      <td>97701.430</td>
+      <td>105079.086</td>
+      <td>52074.324</td>
+      <td>95779.539</td>
+      <td>102931.367</td>
+      <td>50261.316</td>
+      <td>Pa</td>
+      <td><a href="https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/2026-06-25/UKESM1-3-LL_images/phalf_tavg-alh-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png">phalf_tavg-alh-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png</a></td>
+      <td>mon aerosol CMIP6 UKESM1 HadGEM3-GC31 approved</td>
+      <td><a href="https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/385">385</a></td>
+    </tr>
+    <tr>
+      <td>zg_tavg-al-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.nc</td>
+      <td>atmos.zg.tavg-al-hxy-u.mon.glb</td>
+      <td>398.254</td>
+      <td>5516.062</td>
+      <td>-2.149e+02</td>
+      <td>398.254</td>
+      <td>5516.062</td>
+      <td>-2.149e+02</td>
+      <td>398.254</td>
+      <td>5516.062</td>
+      <td>-2.149e+02</td>
+      <td>m</td>
+      <td><a href="https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/2026-06-25/UKESM1-3-LL_images/zg_tavg-al-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png">zg_tavg-al-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png</a></td>
+      <td>mon atmos CMIP6 UKESM1 HadGEM3-GC31 approved diagnostic_review_data_available</td>
+      <td><a href="https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/429">429</a></td>
+    </tr>
+    <tr>
+      <td>wetbc_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.nc</td>
+      <td>aerosol.wetbc.tavg-u-hxy-u.mon.glb</td>
+      <td>1.611e-13</td>
+      <td>5.673e-12</td>
+      <td>1.107e-17</td>
+      <td>7.780e-13</td>
+      <td>2.811e-11</td>
+      <td>6.754e-17</td>
+      <td>1.340e-14</td>
+      <td>9.014e-13</td>
+      <td>0.000e+00</td>
+      <td>kg m-2 s-1</td>
+      <td><a href="https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/2026-06-25/UKESM1-3-LL_images/wetbc_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png">wetbc_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png</a></td>
+      <td>mon aerosol CMIP6 UKESM1 approved</td>
+      <td><a href="https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/418">418</a></td>
+    </tr>
+    <tr>
+      <td>ptp_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.nc</td>
+      <td>atmos.ptp.tavg-u-hxy-u.mon.glb</td>
+      <td>19277.731</td>
+      <td>27491.902</td>
+      <td>9935.893</td>
+      <td>24302.871</td>
+      <td>37139.711</td>
+      <td>10648.192</td>
+      <td>15194.937</td>
+      <td>24067.064</td>
+      <td>8567.325</td>
+      <td>Pa</td>
+      <td><a href="https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/2026-06-25/UKESM1-3-LL_images/ptp_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png">ptp_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png</a></td>
+      <td>mon atmos CMIP6 UKESM1 HadGEM3-GC31 approved diagnostic_review_data_available</td>
+      <td><a href="https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/388">388</a></td>
+    </tr>
+    <tr>
+      <td>wetdust_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.nc</td>
+      <td>aerosol.wetdust.tavg-u-hxy-u.mon.glb</td>
+      <td>5.833e-11</td>
+      <td>2.713e-09</td>
+      <td>1.761e-14</td>
+      <td>3.264e-10</td>
+      <td>1.378e-08</td>
+      <td>7.973e-14</td>
+      <td>1.414e-12</td>
+      <td>1.570e-10</td>
+      <td>0.000e+00</td>
+      <td>kg m-2 s-1</td>
+      <td><a href="https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/2026-06-25/UKESM1-3-LL_images/wetdust_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png">wetdust_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png</a></td>
+      <td>mon aerosol CMIP6 UKESM1 HadGEM3-GC31 approved diagnostic_review_ok diagnostic_review_data_available</td>
+      <td><a href="https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/419">419</a></td>
+    </tr>
+    <tr>
+      <td>ta_tavg-p39-hy-air_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.nc</td>
+      <td>atmos.ta.tavg-p39-hy-air.mon.glb</td>
+      <td>239.321</td>
+      <td>298.876</td>
+      <td>195.281</td>
+      <td>248.428</td>
+      <td>300.123</td>
+      <td>198.611</td>
+      <td>229.288</td>
+      <td>298.170</td>
+      <td>178.315</td>
+      <td>K</td>
+      <td><a href="https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/2026-06-25/UKESM1-3-LL_images/ta_tavg-p39-hy-air_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png">ta_tavg-p39-hy-air_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png</a></td>
+      <td>mon atmos CMIP6 UKESM1 HadGEM3-GC31 approved diagnostic_review_ok diagnostic_review_data_available</td>
+      <td><a href="https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/443">443</a></td>
+    </tr>
+    <tr>
+      <td>co2_tavg-al-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.nc</td>
+      <td>atmos.co2.tavg-al-hxy-u.mon.glb</td>
+      <td>2.852e-04</td>
+      <td>3.494e-04</td>
+      <td>2.820e-04</td>
+      <td>2.913e-04</td>
+      <td>4.029e-04</td>
+      <td>2.849e-04</td>
+      <td>2.798e-04</td>
+      <td>3.334e-04</td>
+      <td>2.655e-04</td>
+      <td>mol mol-1</td>
+      <td><a href="https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/2026-06-25/UKESM1-3-LL_images/co2_tavg-al-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png">co2_tavg-al-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png</a></td>
+      <td>mon aerosol CMIP6 UKESM1 approved</td>
+      <td><a href="https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/273">273</a></td>
+    </tr>
+    <tr>
+      <td>wetoa_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.nc</td>
+      <td>aerosol.wetoa.tavg-u-hxy-u.mon.glb</td>
+      <td>3.619e-12</td>
+      <td>8.492e-11</td>
+      <td>1.086e-15</td>
+      <td>1.503e-11</td>
+      <td>3.410e-10</td>
+      <td>9.109e-15</td>
+      <td>4.158e-13</td>
+      <td>2.527e-11</td>
+      <td>0.000e+00</td>
+      <td>kg m-2 s-1</td>
+      <td><a href="https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/2026-06-25/UKESM1-3-LL_images/wetoa_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png">wetoa_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png</a></td>
+      <td>mon aerosol CMIP6 UKESM1 approved</td>
+      <td><a href="https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/425">425</a></td>
+    </tr>
+    <tr>
+      <td>va_tavg-p39-hy-air_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.nc</td>
+      <td>atmos.va.tavg-p39-hy-air.mon.glb</td>
+      <td>-3.157e-02</td>
+      <td>6.170</td>
+      <td>-1.608e+00</td>
+      <td>0.904</td>
+      <td>12.155</td>
+      <td>-4.136e-01</td>
+      <td>-1.038e+00</td>
+      <td>1.383</td>
+      <td>-7.888e+00</td>
+      <td>m s-1</td>
+      <td><a href="https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/2026-06-25/UKESM1-3-LL_images/va_tavg-p39-hy-air_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png">va_tavg-p39-hy-air_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png</a></td>
+      <td>mon aerosol CMIP6 UKESM1 HadGEM3-GC31 approved diagnostic_review_data_available</td>
+      <td><a href="https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/445">445</a></td>
+    </tr>
+    <tr>
+      <td>wetso2_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.nc</td>
+      <td>aerosol.wetso2.tavg-u-hxy-u.mon.glb</td>
+      <td>5.548e-13</td>
+      <td>3.280e-10</td>
+      <td>0.000e+00</td>
+      <td>2.172e-12</td>
+      <td>5.692e-10</td>
+      <td>0.000e+00</td>
+      <td>5.298e-14</td>
+      <td>5.598e-11</td>
+      <td>0.000e+00</td>
+      <td>kg m-2 s-1</td>
+      <td><a href="https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/2026-06-25/UKESM1-3-LL_images/wetso2_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png">wetso2_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png</a></td>
+      <td>mon aerosol CMIP6 UKESM1 approved</td>
+      <td><a href="https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/426">426</a></td>
+    </tr>
+    <tr>
+      <td>wetso4_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.nc</td>
+      <td>aerosol.wetso4.tavg-u-hxy-u.mon.glb</td>
+      <td>1.820e-12</td>
+      <td>8.216e-11</td>
+      <td>6.168e-15</td>
+      <td>6.096e-12</td>
+      <td>1.824e-10</td>
+      <td>6.891e-14</td>
+      <td>3.160e-13</td>
+      <td>1.573e-11</td>
+      <td>0.000e+00</td>
+      <td>kg m-2 s-1</td>
+      <td><a href="https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/2026-06-25/UKESM1-3-LL_images/wetso4_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png">wetso4_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png</a></td>
+      <td>mon aerosol CMIP6 UKESM1 approved</td>
+      <td><a href="https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/427">427</a></td>
+    </tr>
+    <tr>
+      <td>ua_tavg-al-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.nc</td>
+      <td>atmos.ua.tavg-al-hxy-u.mon.glb</td>
+      <td>-1.596e-01</td>
+      <td>9.098</td>
+      <td>-9.511e+00</td>
+      <td>3.606</td>
+      <td>12.854</td>
+      <td>-5.869e+00</td>
+      <td>-3.809e+00</td>
+      <td>6.422</td>
+      <td>-1.332e+01</td>
+      <td>m s-1</td>
+      <td><a href="https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/2026-06-25/UKESM1-3-LL_images/ua_tavg-al-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png">ua_tavg-al-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png</a></td>
+      <td>mon aerosol CMIP6 UKESM1 HadGEM3-GC31 approved diagnostic_review_ok diagnostic_review_data_available</td>
+      <td><a href="https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/415">415</a></td>
+    </tr>
+    <tr>
+      <td>zg_tavg-p39-hy-air_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.nc</td>
+      <td>atmos.zg.tavg-p39-hy-air.mon.glb</td>
+      <td>29850.029</td>
+      <td>73494.570</td>
+      <td>-6.724e+00</td>
+      <td>30659.448</td>
+      <td>75797.680</td>
+      <td>61.367</td>
+      <td>28982.713</td>
+      <td>73340.766</td>
+      <td>-8.463e+01</td>
+      <td>m</td>
+      <td><a href="https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/2026-06-25/UKESM1-3-LL_images/zg_tavg-p39-hy-air_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png">zg_tavg-p39-hy-air_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png</a></td>
+      <td>mon atmos CMIP6 UKESM1 HadGEM3-GC31 approved diagnostic_review_data_available</td>
+      <td><a href="https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/447">447</a></td>
+    </tr>
+    <tr>
+      <td>pfull_tavg-al-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.nc</td>
+      <td>atmos.pfull.tavg-al-hxy-u.mon.glb</td>
+      <td>96579.565</td>
+      <td>103792.633</td>
+      <td>51401.375</td>
+      <td>97584.305</td>
+      <td>104950.445</td>
+      <td>52049.684</td>
+      <td>95666.367</td>
+      <td>102812.039</td>
+      <td>50235.602</td>
+      <td>Pa</td>
+      <td><a href="https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/2026-06-25/UKESM1-3-LL_images/pfull_tavg-al-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png">pfull_tavg-al-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png</a></td>
+      <td>mon aerosol CMIP6 UKESM1 HadGEM3-GC31 approved diagnostic_review_ok diagnostic_review_data_available</td>
+      <td><a href="https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/384">384</a></td>
+    </tr>
+    <tr>
+      <td>wetss_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.nc</td>
+      <td>aerosol.wetss.tavg-u-hxy-u.mon.glb</td>
+      <td>1.280e-10</td>
+      <td>1.635e-09</td>
+      <td>2.623e-14</td>
+      <td>3.744e-10</td>
+      <td>3.289e-09</td>
+      <td>1.537e-13</td>
+      <td>2.651e-11</td>
+      <td>6.079e-10</td>
+      <td>0.000e+00</td>
+      <td>kg m-2 s-1</td>
+      <td><a href="https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/2026-06-25/UKESM1-3-LL_images/wetss_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png">wetss_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png</a></td>
+      <td>mon aerosol CMIP6 UKESM1 approved</td>
+      <td><a href="https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/428">428</a></td>
+    </tr>
+    <tr>
+      <td>ztp_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.nc</td>
+      <td>atmos.ztp.tavg-u-hxy-u.mon.glb</td>
+      <td>12366.287</td>
+      <td>16604.713</td>
+      <td>9244.058</td>
+      <td>13873.902</td>
+      <td>17422.957</td>
+      <td>10005.728</td>
+      <td>10832.738</td>
+      <td>16213.036</td>
+      <td>6987.858</td>
+      <td>m</td>
+      <td><a href="https://gws-access.jasmin.ac.uk/public/cmip6_prep/cmip7_diagnostic_review/2026-06-25/UKESM1-3-LL_images/ztp_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png">ztp_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_190501-190912.png</a></td>
+      <td>mon atmos CMIP6 UKESM1 HadGEM3-GC31 approved diagnostic_review_data_available</td>
+      <td><a href="https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/430">430</a></td>
+    </tr>
+  </tbody>
+</table></body></html>
