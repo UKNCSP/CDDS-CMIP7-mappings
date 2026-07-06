@@ -53,10 +53,10 @@ If approving a variable please apply the appropriate label otherwise the automat
 
 | Atmosphere (all models together) | Ocean/sea ice (UKCM2) | Ocean/sea ice/biogeochemistry (UKESM1) |
 |---|---|---|
-| diagnostic_review_data_available | diagnostic_review_data_available_OI_UKCM2 | diagnostic_review_data_available_OI_UKESM |
-| diagnostic_review_inspection_required | diagnostic_review_inspection_required_OI_UKCM2 | diagnostic_review_inspection_required_OI_UKESM |
-| diagnostic_review_data_ok | diagnostic_review_data_ok_OI_UKCM2 | diagnostic_review_data_ok_OI_UKESM |
-| diagnostic_review_data_failed | diagnostic_review_data_failed_OI_UKCM2 | diagnostic_review_data_failed_OI_UKESM |
+| [diagnostic_review_data_available](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues?q=is%3Aissue%20state%3Aopen%20label%3Adiagnostic_review_data_available) | [diagnostic_review_data_available_OI_UKCM2](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues?q=is%3Aissue%20state%3Aopen%20label%3Adiagnostic_review_available_OI_UKCM2) | [diagnostic_review_data_available_OI_UKESM](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues?q=is%3Aissue%20state%3Aopen%20label%3Adiagnostic_review_available_OI_UKESM) |
+| [diagnostic_review_inspection_required](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues?q=is%3Aissue%20state%3Aopen%20label%3Adiagnostic_review_inspection_required) | [diagnostic_review_inspection_required_OI_UKCM2](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues?q=is%3Aissue%20state%3Aopen%20label%3Adiagnostic_review_inspection_required_OI_UKCM2) | [diagnostic_review_inspection_required_OI_UKESM](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues?q=is%3Aissue%20state%3Aopen%20label%3Adiagnostic_review_inspection_required_OI_UKESM) |
+| [diagnostic_review_ok](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues?q=is%3Aissue%20state%3Aopen%20label%3Adiagnostic_review_ok) | [diagnostic_review_ok_OI_UKCM2](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues?q=is%3Aissue%20state%3Aopen%20label%3Adiagnostic_review_ok_OI_UKCM2) | [diagnostic_review_ok_OI_UKESM](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues?q=is%3Aissue%20state%3Aopen%20label%3Adiagnostic_review_ok_OI_UKESM) |
+| [diagnostic_review_failed](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues?q=is%3Aissue%20state%3Aopen%20label%3Adiagnostic_review_failed) | [diagnostic_review_failed_OI_UKCM2](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues?q=is%3Aissue%20state%3Aopen%20label%3Adiagnostic_review_failed_OI_UKCM2) | [diagnostic_review_failed_OI_UKESM](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues?q=is%3Aissue%20state%3Aopen%20label%3Adiagnostic_review_failed_OI_UKESM) |
 
 ### Automatic review of data
 
