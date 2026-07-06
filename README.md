@@ -43,10 +43,36 @@ If a diagnostic is not acceptable
 
 We should be in touch to identify the problem and work out whether it can be fixed.
 
-Links:
+**IMPORTANT: if you change a mapping once diagnostic review has been performed PLEASE contact us [by email](mailto:cdds@metoffice.gov.uk) indicating which issues & variables are affected. We will likely need to remove the diagnostic review labels and consider impacts on processed/published data. 
+
+### Ocean/Sea Ice/Ocean biogeochemistry diagnostics
+
+As there are substantial differences between the ocean and sea ice components used in UKESM1 and UKCM2 based models the diagnostic review indicators have been split into separate groups.
+
+If approving a variable please apply the appropriate label otherwise the automations that lead to data production may miss variables.
+
+|= Atmosphere (all models together) =|= Ocean/sea ice (UKCM2*) =|= Ocean/sea ice/biogeochemistry (UKESM1) =|
+|---|---|---|
+| diagnostic_review_data_available | diagnostic_review_data_available_OI_UKCM2 | diagnostic_review_data_available_OI_UKESM |
+| diagnostic_review_inspection_required | diagnostic_review_inspection_required_OI_UKCM2 | diagnostic_review_inspection_required_OI_UKESM |
+| diagnostic_review_data_ok | diagnostic_review_data_ok_OI_UKCM2 | diagnostic_review_data_ok_OI_UKESM |
+| diagnostic_review_data_failed | diagnostic_review_data_failed_OI_UKCM2 | diagnostic_review_data_failed_OI_UKESM |
+
+### Automatic review of data
+
+As the process of reviewing so many variables is expensive in user time we have automated the review of diagnostics where there is corresponding CMIP6 data available.
+This process will not catch every small detail, but given how we are building on CMIP6 this should not lead to many issues.
+
+Variables which have data that is reasonably similar to that for the equivalent CMIP6 experiment (based on global min, mean, max values) will be automatically marked with `diagnostic_review_ok`/`diagnostic_review_ok_OI_UKCM2`/`diagnostic_review_ok_OI_UKESM` as appropriate.
+
+### Links:
 * [List of diagnostics with data available for review](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues?q=is%3Aissue%20state%3Aopen%20label%3Adiagnostic_review_data_available)
 * [List of approved diagnostics](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues?q=is%3Aissue%20state%3Aopen%20label%3Adiagnostic_review_ok)
 * [List of diagnostics that have failed review](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues?q=is%3Aissue%20state%3Aopen%20label%3Adiagnostic_review_failed)
+
+
+
+
 ## Mapping and STASH information 
 
 Information is being held for each mapping in the body of github issues, e.g. [#67](https://github.com/UKNCSP/CDDS-CMIP7-mappings/issues/67) contains the information for 
