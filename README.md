@@ -51,7 +51,7 @@ As there are substantial differences between the ocean and sea ice components us
 
 If approving a variable please apply the appropriate label otherwise the automations that lead to data production may miss variables.
 
-|= Atmosphere (all models together) =|= Ocean/sea ice (UKCM2*) =|= Ocean/sea ice/biogeochemistry (UKESM1) =|
+| Atmosphere (all models together) | Ocean/sea ice (UKCM2) | Ocean/sea ice/biogeochemistry (UKESM1) |
 |---|---|---|
 | diagnostic_review_data_available | diagnostic_review_data_available_OI_UKCM2 | diagnostic_review_data_available_OI_UKESM |
 | diagnostic_review_inspection_required | diagnostic_review_inspection_required_OI_UKCM2 | diagnostic_review_inspection_required_OI_UKESM |
