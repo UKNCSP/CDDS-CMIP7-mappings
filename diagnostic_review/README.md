@@ -1,0 +1,18 @@
+## CDDS CMIP7 Diagnostic Review
+
+To ensure that the data we publish is being correctly produced we require sample data to be approved before the corresponding variable can be published. We are attempting to run a similar process to that run in CMIP6, but with some shortcuts.
+
+The process of reviewing so many variables is expensive in user time, hence we have automated the review of diagnostics where there is corresponding CMIP6 data available. This process will not catch every small detail, but given how we are building on CMIP6 this should not lead to many issues.
+
+## The Automated diagnostic Review Process
+
+A regular intervals, members of the CDDS team will produce sample CMIP7 data for a selection of variables listed on the repository (assuming that they have the required mappings and model information listed) over a reasonable time interval (typically 10 years). This sample data is then processed via diagnostic_review/review_diagnostic_data.py which calculates the following key values:
+- The area mean, minimum and maximum of the time mean
+- The area mean, minimum and maximum of the time minimum 
+- The area mean, minimum and maximum of the time maximum
+
+These values are then printed into a summary CSV file which makes a note of the CMIP7 filename that has been processed, the variable and the above information. These summary CSV files should be separated by model, experiment and time range to ensure that it is clear how the variable is produced (this information should also be visible in the filename.) This script will also produce a plot to represent this data which is then saved locally and uploaded to JASMIN where it is accessible to view and linked from the [Diagnostic Review Index](https://ukncsp.github.io/CDDS-CMIP7-mappings/).
+
+The summary csv produced in this process is then used in an a different script (not available on this repository) that uses the mappings information for a given variable to identify corresponding CMIP6 data for the same variable, model and experiments then executes the same time mean and area mean calculations. These CMIP6 values are then compared with the CMIP7 values mentioned previously and a "similarity score" is calculated for the overall time mean, time maximum and time minimum. This similarity score is essentially a percentage overlap in the data (focussing on the time mean) where a score of 100 indicates an exact match between the CMIP6 and CMIP7 sample data and a score of 0 represents no overlap or similarity. As a part of this process, a further plot is generated overlaying a two polygons (one representing CMIP6 and one representing CMIP7 data) with each vertex representing the area mean of the time mean, time maximum and time minimum. This serves as a visual comparison of the 2 datasets. 
+
+Variables which have data that is reasonably similar to that for the equivalent CMIP6 experiment (based on global min, mean, max values) will be automatically marked with diagnostic_review_ok/diagnostic_review_ok_OI_UKCM2/diagnostic_review_ok_OI_UKESM as appropriate. Any variables that have a similarity score that falls below the chosen threshold (typically 60%) are marked with diagnostic_review_inspection_required/diagnostic_review_inspection_required_OI_UKCM2/diagnostic_review_inspection_required_OI_UKESM as appropriate. If no appropriate CMIP6 data can be found, a note of this is made on the issue and only the label diagnostic_review_data_available/diagnostic_review_data_available_OI_UKCM2/diagnostic_review_data_available_OI_UKESM is applied.
