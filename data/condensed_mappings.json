@@ -153,8 +153,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -1484,7 +1484,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -1502,7 +1503,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved_UKESM",
-      "approved_UKCM2"
+      "approved_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -1520,7 +1522,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved_UKESM",
-      "approved_UKCM2"
+      "approved_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -1538,7 +1541,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved_UKESM",
-      "approved_UKCM2"
+      "approved_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -2841,7 +2845,8 @@
       "seaIce",
       "CMIP6",
       "approved_UKESM",
-      "approved_UKCM2"
+      "approved_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -4331,7 +4336,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -4387,7 +4393,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -4419,7 +4426,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -5046,7 +5054,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -5296,7 +5305,8 @@
     "labels": [
       "mon",
       "ocean",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -5312,7 +5322,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -5328,7 +5339,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -5491,7 +5503,8 @@
       "mon",
       "ocnBgchem",
       "CMIP6",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -5507,7 +5520,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -5523,7 +5537,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -5579,7 +5594,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -5635,7 +5651,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -5651,7 +5668,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -5691,7 +5709,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -5836,7 +5855,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -5852,7 +5872,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -5868,7 +5889,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -5884,7 +5906,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -6499,7 +6522,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -7128,7 +7152,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -7263,7 +7288,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -7312,7 +7338,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available_OI_UKCM2"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -7374,7 +7401,8 @@
       "mon",
       "ocnBgchem",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -7389,7 +7417,8 @@
       "mon",
       "ocnBgchem",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -7404,7 +7433,8 @@
       "mon",
       "ocnBgchem",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -7419,7 +7449,8 @@
       "mon",
       "ocnBgchem",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -7433,7 +7464,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -7447,7 +7479,8 @@
     "labels": [
       "mon",
       "ocnBgchem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -7463,7 +7496,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -7635,7 +7669,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -7691,7 +7726,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -7755,7 +7791,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -7771,7 +7808,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -7787,7 +7825,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -7827,7 +7866,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -7955,7 +7995,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -9028,11 +9069,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -9066,11 +9109,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -9082,11 +9127,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -9099,11 +9146,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -9115,11 +9164,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -9143,11 +9194,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -9183,11 +9236,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -9199,11 +9254,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -9325,8 +9382,8 @@
       "CMIP6"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -9340,11 +9397,13 @@
       "UKESM1",
       "HadGEM3-GC31",
       "BCV",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -9357,11 +9416,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -9373,11 +9434,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -9392,8 +9455,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -9496,11 +9559,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -9512,11 +9577,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -9528,11 +9595,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -9544,11 +9613,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available",
+      "diagnostic_review_inspection_required"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -9572,11 +9643,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -9600,11 +9673,12 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -9617,11 +9691,12 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -9646,11 +9721,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -9687,7 +9764,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -9718,7 +9796,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -9771,7 +9850,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -9790,7 +9870,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -9809,7 +9891,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -9828,7 +9911,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -9847,7 +9931,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available",
+      "diagnostic_review_inspection_required"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -9924,7 +10010,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -9943,7 +10030,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -9990,7 +10079,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -10009,7 +10099,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -10082,7 +10173,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -10113,7 +10205,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -10147,7 +10240,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -10166,7 +10260,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -10216,7 +10311,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -11849,8 +11945,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -11864,8 +11960,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -11879,8 +11975,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -11894,8 +11990,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -11909,8 +12005,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -11935,8 +12031,8 @@
       "CMIP6"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -11964,8 +12060,8 @@
       "approved_UKESM"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -12026,8 +12122,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -12677,11 +12773,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -12696,8 +12794,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -12712,8 +12810,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -12725,11 +12823,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -12742,11 +12842,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -12802,8 +12904,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -12819,8 +12921,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -12835,8 +12937,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -12851,8 +12953,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -12868,8 +12970,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -13158,8 +13260,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -13205,7 +13307,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -13260,7 +13363,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -13653,8 +13757,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -13681,8 +13785,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -13733,8 +13837,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -13818,11 +13922,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -13834,11 +13940,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -13884,8 +13992,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -13912,8 +14020,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -13940,8 +14048,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -13956,8 +14064,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -13994,11 +14102,12 @@
       "CMIP6",
       "UKESM1",
       "approved",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14022,11 +14131,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14041,8 +14152,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14054,11 +14165,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14073,8 +14186,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14134,11 +14247,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14189,8 +14304,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14202,11 +14317,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14305,11 +14422,13 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14324,8 +14443,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14471,8 +14590,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14487,8 +14606,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14503,8 +14622,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14519,8 +14638,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14559,8 +14678,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14575,8 +14694,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14591,8 +14710,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14607,8 +14726,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14623,8 +14742,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14640,8 +14759,8 @@
       "approved_UKESM"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14736,8 +14855,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14749,11 +14868,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14768,8 +14889,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14781,11 +14902,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14797,11 +14920,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14816,8 +14941,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14841,11 +14966,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14860,8 +14987,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14884,11 +15011,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14917,8 +15046,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -14969,8 +15098,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -15006,11 +15135,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available",
+      "diagnostic_review_inspection_required"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -15046,11 +15177,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -15089,8 +15222,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -15126,11 +15259,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -15145,8 +15280,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -15250,11 +15385,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -15266,11 +15403,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -15282,11 +15421,12 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -15301,8 +15441,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -15550,8 +15690,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -15566,8 +15706,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -15582,8 +15722,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -15595,11 +15735,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -15647,11 +15789,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -15711,11 +15855,13 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -16355,7 +16501,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -16505,7 +16652,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available_OI_UKCM2",
+      "diagnostic_review_ok_OI_UKCM2"
     ],
     "models_in_stash": [],
     "stream": ""
@@ -16824,7 +16973,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -17097,8 +17247,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap6"
   },
@@ -17124,8 +17274,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap6"
   },
@@ -17151,8 +17301,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap6"
   },
@@ -17210,8 +17360,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap6"
   },
@@ -17424,8 +17574,8 @@
       "approved_UKESM"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap6"
   },
@@ -20385,7 +20535,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -20404,7 +20555,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -20423,7 +20576,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -20442,7 +20596,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -20461,7 +20617,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -20480,7 +20637,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -20499,7 +20658,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -20518,7 +20678,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -20577,7 +20739,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -20617,7 +20780,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -20657,7 +20821,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -20676,7 +20841,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -20695,7 +20862,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -20714,7 +20882,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -20755,7 +20925,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
-      "suspected error"
+      "suspected error",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -20775,7 +20946,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
-      "suspected error"
+      "suspected error",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -21111,7 +21283,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -21576,7 +21750,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -22569,11 +22745,12 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -22591,8 +22768,8 @@
       "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -22605,11 +22782,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -22627,8 +22806,8 @@
       "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -22646,8 +22825,8 @@
       "diagnostic_review_inspection_required"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -22660,11 +22839,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -22677,11 +22858,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -22694,11 +22877,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -22723,11 +22908,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -22745,8 +22932,8 @@
       "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -22759,11 +22946,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -22815,11 +23004,12 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -22831,11 +23021,13 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -22847,11 +23039,13 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -22863,11 +23057,12 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -22879,11 +23074,12 @@
       "aerosol",
       "atmosChem",
       "CMIP6",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -22928,11 +23124,12 @@
     "labels": [
       "mon",
       "atmosChem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -22965,11 +23162,12 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -23056,11 +23254,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -23081,11 +23281,12 @@
     "labels": [
       "mon",
       "atmosChem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -23098,8 +23299,8 @@
       "approved_UKESM"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -23128,8 +23329,8 @@
       "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -23236,8 +23437,8 @@
       "approved_UKESM"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -23250,8 +23451,8 @@
       "approved_UKESM"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -23261,11 +23462,12 @@
     "labels": [
       "mon",
       "atmosChem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -23295,11 +23497,12 @@
     "labels": [
       "mon",
       "atmosChem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -23332,8 +23535,8 @@
       "approved_UKESM"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -23346,8 +23549,8 @@
       "approved_UKESM"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -23357,11 +23560,12 @@
     "labels": [
       "mon",
       "atmosChem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -23391,11 +23595,12 @@
     "labels": [
       "mon",
       "atmosChem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -23498,11 +23703,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -23515,7 +23722,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -23555,11 +23764,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -23572,11 +23783,12 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -23809,11 +24021,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -23826,11 +24040,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -23840,11 +24056,12 @@
     "labels": [
       "mon",
       "atmosChem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -23862,8 +24079,8 @@
       "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -23876,11 +24093,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -23893,11 +24112,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -23927,8 +24148,8 @@
       "diagnostic_review_inspection_required"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -24129,11 +24350,13 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -24146,8 +24369,8 @@
       "approved_UKESM"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -24193,11 +24416,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -24210,11 +24435,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -24227,11 +24454,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -24244,11 +24473,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -24261,11 +24492,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -24300,11 +24533,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available",
+      "diagnostic_review_inspection_required"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -24317,11 +24552,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -24359,11 +24596,11 @@
       "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "HadGEM3-GC5",
-      "UKESM2",
+      "HadGEM3-GC31",
       "UKESM1",
       "UKESM1-3",
-      "HadGEM3-GC31"
+      "UKESM2",
+      "HadGEM3-GC5"
     ],
     "stream": "ap4"
   },
@@ -24387,8 +24624,8 @@
       "approved_UKESM"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -24401,11 +24638,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -24477,11 +24716,13 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -24494,11 +24735,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -24509,11 +24752,12 @@
       "mon",
       "aerosol",
       "CMIP6",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -24532,8 +24776,8 @@
       "diagnostic_review_inspection_required"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -24628,11 +24872,13 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -24642,11 +24888,12 @@
     "labels": [
       "mon",
       "atmosChem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -24656,11 +24903,12 @@
     "labels": [
       "mon",
       "atmosChem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -24681,11 +24929,12 @@
     "labels": [
       "mon",
       "atmosChem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -24706,11 +24955,12 @@
     "labels": [
       "mon",
       "atmosChem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -24748,8 +24998,8 @@
       "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -24878,11 +25128,12 @@
     "labels": [
       "mon",
       "atmosChem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -24952,11 +25203,13 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -24968,11 +25221,13 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -24984,11 +25239,13 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available",
+      "diagnostic_review_inspection_required"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -25000,11 +25257,13 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -25017,11 +25276,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -25033,11 +25294,12 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -25087,11 +25349,12 @@
     "labels": [
       "mon",
       "atmosChem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -25135,11 +25398,13 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -25149,11 +25414,12 @@
     "labels": [
       "mon",
       "atmosChem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -25223,11 +25489,13 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -25240,11 +25508,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -25339,11 +25609,12 @@
     "labels": [
       "mon",
       "atmosChem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -25373,7 +25644,8 @@
     "labels": [
       "mon",
       "atmosChem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1-3"
@@ -25389,11 +25661,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available",
+      "diagnostic_review_inspection_required"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -25403,11 +25677,12 @@
     "labels": [
       "mon",
       "atmosChem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -25420,11 +25695,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -25514,11 +25791,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -25532,8 +25811,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -25546,11 +25825,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -25798,8 +26079,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap9"
   },
@@ -25815,8 +26096,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap9"
   },
@@ -25849,8 +26130,8 @@
       "approved_UKESM"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
@@ -25947,8 +26228,8 @@
       "approved_UKESM"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap6"
   },
@@ -26006,8 +26287,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap6"
   },
@@ -26082,8 +26363,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap6"
   },
@@ -26290,8 +26571,8 @@
       "approved_UKESM"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap6"
   },
@@ -26346,8 +26627,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap6"
   },
@@ -26898,7 +27179,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -26917,7 +27199,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -26936,7 +27219,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -26954,7 +27238,8 @@
       "atmos",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -26973,7 +27258,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -26992,7 +27278,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -27011,7 +27298,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -27029,7 +27317,8 @@
       "atmos",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -27047,7 +27336,8 @@
       "atmos",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -27066,7 +27356,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -27084,7 +27375,8 @@
       "atmos",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -27102,7 +27394,8 @@
       "atmos",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -27120,7 +27413,8 @@
       "atmos",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -27150,7 +27444,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -27168,7 +27463,8 @@
       "atmos",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -28514,7 +28810,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -29025,11 +29322,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -29057,8 +29356,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -29083,11 +29382,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available",
+      "diagnostic_review_inspection_required"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -29101,7 +29402,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
-      "suspected error"
+      "suspected error",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
       "UKESM1",
@@ -29266,8 +29568,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -29282,8 +29584,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -29295,11 +29597,13 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -29556,8 +29860,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -29582,11 +29886,13 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available",
+      "diagnostic_review_inspection_required"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -29602,8 +29908,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
@@ -29619,8 +29925,8 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM1"
+      "UKESM1",
+      "UKESM1-3"
     ],
     "stream": "ap5"
   },
