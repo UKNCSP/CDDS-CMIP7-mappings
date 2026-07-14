@@ -8,16 +8,20 @@ from textwrap import dedent
 from dr_issue import DRIssue
 
 
-def map_variable_to_issue_num(data):
+def map_variable_to_issue_num(data) -> dict:
+    """Generates a dictionary mapping the branded variable name to the corresponding issue number(s). There will be
+    multiple issue numbers if a variable has multiple issues for different frequencies."""
     issue_numbers = {}
     for d in data:
+        # Skip any non variable issues or variables labelled as do-not-produce.
         if not d['title'].startswith('Variable') or 'do-not-produce' in [i['name'] for i in d['labels']]:
             continue
-        unbranded_var = "_".join(d['title'].split(".")[1:3])
-        if unbranded_var in issue_numbers:
-            issue_numbers[unbranded_var].append(d['number'])
+
+        branded_var = "_".join(d['title'].split(".")[1:3])
+        if branded_var in issue_numbers:
+            issue_numbers[branded_var].append(d['number'])
         else:
-            issue_numbers[unbranded_var] = [d['number']]
+            issue_numbers[branded_var] = [d['number']]
 
     return issue_numbers
 
@@ -45,7 +49,8 @@ def main():
         if 'do-not-produce' in [i['name'] for i in d['labels']]:
             continue
 
-        # Build the mapping entry, skip the issue if there is no model information
+        # Build the mapping entry and note the correspondng issue number(s) as a comment at the end of each entry, skip
+        # the issue if there is no model information.
         x = DRIssue()
         try:
             x.read_text(d['body'])
@@ -72,6 +77,8 @@ def main():
     with open(f'{location}/issues.txt', 'w') as fh:
         for r in check:
             for v in check[r]:
+                # If there are multiple different mappings for a single branded variable note it in issues txt, this
+                # variable mapping will be skipped
                 if len(set(check[r][v])) != 1:
                     counter += 1
                     fh.write(f'{counter} {r} {v}  {len(check[r][v])}  {len(set(check[r][v]))}\n')
