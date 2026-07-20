@@ -20,7 +20,7 @@ if __name__ == '__main__':
         data = [row for row in reader]
 
     # List of models to consider (names in the 'Model' column of the spreadsheet).
-    models = ['HadGEM3-GC31', 'HadGEM3-GC5', 'UKESM1', 'UKESM1-3']
+    models = ['HadGEM3-GC31', 'UKCM2', 'UKESM1', 'UKESM1-3']
     for model in models:
 
         iaddress = 0
@@ -41,7 +41,7 @@ if __name__ == '__main__':
                 # Is this entry approved?  Note that some entries have 'TRUE' in lower case.
                 if d['approved'].upper() == 'TRUE' \
                     or ('UKESM' in d['Model'] and d['approved_UKESM'].upper() == 'TRUE') \
-                    or ('HadGEM3' in d['Model'] and d['approved_HadGEM'].upper() == 'TRUE'):
+                    or ('HadGEM3' in d['Model'] and d['approved_HadGEM'].upper() == 'TRUE'):  # Update to UKCM2?
                     iapproved += 1
 
                     # Add the variables we're interested in to the set of unique entries.

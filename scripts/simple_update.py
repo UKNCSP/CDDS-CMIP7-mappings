@@ -25,7 +25,7 @@ if __name__ == '__main__':
                 newlines.append(line2)
             
             if 'HadGEM3-GC31' in line:
-                line2 = line.replace("HadGEM3-GC31", "HadGEM3-GC5")
+                line2 = line.replace("HadGEM3-GC31", "HadGEM3-GC5")  # Update to UKCM2?
                 newlines.append(line2)
             
         with open(filename, 'w') as fh:
