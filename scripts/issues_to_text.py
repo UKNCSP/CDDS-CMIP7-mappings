@@ -216,7 +216,7 @@ if __name__ == '__main__':
         'usage_profile',
         'approved',
         'approved_UKESM',
-        'approved_HadGEM'  # Should this also be updated?
+        'approved_UKCM2'
     ]
     stash_csv = [stash_headings]
     for entry in results:
@@ -238,7 +238,7 @@ if __name__ == '__main__':
             line += [
                 'approved' in entry['labels'],
                 'approved_UKESM' in entry['labels'],
-                'approved_HadGEM' in entry['labels']]  # Update to approved_UKCM2?
+                'approved_UKCM2' in entry['labels']]
             stash_csv.append(line)
 
     with open(os.path.join(output_dir, 'stash.csv'), 'w') as fh:
