@@ -1,5 +1,8 @@
 [![Update data files](https://github.com/UKNCSP/CDDS-CMIP7-mappings/actions/workflows/update_data_csv_json.yml/badge.svg)](https://github.com/UKNCSP/CDDS-CMIP7-mappings/actions/workflows/update_data_csv_json.yml)
+
 **WARNING: UPDATE TO DATA REQUEST v1.2.2.4/5 DUE BY MID JULY** 
+
+**IN PROGRESS: Updates to all variable type issues that contain 'HadGEM3-GC5'. All references to 'HadGEM3-GC5' will be replaced with 'UKCM2'. An update will follow upon completion.**
 
 # UKNCSP CDDS-CMIP7-mappings 
 
