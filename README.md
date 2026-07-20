@@ -2,9 +2,9 @@
 
 **WARNING: UPDATE TO DATA REQUEST v1.2.2.4/5 DUE BY MID JULY** 
 
-**IN PROGRESS: Updates to all variable type issues that contain 'HadGEM3-GC5'. All references to 'HadGEM3-GC5' will be replaced with 'UKCM2'. An update will follow upon completion.**
-
 # UKNCSP CDDS-CMIP7-mappings 
+
+**UPDATE 20/07/26: All references to 'HadGEM3-GC5' in variable issues updated to 'UKCM2'.**
 
 **UPDATE 13/02/26: Initial Diagnostic Review data available via https://ukncsp.github.io/CDDS-CMIP7-mappings/**
 
