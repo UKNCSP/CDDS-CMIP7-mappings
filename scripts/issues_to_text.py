@@ -160,7 +160,7 @@ if __name__ == '__main__':
     order_labels = ['labels']
     order_dr = sorted(list(results[0]['Data Request information'].keys()))
 
-    order_mapping = ['Expression HadGEM3-GC31', 'Expression HadGEM3-GC5', 'Expression UKESM1', 'Expression UKESM1-3',
+    order_mapping = ['Expression HadGEM3-GC31', 'Expression UKCM2', 'Expression UKESM1', 'Expression UKESM1-3',
                      'Expression UKESM2', 'Model units']
     found_order_mapping = [i for i in sorted(list(all_mapping_keys)) if ('Expression' in i or 'units' in i)]
     for i in found_order_mapping:
@@ -216,7 +216,7 @@ if __name__ == '__main__':
         'usage_profile',
         'approved',
         'approved_UKESM',
-        'approved_HadGEM'
+        'approved_UKCM2'
     ]
     stash_csv = [stash_headings]
     for entry in results:
@@ -238,7 +238,7 @@ if __name__ == '__main__':
             line += [
                 'approved' in entry['labels'],
                 'approved_UKESM' in entry['labels'],
-                'approved_HadGEM' in entry['labels']]
+                'approved_UKCM2' in entry['labels']]
             stash_csv.append(line)
 
     with open(os.path.join(output_dir, 'stash.csv'), 'w') as fh:
