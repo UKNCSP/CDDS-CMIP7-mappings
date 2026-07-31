@@ -40455,6 +40455,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_data_available_OI_UKCM2",
       "diagnostic_review_ok_OI_UKCM2",
       "diagnostic_review_data_available_OI_UKESM",
       "diagnostic_review_ok_OI_UKESM"
@@ -53880,7 +53881,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
-      "diagnostic_review_ok"
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.ta.tavg-850hPa-hxy-air.day.glb (Eday.ta850)"
   },
