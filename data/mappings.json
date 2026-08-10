@@ -16975,7 +16975,9 @@
       "HadGEM3-GC31",
       "approved",
       "diagnostic_review_data_available_OI_UKCM2",
-      "diagnostic_review_ok_OI_UKCM2"
+      "diagnostic_review_ok_OI_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocean.mlotstsq.tavg-u-hxy-sea.mon.glb (Omon.mlotstsq)"
   },
@@ -19869,7 +19871,9 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
-      "diagnostic_review_data_available_OI_UKCM2"
+      "diagnostic_review_data_available_OI_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.fgdms.tavg-u-hxy-sea.mon.glb (Omon.fgdms)"
   },
@@ -20315,7 +20319,9 @@
       "HadGEM3-GC31",
       "approved",
       "diagnostic_review_data_available_OI_UKCM2",
-      "diagnostic_review_inspection_required_OI_UKCM2"
+      "diagnostic_review_inspection_required_OI_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocean.evspsbl.tavg-u-hxy-ifs.mon.glb (Omon.evs)"
   },
@@ -20393,7 +20399,9 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.epp.tavg-d100m-hxy-sea.mon.glb (Omon.epp100)"
   },
@@ -20431,7 +20439,9 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.epn.tavg-d100m-hxy-sea.mon.glb (Omon.epn100)"
   },
@@ -51282,7 +51292,9 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "diagnostic_review_data_available",
+      "diagnostic_review_inspection_required"
     ],
     "title": "Variable atmos.zg.tavg-p39-hy-air.day.glb (EdayZ.zg)"
   },
@@ -80081,7 +80093,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.phalf.tavg-alh-hxy-u.day.glb (CFday.phalf)"
   },
@@ -80944,7 +80958,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available",
+      "diagnostic_review_inspection_required"
     ],
     "title": "Variable atmos.clw.tavg-al-hxy-u.day.glb (CFday.clw)"
   },
@@ -81537,7 +81553,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.clisccp.tavg-p7c-hxy-air.day.glb (CFday.clisccp)"
   },
@@ -81640,7 +81658,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available",
+      "diagnostic_review_inspection_required"
     ],
     "title": "Variable atmos.cli.tavg-al-hxy-u.day.glb (CFday.cli)"
   },
