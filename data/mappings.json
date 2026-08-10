@@ -14271,7 +14271,7 @@
       "Expression HadGEM3-GC31": "mask_copy(tauvo, mask_3D_V[depth<1])",
       "Expression UKCM2": "mask_copy(tauvo, mask_3D_V[depth<1])",
       "Expression UKESM1": "mask_copy(tauvo, mask_3D_V[depth<1])",
-      "Expression UKESM1-3": "mask_copy(tauvo, mask_3D_V[depth=0])",
+      "Expression UKESM1-3": "mask_copy(tauvo, mask_3D_V[depth<1])",
       "Model units": "N m-2"
     },
     "STASH entries": [],
@@ -14315,7 +14315,7 @@
       "Expression HadGEM3-GC31": "mask_copy(tauuo, mask_3D_U[depth<1])",
       "Expression UKCM2": "mask_copy(tauuo, mask_3D_U[depth<1])",
       "Expression UKESM1": "mask_copy(tauuo, mask_3D_U[depth<1])",
-      "Expression UKESM1-3": "mask_copy(tauuo, mask_3D_U[depth=0])",
+      "Expression UKESM1-3": "mask_copy(tauuo, mask_3D_U[depth<1])",
       "Model units": "N m-2"
     },
     "STASH entries": [],
