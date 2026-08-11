@@ -5241,8 +5241,8 @@
       "BCV",
       "approved_UKESM",
       "approved_UKCM2",
-      "diagnostic_review_ok",
-      "diagnostic_review_data_available",
+      "diagnostic_review_data_available_OI_UKCM2",
+      "diagnostic_review_ok_OI_UKCM2",
       "diagnostic_review_data_available_OI_UKESM",
       "diagnostic_review_ok_OI_UKESM"
     ],
@@ -7620,7 +7620,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
-      "diagnostic_review_data_available_OI_UKCM2"
+      "diagnostic_review_data_available_OI_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable seaIce.siflsenstop.tavg-u-hxy-si.mon.glb (SImon.siflsenstop)"
   },
@@ -8351,7 +8352,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
-      "diagnostic_review_data_available_OI_UKCM2"
+      "diagnostic_review_data_available_OI_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable seaIce.sidragtop.tavg-u-hxy-si.mon.glb (SImon.sidragtop)"
   },
@@ -9618,7 +9620,7 @@
       "HadGEM3-GC31",
       "approved_UKESM",
       "approved_UKCM2",
-      "diagnostic_review_data_available"
+      "diagnostic_review_data_available_OI_UKCM2"
     ],
     "title": "Variable seaIce.sithick.tavg-u-hxy-si.day.glb (SIday.sithick)"
   },
@@ -12612,7 +12614,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
-      "diagnostic_review_data_available_OI_UKCM2"
+      "diagnostic_review_data_available_OI_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocean.zossq.tavg-u-hxy-sea.mon.glb (Omon.zossq)"
   },
@@ -14580,7 +14583,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
-      "diagnostic_review_data_available_OI_UKCM2"
+      "diagnostic_review_data_available_OI_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocean.sossq.tavg-u-hxy-sea.mon.glb (Omon.sossq)"
   },
@@ -15224,7 +15228,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
-      "diagnostic_review_data_available"
+      "diagnostic_review_data_available_OI_UKCM2"
     ],
     "title": "Variable ocean.sfdsi.tavg-u-hxy-sea.mon.glb (Omon.sfdsi)"
   },
@@ -16222,7 +16226,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
-      "diagnostic_review_data_available_OI_UKCM2"
+      "diagnostic_review_data_available_OI_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocean.obvfsq.tavg-ol-hxy-sea.mon.glb (Omon.obvfsq)"
   },
@@ -18585,7 +18590,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
-      "diagnostic_review_data_available_OI_UKCM2"
+      "diagnostic_review_data_available_OI_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocean.hfy.tavg-u-hxy-sea.mon.glb (Omon.hfyint)"
   },
@@ -18662,7 +18668,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
-      "diagnostic_review_data_available_OI_UKCM2"
+      "diagnostic_review_data_available_OI_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocean.hfx.tavg-u-hxy-sea.mon.glb (Omon.hfxint)"
   },
@@ -19452,7 +19459,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
-      "diagnostic_review_data_available"
+      "diagnostic_review_data_available_OI_UKCM2"
     ],
     "title": "Variable ocean.siflfwbot.tavg-u-hxy-sea.mon.glb (Omon.fsitherm)"
   },
@@ -22742,7 +22749,8 @@
       "ocean",
       "BCV",
       "approved",
-      "diagnostic_review_data_available_OI_UKCM2"
+      "diagnostic_review_data_available_OI_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocean.zos.tavg-u-hxy-sea.day.glb (Oday.zos)"
   },
@@ -22966,7 +22974,8 @@
       "day",
       "ocean",
       "approved",
-      "diagnostic_review_data_available_OI_UKCM2"
+      "diagnostic_review_data_available_OI_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocean.uos.tavg-u-hxy-sea.day.glb (Oday.uos)"
   },
@@ -23011,7 +23020,8 @@
       "HadGEM3-GC31",
       "approved",
       "diagnostic_review_data_available_OI_UKCM2",
-      "diagnostic_review_ok_OI_UKCM2"
+      "diagnostic_review_ok_OI_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocean.tossq.tavg-u-hxy-sea.day.glb (Oday.tossq)"
   },
@@ -23057,7 +23067,8 @@
       "BCV",
       "approved",
       "diagnostic_review_data_available_OI_UKCM2",
-      "diagnostic_review_ok_OI_UKCM2"
+      "diagnostic_review_ok_OI_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocean.tos.tavg-u-hxy-sea.day.glb (Oday.tos)"
   },
@@ -23142,7 +23153,8 @@
       "HadGEM3-GC31",
       "BCV",
       "approved",
-      "diagnostic_review_data_available_OI_UKCM2"
+      "diagnostic_review_data_available_OI_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocean.sos.tavg-u-hxy-sea.day.glb (Oday.sos)"
   },
@@ -40807,6 +40819,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_data_available_OI_UKCM2",
       "diagnostic_review_ok_OI_UKCM2",
       "diagnostic_review_data_available_OI_UKESM",
       "diagnostic_review_ok_OI_UKESM"
@@ -46759,7 +46772,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
-      "diagnostic_review_data_available_OI_UKCM2"
+      "diagnostic_review_data_available_OI_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocean.flandice.tavg-u-hxy-sea.mon.glb (Emon.flandice)"
   },
@@ -56444,7 +56458,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
-      "diagnostic_review_data_available_OI_UKCM2"
+      "diagnostic_review_data_available_OI_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocean.mlotst.tavg-u-hxy-sea.day.glb (Eday.mlotst)"
   },
