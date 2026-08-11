@@ -21252,7 +21252,7 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available"
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.chlmisc.tavg-ol-hxy-sea.mon.glb (Omon.chlmisc)"
   },
