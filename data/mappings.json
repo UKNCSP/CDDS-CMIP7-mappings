@@ -2342,7 +2342,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_inspection_required_OI_UKESM"
     ],
     "title": "Variable landIce.snw.tavg-u-hxy-lnd.day.glb (day.snw)"
   },
@@ -2477,7 +2479,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable landIce.snc.tavg-u-hxy-lnd.day.glb (day.snc)"
   },
@@ -9739,7 +9743,9 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
-      "diagnostic_review_data_available_OI_UKCM2"
+      "diagnostic_review_data_available_OI_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable seaIce.ts.tavg-u-hxy-si.day.glb (SIday.sitemptop)"
   },
@@ -11181,7 +11187,9 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
-      "diagnostic_review_data_available_OI_UKCM2"
+      "diagnostic_review_data_available_OI_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable seaIce.siconca.tavg-u-hxy-u.day.glb (SIday.siconca)"
   },
@@ -38369,7 +38377,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.vegHeight.tavg-u-hxy-shb.mon.glb (Emon.vegHeightShrub)"
   },
@@ -43107,7 +43117,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.ra.tavg-u-hxy-shb.mon.glb (Emon.raShrub)"
   },
@@ -46497,7 +46509,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.gpp.tavg-u-hxy-shb.mon.glb (Emon.gppShrub)"
   },
@@ -56579,7 +56593,9 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.loadss.tavg-u-hxy-u.day.glb (Eday.loadss)"
   },
@@ -56745,7 +56761,9 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.loadoa.tavg-u-hxy-u.day.glb (Eday.loadoa)"
   },
@@ -56964,7 +56982,9 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.loadbc.tavg-u-hxy-u.day.glb (Eday.loadbc)"
   },
