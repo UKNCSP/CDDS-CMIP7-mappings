@@ -624,7 +624,8 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable land.raLut.tavg-u-hxy-multi.mon.glb (Emon.raLut)"
   },
@@ -7073,7 +7074,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved_UKESM",
-      "approved_UKCM2"
+      "approved_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable seaIce.siforcetilty.tavg-u-hxy-si.mon.glb (SImon.siforcetilty)"
   },
@@ -7115,7 +7117,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved_UKESM",
-      "approved_UKCM2"
+      "approved_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable seaIce.siforcetiltx.tavg-u-hxy-si.mon.glb (SImon.siforcetiltx)"
   },
@@ -7157,7 +7160,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved_UKESM",
-      "approved_UKCM2"
+      "approved_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable seaIce.siforceintstry.tavg-u-hxy-si.mon.glb (SImon.siforceintstry)"
   },
@@ -7199,7 +7203,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved_UKESM",
-      "approved_UKCM2"
+      "approved_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable seaIce.siforceintstrx.tavg-u-hxy-si.mon.glb (SImon.siforceintstrx)"
   },
@@ -7241,7 +7246,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved_UKESM",
-      "approved_UKCM2"
+      "approved_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable seaIce.siforcecorioly.tavg-u-hxy-si.mon.glb (SImon.siforcecorioly)"
   },
@@ -7283,7 +7289,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved_UKESM",
-      "approved_UKCM2"
+      "approved_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable seaIce.siforcecoriolx.tavg-u-hxy-si.mon.glb (SImon.siforcecoriolx)"
   },
@@ -37911,7 +37918,8 @@
       "atmos",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.wsg.tmax-h10m-hxy-u.mon.glb (Emon.wsgmax10m)"
   },
@@ -54380,7 +54388,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable landIce.snm.tavg-u-hxy-lnd.day.glb (Eday.snm)"
   },
@@ -54483,7 +54492,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable landIce.snd.tavg-u-hxy-lnd.day.glb (Eday.snd)"
   },
@@ -57861,7 +57871,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable landIce.hfdsn.tavg-u-hxy-lnd.day.glb (Eday.hfdsn)"
   },
@@ -57942,7 +57953,8 @@
     "labels": [
       "day",
       "atmosChem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmosChem.flashrate.tavg-u-hxy-u.day.glb (Eday.flashrate)"
   },
