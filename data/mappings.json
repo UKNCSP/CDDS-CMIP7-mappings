@@ -14317,7 +14317,9 @@
       "UKESM1",
       "HadGEM3-GC31",
       "BCV",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocean.tauvo.tavg-u-hxy-sea.mon.glb (Omon.tauvo)"
   },
@@ -14361,7 +14363,9 @@
       "UKESM1",
       "HadGEM3-GC31",
       "BCV",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocean.tauuo.tavg-u-hxy-sea.mon.glb (Omon.tauuo)"
   },
@@ -25784,7 +25788,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.fVegSoil.tavg-u-hxy-lnd.mon.glb (Lmon.fVegSoil)"
   },
@@ -38039,7 +38045,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.wetlandFrac.tavg-u-hxy-u.mon.glb (Emon.wetlandFrac)"
   },
@@ -38447,7 +38455,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.vegHeight.tavg-u-hxy-ng.mon.glb (Emon.vegHeightGrass)"
   },
@@ -38801,7 +38811,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.tsLut.tavg-u-hxy-multi.mon.glb (Emon.tslsiLut)"
   },
@@ -38870,7 +38882,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.treeFracNdlEvg.tavg-u-hxy-u.mon.glb (Emon.treeFracNdlEvg)"
   },
@@ -38938,7 +38952,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.treeFracNdlDcd.tavg-u-hxy-u.mon.glb (Emon.treeFracNdlDcd)"
   },
@@ -39006,7 +39022,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.treeFracBdlEvg.tavg-u-hxy-u.mon.glb (Emon.treeFracBdlEvg)"
   },
@@ -39075,7 +39093,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.treeFracBdlDcd.tavg-u-hxy-u.mon.glb (Emon.treeFracBdlDcd)"
   },
@@ -40810,7 +40830,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.tasLut.tavg-h2m-hxy-multi.mon.glb (Emon.tasLut)"
   },
@@ -43017,7 +43039,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.ra.tavg-u-hxy-tree.mon.glb (Emon.raTree)"
   },
@@ -43283,7 +43307,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.ra.tavg-u-hxy-ng.mon.glb (Emon.raGrass)"
   },
@@ -43787,7 +43813,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.npp.tavg-u-hxy-tree.mon.glb (Emon.nppTree)"
   },
@@ -43887,7 +43915,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.npp.tavg-u-hxy-shb.mon.glb (Emon.nppShrub)"
   },
@@ -43987,7 +44017,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.nppLut.tavg-u-hxy-multi.mon.glb (Emon.nppLut)"
   },
@@ -44055,7 +44087,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.npp.tavg-u-hxy-ng.mon.glb (Emon.nppGrass)"
   },
@@ -44359,7 +44393,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.nStem.tavg-u-hxy-lnd.mon.glb (Emon.nStem)"
   },
@@ -44497,7 +44533,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.nRoot.tavg-u-hxy-lnd.mon.glb (Emon.nRoot)"
   },
@@ -44859,7 +44897,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.nLeaf.tavg-u-hxy-lnd.mon.glb (Emon.nLeaf)"
   },
@@ -45446,7 +45486,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.laiLut.tavg-u-hxy-multi.mon.glb (Emon.laiLut)"
   },
@@ -46105,7 +46147,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.hfssLut.tavg-u-hxy-multi.mon.glb (Emon.hfssLut)"
   },
@@ -46173,7 +46217,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.hflsLut.tavg-u-hxy-multi.mon.glb (Emon.hflsLut)"
   },
@@ -46241,7 +46287,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.grassFracC4.tavg-u-hxy-u.mon.glb (Emon.grassFracC4)"
   },
@@ -46309,7 +46357,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.grassFracC3.tavg-u-hxy-u.mon.glb (Emon.grassFracC3)"
   },
@@ -46441,7 +46491,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.gpp.tavg-u-hxy-tree.mon.glb (Emon.gppTree)"
   },
@@ -46579,7 +46631,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.gppLut.tavg-u-hxy-multi.mon.glb (Emon.gppLut)"
   },
@@ -46647,7 +46701,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.gpp.tavg-u-hxy-ng.mon.glb (Emon.gppGrass)"
   },
@@ -46715,7 +46771,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.fracLut.tpt-u-hxy-u.mon.glb (Emon.fracLut)"
   },
@@ -46768,7 +46826,9 @@
       "CMIP6",
       "UKESM1",
       "approved",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmosChem.flashrate.tavg-u-hxy-u.mon.glb (Emon.flashrate)"
   },
@@ -47025,7 +47085,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.fProductDecomp.tavg-u-hxy-lnd.mon.glb (Emon.fProductDecomp)"
   },
@@ -47163,7 +47225,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.fNnetmin.tavg-u-hxy-lnd.mon.glb (Emon.fNnetmin)"
   },
@@ -47323,7 +47387,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.fNgasNonFire.tavg-u-hxy-lnd.mon.glb (Emon.fNgasNonFire)"
   },
@@ -47461,7 +47527,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.fNfert.tavg-u-hxy-lnd.mon.glb (Emon.fNfert)"
   },
@@ -47640,7 +47708,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.fNProduct.tavg-u-hxy-lnd.mon.glb (Emon.fNProduct)"
   },
@@ -47804,7 +47874,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.fNAnthDisturb.tavg-u-hxy-lnd.mon.glb (Emon.fNAnthDisturb)"
   },
@@ -48220,7 +48292,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.fDeforestToProduct.tavg-u-hxy-lnd.mon.glb (Emon.fDeforestToProduct)"
   },
@@ -48390,7 +48464,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.fAnthDisturb.tavg-u-hxy-lnd.mon.glb (Emon.fAnthDisturb)"
   },
@@ -49005,7 +49081,9 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.co23D.tavg-al-hxy-u.mon.glb (Emon.co23D)"
   },
@@ -50277,7 +50355,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.cVeg.tavg-u-hxy-tree.mon.glb (Emon.cVegTree)"
   },
@@ -50345,7 +50425,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.cVeg.tavg-u-hxy-shb.mon.glb (Emon.cVegShrub)"
   },
@@ -50413,7 +50495,9 @@
       "land",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.cVeg.tavg-u-hxy-ng.mon.glb (Emon.cVegGrass)"
   },
@@ -117958,7 +118042,9 @@
       "atmos",
       "CMIP6",
       "UKESM1",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.fco2fos.tavg-u-hxy-u.mon.glb (Amon.fco2fos)"
   },
