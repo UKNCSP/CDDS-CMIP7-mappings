@@ -113016,7 +113016,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.hfss.tavg-u-hxy-u.3hr.glb (3hr.hfss)"
   },
@@ -113127,7 +113129,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.hfls.tavg-u-hxy-u.3hr.glb (3hr.hfls)"
   },
