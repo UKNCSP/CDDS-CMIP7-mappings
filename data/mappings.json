@@ -869,7 +869,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "BCV",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.sftlf.ti-u-hxy-u.fx.glb (fx.sftlf)"
   },
@@ -22272,7 +22273,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "BCV",
-      "approved"
+      "approved",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocean.deptho.ti-u-hxy-sea.fx.glb (Ofx.deptho)"
   },
@@ -119175,7 +119177,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmosChem.ch4.tavg-u-hm-air.mon.glb (Amon.ch4global)"
   },
