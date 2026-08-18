@@ -830,7 +830,9 @@
     "labels": [
       "fx",
       "land",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.sftlaf.ti-u-hxy-u.fx.glb (fx.sftlaf)"
   },
@@ -870,6 +872,7 @@
       "HadGEM3-GC31",
       "BCV",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.sftlf.ti-u-hxy-u.fx.glb (fx.sftlf)"
@@ -984,7 +987,10 @@
       "UKESM1",
       "HadGEM3-GC31",
       "BCV",
-      "approved"
+      "approved",
+      "approved_UKCM2",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.orog.ti-u-hxy-u.fx.glb (fx.orog)"
   },
@@ -1022,7 +1028,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "BCV"
+      "BCV",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.mrsofc.ti-u-hxy-lnd.fx.glb (fx.mrsofc)"
   },
@@ -1249,7 +1256,9 @@
       "UKESM1",
       "HadGEM3-GC31",
       "BCV",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.areacella.ti-u-hxy-u.fx.glb (fx.areacella)"
   },
@@ -21952,7 +21961,10 @@
       "UKESM1",
       "HadGEM3-GC31",
       "BCV",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available",
+      "diagnostic_review_ok_OI_UKCM2",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocean.sftof.ti-u-hxy-u.fx.glb (Ofx.sftof)"
   },
@@ -22274,7 +22286,8 @@
       "HadGEM3-GC31",
       "BCV",
       "approved",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_ok_OI_UKCM2",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocean.deptho.ti-u-hxy-sea.fx.glb (Ofx.deptho)"
   },
@@ -22313,7 +22326,10 @@
       "UKESM1",
       "HadGEM3-GC31",
       "BCV",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available",
+      "diagnostic_review_ok_OI_UKCM2",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocean.basin.ti-u-hxy-u.fx.glb (Ofx.basin)"
   },
@@ -22352,7 +22368,10 @@
       "UKESM1",
       "HadGEM3-GC31",
       "BCV",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available",
+      "diagnostic_review_ok_OI_UKCM2",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocean.areacello.ti-u-hxy-u.fx.glb (Ofx.areacello)"
   },
