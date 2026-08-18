@@ -49023,6 +49023,7 @@
       "CMIP6",
       "UKESM1",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.co2.tavg-h2m-hxy-u.mon.glb (Emon.co2s)"
