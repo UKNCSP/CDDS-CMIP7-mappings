@@ -22036,7 +22036,10 @@
       "UKESM1",
       "HadGEM3-GC31",
       "BCV",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available",
+      "diagnostic_review_ok_OI_UKCM2",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocean.hfgeou.ti-u-hxy-sea.fx.glb (Ofx.hfgeou)"
   },
