@@ -102762,8 +102762,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression UKESM1": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_O3) * m01s34i001[lblev=1, lbproc=128]",
-      "Expression UKESM1-3": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_O3) * m01s34i001[lblev=1, lbproc=128]",
+      "Expression UKESM1": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_O3) * replace_altitude_with_height2m(m01s34i001[lblev=1, lbproc=128])",
+      "Expression UKESM1-3": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_O3) * replace_altitude_with_height2m(m01s34i001[lblev=1, lbproc=128])",
       "Model units": "mol mol-1"
     },
     "STASH entries": [
@@ -102815,8 +102815,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression UKESM1": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_NO2) * m01s34i996[lblev=1, lbproc=128]",
-      "Expression UKESM1-3": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_NO2) * m01s34i996[lblev=1, lbproc=128]",
+      "Expression UKESM1": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_NO2) * replace_altitude_with_height2m(m01s34i996[lblev=1, lbproc=128])",
+      "Expression UKESM1-3": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_NO2) * replace_altitude_with_height2m(m01s34i996[lblev=1, lbproc=128])",
       "Model units": "mol mol-1"
     },
     "STASH entries": [
@@ -104289,8 +104289,8 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
-      "Expression UKESM1": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_O3) * m01s34i001[lblev=1, lbproc=8192]",
-      "Expression UKESM1-3": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_O3) * m01s34i001[lblev=1, lbproc=8192]",
+      "Expression UKESM1": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_O3) * replace_altitude_with_height2m(m01s34i001[lblev=1, lbproc=8192])",
+      "Expression UKESM1-3": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_O3) * replace_altitude_with_height2m(m01s34i001[lblev=1, lbproc=8192])",
       "Model units": "mol mol-1"
     },
     "STASH entries": [
@@ -106278,8 +106278,8 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Expression UKESM1": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_CO) * remove_altitude_coords(m01s34i010[lblev=1, lbproc=128])",
-      "Expression UKESM1-3": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_CO) * remove_altitude_coords(m01s34i010[lblev=1, lbproc=128])",
+      "Expression UKESM1": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_CO) * replace_altitude_with_height2m(m01s34i010[lblev=1, lbproc=128])",
+      "Expression UKESM1-3": "(MOLECULAR_MASS_OF_AIR / MOLECULAR_MASS_OF_CO) * replace_altitude_with_height2m(m01s34i010[lblev=1, lbproc=128])",
       "Model units": "mol mol-1"
     },
     "STASH entries": [
