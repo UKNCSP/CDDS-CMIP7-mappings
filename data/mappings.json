@@ -102793,7 +102793,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.o3.tavg-h2m-hxy-u.1hr.glb (AERhr.sfo3)"
   },
@@ -102846,7 +102847,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.no2.tavg-h2m-hxy-u.1hr.glb (AERhr.sfno2)"
   },
@@ -103394,7 +103396,8 @@
     "labels": [
       "day",
       "atmosChem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmosChem.wetnoy.tavg-u-hxy-u.day.glb (AERday.wetnoy)"
   },
@@ -103613,7 +103616,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.toz.tavg-u-hxy-u.day.glb (AERday.toz)"
   },
@@ -104320,7 +104325,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.o3.tmax-h2m-hxy-u.day.glb (AERday.sfo3max)"
   },
@@ -106090,7 +106097,8 @@
     "labels": [
       "day",
       "atmosChem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmosChem.drynoy.tavg-u-hxy-u.day.glb (AERday.drynoy)"
   },
@@ -106322,7 +106330,8 @@
     "labels": [
       "day",
       "aerosol",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.co.tavg-h2m-hxy-u.day.glb (AERday.co)"
   },
@@ -110162,7 +110171,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.va.tpt-al-hxy-u.6hr.glb (6hrLev.va)"
   },
@@ -110265,7 +110275,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.ua.tpt-al-hxy-u.6hr.glb (6hrLev.ua)"
   },
@@ -110368,7 +110379,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.ta.tpt-al-hxy-u.6hr.glb (6hrLev.ta)"
   },
@@ -110543,7 +110555,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.hus.tpt-al-hxy-u.6hr.glb (6hrLev.hus)"
   },
