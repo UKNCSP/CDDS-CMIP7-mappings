@@ -22343,9 +22343,7 @@
       "HadGEM3-GC31",
       "BCV",
       "approved",
-      "diagnostic_review_data_available",
-      "diagnostic_review_ok_OI_UKCM2",
-      "diagnostic_review_ok_OI_UKESM"
+      "diagnostic_review_data_available"
     ],
     "title": "Variable ocean.basin.ti-u-hxy-u.fx.glb (Ofx.basin)"
   },
