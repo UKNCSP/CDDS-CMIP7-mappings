@@ -25748,6 +25748,7 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
+      "Expression JULES": "gpp_gb",
       "Expression UKESM1": "m01s19i183[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR)",
       "Expression UKESM1-3": "m01s19i183[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR)",
       "Model units": "kg m-2 s-1"
@@ -28966,7 +28967,7 @@
         "model": "UKESM1-3",
         "stash_number": "3,317",
         "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
+        "usage_profile": "UP5"
       },
       {
         "STASH": "m01s08i236",
@@ -28974,7 +28975,7 @@
         "model": "UKESM1-3",
         "stash_number": "8,579",
         "time_profile": "TDAYMN",
-        "usage_profile": "UP6"
+        "usage_profile": "UP5"
       }
     ],
     "XIOS entries": {},
