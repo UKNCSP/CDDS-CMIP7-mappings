@@ -25582,7 +25582,8 @@
     "labels": [
       "mon",
       "land",
-      "CMIP6"
+      "CMIP6",
+      "processor"
     ],
     "title": "Variable land.landCoverFrac.tavg-u-hxy-u.mon.glb (Lmon.landCoverFrac)"
   },
