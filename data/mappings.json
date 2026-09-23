@@ -28959,7 +28959,7 @@
     },
     "Mapping information": {
       "Expression UKESM1-3": "land_class_mean(m01s08i579[lbproc=128], m01s03i317[lbproc=128], land_class='iceElev')",
-      "Model units": ""
+      "Model units": "kg m-2 s-1"
     },
     "STASH entries": [
       {
@@ -28982,7 +28982,6 @@
     "XIOS entries": {},
     "issue_number": 1238,
     "labels": [
-      "question",
       "mon",
       "landIce",
       "CMIP6",
