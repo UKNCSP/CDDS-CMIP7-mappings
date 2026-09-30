@@ -24919,6 +24919,7 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
+      "Expression JULES": "npp_n_gb / (SECONDS_IN_DAY * 360)",
       "Expression UKESM1": "m01s19i102[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR)",
       "Expression UKESM1-3": "m01s19i102[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR)",
       "Model units": "kg m-2 s-1"
@@ -25223,6 +25224,7 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "m01s08i234[lbproc=128]",
+      "Expression JULES": "surf_runoff",
       "Expression UKCM2": "m01s08i234[lbproc=128]",
       "Expression UKESM1": "m01s08i234[lbproc=128]",
       "Expression UKESM1-3": "m01s08i234[lbproc=128]",
@@ -25297,6 +25299,7 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "m01s08i234[lbproc=128] + m01s08i235[lbproc=128]",
+      "Expression JULES": "runoff",
       "Expression UKCM2": "m01s08i234[lbproc=128] + m01s08i235[lbproc=128]",
       "Expression UKESM1": "m01s08i234[lbproc=128] + m01s08i235[lbproc=128]",
       "Expression UKESM1-3": "m01s08i234[lbproc=128] + m01s08i235[lbproc=128]",
@@ -25805,6 +25808,7 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
+      "Expression JULES": "lit_c_mean / (SECONDS_IN_DAY * 360)",
       "Expression UKESM1": "m01s19i005[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR)",
       "Expression UKESM1-3": "m01s19i005[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR)",
       "Model units": "kg m-2 s-1"
@@ -47156,6 +47160,7 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
+      "Expression JULES": "n_uptake_gb / (SECONDS_IN_DAY * 360)",
       "Expression UKESM1": "(m01s19i160[lbtim_ia=240,lbproc=128] - m01s19i113[lbtim_ia=240,lbproc=128]) / (SECONDS_IN_DAY * DAYS_IN_YEAR)",
       "Expression UKESM1-3": "(m01s19i160[lbtim_ia=240,lbproc=128] - m01s19i113[lbtim_ia=240,lbproc=128]) / (SECONDS_IN_DAY * DAYS_IN_YEAR)",
       "Model units": "kg m-2 s-1"
@@ -48427,6 +48432,7 @@
       "Variable status": "CMIP6 CMOR variable"
     },
     "Mapping information": {
+      "Expression JULES": "n_fix_gb / (SECONDS_IN_DAY * 360)",
       "Expression UKESM1": "m01s19i113[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR)",
       "Expression UKESM1-3": "m01s19i113[lbtim_ia=240,lbproc=128] / (SECONDS_IN_DAY * DAYS_IN_YEAR)",
       "Model units": "kg m-2 s-1"
