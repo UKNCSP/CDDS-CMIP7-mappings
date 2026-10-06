@@ -625,6 +625,7 @@
       "CMIP6",
       "UKESM1",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable land.raLut.tavg-u-hxy-multi.mon.glb (Emon.raLut)"
@@ -44276,6 +44277,7 @@
       "UKESM1",
       "approved",
       "approved_UKESM",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable land.nep.tavg-u-hxy-lnd.mon.glb (Emon.nep)"
@@ -94507,7 +94509,9 @@
     "labels": [
       "mon",
       "atmosChem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available",
+      "diagnostic_review_inspection_required"
     ],
     "title": "Variable atmosChem.meanage.tavg-al-hxy-u.mon.glb (AERmon.meanage)"
   },
