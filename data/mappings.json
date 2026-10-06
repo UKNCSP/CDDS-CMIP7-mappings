@@ -94480,8 +94480,8 @@
       "Variable status": "New"
     },
     "Mapping information": {
-      "Expression UKESM1": "m01s34i150[lbproc=128] * 1.0/(seconds_in_day*days_in_year)",
-      "Expression UKESM1-3": "m01s34i150[lbproc=128] * 1.0/(seconds_in_day*days_in_year)",
+      "Expression UKESM1": "m01s34i150[lbproc=128] * 1.0 / (SECONDS_IN_DAY * DAYS_IN_YEAR)",
+      "Expression UKESM1-3": "m01s34i150[lbproc=128] * 1.0 / (SECONDS_IN_DAY * DAYS_IN_YEAR)",
       "Model units": "yr"
     },
     "STASH entries": [
