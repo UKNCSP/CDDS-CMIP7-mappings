@@ -27965,6 +27965,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable land.sftgif.tavg-u-hxy-u.mon.glb (LImon.sftgif)"
