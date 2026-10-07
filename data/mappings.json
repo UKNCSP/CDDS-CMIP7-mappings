@@ -38237,6 +38237,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable land.wetlandCH4.tavg-u-hxy-lnd.mon.glb (Emon.wetlandCH4)"
