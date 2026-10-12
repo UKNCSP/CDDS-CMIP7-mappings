@@ -5604,7 +5604,7 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "sistrxdtop",
-      "Expression UKCM2": "apply_ocean_coordinates(100.*utai_ai/siconc, u_coord_reference)",
+      "Expression UKCM2": "apply_ocean_coordinates(100.*utau_ai/siconc, u_coord_reference)",
       "Expression UKESM1": "sistrxdtop",
       "Expression UKESM1-3": "sistrxdtop",
       "Model units": "N m-2"
@@ -22303,7 +22303,9 @@
       "HadGEM3-GC31",
       "BCV",
       "approved",
+      "diagnostic_review_data_available_OI_UKCM2",
       "diagnostic_review_ok_OI_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM",
       "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocean.deptho.ti-u-hxy-sea.fx.glb (Ofx.deptho)"
