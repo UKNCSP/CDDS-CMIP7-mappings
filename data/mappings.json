@@ -41530,6 +41530,7 @@
     "XIOS entries": {},
     "issue_number": 1011,
     "labels": [
+      "question",
       "mon",
       "ocean"
     ],
@@ -47618,6 +47619,7 @@
     "XIOS entries": {},
     "issue_number": 900,
     "labels": [
+      "question",
       "mon",
       "land",
       "CMIP6"
@@ -76841,6 +76843,7 @@
     "XIOS entries": {},
     "issue_number": 534,
     "labels": [
+      "question",
       "mon",
       "atmos",
       "CMIP6"
@@ -92014,6 +92017,7 @@
     "XIOS entries": {},
     "issue_number": 368,
     "labels": [
+      "question",
       "mon",
       "aerosol",
       "CMIP6",
