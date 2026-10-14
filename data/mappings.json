@@ -12791,7 +12791,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.zooc.tavg-ol-hxy-sea.mon.glb (Omon.zooc)"
   },
@@ -12932,7 +12933,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.zmicro.tavg-ol-hxy-sea.mon.glb (Omon.zmicro)"
   },
@@ -13009,7 +13011,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.zmeso.tavg-ol-hxy-sea.mon.glb (Omon.zmeso)"
   },
@@ -14432,7 +14435,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.talk.tavg-ol-hxy-sea.mon.glb (Omon.talk)"
   },
@@ -15041,7 +15045,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.si.tavg-ols-hxy-sea.mon.glb (Omon.sios)"
   },
@@ -15080,7 +15085,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.si.tavg-ol-hxy-sea.mon.glb (Omon.si)"
   },
@@ -15514,7 +15520,8 @@
       "ocnBgchem",
       "CMIP6",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.pp.tavg-ols-hxy-sea.mon.glb (Omon.ppos)"
   },
@@ -15553,7 +15560,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.pp.tavg-ol-hxy-sea.mon.glb (Omon.pp)"
   },
@@ -15592,7 +15600,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.po4.tavg-ol-hxy-sea.mon.glb (Omon.po4)"
   },
@@ -15737,7 +15746,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.phymisc.tavg-ol-hxy-sea.mon.glb (Omon.phymisc)"
   },
@@ -15878,7 +15888,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.phydiat.tavg-ol-hxy-sea.mon.glb (Omon.phydiat)"
   },
@@ -15917,7 +15928,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.phyc.tavg-ols-hxy-sea.mon.glb (Omon.phycos)"
   },
@@ -16020,7 +16032,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.phyc.tavg-ol-hxy-sea.mon.glb (Omon.phyc)"
   },
@@ -16363,7 +16376,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.o2.tavg-ols-hxy-sea.mon.glb (Omon.o2os)"
   },
@@ -16402,7 +16416,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.o2.tavg-ol-hxy-sea.mon.glb (Omon.o2)"
   },
@@ -16441,7 +16456,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.no3.tavg-ols-hxy-sea.mon.glb (Omon.no3os)"
   },
@@ -16480,7 +16496,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.no3.tavg-ol-hxy-sea.mon.glb (Omon.no3)"
   },
@@ -17977,7 +17994,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.intppmisc.tavg-u-hxy-sea.mon.glb (Omon.intppmisc)"
   },
@@ -19443,7 +19461,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.graz.tavg-ol-hxy-sea.mon.glb (Omon.graz)"
   },
@@ -19559,7 +19578,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.fsfe.tavg-u-hxy-sea.mon.glb (Omon.fsfe)"
   },
@@ -19757,7 +19777,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.frfe.tavg-u-hxy-sea.mon.glb (Omon.frfe)"
   },
@@ -20084,7 +20105,8 @@
       "ocnBgchem",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.expsiob.tavg-u-hxy-sea.mon.glb (Omon.expsiob)"
   },
@@ -20122,7 +20144,8 @@
       "ocnBgchem",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.exppob.tavg-u-hxy-sea.mon.glb (Omon.exppob)"
   },
@@ -20160,7 +20183,8 @@
       "ocnBgchem",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.expnob.tavg-u-hxy-sea.mon.glb (Omon.expnob)"
   },
@@ -20198,7 +20222,8 @@
       "ocnBgchem",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.expfeob.tavg-u-hxy-sea.mon.glb (Omon.expfeob)"
   },
@@ -20235,7 +20260,8 @@
       "mon",
       "ocnBgchem",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.expcob.tavg-u-hxy-sea.mon.glb (Omon.expcob)"
   },
@@ -20272,7 +20298,8 @@
       "mon",
       "ocnBgchem",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.expcalcob.tavg-u-hxy-sea.mon.glb (Omon.expcalcob)"
   },
@@ -20311,7 +20338,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.expc.tavg-ol-hxy-sea.mon.glb (Omon.expc)"
   },
@@ -20729,7 +20757,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.dmso.tavg-ols-hxy-sea.mon.glb (Omon.dmsos)"
   },
@@ -20870,7 +20899,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.dissic.tavg-ol-hxy-sea.mon.glb (Omon.dissic)"
   },
@@ -21037,7 +21067,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.dfe.tavg-ols-hxy-sea.mon.glb (Omon.dfeos)"
   },
@@ -21076,7 +21107,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.dfe.tavg-ol-hxy-sea.mon.glb (Omon.dfe)"
   },
@@ -21115,7 +21147,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.detoc.tavg-ol-hxy-sea.mon.glb (Omon.detoc)"
   },
@@ -21218,7 +21251,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.chl.tavg-ols-hxy-sea.mon.glb (Omon.chlos)"
   },
@@ -21295,7 +21329,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.chlmisc.tavg-ol-hxy-sea.mon.glb (Omon.chlmisc)"
   },
@@ -21436,7 +21471,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.chldiat.tavg-ol-hxy-sea.mon.glb (Omon.chldiat)"
   },
@@ -21539,7 +21575,8 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.chl.tavg-ol-hxy-sea.mon.glb (Omon.chl)"
   },
