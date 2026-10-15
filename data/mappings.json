@@ -73885,8 +73885,7 @@
       "HadGEM3-GC31",
       "approved",
       "diagnostic_review_failed",
-      "diagnostic_review_data_available",
-      "diagnostic_review_inspection_required"
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.ta.tavg-al-hxy-u.mon.glb (CFmon.ta)"
   },
