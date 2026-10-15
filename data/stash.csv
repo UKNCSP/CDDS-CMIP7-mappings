@@ -1920,8 +1920,8 @@ UKCM2,sbl_tavg-u-hxy-u,day,m01s03i317,3,317,TDAYMN,DTILE,UP6,True,False,False
 UKCM2,sbl_tavg-u-hxy-u,day,m01s03i331,3,331,TDAYMN,DTILE,UP6,True,False,False
 UKESM1,sbl_tavg-u-hxy-u,day,m01s03i317,3,317,TDAYMN,DTILE,UP6,True,False,False
 UKESM1,sbl_tavg-u-hxy-u,day,m01s03i331,3,331,TDAYMN,DTILE,UP6,True,False,False
-UKESM1-3,sbl_tavg-u-hxy-u,day,m01s03i317,3,317,TDAYMN,DTILE,UP6,True,False,False
-UKESM1-3,sbl_tavg-u-hxy-u,day,m01s03i331,3,331,TDAYMN,DTILE,UP6,True,False,False
+UKESM1-3x,sbl_tavg-u-hxy-u,day,m01s03i317,3,317,TDAYMN,DTILE,UP6,True,False,False
+UKESM1-3x,sbl_tavg-u-hxy-u,day,m01s03i331,3,331,TDAYMN,DTILE,UP6,True,False,False
 HadGEM3-GC31,rsdsdiff_tavg-u-hxy-u,day,m01s01i216,1,216,TDAYMN,DIAG,UP6,True,False,False
 UKCM2,rsdsdiff_tavg-u-hxy-u,day,m01s01i216,1,216,TDAYMN,DIAG,UP6,True,False,False
 UKESM1,rsdsdiff_tavg-u-hxy-u,day,m01s01i216,1,216,TDAYMN,DIAG,UP6,True,False,False

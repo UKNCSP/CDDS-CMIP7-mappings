@@ -23404,13 +23404,13 @@
     },
     "Mapping information": {
       "Expression UKESM1": "",
-      "Expression UKESM1-3": "add_osurf_axis((PHN_0 + PHD_0) * C_TO_N_RATIO)",
+      "Expression UKESM1-3x": "add_osurf_axis((PHN_0 + PHD_0) * C_TO_N_RATIO)",
       "Model units": "mmol m-3"
     },
     "STASH entries": [],
     "XIOS entries": {
       "UKESM1": "",
-      "UKESM1-3": "ond/ptrc-T`: `<field field_ref=\"SURF_PHN\" name=\"PHN_0\"  />` <br> `ond/ptrc-T`: `<field field_ref=\"SURF_PHD\" name=\"PHD_0\"  />"
+      "UKESM1-3x": "ond/ptrc-T`: `<field field_ref=\"SURF_PHN\" name=\"PHN_0\"  />` <br> `ond/ptrc-T`: `<field field_ref=\"SURF_PHD\" name=\"PHD_0\"  />"
     },
     "issue_number": 1334,
     "labels": [
@@ -23715,13 +23715,13 @@
     },
     "Mapping information": {
       "Expression UKESM1": "",
-      "Expression UKESM1-3": "add_osurf_axis(OXY_0)",
+      "Expression UKESM1-3x": "add_osurf_axis(OXY_0)",
       "Model units": "mmol m-3"
     },
     "STASH entries": [],
     "XIOS entries": {
       "UKESM1": "",
-      "UKESM1-3": "ond/ptrc-T`: `<field field_ref=\"SURF_OXY\" name=\"OXY_0\"  />"
+      "UKESM1-3x": "ond/ptrc-T`: `<field field_ref=\"SURF_OXY\" name=\"OXY_0\"  />"
     },
     "issue_number": 1325,
     "labels": [
@@ -24219,13 +24219,13 @@
     },
     "Mapping information": {
       "Expression UKESM1": "",
-      "Expression UKESM1-3": "add_osurf_axis(CHN_0 + CHD_0)",
+      "Expression UKESM1-3x": "add_osurf_axis(CHN_0 + CHD_0)",
       "Model units": "mg m-3"
     },
     "STASH entries": [],
     "XIOS entries": {
       "UKESM1": "",
-      "UKESM1-3": "ond/ptrc-T`: `<field field_ref=\"SURF_CHN\" name=\"CHN_0\"  />` <br> `ond/ptrc-T`: `<field field_ref=\"SURF_CHD\" name=\"CHD_0\"  />"
+      "UKESM1-3x": "ond/ptrc-T`: `<field field_ref=\"SURF_CHN\" name=\"CHN_0\"  />` <br> `ond/ptrc-T`: `<field field_ref=\"SURF_CHD\" name=\"CHD_0\"  />"
     },
     "issue_number": 1310,
     "labels": [
@@ -54846,7 +54846,7 @@
       "Expression HadGEM3-GC31": "land_class_mean(m01s03i331[lbproc=128], m01s03i317[lbproc=128], land_class='all')",
       "Expression UKCM2": "land_class_mean(m01s03i331[lbproc=128], m01s03i317[lbproc=128], land_class='all')",
       "Expression UKESM1": "land_class_mean(m01s03i331[lbproc=128], m01s03i317[lbproc=128], land_class='all')",
-      "Expression UKESM1-3": "land_class_mean(m01s03i331[lbproc=128], m01s03i317[lbproc=128], land_class='all')",
+      "Expression UKESM1-3x": "land_class_mean(m01s03i331[lbproc=128], m01s03i317[lbproc=128], land_class='all')",
       "Model units": "kg m-2 s-1"
     },
     "STASH entries": [
@@ -54901,7 +54901,7 @@
       {
         "STASH": "m01s03i317",
         "domain_profile": "DTILE",
-        "model": "UKESM1-3",
+        "model": "UKESM1-3x",
         "stash_number": "3,317",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
@@ -54909,7 +54909,7 @@
       {
         "STASH": "m01s03i331",
         "domain_profile": "DTILE",
-        "model": "UKESM1-3",
+        "model": "UKESM1-3x",
         "stash_number": "3,331",
         "time_profile": "TDAYMN",
         "usage_profile": "UP6"
@@ -54918,7 +54918,6 @@
     "XIOS entries": {},
     "issue_number": 778,
     "labels": [
-      "question",
       "day",
       "landIce",
       "CMIP6",

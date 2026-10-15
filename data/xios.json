@@ -698,7 +698,7 @@
   },
   "Variable ocnBgchem.chl.tavg-ols-hxy-sea.day.glb (Oday.chlos)": {
     "UKESM1": "",
-    "UKESM1-3": "ond/ptrc-T`: `<field field_ref=\"SURF_CHN\" name=\"CHN_0\"  />` <br> `ond/ptrc-T`: `<field field_ref=\"SURF_CHD\" name=\"CHD_0\"  />"
+    "UKESM1-3x": "ond/ptrc-T`: `<field field_ref=\"SURF_CHN\" name=\"CHN_0\"  />` <br> `ond/ptrc-T`: `<field field_ref=\"SURF_CHD\" name=\"CHD_0\"  />"
   },
   "Variable ocnBgchem.chl.tavg-ols-hxy-sea.mon.glb (Omon.chlos)": {
     "UKESM1": "onm/ptrc-T`: `<field field_ref=\"CHN_E3T\"  name=\"CHN_E3T\"      />` <br> `onm/ptrc-T`: `<field field_ref=\"CHD_E3T\"  name=\"CHD_E3T\"      />` <br> `onm/ptrc-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
@@ -938,7 +938,7 @@
   },
   "Variable ocnBgchem.o2.tavg-ols-hxy-sea.day.glb (Oday.o2os)": {
     "UKESM1": "",
-    "UKESM1-3": "ond/ptrc-T`: `<field field_ref=\"SURF_OXY\" name=\"OXY_0\"  />"
+    "UKESM1-3x": "ond/ptrc-T`: `<field field_ref=\"SURF_OXY\" name=\"OXY_0\"  />"
   },
   "Variable ocnBgchem.o2.tavg-ols-hxy-sea.mon.glb (Omon.o2os)": {
     "UKESM1": "onm/ptrc-T`: `<field field_ref=\"OXY_E3T\"  name=\"OXY_E3T\"      />` <br> `onm/ptrc-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
@@ -974,7 +974,7 @@
   },
   "Variable ocnBgchem.phyc.tavg-ols-hxy-sea.day.glb (Oday.phycos)": {
     "UKESM1": "",
-    "UKESM1-3": "ond/ptrc-T`: `<field field_ref=\"SURF_PHN\" name=\"PHN_0\"  />` <br> `ond/ptrc-T`: `<field field_ref=\"SURF_PHD\" name=\"PHD_0\"  />"
+    "UKESM1-3x": "ond/ptrc-T`: `<field field_ref=\"SURF_PHN\" name=\"PHN_0\"  />` <br> `ond/ptrc-T`: `<field field_ref=\"SURF_PHD\" name=\"PHD_0\"  />"
   },
   "Variable ocnBgchem.phyc.tavg-ols-hxy-sea.mon.glb (Omon.phycos)": {
     "UKESM1": "onm/ptrc-T`: `<field field_ref=\"PHN_E3T\"  name=\"PHN_E3T\"      />` <br> `onm/ptrc-T`: `<field field_ref=\"PHD_E3T\"  name=\"PHD_E3T\"      />` <br> `onm/ptrc-T`: `<field field_ref=\"e3t\" name=\"thkcello\" />",
