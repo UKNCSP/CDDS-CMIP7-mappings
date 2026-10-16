@@ -23418,7 +23418,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.phyc.tavg-ols-hxy-sea.day.glb (Oday.phycos)"
   },
@@ -23727,7 +23728,8 @@
     "labels": [
       "day",
       "ocnBgchem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.o2.tavg-ols-hxy-sea.day.glb (Oday.o2os)"
   },
@@ -24233,7 +24235,8 @@
       "ocnBgchem",
       "CMIP6",
       "UKESM1",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.chl.tavg-ols-hxy-sea.day.glb (Oday.chlos)"
   },
