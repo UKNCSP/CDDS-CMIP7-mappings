@@ -1,3 +1,4 @@
+filename,variable,time:mean area:mean,time:mean area:max,time:mean area:min,time:max area:mean,time:max area:max,time:max area:min,time:min area:mean,time:min area:max,time:min area:min
 rsus_tavg-u-hxy-si_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_200001-200912.nc,seaIce.rsus_tavg-u-hxy-si.mon.glb,82.71830597746202,214.36302185058594,0.0,238.20210681038708,559.4285278320312,0.0,5.0525439429201375,214.36302185058594,0.0
 prsn_tavg-u-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_200001-200912.nc,atmos.prsn_tavg-u-hxy-u.mon.glb,4.062410206878903e-06,5.1779097702819854e-05,0.0,1.5445264580193907e-05,0.00021740574447903782,0.0,3.1534437994196196e-07,1.1213362995476928e-05,0.0
 cdnc_tavg-al-hxy-u_mon_glb_g100_UKESM1-3-LL_esm-piControl_r1i1p1f1_200001-200912.nc,aerosol.cdnc_tavg-al-hxy-u.mon.glb,28030917.07508772,212541312.0,4999999.5,65368170.3522807,539186048.0,4999999.5,8303008.785964913,212541312.0,4999999.5
