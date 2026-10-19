@@ -238,9 +238,14 @@ The `name` XML attribute should be used to rename diagnostics that have a direct
 Note that the XML line for a particular diagnostic should be consistently defined across CMIP variables to avoid duplicating diagnostic output. One way to ensure this is to search the [xios.json](https://github.com/UKNCSP/CDDS-CMIP7-mappings/blob/main/data/xios.json) file to see if the diagnostic has already been added to an issue table.
 
 ### Diagnostic review
-
+<!--
 Where mappings and STASH requirements have not materially changed from CMIP6 definitions we do not 
 intend to produce sample data for Science QA review as these mappings have already been heavily tested.
+--!>
+An automated review process has been run to compare variables back to CMIP6 counterparts where possible and
+provided the range and average of the fields provided is broadly the same approve those variables.  Further 
+comparison back to CMIP6 outputs will be performed when there is time, but review by scientific experts will 
+be needed in many cases.
 
 Variables that are very similar to existing ones, e.g. where they only differ in frequency, will likely 
 not require Science QA review.  
