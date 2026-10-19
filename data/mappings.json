@@ -327,9 +327,9 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "area_mean(tos, volcello(thkcello[olevel=0], areacello))",
-      "Expression UKCM2": "area_mean(tos, volcello(thkcello[olevel=0], areacello))",
+      "Expression UKCM2": "area_mean(tos, volcello(thkcello[depth=0], areacello))",
       "Expression UKESM1": "area_mean(tos, volcello(thkcello[olevel=0], areacello))",
-      "Expression UKESM1-3": "area_mean(tos, volcello(thkcello[olevel=0], areacello))",
+      "Expression UKESM1-3": "area_mean(tos, volcello(thkcello[depth=0], areacello))",
       "Model units": "degC"
     },
     "STASH entries": [],
@@ -14669,9 +14669,9 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "area_mean(sos, volcello(thkcello[olevel=0], areacello))",
-      "Expression UKCM2": "area_mean(sos, volcello(thkcello[olevel=0], areacello))",
+      "Expression UKCM2": "area_mean(sos, volcello(thkcello[depth=0], areacello))",
       "Expression UKESM1": "area_mean(sos, volcello(thkcello[olevel=0], areacello))",
-      "Expression UKESM1-3": "area_mean(sos, volcello(thkcello[olevel=0], areacello))",
+      "Expression UKESM1-3": "area_mean(sos, volcello(thkcello[depth=0], areacello))",
       "Model units": "1e-3"
     },
     "STASH entries": [],
@@ -14899,7 +14899,7 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "combine_cubes_to_basin_coord(sltovovrt_global, sltovovrt_atlantic, sltovovrt_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
-      "Expression UKCM2": "combine_cubes_to_basin_coord(sltovovrt[basin=1], sltovovrt[basin=2], sltovovrt[basin=5], mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V_34S, mask_indpac=indian_pacific_ocean_1D_V_34S)",
+      "Expression UKCM2": "combine_cubes_to_basin_coordsltovovrt_global, sltovovrt_atlantic, sltovovrt_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V_34S, mask_indpac=indian_pacific_ocean_1D_V_34S)",
       "Expression UKESM1": "combine_cubes_to_basin_coord(sltovovrt_global, sltovovrt_atlantic, sltovovrt_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
       "Expression UKESM1-3": "combine_cubes_to_basin_coord(sltovovrt_global, sltovovrt_atlantic, sltovovrt_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
       "Model units": "kg s-1"
@@ -14944,7 +14944,7 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "combine_cubes_to_basin_coord(sltovgyre_global, sltovgyre_atlantic, sltovgyre_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
-      "Expression UKCM2": "combine_cubes_to_basin_coord(sltovgyre[basin=1], sltovgyre[basin=2], sltovgyre[basin=5], mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V_34S, mask_indpac=indian_pacific_ocean_1D_V_34S)",
+      "Expression UKCM2": "combine_cubes_to_basin_coord(sltovgyre_global, sltovgyre_atlantic, sltovgyre_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V_34S, mask_indpac=indian_pacific_ocean_1D_V_34S)",
       "Expression UKESM1": "combine_cubes_to_basin_coord(sltovgyre_global, sltovgyre_atlantic, sltovgyre_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
       "Expression UKESM1-3": "combine_cubes_to_basin_coord(sltovgyre_global, sltovgyre_atlantic, sltovgyre_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
       "Model units": "kg s-1"
@@ -14989,7 +14989,7 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "combine_cubes_to_basin_coord(sltbasin_global, sltbasin_atlantic, sltbasin_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
-      "Expression UKCM2": "combine_cubes_to_basin_coord(sltbasin[basin=1], sltbasin[basin=2], sltbasin[basin=5], mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
+      "Expression UKCM2": "combine_cubes_to_basin_coord(sltbasin_global, sltbasin_atlantic, sltbasin_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
       "Expression UKESM1": "combine_cubes_to_basin_coord(sltbasin_global, sltbasin_atlantic, sltbasin_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
       "Expression UKESM1-3": "combine_cubes_to_basin_coord(sltbasin_global, sltbasin_atlantic, sltbasin_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
       "Model units": "kg s-1"
@@ -16627,7 +16627,7 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "SEAWATER_DENSITY * combine_cubes_to_basin_coord(zomsfglo, zomsfatl, zomsfipc, mask_global=global_ocean_2D_V, mask_atl=atlantic_arctic_ocean_2D_V, mask_indpac=indian_pacific_ocean_2D_V)",
-      "Expression UKCM2": "SEAWATER_DENSITY * combine_cubes_to_basin_coord(zomsf[basin=1], zomsf[basin=2], zomsf[basin=5], mask_global=global_ocean_2D_V, mask_atl=atlantic_arctic_ocean_2D_V_34S, mask_indpac=indian_pacific_ocean_2D_V_34S)",
+      "Expression UKCM2": "SEAWATER_DENSITY * combine_cubes_to_basin_coord(zomsfglo, zomsfatl, zomsfipc, mask_global=global_ocean_2D_V, mask_atl=atlantic_arctic_ocean_2D_V_34S, mask_indpac=indian_pacific_ocean_2D_V_34S)",
       "Expression UKESM1": "SEAWATER_DENSITY * combine_cubes_to_basin_coord(zomsfglo, zomsfatl, zomsfipc, mask_global=global_ocean_2D_V, mask_atl=atlantic_arctic_ocean_2D_V, mask_indpac=indian_pacific_ocean_2D_V)",
       "Expression UKESM1-3": "SEAWATER_DENSITY * combine_cubes_to_basin_coord(zomsfglo, zomsfatl, zomsfipc, mask_global=global_ocean_2D_V, mask_atl=atlantic_arctic_ocean_2D_V, mask_indpac=indian_pacific_ocean_2D_V)",
       "Model units": "sverdrup kg m-3"
@@ -18557,7 +18557,7 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "combine_cubes_to_basin_coord(htovovrt_global, htovovrt_atlantic, htovovrt_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
-      "Expression UKCM2": "combine_cubes_to_basin_coord(htovovrt[basin=1], htovovrt[basin=2], htovovrt[basin=5], mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V_34S, mask_indpac=indian_pacific_ocean_1D_V_34S)",
+      "Expression UKCM2": "combine_cubes_to_basin_coord(htovovrt_global, htovovrt_atlantic, htovovrt_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V_34S, mask_indpac=indian_pacific_ocean_1D_V_34S)",
       "Expression UKESM1": "combine_cubes_to_basin_coord(htovovrt_global, htovovrt_atlantic, htovovrt_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
       "Expression UKESM1-3": "combine_cubes_to_basin_coord(htovovrt_global, htovovrt_atlantic, htovovrt_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
       "Model units": "PW"
@@ -18602,7 +18602,7 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "combine_cubes_to_basin_coord(htovgyre_global, htovgyre_atlantic, htovgyre_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
-      "Expression UKCM2": "combine_cubes_to_basin_coord(htovgyre[basin=1], htovgyre[basin=2], htovgyre[basin=5], mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V_34S, mask_indpac=indian_pacific_ocean_1D_V_34S)",
+      "Expression UKCM2": "combine_cubes_to_basin_coord(htovgyre_global, htovgyre_atlantic, htovgyre_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V_34S, mask_indpac=indian_pacific_ocean_1D_V_34S)",
       "Expression UKESM1": "combine_cubes_to_basin_coord(htovgyre_global, htovgyre_atlantic, htovgyre_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
       "Expression UKESM1-3": "combine_cubes_to_basin_coord(htovgyre_global, htovgyre_atlantic, htovgyre_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
       "Model units": "PW"
@@ -19235,7 +19235,7 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "combine_cubes_to_basin_coord(hfbasinpmdiff_global, hfbasinpmdiff_atlantic, hfbasinpmdiff_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
-      "Expression UKCM2": "combine_cubes_to_basin_coord(hfbasinpmdiff[basin=1], hfbasinpmdiff[basin=2], hfbasinpmdiff[basin=5], mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
+      "Expression UKCM2": "combine_cubes_to_basin_coord(hfbasinpmdiff_global, hfbasinpmdiff_atlantic, hfbasinpmdiff_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
       "Expression UKESM1": "combine_cubes_to_basin_coord(hfbasinpmdiff_global, hfbasinpmdiff_atlantic, hfbasinpmdiff_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
       "Expression UKESM1-3": "combine_cubes_to_basin_coord(hfbasinpmdiff_global, hfbasinpmdiff_atlantic, hfbasinpmdiff_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
       "Model units": "PW"
@@ -19280,7 +19280,7 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "combine_cubes_to_basin_coord(hfbasinpadv_global, hfbasinpadv_atlantic, hfbasinpadv_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
-      "Expression UKCM2": "combine_cubes_to_basin_coord(hfbasinpadv[basin=1], hfbasinpadv[basin=2], hfbasinpadv[basin=5], mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
+      "Expression UKCM2": "combine_cubes_to_basin_coord(hfbasinpadv_global, hfbasinpadv_atlantic, hfbasinpadv_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
       "Expression UKESM1": "combine_cubes_to_basin_coord(hfbasinpadv_global, hfbasinpadv_atlantic, hfbasinpadv_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
       "Expression UKESM1-3": "combine_cubes_to_basin_coord(hfbasinpadv_global, hfbasinpadv_atlantic, hfbasinpadv_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
       "Model units": "PW"
@@ -19325,7 +19325,7 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "combine_cubes_to_basin_coord(hfbasinpadv_global, hfbasinpadv_atlantic, hfbasinpadv_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
-      "Expression UKCM2": "combine_cubes_to_basin_coord(hfbasinpadv[basin=1], hfbasinpadv[basin=2], hfbasinpadv[basin=5], mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
+      "Expression UKCM2": "combine_cubes_to_basin_coord(hfbasinpadv_global, hfbasinpadv_atlantic, hfbasinpadv_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
       "Expression UKESM1": "combine_cubes_to_basin_coord(hfbasinpadv_global, hfbasinpadv_atlantic, hfbasinpadv_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
       "Expression UKESM1-3": "combine_cubes_to_basin_coord(hfbasinpadv_global, hfbasinpadv_atlantic, hfbasinpadv_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
       "Model units": "PW"
@@ -19370,7 +19370,7 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "combine_cubes_to_basin_coord(hfbasin_global, hfbasin_atlantic, hfbasin_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
-      "Expression UKCM2": "combine_cubes_to_basin_coord(hfbasin[basin=1], hfbasin[basin=2], hfbasin[basin=5], mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
+      "Expression UKCM2": "combine_cubes_to_basin_coord(hfbasin_global, hfbasin_atlantic, hfbasin_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
       "Expression UKESM1": "combine_cubes_to_basin_coord(hfbasin_global, hfbasin_atlantic, hfbasin_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
       "Expression UKESM1-3": "combine_cubes_to_basin_coord(hfbasin_global, hfbasin_atlantic, hfbasin_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
       "Model units": "PW"
@@ -23211,9 +23211,9 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "thetao[olevel=30]",
-      "Expression UKCM2": "thetao[olevel=30]",
+      "Expression UKCM2": "add_op20bar_axis(thetao[depth=200])",
       "Expression UKESM1": "thetao[olevel=30]",
-      "Expression UKESM1-3": "thetao[olevel=30]",
+      "Expression UKESM1-3": "add_op20bar_axis(thetao[depth=200])",
       "Model units": "degC"
     },
     "STASH entries": [],
