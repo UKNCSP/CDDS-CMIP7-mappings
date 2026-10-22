@@ -21,7 +21,8 @@
       "Expression HadGEM3-GC31": "correct_multilevel_metadata(m01s01i520[lbproc=128])",
       "Expression UKCM2": "correct_multilevel_metadata(m01s01i520[lbproc=128])",
       "Expression UKESM1": "correct_multilevel_metadata(m01s01i520[lbproc=128])",
-      "Expression UKESM1-3": "correct_multilevel_metadata(m01s01i520[lbproc=128])"
+      "Expression UKESM1-3": "correct_multilevel_metadata(m01s01i520[lbproc=128])",
+      "Model units": ""
     },
     "STASH entries": [
       {
