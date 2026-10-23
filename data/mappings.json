@@ -764,7 +764,6 @@
     "XIOS entries": {},
     "issue_number": 1858,
     "labels": [
-      "question",
       "day",
       "atmos",
       "CMIP6",
@@ -5502,8 +5501,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved_UKESM",
-      "diagnostic_review_ok",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable seaIce.sistryubot.tavg-u-hxy-si.mon.glb (SImon.sistryubot)"
   },
@@ -5546,8 +5545,8 @@
       "HadGEM3-GC31",
       "approved_UKESM",
       "approved_UKCM2",
-      "diagnostic_review_ok",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable seaIce.sistrydtop.tavg-u-hxy-si.mon.glb (SImon.sistrydtop)"
   },
@@ -5590,8 +5589,8 @@
       "HadGEM3-GC31",
       "approved_UKESM",
       "approved_UKCM2",
-      "diagnostic_review_ok",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable seaIce.sistrxubot.tavg-u-hxy-si.mon.glb (SImon.sistrxubot)"
   },
@@ -5971,7 +5970,9 @@
       "Model units": "J m-2"
     },
     "STASH entries": [],
-    "XIOS entries": {},
+    "XIOS entries": {
+      "UKCM2": "inm"
+    },
     "issue_number": 1772,
     "labels": [
       "mon",
@@ -6087,7 +6088,6 @@
     },
     "issue_number": 1769,
     "labels": [
-      "question",
       "mon",
       "seaIce",
       "CMIP6",
@@ -6095,7 +6095,6 @@
       "HadGEM3-GC31",
       "approved_UKESM",
       "approved_UKCM2",
-      "diagnostic_review_ok",
       "diagnostic_review_data_available_OI_UKCM2",
       "diagnostic_review_data_available_OI_UKESM"
     ],
@@ -6140,7 +6139,6 @@
       "HadGEM3-GC31",
       "approved_UKESM",
       "approved_UKCM2",
-      "diagnostic_review_ok",
       "diagnostic_review_data_available_OI_UKCM2",
       "diagnostic_review_data_available_OI_UKESM"
     ],
@@ -6185,7 +6183,6 @@
       "HadGEM3-GC31",
       "approved_UKESM",
       "approved_UKCM2",
-      "diagnostic_review_ok",
       "diagnostic_review_data_available_OI_UKCM2",
       "diagnostic_review_data_available_OI_UKESM"
     ],
@@ -6379,7 +6376,6 @@
       "HadGEM3-GC31",
       "approved_UKESM",
       "approved_UKCM2",
-      "diagnostic_review_ok",
       "diagnostic_review_data_available_OI_UKCM2",
       "diagnostic_review_data_available_OI_UKESM"
     ],
@@ -7107,8 +7103,8 @@
       "HadGEM3-GC31",
       "approved_UKESM",
       "approved_UKCM2",
-      "diagnostic_review_ok",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable seaIce.siforcetilty.tavg-u-hxy-si.mon.glb (SImon.siforcetilty)"
   },
@@ -7151,8 +7147,8 @@
       "HadGEM3-GC31",
       "approved_UKESM",
       "approved_UKCM2",
-      "diagnostic_review_ok",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable seaIce.siforcetiltx.tavg-u-hxy-si.mon.glb (SImon.siforcetiltx)"
   },
@@ -7195,8 +7191,8 @@
       "HadGEM3-GC31",
       "approved_UKESM",
       "approved_UKCM2",
-      "diagnostic_review_ok",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable seaIce.siforceintstry.tavg-u-hxy-si.mon.glb (SImon.siforceintstry)"
   },
@@ -7239,8 +7235,8 @@
       "HadGEM3-GC31",
       "approved_UKESM",
       "approved_UKCM2",
-      "diagnostic_review_ok",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable seaIce.siforceintstrx.tavg-u-hxy-si.mon.glb (SImon.siforceintstrx)"
   },
@@ -7283,8 +7279,8 @@
       "HadGEM3-GC31",
       "approved_UKESM",
       "approved_UKCM2",
-      "diagnostic_review_ok",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable seaIce.siforcecorioly.tavg-u-hxy-si.mon.glb (SImon.siforcecorioly)"
   },
@@ -7327,8 +7323,8 @@
       "HadGEM3-GC31",
       "approved_UKESM",
       "approved_UKCM2",
-      "diagnostic_review_ok",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable seaIce.siforcecoriolx.tavg-u-hxy-si.mon.glb (SImon.siforcecoriolx)"
   },
@@ -7432,7 +7428,6 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
-      "diagnostic_review_ok",
       "diagnostic_review_data_available_OI_UKCM2",
       "diagnostic_review_data_available_OI_UKESM"
     ],
@@ -7538,7 +7533,6 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
-      "diagnostic_review_ok",
       "diagnostic_review_data_available_OI_UKCM2",
       "diagnostic_review_data_available_OI_UKESM"
     ],
@@ -7680,7 +7674,6 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
-      "diagnostic_review_ok",
       "diagnostic_review_data_available_OI_UKCM2",
       "diagnostic_review_data_available_OI_UKESM"
     ],
@@ -8062,7 +8055,6 @@
       "HadGEM3-GC31",
       "approved_UKESM",
       "approved_UKCM2",
-      "diagnostic_review_ok",
       "diagnostic_review_data_available_OI_UKCM2",
       "diagnostic_review_data_available_OI_UKESM"
     ],
@@ -8771,7 +8763,6 @@
       "HadGEM3-GC31",
       "approved_UKESM",
       "approved_UKCM2",
-      "diagnostic_review_ok",
       "diagnostic_review_data_available_OI_UKCM2",
       "diagnostic_review_data_available_OI_UKESM"
     ],
@@ -8816,7 +8807,6 @@
       "HadGEM3-GC31",
       "approved_UKESM",
       "approved_UKCM2",
-      "diagnostic_review_ok",
       "diagnostic_review_data_available_OI_UKCM2",
       "diagnostic_review_data_available_OI_UKESM"
     ],
@@ -8953,7 +8943,6 @@
       "HadGEM3-GC31",
       "approved_UKESM",
       "approved_UKCM2",
-      "diagnostic_review_ok",
       "diagnostic_review_data_available_OI_UKCM2",
       "diagnostic_review_data_available_OI_UKESM",
       "diagnostic_review_inspection_required_OI_UKESM"
@@ -8996,8 +8985,8 @@
       "CMIP6",
       "approved_UKESM",
       "approved_UKCM2",
-      "diagnostic_review_ok",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable seaIce.sidivvel.tpt-u-hxy-si.mon.glb (SImon.sidivvel)"
   },
@@ -79360,7 +79349,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.va.tavg-al-hxy-u.day.glb (CFday.va)"
   },
@@ -79463,7 +79453,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.ua.tavg-al-hxy-u.day.glb (CFday.ua)"
   },
