@@ -113791,6 +113791,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.clt.tavg-u-hxy-u.3hr.glb (3hr.clt)"
