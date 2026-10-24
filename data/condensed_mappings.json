@@ -17054,8 +17054,8 @@
     ],
     "models_in_stash": [
       "UKESM1",
-      "UKCM2",
       "UKESM1-3x",
+      "UKCM2",
       "HadGEM3-GC31"
     ],
     "stream": "ap6"
@@ -24941,11 +24941,11 @@
       "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
       "UKESM1",
+      "UKESM1-3",
       "UKCM2",
-      "UKESM2",
-      "HadGEM3-GC31"
+      "HadGEM3-GC31",
+      "UKESM2"
     ],
     "stream": "ap4"
   },
