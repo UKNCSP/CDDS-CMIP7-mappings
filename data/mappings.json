@@ -49348,6 +49348,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.clwmodis.tavg-u-hxy-u.mon.glb (Emon.clwmodis)"
@@ -49452,6 +49453,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.cltmodis.tavg-u-hxy-u.mon.glb (Emon.cltmodis)"
@@ -61156,6 +61158,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.cltcalipso.tpt-u-hxy-u.3hr.glb (E3hrPt.cltcalipso)"
@@ -63563,6 +63566,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.hurs.tavg-h2m-hxy-u.1hr.glb (E1hr.hurs)"
@@ -63634,6 +63638,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.hfss.tavg-u-hxy-u.1hr.glb (E1hr.hfss)"
@@ -63705,6 +63710,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.hfls.tavg-u-hxy-u.1hr.glb (E1hr.hfls)"
@@ -77022,6 +77028,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.clwvimodis.tavg-u-hxy-u.mon.glb (CFmon.clwvimodis)"
@@ -77158,6 +77165,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.clws.tavg-al-hxy-u.mon.glb (CFmon.clws)"
@@ -77262,6 +77270,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.clwc.tavg-al-hxy-u.mon.glb (CFmon.clwc)"
@@ -77471,6 +77480,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.cltcalipso.tavg-u-hxy-u.mon.glb (CFmon.cltcalipso)"
@@ -77867,6 +77877,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.clmodis.tavg-p7c-hxy-air.mon.glb (CFmon.clmodis)"
@@ -78180,6 +78191,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.clivimodis.tavg-u-hxy-u.mon.glb (CFmon.clivimodis)"
@@ -78421,6 +78433,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.clis.tavg-al-hxy-u.mon.glb (CFmon.clis)"
@@ -80984,6 +80997,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.hur.tavg-700hPa-hxy-air.day.glb (CFday.hur700)"
@@ -81297,6 +81311,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available",
       "diagnostic_review_inspection_required"
     ],
@@ -81507,6 +81522,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.cltcalipso.tavg-u-hxy-u.day.glb (CFday.cltcalipso)"
@@ -84453,6 +84469,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.clwvi.tpt-u-hxy-u.3hr.glb (CF3hr.clwvi)"
@@ -84763,6 +84780,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.clt.tpt-u-hxy-u.3hr.glb (CF3hr.clt)"
@@ -84835,6 +84853,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.clivi.tpt-u-hxy-u.3hr.glb (CF3hr.clivi)"
@@ -108734,6 +108753,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.hur.tpt-850hPa-hxy-air.6hr.glb (6hrPlevPt.hur850)"
@@ -108837,6 +108857,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.hur.tpt-500hPa-hxy-air.6hr.glb (6hrPlevPt.hur500)"
@@ -108940,6 +108961,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.hur.tpt-100hPa-hxy-u.6hr.glb (6hrPlevPt.hur100)"
@@ -110149,6 +110171,7 @@
       "HadGEM3-GC31",
       "BCV",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.hurs.tavg-h2m-hxy-u.6hr.glb (6hrPlev.hurs)"
@@ -118554,6 +118577,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.co2mass.tavg-u-hm-u.mon.glb (Amon.co2mass)"
