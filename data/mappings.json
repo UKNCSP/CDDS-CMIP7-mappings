@@ -5970,9 +5970,7 @@
       "Model units": "J m-2"
     },
     "STASH entries": [],
-    "XIOS entries": {
-      "UKCM2": "inm"
-    },
+    "XIOS entries": {},
     "issue_number": 1772,
     "labels": [
       "mon",
@@ -49661,6 +49659,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.climodis.tavg-u-hxy-u.mon.glb (Emon.climodis)"
@@ -49765,6 +49764,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.cldnvi.tavg-u-hxy-u.mon.glb (Emon.cldnvi)"
@@ -49869,6 +49869,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.cldncl.tavg-u-hxy-cl.mon.glb (Emon.cldncl)"
@@ -50005,6 +50006,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.clcalipsoliq.tavg-h40-hxy-air.mon.glb (Emon.clcalipsoliq)"
@@ -50109,6 +50111,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.clcalipsoice.tavg-h40-hxy-air.mon.glb (Emon.clcalipsoice)"
@@ -50181,6 +50184,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.cfadLidarsr532.tavg-h40-hxy-air.mon.glb (Emon.cfadLidarsr532)"
@@ -50253,6 +50257,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.cfadDbze94.tavg-h40-hxy-air.mon.glb (Emon.cfadDbze94)"
@@ -51403,7 +51408,8 @@
       "land",
       "CMIP6",
       "BCV",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable land.slthick.ti-sl-hxy-lnd.fx.glb (Efx.slthick)"
   },
@@ -63840,6 +63846,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.bldep.tavg-u-hxy-u.1hr.glb (E1hr.bldep)"
@@ -77964,6 +77971,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.clcalipso.tavg-560hPa-hxy-air.mon.glb (CFmon.clmcalipso)"
@@ -78068,6 +78076,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.clcalipso.tavg-840hPa-hxy-air.mon.glb (CFmon.cllcalipso)"
@@ -78516,6 +78525,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.clic.tavg-al-hxy-u.mon.glb (CFmon.clic)"
@@ -78620,6 +78630,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.clcalipso.tavg-220hPa-hxy-air.mon.glb (CFmon.clhcalipso)"
@@ -78724,6 +78735,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.clcalipso.tavg-h40-hxy-air.mon.glb (CFmon.clcalipso)"
@@ -78828,6 +78840,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.clc.tavg-al-hxy-u.mon.glb (CFmon.clc)"
@@ -81598,6 +81611,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.clcalipso.tavg-560hPa-hxy-air.day.glb (CFday.clmcalipso)"
@@ -81702,6 +81716,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.clcalipso.tavg-840hPa-hxy-air.day.glb (CFday.cllcalipso)"
@@ -81984,8 +81999,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
-      "diagnostic_review_data_available",
-      "diagnostic_review_inspection_required"
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.cli.tavg-al-hxy-u.day.glb (CFday.cli)"
   },
@@ -82089,6 +82104,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.clcalipso.tavg-220hPa-hxy-air.day.glb (CFday.clhcalipso)"
@@ -82193,6 +82209,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.clcalipso.tavg-h40-hxy-air.day.glb (CFday.clcalipso)"
@@ -82297,6 +82314,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.cl.tavg-al-hxy-u.day.glb (CFday.cl)"
@@ -101609,6 +101627,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.bldep.tavg-u-hxy-u.mon.glb (AERmon.bldep)"
@@ -106064,6 +106083,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.bldep.tmin-u-hxy-u.day.glb (AERday.minpblz)"
@@ -106136,6 +106156,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.bldep.tmax-u-hxy-u.day.glb (AERday.maxpblz)"
