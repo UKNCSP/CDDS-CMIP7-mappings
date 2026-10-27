@@ -4501,6 +4501,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.hurs.tmin-h2m-hxy-u.day.glb (day.hursmin)"
@@ -4573,6 +4574,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.hurs.tmax-h2m-hxy-u.day.glb (day.hursmax)"
@@ -43836,6 +43838,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.parasolRefl.tavg-u-hxy-sea.mon.glb (Emon.parasolRefl)"
@@ -56106,6 +56109,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.parasolRefl.tavg-u-hxy-sea.day.glb (Eday.parasolRefl)"
@@ -57828,6 +57832,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.intuadse.tavg-u-hxy-u.day.glb (Eday.intuadse)"
@@ -57894,12 +57899,14 @@
     "XIOS entries": {},
     "issue_number": 728,
     "labels": [
+      "question",
       "day",
       "atmos",
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "suspected error",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.hurs.tmin-h2m-hxy-crp.day.glb (Eday.hursminCrop)"
@@ -60754,6 +60761,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.hus.tpt-p6-hxy-air.3hr.glb (E3hrPt.hus6)"
@@ -63424,6 +63432,7 @@
       "HadGEM3-GC31",
       "BCV",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.pr.tavg-u-hxy-u.1hr.glb (E1hr.pr)"
@@ -80894,6 +80903,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.hus.tavg-al-hxy-u.day.glb (CFday.hus)"
@@ -84062,6 +84072,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.pr.tpt-u-hxy-u.3hr.glb (CF3hr.pr)"
@@ -84301,6 +84312,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.hurs.tpt-h2m-hxy-u.3hr.glb (CF3hr.hurs)"
@@ -88362,8 +88374,7 @@
       "aerosol",
       "CMIP6",
       "UKESM1",
-      "approved",
-      "diagnostic_review_data_available"
+      "approved"
     ],
     "title": "Variable aerosol.wetbc.tavg-u-hxy-u.mon.glb (AERmon.wetbc)"
   },
@@ -103159,8 +103170,7 @@
     "labels": [
       "question",
       "fx",
-      "atmosChem",
-      "approved_UKESM"
+      "atmosChem"
     ],
     "title": "Variable atmosChem.ch4ref.ti-al-hxy-u.fx.glb (AERfx.ch4ref)"
   },
@@ -108650,6 +108660,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.hus.tpt-p7h-hxy-air.6hr.glb (6hrPlevPt.hus7h)"
@@ -110027,6 +110038,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.pr.tavg-u-hxy-u.6hr.glb (6hrPlev.pr)"
@@ -110098,6 +110110,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.huss.tavg-h2m-hxy-u.6hr.glb (6hrPlev.huss)"
