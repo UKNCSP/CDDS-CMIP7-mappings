@@ -42424,6 +42424,7 @@
       "aerosol",
       "atmos",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.reffsclwtop.tavg-u-hxy-scl.mon.glb (Emon.reffsclwtop)"
@@ -76017,6 +76018,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.rldcs4co2.tavg-alh-hxy-u.mon.glb (CFmon.rldcs4co2)"
@@ -76226,6 +76228,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.rld4co2.tavg-alh-hxy-u.mon.glb (CFmon.rld4co2)"
