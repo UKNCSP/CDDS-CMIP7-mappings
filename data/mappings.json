@@ -354,7 +354,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocean.tos.tavg-u-hm-sea.mon.glb (Omon.tosga)"
   },
@@ -14706,7 +14707,8 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocean.sos.tavg-u-hm-sea.mon.glb (Omon.sosga)"
   },
@@ -15024,7 +15026,8 @@
       "mon",
       "ocean",
       "approved",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_failed_OI_UKESM"
     ],
     "title": "Variable ocean.sltbasin.tavg-u-hyb-sea.mon.glb (Omon.sltbasin)"
   },
@@ -23256,7 +23259,8 @@
     "labels": [
       "day",
       "ocean",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocean.thetao.tavg-op20bar-hxy-sea.day.glb (Oday.thetao200)"
   },
@@ -23302,7 +23306,9 @@
       "BCV",
       "approved",
       "diagnostic_review_data_available_OI_UKCM2",
-      "diagnostic_review_data_available_OI_UKESM"
+      "diagnostic_review_ok_OI_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM",
+      "diagnostic_review_ok_OI_UKESM"
     ],
     "title": "Variable ocean.sos.tavg-u-hxy-sea.day.glb (Oday.sos)"
   },
@@ -23340,7 +23346,8 @@
     "labels": [
       "day",
       "ocean",
-      "approved_UKCM2"
+      "approved_UKCM2",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocean.so.tavg-ol-hxy-sea.day.glb (Oday.so)"
   },
@@ -23649,7 +23656,8 @@
     "labels": [
       "day",
       "ocnBgchem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.phyc.tavg-op20bar-hxy-sea.day.glb (Oday.phyc200)"
   },
@@ -23721,7 +23729,8 @@
     "labels": [
       "day",
       "ocnBgchem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.ph.tavg-op20bar-hxy-sea.day.glb (Oday.ph200)"
   },
@@ -23825,7 +23834,8 @@
     "labels": [
       "day",
       "ocnBgchem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.o2.tavg-op20bar-hxy-sea.day.glb (Oday.o2200)"
   },
@@ -23861,7 +23871,8 @@
     "labels": [
       "day",
       "ocnBgchem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.intpp.tavg-u-hxy-sea.day.glb (Oday.intpp)"
   },
@@ -24021,7 +24032,8 @@
     "labels": [
       "day",
       "ocnBgchem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.expcob.tavg-u-hxy-sea.day.glb (Oday.expcob)"
   },
@@ -24158,7 +24170,8 @@
     "labels": [
       "day",
       "ocnBgchem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.co3satarag.tavg-op20bar-hxy-sea.day.glb (Oday.co3satarag200)"
   },
@@ -24230,7 +24243,8 @@
     "labels": [
       "day",
       "ocnBgchem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.co3.tavg-op20bar-hxy-sea.day.glb (Oday.co3200)"
   },
@@ -24305,7 +24319,8 @@
     "labels": [
       "day",
       "ocnBgchem",
-      "approved_UKESM"
+      "approved_UKESM",
+      "diagnostic_review_data_available_OI_UKESM"
     ],
     "title": "Variable ocnBgchem.chl.tavg-op20bar-hxy-sea.day.glb (Oday.chl200)"
   },
@@ -29070,7 +29085,8 @@
       "mon",
       "landIce",
       "CMIP6",
-      "approved"
+      "approved",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable landIce.icem.tavg-u-hxy-is.mon.glb (LImon.icemIs)"
   },
@@ -36363,6 +36379,7 @@
     "XIOS entries": {},
     "issue_number": 1074,
     "labels": [
+      "question",
       "mon",
       "atmos"
     ],
