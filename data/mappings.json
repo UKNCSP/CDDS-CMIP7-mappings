@@ -106717,6 +106717,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.zg.tpt-925hPa-hxy-u.6hr.glb (6hrPlevPt.zg925)"
@@ -106821,6 +106822,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.zg.tpt-p7h-hxy-air.6hr.glb (6hrPlevPt.zg7h)"
@@ -106924,6 +106926,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.zg.tpt-700hPa-hxy-u.6hr.glb (6hrPlevPt.zg700)"
@@ -107028,6 +107031,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.zg.tpt-500hPa-hxy-air.6hr.glb (6hrPlevPt.zg500)"
@@ -107132,6 +107136,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.zg.tpt-p3-hxy-air.6hr.glb (6hrPlevPt.zg)"
@@ -107441,6 +107446,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.va.tpt-200hPa-hxy-u.6hr.glb (6hrPlevPt.va200)"
@@ -107546,6 +107552,7 @@
       "HadGEM3-GC31",
       "BCV",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.va.tpt-p3-hxy-air.6hr.glb (6hrPlevPt.va)"
@@ -108348,6 +108355,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.rv850.tpt-850hPa-hxy-air.6hr.glb (6hrPlevPt.rv850)"
@@ -108636,6 +108644,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.intvaw.tpt-u-hxy-u.6hr.glb (6hrPlevPt.intvaw)"
@@ -108707,6 +108716,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.intuaw.tpt-u-hxy-u.6hr.glb (6hrPlevPt.intuaw)"
