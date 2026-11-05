@@ -38124,6 +38124,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.wsg.tmax-h10m-hxy-u.mon.glb (Emon.wsgmax10m)"
@@ -51680,8 +51681,9 @@
       "CMIP6",
       "UKESM1",
       "HadGEM3-GC31",
-      "diagnostic_review_data_available",
-      "diagnostic_review_inspection_required"
+      "approved",
+      "diagnostic_review_ok",
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.zg.tavg-p39-hy-air.day.glb (EdayZ.zg)"
   },
@@ -57836,6 +57838,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.intuaw.tavg-u-hxy-u.day.glb (Eday.intuaw)"
@@ -59431,6 +59434,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.wap.tpt-p6-hxy-air.3hr.glb (E3hrPt.wap6)"
@@ -62436,6 +62440,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.wsg.tmax-h10m-hxy-u.1hr.glb (E1hr.wsgmax10m)"
@@ -79206,6 +79211,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.zg.tavg-al-hxy-u.day.glb (CFday.zg)"
@@ -85353,6 +85359,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.zg.tavg-p39-hy-air.mon.glb (AERmonZ.zg)"
@@ -86967,6 +86974,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.ztp.tavg-u-hxy-u.mon.glb (AERmon.ztp)"
@@ -87071,6 +87079,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.zg.tavg-al-hxy-u.mon.glb (AERmon.zg)"
@@ -103528,6 +103537,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.zg.tavg-1000hPa-hxy-air.day.glb (AERday.zg1000)"
@@ -109247,6 +109257,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.zg.tavg-1000hPa-hxy-air.6hr.glb (6hrPlev.zg1000)"
