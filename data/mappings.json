@@ -46025,6 +46025,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.intvaw.tavg-u-hxy-u.mon.glb (Emon.intvaw)"
@@ -46129,6 +46130,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.intvadse.tavg-u-hxy-u.mon.glb (Emon.intvadse)"
@@ -57664,6 +57666,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.intvaw.tavg-u-hxy-u.day.glb (Eday.intvaw)"
@@ -57767,6 +57770,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.intvadse.tavg-u-hxy-u.day.glb (Eday.intvadse)"
@@ -109694,6 +109698,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.rv850.tavg-850hPa-hxy-air.6hr.glb (6hrPlev.rv850)"
