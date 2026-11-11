@@ -3902,9 +3902,9 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "m01s08i223[blev=0.05, lbproc=128]",
-      "Expression UKCM2": "m01s08i223[blev=0.05, lbproc=128]",
+      "Expression UKCM2": "correct_d10cm_units(m01s08i223[blev=0.05, lbproc=128])",
       "Expression UKESM1": "m01s08i223[blev=0.05, lbproc=128]",
-      "Expression UKESM1-3": "m01s08i223[blev=0.05, lbproc=128]",
+      "Expression UKESM1-3": "correct_d10cm_units(m01s08i223[blev=0.05, lbproc=128])",
       "Model units": "kg m-2"
     },
     "STASH entries": [
@@ -13771,7 +13771,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
-      "diagnostic_review_data_available_OI_UKCM2"
+      "diagnostic_review_data_available_OI_UKCM2",
+      "diagnostic_review_ok_OI_UKCM2"
     ],
     "title": "Variable ocean.volo.tavg-u-hm-sea.mon.glb (Omon.volo)"
   },
@@ -14856,7 +14857,8 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
-      "diagnostic_review_data_available_OI_UKCM2"
+      "diagnostic_review_data_available_OI_UKCM2",
+      "diagnostic_review_ok_OI_UKCM2"
     ],
     "title": "Variable ocean.so.tavg-ol-hm-sea.mon.glb (Omon.soga)"
   },
@@ -22916,7 +22918,8 @@
       "day",
       "ocean",
       "approved",
-      "diagnostic_review_data_available_OI_UKCM2"
+      "diagnostic_review_data_available_OI_UKCM2",
+      "diagnostic_review_ok_OI_UKCM2"
     ],
     "title": "Variable ocean.zostoga.tavg-u-hm-sea.day.glb (Oday.zostoga)"
   },
@@ -25235,9 +25238,9 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "m01s08i223[blev=0.05, lbproc=128]",
-      "Expression UKCM2": "m01s08i223[blev=0.05, lbproc=128]",
+      "Expression UKCM2": "correct_d10cm_units(m01s08i223[blev=0.05, lbproc=128])",
       "Expression UKESM1": "m01s08i223[blev=0.05, lbproc=128]",
-      "Expression UKESM1-3": "m01s08i223[blev=0.05, lbproc=128]",
+      "Expression UKESM1-3": "correct_d10cm_units(m01s08i223[blev=0.05, lbproc=128])",
       "Model units": "kg m-2"
     },
     "STASH entries": [
@@ -97131,6 +97134,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.emidms.tavg-u-hxy-u.mon.glb (AERmon.emidms)"
@@ -97598,6 +97602,7 @@
       "CMIP6",
       "UKESM1",
       "approved_UKESM",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.emibvoc.tavg-u-hxy-u.mon.glb (AERmon.emibvoc)"
@@ -97670,6 +97675,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.emibc.tavg-u-hxy-u.mon.glb (AERmon.emibc)"
@@ -102150,6 +102156,7 @@
       "mon",
       "aerosol",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.abs550dust.tavg-u-hxy-u.mon.glb (AERmon.abs550dust)"
@@ -112973,9 +112980,9 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "m01s08i223[blev=0.05, lbproc=0]",
-      "Expression UKCM2": "m01s08i223[blev=0.05, lbproc=0]",
+      "Expression UKCM2": "correct_d10cm_units(m01s08i223[blev=0.05, lbproc=0])",
       "Expression UKESM1": "m01s08i223[blev=0.05, lbproc=0]",
-      "Expression UKESM1-3": "m01s08i223[blev=0.05, lbproc=0]",
+      "Expression UKESM1-3": "correct_d10cm_units(m01s08i223[blev=0.05, lbproc=0])",
       "Model units": "kg m-2"
     },
     "STASH entries": [
