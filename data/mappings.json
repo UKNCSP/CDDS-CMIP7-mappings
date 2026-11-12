@@ -36523,6 +36523,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.utendnogw.tavg-p39-hy-air.mon.glb (EmonZ.utendnogw)"
@@ -38962,6 +38963,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.utendnogw.tavg-p19-hxy-air.mon.glb (Emon.utendnogw)"
@@ -53446,6 +53448,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.utendogw.tavg-p19-hxy-air.day.glb (Eday.utendogw)"
@@ -53517,6 +53520,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.utendnogw.tavg-p19-hxy-air.day.glb (Eday.utendnogw)"
