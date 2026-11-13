@@ -96050,6 +96050,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.emiss.tavg-u-hxy-u.mon.glb (AERmon.emiss)"
@@ -96595,6 +96596,7 @@
       "aerosol",
       "CMIP6",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.eminh3.tavg-u-hxy-u.mon.glb (AERmon.eminh3)"
@@ -96666,6 +96668,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_failed",
       "diagnostic_review_data_available",
       "diagnostic_review_inspection_required"
     ],
@@ -102727,6 +102730,7 @@
       "aerosol",
       "CMIP6",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.sfpm25.tavg-h2m-hxy-u.1hr.glb (AERhr.sfpm25)"
@@ -103020,6 +103024,7 @@
       "1hr",
       "aerosol",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.sfpm10.tavg-h2m-hxy-u.1hr.glb (AERhr.sfpm10)"
@@ -103999,6 +104004,7 @@
       "day",
       "aerosol",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.so2.tavg-h2m-hxy-u.day.glb (AERday.so2)"
@@ -104260,6 +104266,7 @@
       "day",
       "aerosol",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.sfpm25.tavg-h2m-hxy-u.day.glb (AERday.sfpm25)"
@@ -104553,6 +104560,7 @@
       "day",
       "aerosol",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.sfpm10.tavg-h2m-hxy-u.day.glb (AERday.sfpm10)"
@@ -104972,6 +104980,7 @@
       "day",
       "aerosol",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.mmrss.tavg-h2m-hxy-u.day.glb (AERday.mmrss)"
@@ -105200,6 +105209,7 @@
       "day",
       "aerosol",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.mmrso4.tavg-h2m-hxy-u.day.glb (AERday.mmrso4)"
@@ -105429,6 +105439,7 @@
       "day",
       "aerosol",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.mmroa.tavg-h2m-hxy-u.day.glb (AERday.mmroa)"
@@ -105917,6 +105928,7 @@
       "day",
       "aerosol",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.mmrdust.tavg-h2m-hxy-u.day.glb (AERday.mmrdust)"
@@ -106114,6 +106126,7 @@
       "day",
       "aerosol",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.mmrbc.tavg-h2m-hxy-u.day.glb (AERday.mmrbc)"
