@@ -48955,6 +48955,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.ec550aer.tavg-al-hxy-u.mon.glb (Emon.ec550aer)"
@@ -95429,6 +95430,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available",
       "diagnostic_review_inspection_required"
     ],
@@ -95682,6 +95684,7 @@
       "CMIP6",
       "approved",
       "comment needed",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.h2o.tavg-al-hxy-u.mon.glb (AERmon.h2o)"
@@ -98412,6 +98415,7 @@
       "CMIP6",
       "UKESM1",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available",
       "diagnostic_review_inspection_required"
     ],
@@ -100385,6 +100389,7 @@
       "aerosol",
       "CMIP6",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.chepsoa.tavg-u-hxy-u.mon.glb (AERmon.chepsoa)"
@@ -100583,6 +100588,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.chegpso4.tavg-al-hxy-u.mon.glb (AERmon.chegpso4)"
@@ -100946,6 +100952,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.cheaqpso4.tavg-al-hxy-u.mon.glb (AERmon.cheaqpso4)"
@@ -106228,6 +106235,7 @@
       "day",
       "aerosol",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.mmraerh2o.tavg-h2m-hxy-u.day.glb (AERday.mmraerh2o)"
