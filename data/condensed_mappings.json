@@ -3585,8 +3585,8 @@
       "diagnostic_review_data_available_OI_UKCM2"
     ],
     "models_in_stash": [
-      "UKCM2",
-      "UKESM1-3"
+      "UKESM1-3",
+      "UKCM2"
     ],
     "stream": "ap6"
   },
@@ -3601,8 +3601,8 @@
       "diagnostic_review_data_available_OI_UKCM2"
     ],
     "models_in_stash": [
-      "UKCM2",
-      "UKESM1-3"
+      "UKESM1-3",
+      "UKCM2"
     ],
     "stream": "ap6"
   },
@@ -3632,8 +3632,8 @@
       "diagnostic_review_data_available_OI_UKCM2"
     ],
     "models_in_stash": [
-      "UKCM2",
-      "UKESM1-3"
+      "UKESM1-3",
+      "UKCM2"
     ],
     "stream": "ap6"
   },
@@ -3663,8 +3663,8 @@
       "diagnostic_review_data_available_OI_UKCM2"
     ],
     "models_in_stash": [
-      "UKCM2",
-      "UKESM1-3"
+      "UKESM1-3",
+      "UKCM2"
     ],
     "stream": "ap6"
   },
@@ -3679,8 +3679,8 @@
       "diagnostic_review_data_available_OI_UKCM2"
     ],
     "models_in_stash": [
-      "UKCM2",
-      "UKESM1-3"
+      "UKESM1-3",
+      "UKCM2"
     ],
     "stream": "ap6"
   },
@@ -17179,10 +17179,10 @@
       "approved"
     ],
     "models_in_stash": [
-      "UKESM1-3x",
       "UKESM1",
       "HadGEM3-GC31",
-      "UKCM2"
+      "UKCM2",
+      "UKESM1-3x"
     ],
     "stream": "ap6"
   },
@@ -25162,11 +25162,11 @@
       "diagnostic_review_data_available"
     ],
     "models_in_stash": [
-      "UKESM1-3",
-      "UKESM2",
+      "UKESM1",
       "HadGEM3-GC31",
+      "UKESM2",
       "UKCM2",
-      "UKESM1"
+      "UKESM1-3"
     ],
     "stream": "ap4"
   },
