@@ -87227,6 +87227,7 @@
       "CMIP6",
       "UKESM1",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.wetss.tavg-u-hxy-u.mon.glb (AERmon.wetss)"
@@ -87708,6 +87709,7 @@
       "CMIP6",
       "UKESM1",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.wetoa.tavg-u-hxy-u.mon.glb (AERmon.wetoa)"
@@ -88648,6 +88650,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.wa.tavg-al-hxy-u.mon.glb (AERmon.wa)"
@@ -96812,6 +96815,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.emiisop.tavg-u-hxy-u.mon.glb (AERmon.emiisop)"
@@ -103674,6 +103678,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.zg.tavg-10hPa-hxy-air.day.glb (AERday.zg10)"
@@ -103891,6 +103896,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.ua.tavg-10hPa-hxy-air.day.glb (AERday.ua10)"
