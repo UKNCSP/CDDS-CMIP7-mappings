@@ -14977,7 +14977,7 @@
     },
     "Mapping information": {
       "Expression HadGEM3-GC31": "combine_cubes_to_basin_coord(sltovovrt_global, sltovovrt_atlantic, sltovovrt_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
-      "Expression UKCM2": "combine_cubes_to_basin_coordsltovovrt_global, sltovovrt_atlantic, sltovovrt_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V_34S, mask_indpac=indian_pacific_ocean_1D_V_34S)",
+      "Expression UKCM2": "combine_cubes_to_basin_coord(sltovovrt_global, sltovovrt_atlantic, sltovovrt_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V_34S, mask_indpac=indian_pacific_ocean_1D_V_34S)",
       "Expression UKESM1": "combine_cubes_to_basin_coord(sltovovrt_global, sltovovrt_atlantic, sltovovrt_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
       "Expression UKESM1-3": "combine_cubes_to_basin_coord(sltovovrt_global, sltovovrt_atlantic, sltovovrt_indopacific, mask_global=global_ocean_1D_V, mask_atl=atlantic_arctic_ocean_1D_V, mask_indpac=indian_pacific_ocean_1D_V)",
       "Model units": "kg s-1"
@@ -85789,6 +85789,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.oh.tavg-p39-hy-air.mon.glb (AERmonZ.oh)"
@@ -89494,6 +89495,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.tatp.tavg-u-hxy-u.mon.glb (AERmon.tatp)"
@@ -91215,6 +91217,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.oh.tavg-al-hxy-u.mon.glb (AERmon.oh)"
@@ -91413,6 +91416,7 @@
       "aerosol",
       "CMIP6",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.od865aer.tavg-u-hxy-u.mon.glb (AERmon.od865aer)"
@@ -104854,6 +104858,7 @@
       "UKESM1",
       "HadGEM3-GC31",
       "approved",
+      "diagnostic_review_ok",
       "diagnostic_review_data_available"
     ],
     "title": "Variable aerosol.od550aer.tavg-u-hxy-u.day.glb (AERday.od550aer)"
