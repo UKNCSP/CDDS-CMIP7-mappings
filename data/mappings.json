@@ -81477,8 +81477,7 @@
       "HadGEM3-GC31",
       "approved",
       "diagnostic_review_ok",
-      "diagnostic_review_data_available",
-      "diagnostic_review_inspection_required"
+      "diagnostic_review_data_available"
     ],
     "title": "Variable atmos.clw.tavg-al-hxy-u.day.glb (CFday.clw)"
   },
