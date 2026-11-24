@@ -21796,7 +21796,8 @@
       "ocean",
       "CMIP6",
       "approved_UKCM2",
-      "diagnostic_review_data_available_OI_UKCM2"
+      "diagnostic_review_data_available_OI_UKCM2",
+      "diagnostic_review_ok_OI_UKCM2"
     ],
     "title": "Variable ocean.bigthetao.tavg-ol-hm-sea.mon.glb (Omon.bigthetaoga)"
   },
